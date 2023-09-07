@@ -1,4 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" tvg-country="FR",M6
-http://livetv.ktv.zone/8/play.m3u8
-#^BACKUP LINK^#
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:8634
+#EXTINF:9.320000,
+#EXT-X-PROGRAM-DATE-TIME:2023-09-07T20:06:08.323+0200
+http://www.callofliberty.fr/HLS-AES/http://namsan.ktv.zone/8/b74e26a2_1694119101_0000009320000_008634.ts
+#EXTINF:10.680000,
+#EXT-X-PROGRAM-DATE-TIME:2023-09-07T20:06:17.643+0200
+http://www.callofliberty.fr/HLS-AES/http://namsan.ktv.zone/8/b74e26a2_1694119110_0000010680000_008635.ts
+#EXTINF:8.780000,
+#EXT-X-PROGRAM-DATE-TIME:2023-09-07T20:06:28.323+0200
+http://www.callofliberty.fr/HLS-AES/http://namsan.ktv.zone/8/b74e26a2_1694119121_0000008780000_008636.ts
+#EXTINF:7.480000,
+#EXT-X-PROGRAM-DATE-TIME:2023-09-07T20:06:37.103+0200
+http://www.callofliberty.fr/HLS-AES/http://namsan.ktv.zone/8/b74e26a2_1694119131_0000007480000_008637.ts
+#EXTINF:9.920000,
+#EXT-X-PROGRAM-DATE-TIME:2023-09-07T20:06:44.583+0200
+http://www.callofliberty.fr/HLS-AES/http://namsan.ktv.zone/8/b74e26a2_1694119140_0000009920000_008638.ts
