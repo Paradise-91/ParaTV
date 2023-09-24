@@ -1,4 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" tvg-country="FR",CANAL+ EN CLAIR
-http://livetv.ktv.zone/6/play.m3u8
-#^BACKUP LINK^#
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=1164137,AVERAGE-BANDWIDTH=1058307,CODECS="avc1.4d401e,ec-3",RESOLUTION=480x270,FRAME-RATE=25.000,AUDIO="audio-EC-3-251"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_750000=10001-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=992155,AVERAGE-BANDWIDTH=901959,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x270,FRAME-RATE=25.000,AUDIO="audio-AACL-96"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_750000=10001-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=511177,AVERAGE-BANDWIDTH=464707,CODECS="avc1.4d401e,ec-3",RESOLUTION=416x234,FRAME-RATE=25.000,AUDIO="audio-EC-3-251"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_190000=10000-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=339195,AVERAGE-BANDWIDTH=308359,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=416x234,FRAME-RATE=25.000,AUDIO="audio-AACL-96"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_190000=10000-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1572237,AVERAGE-BANDWIDTH=1429307,CODECS="avc1.4d401e,ec-3",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO="audio-EC-3-251"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_1100000=10002-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1400255,AVERAGE-BANDWIDTH=1272959,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO="audio-AACL-96"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_1100000=10002-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2038637,AVERAGE-BANDWIDTH=1853307,CODECS="avc1.4d401f,ec-3",RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio-EC-3-251"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_1500000=10003-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1866655,AVERAGE-BANDWIDTH=1696959,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio-AACL-96"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_1500000=10003-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2738237,AVERAGE-BANDWIDTH=2489308,CODECS="avc1.4d401f,ec-3",RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio-EC-3-251"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_2100000=10004-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2566255,AVERAGE-BANDWIDTH=2332960,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio-AACL-96"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_2100000=10004-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4254038,AVERAGE-BANDWIDTH=3867307,CODECS="avc1.4d401f,ec-3",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-EC-3-251"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_3400000=10005-mp4a_96000_fra=20000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4082055,AVERAGE-BANDWIDTH=3710959,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-96"
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd-avc1_3400000=10005-mp4a_96000_fra=20000.m3u8
