@@ -1,4 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" tvg-country="FR",Gulli
-http://livetv.ktv.zone/20/play.m3u8
-#^BACKUP LINK^#
+#EXT-X-VERSION:7
+## Just In Time Delivered by Quortex Solution, version 3.0.1
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=3150000,RESOLUTION=1280x720,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp10_gulli/NA/vZNA6hM/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=400x224,FRAME-RATE=25,CODECS="avc1.42000c,mp4a.40.2",AUDIO="aac-lc-96000"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp10_gulli/NA/vSQF4vW/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.640016,mp4a.40.2",AUDIO="aac-lc-96000"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp10_gulli/NA/vziPt7P/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=720x404,FRAME-RATE=25,CODECS="avc1.640016,mp4a.40.2",AUDIO="aac-lc-96000"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp10_gulli/NA/vbrjzAL/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2100000,RESOLUTION=960x540,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp10_gulli/NA/vYAKmxZ/index.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplayhde/hls_short_fp10_gulli/NA/aVWvbjp/index.m3u8"
