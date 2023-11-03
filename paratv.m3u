@@ -1,0 +1,97 @@
+#EXTM3U
+
+#FRANCE
+#TF1
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="FRANCE",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tf1.m3u8
+#FRANCE 2
+#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" tvg-country="FR" group-title="FRANCE",France 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/02.m3u8
+#FRANCE 3
+#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" tvg-country="FR" group-title="FRANCE",France 3
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/03.m3u8
+#CANAL+
+#EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" tvg-country="FR" group-title="FRANCE",CANAL+ EN CLAIR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplus.m3u8
+#FRANCE 5
+#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" tvg-country="FR" group-title="FRANCE",France 5
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/05.m3u8
+#M6
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" tvg-country="FR" group-title="FRANCE",M6
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6/m6.m3u8
+#ARTE
+#EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" tvg-country="FR" group-title="FRANCE",Arte
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
+#C8
+#EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" tvg-country="FR" group-title="FRANCE",C8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/c8/c8.m3u8
+#W9
+#EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" tvg-country="FR" group-title="FRANCE",W9
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/w9/w9.m3u8
+#TMC
+#EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" tvg-country="FR" group-title="FRANCE",TMC
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tmc.m3u8
+#TFX
+#EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" tvg-country="FR" group-title="FRANCE",TFX
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tfx.m3u8
+#NRJ12
+#EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/nrj-12-fr.png" tvg-country="FR" group-title="FRANCE",NRJ 12
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj12/nrj12.m3u8
+#LCP
+#EXTINF:-1 tvg-chno="13" tvg-id="LCP100.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png" tvg-country="FR" group-title="FRANCE",LCP 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp.m3u8
+#FRANCE 4
+#EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" tvg-country="FR" group-title="FRANCE",France 4
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/04.m3u8
+#BFM TV
+#EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" tvg-country="FR" group-title="FRANCE",BFM TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bfmtv/bfmtv.m3u8
+#CNEWS
+#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png" tvg-country="FR" group-title="FRANCE",C NEWS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cnews/cnews.m3u8
+#CSTAR
+#EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-star-fr.png" tvg-country="FR" group-title="FRANCE",CStar
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cstar/cstar.m3u8
+#GULLI
+#EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" tvg-country="FR" group-title="FRANCE",Gulli
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gulli/gulli.m3u8
+#TF1 SERIES FILMS
+#EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" tvg-country="FR" group-title="FRANCE",TF1 Séries Films
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tf1sf.m3u8
+#EQUIPE 21
+#EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png" tvg-country="FR" group-title="FRANCE",L'Equipe 21
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equipe21/equipe21.m3u8
+#6TER
+#EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" tvg-country="FR" group-title="FRANCE",6ter
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/6ter/6ter.m3u8
+#RMC STORY
+#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" tvg-country="FR" group-title="FRANCE",RMC Story
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmcstory/rmcstory.m3u8
+#RMC DECOUVERTE
+#EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" tvg-country="FR" group-title="FRANCE",RMC Découverte
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmcdecouverte/rmcdecouverte.m3u8
+#CHERIE 25
+#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" tvg-country="FR" group-title="FRANCE",Chérie 25
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cherie25/cherie25.m3u8
+#LCI
+#EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" tvg-country="FR" group-title="FRANCE",LCI
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/lci.m3u8
+#FRANCE INFO
+#EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" tvg-country="FR" group-title="FRANCE",France Info
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/franceinfo/franceinfo.m3u8
+#TEVA
+#EXTINF:-1 tvg-chno="34" tvg-id="Teva.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/teva-fr.png" tvg-country="FR" group-title="FRANCE",Téva
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
+#PARIS PREMIERE
+#EXTINF:-1 tvg-chno="35" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png" tvg-country="FR" group-title="FRANCE",Paris Premiere
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+
+#SUISSE
+#EXTINF:-1 tvg-chno="1001" tvg-id="RTSUn.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-un-ch.png" tvg-country="CH" group-title="SUISSE",RTS Un
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtsun/rtsun.m3u8
+#EXTINF:-1 tvg-chno="1002" tvg-id="RTSDeux.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-deux-ch.png" tvg-country="CH" group-title="SUISSE",RTS Deux
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtsdeux/rtsdeux.m3u8
+
+#BELGIQUE
+#EXTINF:-1 tvg-chno="1003" tvg-id="PlugRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" tvg-country="BE" group-title="BELGIQUE",RTL Plug
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/plugrtl.m3u8
