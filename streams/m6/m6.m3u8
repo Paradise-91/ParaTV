@@ -1,21 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=4074224,AVERAGE-BANDWIDTH=3846117,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2"
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_2.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2900893,AVERAGE-BANDWIDTH=2746117,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2"
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1962224,AVERAGE-BANDWIDTH=1866117,RESOLUTION=832x468,FRAME-RATE=25.000,CODECS="avc1.4D401E,mp4a.40.2"
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_4.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1375528,AVERAGE-BANDWIDTH=1316081,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.4D401E,mp4a.40.2"
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_5.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=929693,AVERAGE-BANDWIDTH=898117,RESOLUTION=512x288,FRAME-RATE=25.000,CODECS="avc1.4D4015,mp4a.40.2"
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_6.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=671528,AVERAGE-BANDWIDTH=656081,RESOLUTION=448x252,FRAME-RATE=25.000,CODECS="avc1.4D4015,mp4a.40.2"
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_7.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=348632,AVERAGE-BANDWIDTH=348632,RESOLUTION=256x144,FRAME-RATE=12.000,CODECS="avc1.4D400B,mp4a.40.2"
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_8.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=216632,AVERAGE-BANDWIDTH=216632,RESOLUTION=256x144,FRAME-RATE=12.000,CODECS="avc1.4D400B,mp4a.40.2"
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_9.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=495514,AVERAGE-BANDWIDTH=491064,RESOLUTION=448x252,FRAME-RATE=25.000,CODECS="avc1.4D4015,mp4a.40.2"
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_10.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" tvg-country="FR",M6
+http://livetv.ktv.zone/8/play.m3u8
+#^BACKUP LINK^#
