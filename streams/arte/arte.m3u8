@@ -1,4 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" tvg-country="FR",Arte
-http://livetv.ktv.zone/9/play.m3u8
-#^BACKUP LINK^#
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=3379200,AVERAGE-BANDWIDTH=3256000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3379200,AVERAGE-BANDWIDTH=3256000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
+https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1856800,AVERAGE-BANDWIDTH=1790800,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v540.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1856800,AVERAGE-BANDWIDTH=1790800,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000
+https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v540.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1056000,AVERAGE-BANDWIDTH=1020800,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v360.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1056000,AVERAGE-BANDWIDTH=1020800,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
+https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v360.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=655600,AVERAGE-BANDWIDTH=635800,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v240.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=655600,AVERAGE-BANDWIDTH=635800,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
+https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v240.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=334400,AVERAGE-BANDWIDTH=325600,CODECS="avc1.42c00c,mp4a.40.2",RESOLUTION=320x180,FRAME-RATE=25.000
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v180.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=334400,AVERAGE-BANDWIDTH=325600,CODECS="avc1.42c00c,mp4a.40.2",RESOLUTION=320x180,FRAME-RATE=25.000
+https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v180.m3u8
