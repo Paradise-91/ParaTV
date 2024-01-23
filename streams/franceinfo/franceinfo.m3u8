@@ -1,1 +1,4 @@
-#EXTM3U\n#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" tvg-country="FR",France Info\nhttp://livetv.ktv.zone/29/play.m3u8\n#^BACKUP LINK^#
+#EXTM3U
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" tvg-country="FR",France Info
+http://livetv.ktv.zone/29/play.m3u8
+#^BACKUP LINK^#
