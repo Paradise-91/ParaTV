@@ -1,0 +1,351 @@
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.xml"
+#This only works for the VLC player.
+
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TF1.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="http://s2.callofliberty.fr/tv/2-france.2/2-france.2.png",france 2 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_2.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="http://s2.callofliberty.fr/tv/3-france.3/3-france.3.png",france 3 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="http://s2.callofliberty.fr/tv/4-CANALPLUS/4-CANALPLUS.png",CANAL+ (Clair) 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/CANAL+_(Clair).m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="http://s2.callofliberty.fr/tv/5-france.5/5-france.5.png",france 5 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_5.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="http://s2.callofliberty.fr/tv/6-M6/6-M6.png",M6 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/M6.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="http://s2.callofliberty.fr/tv/7-ARTE/7-ARTE.png",ARTE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/ARTE.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="http://s2.callofliberty.fr/tv/8-C8/8-C8.png",C8 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/C8.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="http://s2.callofliberty.fr/tv/9-W9/9-W9.png",W9 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/W9.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="http://s2.callofliberty.fr/tv/10-TMC/10-TMC.png",TMC 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TMC.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" tvg-logo="http://s2.callofliberty.fr/tv/11-TFX/11-TFX.png",TFX 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TFX.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="http://s2.callofliberty.fr/tv/12-NRJ12/12-NRJ12.png",NRJ12 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/NRJ12.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.png",LCP-PublicSénat [OFFLINE]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/LCP-PublicSénat.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="http://s2.callofliberty.fr/tv/14-france.4/14-france.4.png",france 4 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_4.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/15-BFMTV/15-BFMTV.png",BFM TV  
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_TV_.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="http://s2.callofliberty.fr/tv/16-CNEWS/16-CNEWS.png",CNEWS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/CNEWS.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="http://s2.callofliberty.fr/tv/17-CSTAR/17-CSTAR.png",CSTAR 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/CSTAR.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="http://s2.callofliberty.fr/tv/18-Gulli/18-Gulli.png",Gulli 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Gulli.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="KTO.fr" tvg-logo="http://s2.callofliberty.fr/tv/19-KTO/19-KTO.png",KTO 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/KTO.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="http://s2.callofliberty.fr/tv/20-TF1SERIESFILMS/20-TF1SERIESFILMS.png",TF1 SÉRIES FILMS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TF1_SÉRIES_FILMS.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="http://s2.callofliberty.fr/tv/21-LEQUIPE/21-LEQUIPE.png",L'ÉQUIPE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/L'ÉQUIPE.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="http://s2.callofliberty.fr/tv/22-6ter/22-6ter.png",6ter 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/6ter.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="http://s2.callofliberty.fr/tv/23-RMCSTORY/23-RMCSTORY.png",RMC STORY 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/RMC_STORY.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="http://s2.callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.png",RMC DÉCOUVERTE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/RMC_DÉCOUVERTE.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="http://s2.callofliberty.fr/tv/25-Cherie25/25-Cherie25.png",Chérie25 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Chérie25.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="http://s2.callofliberty.fr/tv/26-LCI/26-LCI.png",LCI 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/LCI.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="http://s2.callofliberty.fr/tv/27-franceinfo/27-franceinfo.png",franceinfo 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/franceinfo.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="LCP100.fr" tvg-logo="http://s2.callofliberty.fr/tv/28-LCP/28-LCP.png",LCP 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/LCP.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="PublicSenat.fr" tvg-logo="http://s2.callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.png",PublicSénat 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/PublicSénat.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="ViaGrandParis.fr" tvg-logo="http://s2.callofliberty.fr/tv/30-20MINUTESTVILEDEFRANCE/30-20MINUTESTVILEDEFRANCE.png",20' TV ÎLE-DE-FRANCE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/20'_TV_ÎLE-DE-FRANCE.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="BFMBusiness.fr" tvg-logo="http://s2.callofliberty.fr/tv/31-BFMBUSINESS/31-BFMBUSINESS.png",BFM BUSINESS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_BUSINESS.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="Euronews.fr" tvg-logo="http://s2.callofliberty.fr/tv/35-euronews/35-euronews.png",euronews  
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/euronews_.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="TV5MondeInfo.fr" tvg-logo="http://s2.callofliberty.fr/tv/36-TV5MONDEINFO/36-TV5MONDEINFO.png",TV5MONDE INFO 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TV5MONDE_INFO.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="TV5Monde.fr" tvg-logo="http://s2.callofliberty.fr/tv/37-TV5MONDEFBSM/37-TV5MONDEFBSM.png",TV5MONDE FBSM 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TV5MONDE_FBSM.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="I24news.fr" tvg-logo="http://s2.callofliberty.fr/tv/38-i24NEWS/38-i24NEWS.png",i24NEWS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/i24NEWS.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="France24.fr" tvg-logo="http://s2.callofliberty.fr/tv/39-FRANCE24/39-FRANCE24.png",FRANCE24 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/FRANCE24.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="BSmartTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/40-BSMART/40-BSMART.png",B SMART 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/B_SMART.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="01TV.fr" tvg-logo="http://s2.callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.png",TECH&CO 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TECH&CO.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-id="TahitiNuiTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/46-TNTV/46-TNTV.png",TNTV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TNTV.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="AntenneReunion.fr" tvg-logo="http://s2.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png",Antenne RÉUNION 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Antenne_RÉUNION.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="TeleQuebec.ca" tvg-logo="http://s2.callofliberty.fr/tv/48-TeleQuebec/48-TeleQuebec.png",Télé-Québec 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Télé-Québec.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="Gong.fr" tvg-logo="http://s2.callofliberty.fr/tv/49-GONG/49-GONG.png",GONG 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/GONG.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="GongMax.fr" tvg-logo="http://s2.callofliberty.fr/tv/50-GONGMAX/50-GONGMAX.png",GONG MAX [OFFLINE]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/GONG_MAX.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="TIJI.fr" tvg-logo="http://s2.callofliberty.fr/tv/55-TiJi/55-TiJi.png",TiJi 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TiJi.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="CanalJ.fr" tvg-logo="http://s2.callofliberty.fr/tv/56-CanalJ/56-CanalJ.png",Canal J [OFFLINE]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Canal_J.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="ParisPremiere.fr" tvg-logo="http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.png",PARIS PREMIERE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/PARIS_PREMIERE.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="Teva.fr" tvg-logo="http://s2.callofliberty.fr/tv/111-teva/111-teva.png",téva 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/téva.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="MaisonEtTravaux.fr" tvg-logo="http://s2.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png",Maison&TravauxTV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Maison&TravauxTV.m3u8
+#EXTINF:-1 tvg-chno="119" tvg-id="TopSanteTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png",TOP Santé TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TOP_Santé_TV.m3u8
+#EXTINF:-1 tvg-chno="122" tvg-id="FashionTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/122-FashionTV/122-FashionTV.png",Fashion TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Fashion_TV.m3u8
+#EXTINF:-1 tvg-chno="124" tvg-id="MensUpTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/124-MENSUPTV/124-MENSUPTV.png",MEN'S UP TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/MEN'S_UP_TV.m3u8
+#EXTINF:-1 tvg-chno="129" tvg-id="Museum.fr" tvg-logo="http://s2.callofliberty.fr/tv/129-MUSEUMTV/129-MUSEUMTV.png",MUSEUM TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/MUSEUM_TV.m3u8
+#EXTINF:-1 tvg-chno="149" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/149-Melody/149-Melody.png",Melody 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Melody.m3u8
+#EXTINF:-1 tvg-chno="156" tvg-id="TraceLatina.fr" tvg-logo="http://s2.callofliberty.fr/tv/156-TRACELATINA/156-TRACELATINA.png",TRACE LATINA 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/TRACE_LATINA.m3u8
+#EXTINF:-1 tvg-chno="161" tvg-id="ClubbingTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/161-CLUBBINGTV/161-CLUBBINGTV.png",CLUBBING TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/CLUBBING_TV.m3u8
+#EXTINF:-1 tvg-chno="162" tvg-id="BBlackAfrica.fr" tvg-logo="http://s2.callofliberty.fr/tv/162-BBLACKAFRICA/162-BBLACKAFRICA.png",BBLACK! AFRICA 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BBLACK!_AFRICA.m3u8
+#EXTINF:-1 tvg-chno="163" tvg-id="BBlackCaribbean.fr" tvg-logo="http://s2.callofliberty.fr/tv/163-BBLACKCARIBBEAN/163-BBLACKCARIBBEAN.png",BBLACK! CARIBBEAN 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BBLACK!_CARIBBEAN.m3u8
+#EXTINF:-1 tvg-chno="164" tvg-id="BBlackClassik.fr" tvg-logo="http://s2.callofliberty.fr/tv/164-BBLACKCLASSIK/164-BBLACKCLASSIK.png",BBLACK! CLASSIK 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BBLACK!_CLASSIK.m3u8
+#EXTINF:-1 tvg-chno="167" tvg-id="MyZenTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/167-MYZENTV/167-MYZENTV.png",MY ZEN TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/MY_ZEN_TV.m3u8
+#EXTINF:-1 tvg-chno="177" tvg-id="SportEnFrance.fr" tvg-logo="http://s2.callofliberty.fr/tv/177-SPORTENFRANCE/177-SPORTENFRANCE.png",SPORT EN FRANCE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/SPORT_EN_FRANCE.m3u8
+#EXTINF:-1 tvg-chno="178" tvg-id="Equidia.fr" tvg-logo="http://s2.callofliberty.fr/tv/178-EQUIDIA/178-EQUIDIA.png",EQUIDIA 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/EQUIDIA.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-id="France3Alpes.fr" tvg-logo="http://s2.callofliberty.fr/tv/200-france.3alpes/200-france.3alpes.png",france 3 alpes 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_alpes.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-id="France3Alsace.fr" tvg-logo="http://s2.callofliberty.fr/tv/201-france.3alsace/201-france.3alsace.png",france 3 alsace 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_alsace.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-id="France3Aquitaine.fr" tvg-logo="http://s2.callofliberty.fr/tv/202-france.3aquitaine/202-france.3aquitaine.png",france 3 aquitaine 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_aquitaine.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-id="France3Auvergne.fr" tvg-logo="http://s2.callofliberty.fr/tv/203-france.3auvergne/203-france.3auvergne.png",france 3 auvergne 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_auvergne.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-id="France3BasseNormandie.fr" tvg-logo="http://s2.callofliberty.fr/tv/204-france.3bassenormandie/204-france.3bassenormandie.png",france 3 basse normandie 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_basse_normandie.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-id="France3Bourgogne.fr" tvg-logo="http://s2.callofliberty.fr/tv/205-france.3bourgogne/205-france.3bourgogne.png",france 3 bourgogne 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_bourgogne.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="France3Bretagne.fr" tvg-logo="http://s2.callofliberty.fr/tv/206-france.3bretagne/206-france.3bretagne.png",france 3 bretagne 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_bretagne.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id="France3Centre.fr" tvg-logo="http://s2.callofliberty.fr/tv/207-france.3centrevaldeloire/207-france.3centrevaldeloire.png",france 3 centre val de loire 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_centre_val_de_loire.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-id="France3ChampagneArdenne.fr" tvg-logo="http://s2.callofliberty.fr/tv/208-france.3champagneardenne/208-france.3champagneardenne.png",france 3 champagne ardenne 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_champagne_ardenne.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="France3CorseViaStella.fr" tvg-logo="http://s2.callofliberty.fr/tv/209-france.3corse/209-france.3corse.png",france 3 corse 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_corse.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="France3CotedAzur.fr" tvg-logo="http://s2.callofliberty.fr/tv/210-france.3cotedazur/210-france.3cotedazur.png",france 3 côte d'azur 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_côte_d'azur.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-id="France3FrancheComte.fr" tvg-logo="http://s2.callofliberty.fr/tv/211-france.3franchecomte/211-france.3franchecomte.png",france 3 franche-comté 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_franche-comté.m3u8
+#EXTINF:-1 tvg-chno="212" tvg-id="France3HauteNormandie.fr" tvg-logo="http://s2.callofliberty.fr/tv/212-france.3hautenormandie/212-france.3hautenormandie.png",france 3 haute normandie 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_haute_normandie.m3u8
+#EXTINF:-1 tvg-chno="213" tvg-id="France3Languedoc.fr" tvg-logo="http://s2.callofliberty.fr/tv/213-france.3languedocroussillon/213-france.3languedocroussillon.png",france 3 languedoc roussillon 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_languedoc_roussillon.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-id="France3Limousin.fr" tvg-logo="http://s2.callofliberty.fr/tv/214-france.3limousin/214-france.3limousin.png",france 3 limousin 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_limousin.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-id="France3Lorraine.fr" tvg-logo="http://s2.callofliberty.fr/tv/215-france.3lorraine/215-france.3lorraine.png",france 3 lorraine 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_lorraine.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-id="France3MidiPyrenees.fr" tvg-logo="http://s2.callofliberty.fr/tv/216-france.3midipyrenees/216-france.3midipyrenees.png",france 3 midi-pyrénées 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_midi-pyrénées.m3u8
+#EXTINF:-1 tvg-chno="217" tvg-id="France3NouvelleAquitaine.fr" tvg-logo="http://s2.callofliberty.fr/tv/217-france.3NoA/217-france.3NoA.png",france 3 NoA 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_NoA.m3u8
+#EXTINF:-1 tvg-chno="218" tvg-id="France3NordPasDeCalais.fr" tvg-logo="http://s2.callofliberty.fr/tv/218-france.3nordpasdecalais/218-france.3nordpasdecalais.png",france 3 nord pas-de-calais 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_nord_pas-de-calais.m3u8
+#EXTINF:-1 tvg-chno="219" tvg-id="France3ParisIdF.fr" tvg-logo="http://s2.callofliberty.fr/tv/219-france.3parisiledefrance/219-france.3parisiledefrance.png",france 3 paris île-de-france 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_paris_île-de-france.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-id="France3PaysDeLaLoire.fr" tvg-logo="http://s2.callofliberty.fr/tv/220-france.3paysdelaloire/220-france.3paysdelaloire.png",france 3 pays de la loire 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_pays_de_la_loire.m3u8
+#EXTINF:-1 tvg-chno="221" tvg-id="France3Picardie.fr" tvg-logo="http://s2.callofliberty.fr/tv/221-france.3picardie/221-france.3picardie.png",france 3 picardie 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_picardie.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-id="France3PoitouCharentes.fr" tvg-logo="http://s2.callofliberty.fr/tv/222-france.3poitoucharentes/222-france.3poitoucharentes.png",france 3 poitou charentes 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_poitou_charentes.m3u8
+#EXTINF:-1 tvg-chno="223" tvg-id="France3ProvenceAlpes.fr" tvg-logo="http://s2.callofliberty.fr/tv/223-france.3provencealpes/223-france.3provencealpes.png",france 3 provence-alpes 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_provence-alpes.m3u8
+#EXTINF:-1 tvg-chno="224" tvg-id="France3RhoneAlpes.fr" tvg-logo="http://s2.callofliberty.fr/tv/224-france.3rhonealpes/224-france.3rhonealpes.png",france 3 rhône-alpes 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/france_3_rhône-alpes.m3u8
+#EXTINF:-1 tvg-chno="241" tvg-id="Alsace20.fr" tvg-logo="http://s2.callofliberty.fr/tv/241-BFMALSACE/241-BFMALSACE.png",BFM ALSACE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_ALSACE.m3u8
+#EXTINF:-1 tvg-chno="242" tvg-id="DiciTvAlpes.fr" tvg-logo="http://s2.callofliberty.fr/tv/242-BFMDICIALPESDUSUD/242-BFMDICIALPESDUSUD.png",BFM DICI ALPES DU SUD 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_DICI_ALPES_DU_SUD.m3u8
+#EXTINF:-1 tvg-chno="243" tvg-id="DiciTvProvence.fr" tvg-logo="http://s2.callofliberty.fr/tv/243-BFMDICIHAUTEPROVENCE/243-BFMDICIHAUTEPROVENCE.png",BFM DICI HAUTE-PROVENCE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_DICI_HAUTE-PROVENCE.m3u8
+#EXTINF:-1 tvg-chno="244" tvg-id="BFMGrandLille.fr" tvg-logo="http://s2.callofliberty.fr/tv/244-BFMGRANDLILLE/244-BFMGRANDLILLE.png",BFM GRAND LILLE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_GRAND_LILLE.m3u8
+#EXTINF:-1 tvg-chno="245" tvg-id="BFMGrandLittoral.fr" tvg-logo="http://s2.callofliberty.fr/tv/245-BFMGRANDLITTORAL/245-BFMGRANDLITTORAL.png",BFM GRAND LITTORAL 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_GRAND_LITTORAL.m3u8
+#EXTINF:-1 tvg-chno="246" tvg-id="TeleLyonMetropole.fr" tvg-logo="http://s2.callofliberty.fr/tv/246-BFMLYON/246-BFMLYON.png",BFMLYON 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFMLYON.m3u8
+#EXTINF:-1 tvg-chno="247" tvg-id="ProvenceAzur.fr" tvg-logo="http://s2.callofliberty.fr/tv/247-BFMMARSEILLEPROVENCE/247-BFMMARSEILLEPROVENCE.png",BFM MARSEILLE PROVENCE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_MARSEILLE_PROVENCE.m3u8
+#EXTINF:-1 tvg-chno="248" tvg-id="AzurTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/248-BFMNICECOTEDAZUR/248-BFMNICECOTEDAZUR.png",BFM NICE CÔTE D'AZUR 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_NICE_CÔTE_D'AZUR.m3u8
+#EXTINF:-1 tvg-chno="249" tvg-id="LaChaineNormande.fr" tvg-logo="http://s2.callofliberty.fr/tv/249-BFMNORMANDIE/249-BFMNORMANDIE.png",BFM NORMANDIE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_NORMANDIE.m3u8
+#EXTINF:-1 tvg-chno="250" tvg-id="BFMParis.fr" tvg-logo="http://s2.callofliberty.fr/tv/250-BFMPARISILEDEFRANCE/250-BFMPARISILEDEFRANCE.png",BFM PARIS ÎLE DE FRANCE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_PARIS_ÎLE_DE_FRANCE.m3u8
+#EXTINF:-1 tvg-chno="251" tvg-id="VarAzur.fr" tvg-logo="http://s2.callofliberty.fr/tv/251-BFMTOULONVAR/251-BFMTOULONVAR.png",BFM TOULON VAR 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/BFM_TOULON_VAR.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-id="RTSUn.ch" tvg-logo="http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.png",RTS 1 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/RTS_1.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-id="RTSDeux.ch" tvg-logo="http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.png",RTS 2 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/RTS_2.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/303-tvm3/303-tvm3.png",tvm3 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/tvm3.m3u8
+#EXTINF:-1 tvg-chno="304" tvg-id="CanalAlphaJura.ch" tvg-logo="http://s2.callofliberty.fr/tv/304-canalalpha/304-canalalpha.png",canal alpha 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/canal_alpha.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="Canal9.fr" tvg-logo="http://s2.callofliberty.fr/tv/305-canal9/305-canal9.png",canal 9 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/canal_9.m3u8
+#EXTINF:-1 tvg-chno="309" tvg-id="RougeTV.ch" tvg-logo="http://s2.callofliberty.fr/tv/309-carac1/309-carac1.png",carac1 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/carac1.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-id="ONETV.ch" tvg-logo="http://s2.callofliberty.fr/tv/310-carac2/310-carac2.png",carac2 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/carac2.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-id="LFMTV.ch" tvg-logo="http://s2.callofliberty.fr/tv/311-carac3/311-carac3.png",carac3 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/carac3.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-id="CARAC4.ch" tvg-logo="http://s2.callofliberty.fr/tv/312-carac4/312-carac4.png",carac4 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/carac4.m3u8
+#EXTINF:-1 tvg-chno="321" tvg-id="ClubRTL.be" tvg-logo="http://s2.callofliberty.fr/tv/321-RTLclub/321-RTLclub.png",RTLclub 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/RTLclub.m3u8
+#EXTINF:-1 tvg-chno="322" tvg-id="PlugRTL.be" tvg-logo="http://s2.callofliberty.fr/tv/322-RTLplug/322-RTLplug.png",RTLplug 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/RTLplug.m3u8
+#EXTINF:-1 tvg-chno="323" tvg-id="RTLTVI.be" tvg-logo="http://s2.callofliberty.fr/tv/323-RTLtvi/323-RTLtvi.png",RTLtvi 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/RTLtvi.m3u8
+#EXTINF:-1 tvg-chno="324" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/324-RTLplay/324-RTLplay.png",RTLplay 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/RTLplay.m3u8
+#EXTINF:-1 tvg-chno="401" tvg-id="JustePourRire.fr" tvg-logo="http://s2.callofliberty.fr/tv/401-JUSTEPOURRIRE/401-JUSTEPOURRIRE.png",Pluto Tv JUSTE POUR RIRE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_JUSTE_POUR_RIRE.m3u8
+#EXTINF:-1 tvg-chno="402" tvg-id="GamingTv.fr" tvg-logo="http://s2.callofliberty.fr/tv/402-GAMINGTV/402-GAMINGTV.png",Pluto Tv GAMING TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_GAMING_TV.m3u8
+#EXTINF:-1 tvg-chno="403" tvg-id="Avatar.fr" tvg-logo="http://s2.callofliberty.fr/tv/403-AVATAR/403-AVATAR.png",Pluto Tv AVATAR 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_AVATAR.m3u8
+#EXTINF:-1 tvg-chno="404" tvg-id="BobLepongePtv3.fr" tvg-logo="http://s2.callofliberty.fr/tv/404-BobLepongeTV/404-BobLepongeTV.png",Pluto Tv Bob L'éponge TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Bob_L'éponge_TV.m3u8
+#EXTINF:-1 tvg-chno="405" tvg-id="InazumaEleven.fr" tvg-logo="http://s2.callofliberty.fr/tv/405-INAZUMAELEVEN/405-INAZUMAELEVEN.png",Pluto Tv INAZUMA ELEVEN 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_INAZUMA_ELEVEN.m3u8
+#EXTINF:-1 tvg-chno="406" tvg-id="SabrinaLaSerieAnimee.fr" tvg-logo="http://s2.callofliberty.fr/tv/406-Sabrina/406-Sabrina.png",Pluto Tv Sabrina 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Sabrina.m3u8
+#EXTINF:-1 tvg-chno="407" tvg-id="TortuesNinjaTv.fr" tvg-logo="http://s2.callofliberty.fr/tv/407-TORTUESNINJA/407-TORTUESNINJA.png",Pluto Tv TORTUES NINJA 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_TORTUES_NINJA.m3u8
+#EXTINF:-1 tvg-chno="408" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/408-YuGiOh/408-YuGiOh.png",Pluto Tv Yu-Gi-Oh! 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Yu-Gi-Oh!.m3u8
+#EXTINF:-1 tvg-chno="409" tvg-id="PlutoTvKidsAnimation.fr" tvg-logo="http://s2.callofliberty.fr/tv/409-KIDSAnimation/409-KIDSAnimation.png",Pluto Tv KIDS Animation 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_KIDS_Animation.m3u8
+#EXTINF:-1 tvg-chno="410" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/410-KIDSClassics/410-KIDSClassics.png",Pluto Tv KIDS Classics 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_KIDS_Classics.m3u8
+#EXTINF:-1 tvg-chno="411" tvg-id="PlutoTvKidsGaming.fr" tvg-logo="http://s2.callofliberty.fr/tv/411-KIDSGAMING/411-KIDSGAMING.png",Pluto Tv KIDS GAMING 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_KIDS_GAMING.m3u8
+#EXTINF:-1 tvg-chno="412" tvg-id="PlutoTvKidsSeries.fr" tvg-logo="http://s2.callofliberty.fr/tv/412-KIDSSERIES/412-KIDSSERIES.png",Pluto Tv KIDS SÉRIES 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_KIDS_SÉRIES.m3u8
+#EXTINF:-1 tvg-chno="413" tvg-id="AngelaAnaconda.fr" tvg-logo="http://s2.callofliberty.fr/tv/413-AngelaAnaconda/413-AngelaAnaconda.png",Pluto Tv Angela Anaconda 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Angela_Anaconda.m3u8
+#EXTINF:-1 tvg-chno="414" tvg-id="BubbleGuppies.fr" tvg-logo="http://s2.callofliberty.fr/tv/414-BUBBLEGUPPIES/414-BUBBLEGUPPIES.png",Pluto Tv BUBBLE GUPPIES 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_BUBBLE_GUPPIES.m3u8
+#EXTINF:-1 tvg-chno="415" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/415-CharlotteAuxFraises/415-CharlotteAuxFraises.png",Pluto Tv Charlotte Aux Fraises 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Charlotte_Aux_Fraises.m3u8
+#EXTINF:-1 tvg-chno="416" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/416-DETECTIVECONAN/416-DETECTIVECONAN.png",Pluto Tv DETECTIVE CONAN 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_DETECTIVE_CONAN.m3u8
+#EXTINF:-1 tvg-chno="417" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/417-DIGIMON/417-DIGIMON.png",Pluto Tv DIGIMON 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_DIGIMON.m3u8
+#EXTINF:-1 tvg-chno="418" tvg-id="DoraTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/418-DORATV/418-DORATV.png",Pluto Tv DORA TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_DORA_TV.m3u8
+#EXTINF:-1 tvg-chno="419" tvg-id="PlutoTvJunior.fr" tvg-logo="http://s2.callofliberty.fr/tv/419-JUNIOR/419-JUNIOR.png",Pluto Tv JUNIOR 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_JUNIOR.m3u8
+#EXTINF:-1 tvg-chno="420" tvg-id="LesRazmoket.fr" tvg-logo="http://s2.callofliberty.fr/tv/420-LesRazmoket/420-LesRazmoket.png",Pluto Tv Les Razmoket 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Les_Razmoket.m3u8
+#EXTINF:-1 tvg-chno="421" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/421-ONEPIECE/421-ONEPIECE.png",Pluto Tv ONE PIECE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_ONE_PIECE.m3u8
+#EXTINF:-1 tvg-chno="422" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/422-RETROTOONS/422-RETROTOONS.png",Pluto Tv RETRO TOONS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_RETRO_TOONS.m3u8
+#EXTINF:-1 tvg-chno="423" tvg-id="SouthPark.fr" tvg-logo="http://s2.callofliberty.fr/tv/423-SOUTHPARK/423-SOUTHPARK.png",Pluto Tv SOUTH PARK 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_SOUTH_PARK.m3u8
+#EXTINF:-1 tvg-chno="424" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/424-SUPERKIDS/424-SUPERKIDS.png",Pluto Tv SUPER KIDS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_SUPER_KIDS.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/425-WinxCLUB/425-WinxCLUB.png",Pluto Tv Winx CLUB 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Winx_CLUB.m3u8
+#EXTINF:-1 tvg-chno="426" tvg-id="PlutoTvComedie.fr" tvg-logo="http://s2.callofliberty.fr/tv/426-COMEDIE/426-COMEDIE.png",Pluto Tv COMÉDIE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_COMÉDIE.m3u8
+#EXTINF:-1 tvg-chno="427" tvg-id="PlutoTvAction.fr" tvg-logo="http://s2.callofliberty.fr/tv/427-ACTION/427-ACTION.png",Pluto Tv ACTION 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_ACTION.m3u8
+#EXTINF:-1 tvg-chno="428" tvg-id="PlutoTvCine.fr" tvg-logo="http://s2.callofliberty.fr/tv/428-CINE/428-CINE.png",Pluto Tv CINÉ 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_CINÉ.m3u8
+#EXTINF:-1 tvg-chno="429" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/429-CINEDASIE/429-CINEDASIE.png",Pluto Tv CINÉ D'ASIE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_CINÉ_D'ASIE.m3u8
+#EXTINF:-1 tvg-chno="430" tvg-id="PlutoTvCineRetro.fr" tvg-logo="http://s2.callofliberty.fr/tv/430-CINERETRO/430-CINERETRO.png",Pluto Tv CINÉ RÉTRO 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_CINÉ_RÉTRO.m3u8
+#EXTINF:-1 tvg-chno="431" tvg-id="PlutoTvPolar.fr" tvg-logo="http://s2.callofliberty.fr/tv/431-POLAR/431-POLAR.png",Pluto Tv POLAR 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_POLAR.m3u8
+#EXTINF:-1 tvg-chno="432" tvg-id="PlutoTvRomance.fr" tvg-logo="http://s2.callofliberty.fr/tv/432-ROMANCE/432-ROMANCE.png",Pluto Tv ROMANCE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_ROMANCE.m3u8
+#EXTINF:-1 tvg-chno="433" tvg-id="PlutoTvSciFi.fr" tvg-logo="http://s2.callofliberty.fr/tv/433-SCIFI/433-SCIFI.png",Pluto Tv SCIFI 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_SCIFI.m3u8
+#EXTINF:-1 tvg-chno="434" tvg-id="TheAsylumChannel.fr" tvg-logo="http://s2.callofliberty.fr/tv/434-THEASYLUM/434-THEASYLUM.png",Pluto Tv THE ASYLUM 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_THE_ASYLUM.m3u8
+#EXTINF:-1 tvg-chno="435" tvg-id="PlutoTvThrillers.fr" tvg-logo="http://s2.callofliberty.fr/tv/435-THRILLERS/435-THRILLERS.png",Pluto Tv THRILLERS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_THRILLERS.m3u8
+#EXTINF:-1 tvg-chno="436" tvg-id="WildSideTv.fr" tvg-logo="http://s2.callofliberty.fr/tv/436-WILDSIDETV/436-WILDSIDETV.png",Pluto Tv WILD SIDE TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_WILD_SIDE_TV.m3u8
+#EXTINF:-1 tvg-chno="437" tvg-id="PlutoTvHistoire.fr" tvg-logo="http://s2.callofliberty.fr/tv/437-HISTOIRE/437-HISTOIRE.png",Pluto Tv HISTOIRE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_HISTOIRE.m3u8
+#EXTINF:-1 tvg-chno="438" tvg-id="PlutoTvParanormal.fr" tvg-logo="http://s2.callofliberty.fr/tv/438-PARANORMAL/438-PARANORMAL.png",Pluto Tv PARANORMAL 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_PARANORMAL.m3u8
+#EXTINF:-1 tvg-chno="439" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/439-ALERTECOBRA/439-ALERTECOBRA.png",Pluto Tv ALERTE COBRA 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_ALERTE_COBRA.m3u8
+#EXTINF:-1 tvg-chno="440" tvg-id="Degrassi.fr" tvg-logo="http://s2.callofliberty.fr/tv/440-Degrassi/440-Degrassi.png",Pluto Tv Degrassi 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Degrassi.m3u8
+#EXTINF:-1 tvg-chno="441" tvg-id="DoctorWho.fr" tvg-logo="http://s2.callofliberty.fr/tv/441-DOCTORWHO/441-DOCTORWHO.png",Pluto Tv DOCTOR WHO 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_DOCTOR_WHO.m3u8
+#EXTINF:-1 tvg-chno="442" tvg-id="ICarly.fr" tvg-logo="http://s2.callofliberty.fr/tv/442-iCarly/442-iCarly.png",Pluto Tv iCarly 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_iCarly.m3u8
+#EXTINF:-1 tvg-chno="443" tvg-id="LesCordierJugeEtFlic.fr" tvg-logo="http://s2.callofliberty.fr/tv/443-LESCORDIER/443-LESCORDIER.png",Pluto Tv LES CORDIER 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_LES_CORDIER.m3u8
+#EXTINF:-1 tvg-chno="444" tvg-id="LouisLaBrocante.fr" tvg-logo="http://s2.callofliberty.fr/tv/444-LouislaBrocante/444-LouislaBrocante.png",Pluto Tv Louis la Brocante 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Louis_la_Brocante.m3u8
+#EXTINF:-1 tvg-chno="445" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/445-MACGYVER/445-MACGYVER.png",Pluto Tv MACGYVER 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_MACGYVER.m3u8
+#EXTINF:-1 tvg-chno="446" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/446-MELROSEPLACE/446-MELROSEPLACE.png",Pluto Tv MELROSE PLACE 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_MELROSE_PLACE.m3u8
+#EXTINF:-1 tvg-chno="447" tvg-id="PlutoTvSeries.fr" tvg-logo="http://s2.callofliberty.fr/tv/447-Series/447-Series.png",Pluto Tv Series 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Series.m3u8
+#EXTINF:-1 tvg-chno="448" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/448-SERIESFANTASTIQUES/448-SERIESFANTASTIQUES.png",Pluto Tv SÉRIES FANTASTIQUES 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_SÉRIES_FANTASTIQUES.m3u8
+#EXTINF:-1 tvg-chno="449" tvg-id="PlutoTvTeenSeries.fr" tvg-logo="http://s2.callofliberty.fr/tv/449-TEENSERIES/449-TEENSERIES.png",Pluto Tv TEEN SÉRIES 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_TEEN_SÉRIES.m3u8
+#EXTINF:-1 tvg-chno="450" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/450-Ungarsunefille/450-Ungarsunefille.png",Pluto Tv Un gars une fille 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_Un_gars_une_fille.m3u8
+#EXTINF:-1 tvg-chno="451" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/451-VICTORIOUS/451-VICTORIOUS.png",Pluto Tv VICTORIOUS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_VICTORIOUS.m3u8
+#EXTINF:-1 tvg-chno="452" tvg-id="WalkerTexasRanger.fr" tvg-logo="http://s2.callofliberty.fr/tv/452-WALKERTEXASRANGER/452-WALKERTEXASRANGER.png",Pluto Tv WALKER Texas Ranger 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Pluto_Tv_WALKER_Texas_Ranger.m3u8
+#EXTINF:-1 tvg-chno="461" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/461-RakutenTVACTION/461-RakutenTVACTION.png",Rakuten TV ACTION 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Rakuten_TV_ACTION.m3u8
+#EXTINF:-1 tvg-chno="462" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/462-RakutenTVDRAMES/462-RakutenTVDRAMES.png",Rakuten TV DRAMES 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Rakuten_TV_DRAMES.m3u8
+#EXTINF:-1 tvg-chno="463" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/463-RakutenTVTHRILLERS/463-RakutenTVTHRILLERS.png",Rakuten TV THRILLERS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Rakuten_TV_THRILLERS.m3u8
+#EXTINF:-1 tvg-chno="464" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/464-RakutenTVTOPFILMS/464-RakutenTVTOPFILMS.png",Rakuten TV TOP FILMS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Rakuten_TV_TOP_FILMS.m3u8
+#EXTINF:-1 tvg-chno="481" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/481-caillou/481-caillou.png",Smart TV caillou 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Smart_TV_caillou.m3u8
+#EXTINF:-1 tvg-chno="482" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/482-JELLYTOON/482-JELLYTOON.png",Smart TV JELLYTOON 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Smart_TV_JELLYTOON.m3u8
+#EXTINF:-1 tvg-chno="483" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/483-SUPERTOONSTV/483-SUPERTOONSTV.png",Smart TV SUPER TOONS TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Smart_TV_SUPER_TOONS_TV.m3u8
+#EXTINF:-1 tvg-chno="484" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/484-XILAMTV/484-XILAMTV.png",Smart TV XILAM TV 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Smart_TV_XILAM_TV.m3u8
+#EXTINF:-1 tvg-chno="485" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/485-MOTUS/485-MOTUS.png",Smart TV MOTUS 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Smart_TV_MOTUS.m3u8
+#EXTINF:-1 tvg-chno="486" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/486-LEQUIPElive1/486-LEQUIPElive1.png",Smart TV L'ÉQUIPE live 1 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Smart_TV_L'ÉQUIPE_live_1.m3u8
+#EXTINF:-1 tvg-chno="487" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/487-LEQUIPElive2/487-LEQUIPElive2.png",Smart TV L'ÉQUIPE live 2 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Smart_TV_L'ÉQUIPE_live_2.m3u8
+#EXTINF:-1 tvg-chno="488" tvg-id="WorldPokerTourPtv1.fr" tvg-logo="http://s2.callofliberty.fr/tv/488-WORLDPOKERTOUR/488-WORLDPOKERTOUR.png",Smart TV WORLD POKER TOUR 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/COL/VLC/Smart_TV_WORLD_POKER_TOUR.m3u8
