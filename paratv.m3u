@@ -5,15 +5,18 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="FRANCE",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tf1.m3u8
 #FRANCE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" tvg-country="FR" group-title="FRANCE",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/France_2.m3u8
 #FRANCE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" tvg-country="FR" group-title="FRANCE",France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/France_3.m3u8
 #CANAL+
 #EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" tvg-country="FR" group-title="FRANCE",CANAL+ EN CLAIR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplus.m3u8
 #FRANCE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" tvg-country="FR" group-title="FRANCE",France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/France_5.m3u8
 #M6
@@ -41,6 +44,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj12/nrj12.m3
 #EXTINF:-1 tvg-chno="13" tvg-id="LCP100.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png" tvg-country="FR" group-title="FRANCE",LCP 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp.m3u8
 #FRANCE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" tvg-country="FR" group-title="FRANCE",France 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/France_4.m3u8
 #BFM TV
@@ -77,6 +81,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cherie25/cheri
 #EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" tvg-country="FR" group-title="FRANCE",LCI
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/lci.m3u8
 #FRANCE INFO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" tvg-country="FR" group-title="FRANCE",France Info
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/France_Info.m3u8
 #TEVA
