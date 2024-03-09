@@ -16,9 +16,9 @@ http://s2.callofliberty.fr/direct/M6/index.m3u8|Referer=http://s2.callofliberty.
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="http://s2.callofliberty.fr/tv/7-ARTE/7-ARTE.png",ARTE 
 http://s2.callofliberty.fr/direct/ARTE/master.m3u8|Referer=http://s2.callofliberty.fr/tv/7-ARTE/7-ARTE.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="http://s2.callofliberty.fr/tv/8-C8/8-C8.png",C8 
-http://s2.callofliberty.fr/direct/C8/master.m3u8|Referer=http://s2.callofliberty.fr/tv/8-C8/8-C8.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/direct/C8/index.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="http://s2.callofliberty.fr/tv/9-W9/9-W9.png",W9 
-http://s2.callofliberty.fr/direct/W9/index.m3u8|Referer=http://s2.callofliberty.fr/tv/9-W9/9-W9.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/direct/W9/master.m3u8|Referer=http://s2.callofliberty.fr/tv/9-W9/9-W9.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="http://s2.callofliberty.fr/tv/10-TMC/10-TMC.png",TMC 
 http://s2.callofliberty.fr/direct/TMC/master.m3u8|Referer=http://s2.callofliberty.fr/tv/10-TMC/10-TMC.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" tvg-logo="http://s2.callofliberty.fr/tv/11-TFX/11-TFX.png",TFX 
@@ -34,7 +34,7 @@ http://s2.callofliberty.fr/direct/BFMTV/master.m3u8|Referer=http://s2.calloflibe
 #EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="http://s2.callofliberty.fr/tv/16-CNEWS/16-CNEWS.png",CNEWS 
 http://s2.callofliberty.fr/direct/CNEWS/master.m3u8|Referer=http://s2.callofliberty.fr/tv/16-CNEWS/16-CNEWS.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="http://s2.callofliberty.fr/tv/17-CSTAR/17-CSTAR.png",CSTAR 
-http://s2.callofliberty.fr/direct/CSTAR/master.m3u8|Referer=http://s2.callofliberty.fr/tv/17-CSTAR/17-CSTAR.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/direct/CSTAR/index.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="http://s2.callofliberty.fr/tv/18-Gulli/18-Gulli.png",Gulli 
 http://s2.callofliberty.fr/direct/Gulli/master.m3u8|Referer=http://s2.callofliberty.fr/tv/18-Gulli/18-Gulli.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="19" tvg-id="KTO.fr" tvg-logo="http://s2.callofliberty.fr/tv/19-KTO/19-KTO.png",KTO 
@@ -44,7 +44,7 @@ http://s2.callofliberty.fr/direct/TF1SERIESFILMS/master.m3u8|Referer=http://s2.c
 #EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="http://s2.callofliberty.fr/tv/21-LEQUIPE/21-LEQUIPE.png",L'ÉQUIPE 
 http://s2.callofliberty.fr/direct/LEQUIPE/manifest.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="http://s2.callofliberty.fr/tv/22-6ter/22-6ter.png",6ter 
-http://s2.callofliberty.fr/direct/6ter/index.m3u8|Referer=http://s2.callofliberty.fr/tv/22-6ter/22-6ter.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/direct/6ter/master.m3u8|Referer=http://s2.callofliberty.fr/tv/22-6ter/22-6ter.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="http://s2.callofliberty.fr/tv/23-RMCSTORY/23-RMCSTORY.png",RMC STORY 
 http://s2.callofliberty.fr/direct/RMCSTORY/manifest.m3u8|Referer=http://s2.callofliberty.fr/tv/23-RMCSTORY/23-RMCSTORY.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="http://s2.callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.png",RMC DÉCOUVERTE 
@@ -74,7 +74,7 @@ http://s2.callofliberty.fr/direct/i24NEWS/master.m3u8|Referer=http://s2.callofli
 #EXTINF:-1 tvg-chno="39" tvg-id="France24.fr" tvg-logo="http://s2.callofliberty.fr/tv/39-FRANCE24/39-FRANCE24.png",FRANCE24 
 http://s2.callofliberty.fr/direct/FRANCE24/master.m3u8|Referer=http://s2.callofliberty.fr/tv/39-FRANCE24/39-FRANCE24.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="40" tvg-id="BSmartTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/40-BSMART/40-BSMART.png",B SMART 
-http://s2.callofliberty.fr/direct/BSMART/master.m3u8|Referer=http://s2.callofliberty.fr/tv/40-BSMART/40-BSMART.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/direct/BSMART/manifest.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="41" tvg-id="01TV.fr" tvg-logo="http://s2.callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.png",TECH&CO 
 http://s2.callofliberty.fr/direct/TECHANDCO/master.m3u8|Referer=http://s2.callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="46" tvg-id="TahitiNuiTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/46-TNTV/46-TNTV.png",TNTV 
