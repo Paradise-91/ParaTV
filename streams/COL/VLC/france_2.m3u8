@@ -1,8 +1,0 @@
-#EXTM3U
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/2-france.2/2-france.2.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="http://s2.callofliberty.fr/tv/2-france.2/2-france.2.png",france 2 
-http://s2.callofliberty.fr/direct/france.2/master.m3u8
-
-#This only works for the VLC player. It can also work in other players if you manually set up the referrer and user-agent in the player settings.

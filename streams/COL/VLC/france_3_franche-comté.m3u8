@@ -1,8 +1,0 @@
-#EXTM3U
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/211-france.3franchecomte/211-france.3franchecomte.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="211" tvg-id="France3FrancheComte.fr" tvg-logo="http://s2.callofliberty.fr/tv/211-france.3franchecomte/211-france.3franchecomte.png",france 3 franche-comté 
-http://s2.callofliberty.fr/direct/france.3franchecomte/master.m3u8
-
-#This only works for the VLC player. It can also work in other players if you manually set up the referrer and user-agent in the player settings.

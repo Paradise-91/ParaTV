@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/413-AngelaAnaconda/413-AngelaAnaconda.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="413" tvg-logo="http://s2.callofliberty.fr/tv/413-AngelaAnaconda/413-AngelaAnaconda.png",PLUTO TV ANGELA ANACONDA 
+http://s2.callofliberty.fr/direct/AngelaAnaconda/index.m3u8
+
+#This only works for the VLC player (Open Network Stream CTRL+N). It can also work in other players if you manually set up the referrer and user-agent in the player settings.
+#Playlist is located at '/playlists/col/vlc.m3u8'.
+#Last refreshed on 15/03/2024 02:45:16 CET.
