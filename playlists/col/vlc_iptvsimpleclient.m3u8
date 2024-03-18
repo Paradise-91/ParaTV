@@ -2,7 +2,7 @@
 
 #This only works for the VLC player (Open Network Stream CTRL+N) and IPTV Simple Client (KODI).
 #Individual m3u8 files are located in '/streams/col/vlc'.
-#Last refreshed on 15/03/2024 03:18:27 CET.
+#Last refreshed on 18/03/2024 16:18:10 CET.
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/1-TF1/1-TF1.php
@@ -33,9 +33,8 @@ http://s2.callofliberty.fr/direct/M6/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 http://s2.callofliberty.fr/direct/ARTE/master.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="http://s2.callofliberty.fr/tv/8-C8/8-C8.png",C8 
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/8-C8/8-C8.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/direct/C8/master.m3u8
+http://s2.callofliberty.fr/direct/C8/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="http://s2.callofliberty.fr/tv/9-W9/9-W9.png",W9 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/9-W9/9-W9.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -69,9 +68,8 @@ http://s2.callofliberty.fr/direct/BFMTV/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 http://s2.callofliberty.fr/direct/CNEWS/master.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="http://s2.callofliberty.fr/tv/17-CSTAR/17-CSTAR.png",CSTAR 
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/17-CSTAR/17-CSTAR.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/direct/CSTAR/master.m3u8
+http://s2.callofliberty.fr/direct/CSTAR/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="http://s2.callofliberty.fr/tv/18-Gulli/18-Gulli.png",GULLI 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/18-Gulli/18-Gulli.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36

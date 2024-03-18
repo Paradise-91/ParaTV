@@ -2,7 +2,7 @@
 
 #This only works for Kodi (tested in IPTV Simple Client).
 #Individual m3u8 files are located in '/streams/col/kodi'.
-#Last refreshed on 15/03/2024 03:18:27 CET.
+#Last refreshed on 18/03/2024 16:18:10 CET.
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 http://s2.callofliberty.fr/direct/TF1/master.m3u8|Referer=http://s2.callofliberty.fr/tv/1-TF1/1-TF1.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
@@ -19,7 +19,7 @@ http://s2.callofliberty.fr/direct/M6/index.m3u8|Referer=http://s2.callofliberty.
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="http://s2.callofliberty.fr/tv/7-ARTE/7-ARTE.png",ARTE 
 http://s2.callofliberty.fr/direct/ARTE/master.m3u8|Referer=http://s2.callofliberty.fr/tv/7-ARTE/7-ARTE.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="http://s2.callofliberty.fr/tv/8-C8/8-C8.png",C8 
-http://s2.callofliberty.fr/direct/C8/master.m3u8|Referer=http://s2.callofliberty.fr/tv/8-C8/8-C8.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/direct/C8/index.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="http://s2.callofliberty.fr/tv/9-W9/9-W9.png",W9 
 http://s2.callofliberty.fr/direct/W9/master.m3u8|Referer=http://s2.callofliberty.fr/tv/9-W9/9-W9.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="http://s2.callofliberty.fr/tv/10-TMC/10-TMC.png",TMC 
@@ -37,7 +37,7 @@ http://s2.callofliberty.fr/direct/BFMTV/master.m3u8|Referer=http://s2.calloflibe
 #EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="http://s2.callofliberty.fr/tv/16-CNEWS/16-CNEWS.png",CNEWS 
 http://s2.callofliberty.fr/direct/CNEWS/master.m3u8|Referer=http://s2.callofliberty.fr/tv/16-CNEWS/16-CNEWS.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="http://s2.callofliberty.fr/tv/17-CSTAR/17-CSTAR.png",CSTAR 
-http://s2.callofliberty.fr/direct/CSTAR/master.m3u8|Referer=http://s2.callofliberty.fr/tv/17-CSTAR/17-CSTAR.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/direct/CSTAR/index.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="http://s2.callofliberty.fr/tv/18-Gulli/18-Gulli.png",GULLI 
 http://s2.callofliberty.fr/direct/Gulli/master.m3u8|Referer=http://s2.callofliberty.fr/tv/18-Gulli/18-Gulli.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="19" tvg-id="KTO.fr" tvg-logo="http://s2.callofliberty.fr/tv/19-KTO/19-KTO.png",KTO 
