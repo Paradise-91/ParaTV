@@ -2,7 +2,7 @@
 
 #This only works for the VLC player (Open Network Stream CTRL+N) and IPTV Simple Client (KODI).
 #Individual m3u8 files are located in '/streams/col/vlc'.
-#Last refreshed on 25/03/2024 16:26:20 CET.
+#Last refreshed on 26/03/2024 16:33:30 CET.
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/1-TF1/1-TF1.php
@@ -33,8 +33,9 @@ http://s2.callofliberty.fr/direct/M6/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 http://s2.callofliberty.fr/direct/ARTE/master.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="http://s2.callofliberty.fr/tv/8-C8/8-C8.png",C8 
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/8-C8/8-C8.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/direct/C8/manifest.m3u8
+http://s2.callofliberty.fr/direct/C8/master.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="http://s2.callofliberty.fr/tv/9-W9/9-W9.png",W9 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/9-W9/9-W9.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -380,7 +381,7 @@ http://s2.callofliberty.fr/direct/BFMTOULONVAR/master.m3u8
 #EXTINF:-1 tvg-chno="300" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/300-canal9/300-canal9.png",CANAL 9 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/300-canal9/300-canal9.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/direct/canal9/playlist.m3u8
+http://s2.callofliberty.fr/direct/canal9/master.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-id="RTSUn.ch" tvg-logo="http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.png",RTS 1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -392,27 +393,27 @@ http://s2.callofliberty.fr/direct/RTS2/index.m3u8
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/303-tvm3/303-tvm3.png",TVM3 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/303-tvm3/303-tvm3.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/direct/tvm3/playlist.m3u8
+http://s2.callofliberty.fr/direct/tvm3/master.m3u8
 #EXTINF:-1 tvg-chno="304" tvg-id="CanalAlphaJura.ch" tvg-logo="http://s2.callofliberty.fr/tv/304-canalalpha/304-canalalpha.png",CANAL ALPHA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/304-canalalpha/304-canalalpha.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/direct/canalalpha/playlist.m3u8
+http://s2.callofliberty.fr/direct/canalalpha/master.m3u8
 #EXTINF:-1 tvg-chno="305" tvg-id="Canal9.fr" tvg-logo="http://s2.callofliberty.fr/tv/305-carac1/305-carac1.png",CARAC1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/305-carac1/305-carac1.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/direct/carac1/playlist.m3u8
+http://s2.callofliberty.fr/direct/carac1/master.m3u8
 #EXTINF:-1 tvg-chno="306" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/306-carac2/306-carac2.png",CARAC2 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/306-carac2/306-carac2.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/direct/carac2/playlist.m3u8
+http://s2.callofliberty.fr/direct/carac2/master.m3u8
 #EXTINF:-1 tvg-chno="307" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/307-carac3/307-carac3.png",CARAC3 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/307-carac3/307-carac3.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/direct/carac3/playlist.m3u8
+http://s2.callofliberty.fr/direct/carac3/master.m3u8
 #EXTINF:-1 tvg-chno="308" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/308-carac4/308-carac4.png",CARAC4 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/308-carac4/308-carac4.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/direct/carac4/playlist.m3u8
+http://s2.callofliberty.fr/direct/carac4/master.m3u8
 #EXTINF:-1 tvg-chno="321" tvg-id="ClubRTL.be" tvg-logo="http://s2.callofliberty.fr/tv/321-RTLclub/321-RTLclub.png",RTLCLUB 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/321-RTLclub/321-RTLclub.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
