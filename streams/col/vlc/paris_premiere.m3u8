@@ -3,8 +3,8 @@
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="110" tvg-id="ParisPremiere.fr" tvg-logo="http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.png",PARIS PREMIERE 
-http://s2.callofliberty.fr/direct/PARISPREMIERE/master.m3u8
+http://s2.callofliberty.fr/directcol/PARISPREMIERE/master.m3u8
 
 #This only works for the VLC player (Open Network Stream CTRL+N). It can also work in other players if you manually set up the referrer and user-agent in the player settings.
 #Playlist is located at '/playlists/col/vlc.m3u8'.
-#Last refreshed on 26/03/2024 16:33:30 CET.
+#Last refreshed on 27/03/2024 21:55:04 CET.
