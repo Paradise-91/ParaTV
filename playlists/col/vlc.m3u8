@@ -2,7 +2,7 @@
 
 #This only works for the VLC player (Open Network Stream CTRL+N).
 #Individual m3u8 files are located in '/streams/col/vlc'.
-#Last refreshed on 29/03/2024 01:58:32 CET.
+#Last refreshed on 03/04/2024 17:59:46 CEST.
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/tf1.m3u8
@@ -268,36 +268,36 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_south_park.m3u8
 #EXTINF:-1 tvg-chno="424" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/424-SUPERKIDS/424-SUPERKIDS.png",PLUTO TV SUPER KIDS 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_super_kids.m3u8
-#EXTINF:-1 tvg-chno="425" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/425-WinxCLUB/425-WinxCLUB.png",PLUTO TV WINX CLUB 
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_winx_club.m3u8
-#EXTINF:-1 tvg-chno="426" tvg-id="PlutoTvComedie.fr" tvg-logo="http://s2.callofliberty.fr/tv/426-COMEDIE/426-COMEDIE.png",PLUTO TV COMÉDIE 
+#EXTINF:-1 tvg-chno="425" tvg-id="PlutoTvComedie.fr" tvg-logo="http://s2.callofliberty.fr/tv/425-COMEDIE/425-COMEDIE.png",PLUTO TV COMÉDIE 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_comedie.m3u8
-#EXTINF:-1 tvg-chno="427" tvg-id="PlutoTvAction.fr" tvg-logo="http://s2.callofliberty.fr/tv/427-ACTION/427-ACTION.png",PLUTO TV ACTION 
+#EXTINF:-1 tvg-chno="426" tvg-id="PlutoTvAction.fr" tvg-logo="http://s2.callofliberty.fr/tv/426-ACTION/426-ACTION.png",PLUTO TV ACTION 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_action.m3u8
-#EXTINF:-1 tvg-chno="428" tvg-id="PlutoTvCine.fr" tvg-logo="http://s2.callofliberty.fr/tv/428-CINE/428-CINE.png",PLUTO TV CINÉ 
+#EXTINF:-1 tvg-chno="427" tvg-id="PlutoTvCine.fr" tvg-logo="http://s2.callofliberty.fr/tv/427-CINE/427-CINE.png",PLUTO TV CINÉ 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_cine.m3u8
-#EXTINF:-1 tvg-chno="429" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/429-CINEDASIE/429-CINEDASIE.png",PLUTO TV CINÉ D'ASIE 
+#EXTINF:-1 tvg-chno="428" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/428-CINEDASIE/428-CINEDASIE.png",PLUTO TV CINÉ D'ASIE 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_cine_d'asie.m3u8
-#EXTINF:-1 tvg-chno="430" tvg-id="PlutoTvCineRetro.fr" tvg-logo="http://s2.callofliberty.fr/tv/430-CINERETRO/430-CINERETRO.png",PLUTO TV CINÉ RÉTRO 
+#EXTINF:-1 tvg-chno="429" tvg-id="PlutoTvCineRetro.fr" tvg-logo="http://s2.callofliberty.fr/tv/429-CINERETRO/429-CINERETRO.png",PLUTO TV CINÉ RÉTRO 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_cine_retro.m3u8
-#EXTINF:-1 tvg-chno="431" tvg-id="PlutoTvPolar.fr" tvg-logo="http://s2.callofliberty.fr/tv/431-POLAR/431-POLAR.png",PLUTO TV POLAR 
+#EXTINF:-1 tvg-chno="430" tvg-id="PlutoTvPolar.fr" tvg-logo="http://s2.callofliberty.fr/tv/430-POLAR/430-POLAR.png",PLUTO TV POLAR 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_polar.m3u8
-#EXTINF:-1 tvg-chno="432" tvg-id="PlutoTvRomance.fr" tvg-logo="http://s2.callofliberty.fr/tv/432-ROMANCE/432-ROMANCE.png",PLUTO TV ROMANCE 
+#EXTINF:-1 tvg-chno="431" tvg-id="PlutoTvRomance.fr" tvg-logo="http://s2.callofliberty.fr/tv/431-ROMANCE/431-ROMANCE.png",PLUTO TV ROMANCE 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_romance.m3u8
-#EXTINF:-1 tvg-chno="433" tvg-id="PlutoTvSciFi.fr" tvg-logo="http://s2.callofliberty.fr/tv/433-SCIFI/433-SCIFI.png",PLUTO TV SCIFI 
+#EXTINF:-1 tvg-chno="432" tvg-id="PlutoTvSciFi.fr" tvg-logo="http://s2.callofliberty.fr/tv/432-SCIFI/432-SCIFI.png",PLUTO TV SCIFI 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_scifi.m3u8
-#EXTINF:-1 tvg-chno="434" tvg-id="TheAsylumChannel.fr" tvg-logo="http://s2.callofliberty.fr/tv/434-THEASYLUM/434-THEASYLUM.png",PLUTO TV THE ASYLUM 
+#EXTINF:-1 tvg-chno="433" tvg-id="TheAsylumChannel.fr" tvg-logo="http://s2.callofliberty.fr/tv/433-THEASYLUM/433-THEASYLUM.png",PLUTO TV THE ASYLUM 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_the_asylum.m3u8
-#EXTINF:-1 tvg-chno="435" tvg-id="PlutoTvThrillers.fr" tvg-logo="http://s2.callofliberty.fr/tv/435-THRILLERS/435-THRILLERS.png",PLUTO TV THRILLERS 
+#EXTINF:-1 tvg-chno="434" tvg-id="PlutoTvThrillers.fr" tvg-logo="http://s2.callofliberty.fr/tv/434-THRILLERS/434-THRILLERS.png",PLUTO TV THRILLERS 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_thrillers.m3u8
-#EXTINF:-1 tvg-chno="436" tvg-id="WildSideTv.fr" tvg-logo="http://s2.callofliberty.fr/tv/436-WILDSIDETV/436-WILDSIDETV.png",PLUTO TV WILD SIDE TV 
+#EXTINF:-1 tvg-chno="435" tvg-id="WildSideTv.fr" tvg-logo="http://s2.callofliberty.fr/tv/435-WILDSIDETV/435-WILDSIDETV.png",PLUTO TV WILD SIDE TV 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_wild_side_tv.m3u8
-#EXTINF:-1 tvg-chno="437" tvg-id="PlutoTvHistoire.fr" tvg-logo="http://s2.callofliberty.fr/tv/437-HISTOIRE/437-HISTOIRE.png",PLUTO TV HISTOIRE 
+#EXTINF:-1 tvg-chno="436" tvg-id="PlutoTvHistoire.fr" tvg-logo="http://s2.callofliberty.fr/tv/436-HISTOIRE/436-HISTOIRE.png",PLUTO TV HISTOIRE 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_histoire.m3u8
-#EXTINF:-1 tvg-chno="438" tvg-id="PlutoTvParanormal.fr" tvg-logo="http://s2.callofliberty.fr/tv/438-PARANORMAL/438-PARANORMAL.png",PLUTO TV PARANORMAL 
+#EXTINF:-1 tvg-chno="437" tvg-id="PlutoTvParanormal.fr" tvg-logo="http://s2.callofliberty.fr/tv/437-PARANORMAL/437-PARANORMAL.png",PLUTO TV PARANORMAL 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_paranormal.m3u8
-#EXTINF:-1 tvg-chno="439" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/439-ALERTECOBRA/439-ALERTECOBRA.png",PLUTO TV ALERTE COBRA 
+#EXTINF:-1 tvg-chno="438" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/438-ALERTECOBRA/438-ALERTECOBRA.png",PLUTO TV ALERTE COBRA 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_alerte_cobra.m3u8
+#EXTINF:-1 tvg-chno="439" tvg-id="AmourGloireEtBeaute.fr" tvg-logo="http://s2.callofliberty.fr/tv/439-AmourGloireEtBeaute/439-AmourGloireEtBeaute.png",PLUTO TV AMOUR GLOIRE ET BEAUTÉ 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_amour_gloire_et_beaute.m3u8
 #EXTINF:-1 tvg-chno="440" tvg-id="Degrassi.fr" tvg-logo="http://s2.callofliberty.fr/tv/440-Degrassi/440-Degrassi.png",PLUTO TV DEGRASSI 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/pluto_tv_degrassi.m3u8
 #EXTINF:-1 tvg-chno="441" tvg-id="DoctorWho.fr" tvg-logo="http://s2.callofliberty.fr/tv/441-DOCTORWHO/441-DOCTORWHO.png",PLUTO TV DOCTOR WHO 
