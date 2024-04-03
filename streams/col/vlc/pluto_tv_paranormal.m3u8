@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/438-PARANORMAL/438-PARANORMAL.php
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/437-PARANORMAL/437-PARANORMAL.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="438" tvg-id="PlutoTvParanormal.fr" tvg-logo="http://s2.callofliberty.fr/tv/438-PARANORMAL/438-PARANORMAL.png",PLUTO TV PARANORMAL 
+#EXTINF:-1 tvg-chno="437" tvg-id="PlutoTvParanormal.fr" tvg-logo="http://s2.callofliberty.fr/tv/437-PARANORMAL/437-PARANORMAL.png",PLUTO TV PARANORMAL 
 http://s2.callofliberty.fr/directtv/PARANORMAL/index.m3u8
 
 #This only works for the VLC player (Open Network Stream CTRL+N). It can also work in other players if you manually set up the referrer and user-agent in the player settings.
 #Playlist is located at '/playlists/col/vlc.m3u8'.
-#Last refreshed on 29/03/2024 01:58:32 CET.
+#Last refreshed on 03/04/2024 17:59:46 CEST.
