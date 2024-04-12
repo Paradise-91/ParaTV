@@ -2,7 +2,7 @@
 
 #This only works for the VLC player (Open Network Stream CTRL+N) and IPTV Simple Client (KODI).
 #Individual m3u8 files are located in '/streams/col/vlc'.
-#Last refreshed on 03/04/2024 17:59:46 CEST.
+#Last refreshed on 12/04/2024 18:08:58 CEST.
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/1-TF1/1-TF1.php
@@ -124,10 +124,22 @@ http://s2.callofliberty.fr/directtv/PublicSenat/master.m3u8
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/30-20MINUTESTVILEDEFRANCE/30-20MINUTESTVILEDEFRANCE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 http://s2.callofliberty.fr/directtv/20MINUTESTVILEDEFRANCE/master.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="BFMBusiness.fr" tvg-logo="http://s2.callofliberty.fr/tv/31-BFMBUSINESS/31-BFMBUSINESS.png",BFM BUSINESS 
-#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/31-BFMBUSINESS/31-BFMBUSINESS.php
+#EXTINF:-1 tvg-chno="31" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/31-france.tvseries/31-france.tvseries.png",FRANCE TVSERIES 
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/31-france.tvseries/31-france.tvseries.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+http://s2.callofliberty.fr/directtv/france.tvseries/index.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="BFMBusiness.fr" tvg-logo="http://s2.callofliberty.fr/tv/32-BFMBUSINESS/32-BFMBUSINESS.png",BFM BUSINESS 
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/32-BFMBUSINESS/32-BFMBUSINESS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 http://s2.callofliberty.fr/directtv/BFMBUSINESS/master.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/33-LEMEDIA/33-LEMEDIA.png",LE MEDIA 
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/33-LEMEDIA/33-LEMEDIA.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+http://s2.callofliberty.fr/directtv/LEMEDIA/master.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/34-SQOOLTV/34-SQOOLTV.png",SQOOL TV 
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/34-SQOOLTV/34-SQOOLTV.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+http://s2.callofliberty.fr/directtv/SQOOLTV/master.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="Euronews.fr" tvg-logo="http://s2.callofliberty.fr/tv/35-euronews/35-euronews.png",EURONEWS  
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/35-euronews/35-euronews.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -156,6 +168,13 @@ http://s2.callofliberty.fr/directtv/BSMART/master.m3u8
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 http://s2.callofliberty.fr/directtv/TECHANDCO/master.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/43-journaldugolftv/43-journaldugolftv.png",JOURNAL DU GOLF TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+http://s2.callofliberty.fr/directtv/journaldugolftv/manifest.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="LEspritSorcier.fr" tvg-logo="http://s2.callofliberty.fr/tv/44-LESPRITSORCIERTV/44-LESPRITSORCIERTV.png",L'ESPRIT SORCIER TV 
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/44-LESPRITSORCIERTV/44-LESPRITSORCIERTV.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+http://s2.callofliberty.fr/directtv/LESPRITSORCIERTV/index.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-id="TahitiNuiTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/46-TNTV/46-TNTV.png",TNTV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/46-TNTV/46-TNTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -172,10 +191,18 @@ http://s2.callofliberty.fr/directtv/TeleQuebec/master.m3u8
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/49-GONG/49-GONG.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 http://s2.callofliberty.fr/directtv/GONG/index.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="GongMax.fr" tvg-logo="http://s2.callofliberty.fr/tv/50-GONGMAX/50-GONGMAX.png",GONG MAX [OFFLINE]
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/50-GONGMAX/50-GONGMAX.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+http://s2.callofliberty.fr/directtv/GONGMAX/CallOfLiberty.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-id="TIJI.fr" tvg-logo="http://s2.callofliberty.fr/tv/55-TiJi/55-TiJi.png",TIJI 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/55-TiJi/55-TiJi.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 http://s2.callofliberty.fr/directtv/TiJi/master.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="CanalJ.fr" tvg-logo="http://s2.callofliberty.fr/tv/56-CanalJ/56-CanalJ.png",CANAL J [OFFLINE]
+#EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/56-CanalJ/56-CanalJ.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+http://s2.callofliberty.fr/directtv/CanalJ/CallOfLiberty.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="ParisPremiere.fr" tvg-logo="http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.png",PARIS PREMIERE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
