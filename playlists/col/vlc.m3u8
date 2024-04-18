@@ -2,7 +2,7 @@
 
 #This only works for the VLC player (Open Network Stream CTRL+N).
 #Individual m3u8 files are located in '/streams/col/vlc'.
-#Last refreshed on 12/04/2024 18:08:58 CEST.
+#Last refreshed on 18/04/2024 17:57:31 CEST.
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/tf1.m3u8
@@ -98,12 +98,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/antenn
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/tele-quebec.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-id="Gong.fr" tvg-logo="http://s2.callofliberty.fr/tv/49-GONG/49-GONG.png",GONG 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/gong.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-id="GongMax.fr" tvg-logo="http://s2.callofliberty.fr/tv/50-GONGMAX/50-GONGMAX.png",GONG MAX [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/gong_max.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="TIJI.fr" tvg-logo="http://s2.callofliberty.fr/tv/55-TiJi/55-TiJi.png",TIJI 
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/tiji.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="CanalJ.fr" tvg-logo="http://s2.callofliberty.fr/tv/56-CanalJ/56-CanalJ.png",CANAL J [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/canal_j.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="ParisPremiere.fr" tvg-logo="http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.png",PARIS PREMIERE 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/col/vlc/paris_premiere.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-id="Teva.fr" tvg-logo="http://s2.callofliberty.fr/tv/111-teva/111-teva.png",TÉVA 

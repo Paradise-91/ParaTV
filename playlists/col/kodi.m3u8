@@ -2,7 +2,7 @@
 
 #This only works for Kodi (tested in IPTV Simple Client).
 #Individual m3u8 files are located in '/streams/col/kodi'.
-#Last refreshed on 12/04/2024 18:08:58 CEST.
+#Last refreshed on 18/04/2024 17:57:31 CEST.
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 http://s2.callofliberty.fr/directtv/TF1/master.m3u8|Referer=http://s2.callofliberty.fr/tv/1-TF1/1-TF1.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
@@ -15,7 +15,7 @@ http://s2.callofliberty.fr/directtv/CANALPLUS/master.m3u8|Referer=http://s2.call
 #EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="http://s2.callofliberty.fr/tv/5-france.5/5-france.5.png",FRANCE 5 
 http://s2.callofliberty.fr/directtv/france.5/master.m3u8|Referer=http://s2.callofliberty.fr/tv/5-france.5/5-france.5.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="http://s2.callofliberty.fr/tv/6-M6/6-M6.png",M6 
-http://s2.callofliberty.fr/directtv/M6/master.m3u8|Referer=http://s2.callofliberty.fr/tv/6-M6/6-M6.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/directtv/M6/index.m3u8|Referer=http://s2.callofliberty.fr/tv/6-M6/6-M6.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="http://s2.callofliberty.fr/tv/7-ARTE/7-ARTE.png",ARTE 
 http://s2.callofliberty.fr/directtv/ARTE/master.m3u8|Referer=http://s2.callofliberty.fr/tv/7-ARTE/7-ARTE.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="http://s2.callofliberty.fr/tv/8-C8/8-C8.png",C8 
@@ -87,7 +87,7 @@ http://s2.callofliberty.fr/directtv/BSMART/master.m3u8|Referer=http://s2.callofl
 #EXTINF:-1 tvg-chno="41" tvg-id="01TV.fr" tvg-logo="http://s2.callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.png",TECH&CO 
 http://s2.callofliberty.fr/directtv/TECHANDCO/master.m3u8|Referer=http://s2.callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="43" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/43-journaldugolftv/43-journaldugolftv.png",JOURNAL DU GOLF TV 
-http://s2.callofliberty.fr/directtv/journaldugolftv/manifest.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/directtv/journaldugolftv/master.m3u8|Referer=http://s2.callofliberty.fr/tv/43-journaldugolftv/43-journaldugolftv.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="44" tvg-id="LEspritSorcier.fr" tvg-logo="http://s2.callofliberty.fr/tv/44-LESPRITSORCIERTV/44-LESPRITSORCIERTV.png",L'ESPRIT SORCIER TV 
 http://s2.callofliberty.fr/directtv/LESPRITSORCIERTV/index.m3u8|Referer=http://s2.callofliberty.fr/tv/44-LESPRITSORCIERTV/44-LESPRITSORCIERTV.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="46" tvg-id="TahitiNuiTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/46-TNTV/46-TNTV.png",TNTV 
@@ -98,12 +98,6 @@ http://s2.callofliberty.fr/directtv/AntenneREUNION/master.m3u8|Referer=http://s2
 http://s2.callofliberty.fr/directtv/TeleQuebec/master.m3u8|Referer=http://s2.callofliberty.fr/tv/48-TeleQuebec/48-TeleQuebec.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="49" tvg-id="Gong.fr" tvg-logo="http://s2.callofliberty.fr/tv/49-GONG/49-GONG.png",GONG 
 http://s2.callofliberty.fr/directtv/GONG/index.m3u8|Referer=http://s2.callofliberty.fr/tv/49-GONG/49-GONG.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
-#EXTINF:-1 tvg-chno="50" tvg-id="GongMax.fr" tvg-logo="http://s2.callofliberty.fr/tv/50-GONGMAX/50-GONGMAX.png",GONG MAX [OFFLINE]
-http://s2.callofliberty.fr/directtv/GONGMAX/CallOfLiberty.m3u8|Referer=http://s2.callofliberty.fr/tv/50-GONGMAX/50-GONGMAX.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
-#EXTINF:-1 tvg-chno="55" tvg-id="TIJI.fr" tvg-logo="http://s2.callofliberty.fr/tv/55-TiJi/55-TiJi.png",TIJI 
-http://s2.callofliberty.fr/directtv/TiJi/master.m3u8|Referer=http://s2.callofliberty.fr/tv/55-TiJi/55-TiJi.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
-#EXTINF:-1 tvg-chno="56" tvg-id="CanalJ.fr" tvg-logo="http://s2.callofliberty.fr/tv/56-CanalJ/56-CanalJ.png",CANAL J [OFFLINE]
-http://s2.callofliberty.fr/directtv/CanalJ/CallOfLiberty.m3u8|Referer=http://s2.callofliberty.fr/tv/56-CanalJ/56-CanalJ.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="110" tvg-id="ParisPremiere.fr" tvg-logo="http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.png",PARIS PREMIERE 
 http://s2.callofliberty.fr/directtv/PARISPREMIERE/master.m3u8|Referer=http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="111" tvg-id="Teva.fr" tvg-logo="http://s2.callofliberty.fr/tv/111-teva/111-teva.png",TÉVA 
