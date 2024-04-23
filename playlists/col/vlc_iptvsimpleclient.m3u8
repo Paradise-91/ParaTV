@@ -2,7 +2,7 @@
 
 #This only works for the VLC player (Open Network Stream CTRL+N) and IPTV Simple Client (KODI).
 #Individual m3u8 files are located in '/streams/col/vlc'.
-#Last refreshed on 18/04/2024 17:57:31 CEST.
+#Last refreshed on 23/04/2024 15:36:12 CEST.
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/1-TF1/1-TF1.php
@@ -52,10 +52,10 @@ http://s2.callofliberty.fr/directtv/TFX/master.m3u8
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/12-NRJ12/12-NRJ12.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 http://s2.callofliberty.fr/directtv/NRJ12/index.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.png",LCP-PUBLICSÉNAT [OFFLINE]
+#EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.png",LCP-PUBLICSÉNAT 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directtv/LCP-PS/CallOfLiberty.m3u8
+http://s2.callofliberty.fr/directtv/LCP-PS/master.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="http://s2.callofliberty.fr/tv/14-france.4/14-france.4.png",FRANCE 4 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/14-france.4/14-france.4.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -406,11 +406,11 @@ http://s2.callofliberty.fr/directtv/canal9/master.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-id="RTSUn.ch" tvg-logo="http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.png",RTS 1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directtv/RTS1/index.m3u8
+http://s2.callofliberty.fr/directtv/RTS1/master.m3u8
 #EXTINF:-1 tvg-chno="302" tvg-id="RTSDeux.ch" tvg-logo="http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.png",RTS 2 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directtv/RTS2/index.m3u8
+http://s2.callofliberty.fr/directtv/RTS2/master.m3u8
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/303-tvm3/303-tvm3.png",TVM3 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/303-tvm3/303-tvm3.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36

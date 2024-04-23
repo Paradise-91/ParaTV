@@ -2,7 +2,7 @@
 
 #This only works for Kodi (tested in IPTV Simple Client).
 #Individual m3u8 files are located in '/streams/col/kodi'.
-#Last refreshed on 18/04/2024 17:57:31 CEST.
+#Last refreshed on 23/04/2024 15:36:12 CEST.
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 http://s2.callofliberty.fr/directtv/TF1/master.m3u8|Referer=http://s2.callofliberty.fr/tv/1-TF1/1-TF1.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
@@ -28,8 +28,8 @@ http://s2.callofliberty.fr/directtv/TMC/master.m3u8|Referer=http://s2.calloflibe
 http://s2.callofliberty.fr/directtv/TFX/master.m3u8|Referer=http://s2.callofliberty.fr/tv/11-TFX/11-TFX.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="http://s2.callofliberty.fr/tv/12-NRJ12/12-NRJ12.png",NRJ12 
 http://s2.callofliberty.fr/directtv/NRJ12/index.m3u8|Referer=http://s2.callofliberty.fr/tv/12-NRJ12/12-NRJ12.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
-#EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.png",LCP-PUBLICSÉNAT [OFFLINE]
-http://s2.callofliberty.fr/directtv/LCP-PS/CallOfLiberty.m3u8|Referer=http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+#EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.png",LCP-PUBLICSÉNAT 
+http://s2.callofliberty.fr/directtv/LCP-PS/master.m3u8|Referer=http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="http://s2.callofliberty.fr/tv/14-france.4/14-france.4.png",FRANCE 4 
 http://s2.callofliberty.fr/directtv/france.4/master.m3u8|Referer=http://s2.callofliberty.fr/tv/14-france.4/14-france.4.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/15-BFMTV/15-BFMTV.png",BFM TV  
@@ -205,9 +205,9 @@ http://s2.callofliberty.fr/directtv/BFMTOULONVAR/master.m3u8|Referer=http://s2.c
 #EXTINF:-1 tvg-chno="300" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/300-canal9/300-canal9.png",CANAL 9 
 http://s2.callofliberty.fr/directtv/canal9/master.m3u8|Referer=http://s2.callofliberty.fr/tv/300-canal9/300-canal9.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="301" tvg-id="RTSUn.ch" tvg-logo="http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.png",RTS 1 
-http://s2.callofliberty.fr/directtv/RTS1/index.m3u8|Referer=http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/directtv/RTS1/master.m3u8|Referer=http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="302" tvg-id="RTSDeux.ch" tvg-logo="http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.png",RTS 2 
-http://s2.callofliberty.fr/directtv/RTS2/index.m3u8|Referer=http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
+http://s2.callofliberty.fr/directtv/RTS2/master.m3u8|Referer=http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/303-tvm3/303-tvm3.png",TVM3 
 http://s2.callofliberty.fr/directtv/tvm3/master.m3u8|Referer=http://s2.callofliberty.fr/tv/303-tvm3/303-tvm3.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-chno="304" tvg-id="CanalAlphaJura.ch" tvg-logo="http://s2.callofliberty.fr/tv/304-canalalpha/304-canalalpha.png",CANAL ALPHA 
