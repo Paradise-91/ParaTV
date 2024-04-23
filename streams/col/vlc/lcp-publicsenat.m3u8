@@ -2,9 +2,9 @@
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.png",LCP-PUBLICSÉNAT [OFFLINE]
-http://s2.callofliberty.fr/directtv/LCP-PS/CallOfLiberty.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.png",LCP-PUBLICSÉNAT 
+http://s2.callofliberty.fr/directtv/LCP-PS/master.m3u8
 
 #This only works for the VLC player (Open Network Stream CTRL+N). It can also work in other players if you manually set up the referrer and user-agent in the player settings.
 #Playlist is located at '/playlists/col/vlc.m3u8'.
-#Last refreshed on 18/04/2024 17:57:31 CEST.
+#Last refreshed on 23/04/2024 15:36:12 CEST.
