@@ -2,708 +2,708 @@
 
 #This only works for the VLC player (Open Network Stream CTRL+N) and IPTV Simple Client (KODI).
 #Individual m3u8 files are located in '/streams/col/vlc'.
-#Last refreshed on 25/04/2024 05:08:15 CEST.
+#Last refreshed on 25/04/2024 16:55:06 CEST.
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/1-TF1/1-TF1.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TF1/master.m3u8
+http://s2.callofliberty.fr/directfr/TF1/master.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="http://s2.callofliberty.fr/tv/2-france.2/2-france.2.png",FRANCE 2 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/2-france.2/2-france.2.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.2/master.m3u8
+http://s2.callofliberty.fr/directfr/france.2/master.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="http://s2.callofliberty.fr/tv/3-france.3/3-france.3.png",FRANCE 3 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/3-france.3/3-france.3.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3/master.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="http://s2.callofliberty.fr/tv/4-CANALPLUS/4-CANALPLUS.png",CANAL+ (CLAIR) 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/4-CANALPLUS/4-CANALPLUS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/CANALPLUS/master.m3u8
+http://s2.callofliberty.fr/directfr/CANALPLUS/master.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="http://s2.callofliberty.fr/tv/5-france.5/5-france.5.png",FRANCE 5 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/5-france.5/5-france.5.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.5/master.m3u8
+http://s2.callofliberty.fr/directfr/france.5/master.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="http://s2.callofliberty.fr/tv/6-M6/6-M6.png",M6 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/6-M6/6-M6.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/M6/master.m3u8
+http://s2.callofliberty.fr/directfr/M6/master.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="http://s2.callofliberty.fr/tv/7-ARTE/7-ARTE.png",ARTE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/7-ARTE/7-ARTE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/ARTE/master.m3u8
+http://s2.callofliberty.fr/directfr/ARTE/master.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="http://s2.callofliberty.fr/tv/8-C8/8-C8.png",C8 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/8-C8/8-C8.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/C8/master.m3u8
+http://s2.callofliberty.fr/directfr/C8/master.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="http://s2.callofliberty.fr/tv/9-W9/9-W9.png",W9 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/9-W9/9-W9.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/W9/master.m3u8
+http://s2.callofliberty.fr/directfr/W9/master.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="http://s2.callofliberty.fr/tv/10-TMC/10-TMC.png",TMC 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/10-TMC/10-TMC.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TMC/master.m3u8
+http://s2.callofliberty.fr/directfr/TMC/master.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" tvg-logo="http://s2.callofliberty.fr/tv/11-TFX/11-TFX.png",TFX 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/11-TFX/11-TFX.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TFX/master.m3u8
+http://s2.callofliberty.fr/directfr/TFX/master.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="http://s2.callofliberty.fr/tv/12-NRJ12/12-NRJ12.png",NRJ12 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/12-NRJ12/12-NRJ12.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/NRJ12/master.m3u8
+http://s2.callofliberty.fr/directfr/NRJ12/master.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.png",LCP-PUBLICSÉNAT 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LCP-PS/master.m3u8
+http://s2.callofliberty.fr/directfr/LCP-PS/master.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="http://s2.callofliberty.fr/tv/14-france.4/14-france.4.png",FRANCE 4 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/14-france.4/14-france.4.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.4/master.m3u8
+http://s2.callofliberty.fr/directfr/france.4/master.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/15-BFMTV/15-BFMTV.png",BFM TV  
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/15-BFMTV/15-BFMTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMTV/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMTV/master.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="http://s2.callofliberty.fr/tv/16-CNEWS/16-CNEWS.png",CNEWS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/16-CNEWS/16-CNEWS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/CNEWS/master.m3u8
+http://s2.callofliberty.fr/directfr/CNEWS/master.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="http://s2.callofliberty.fr/tv/17-CSTAR/17-CSTAR.png",CSTAR 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/17-CSTAR/17-CSTAR.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/CSTAR/master.m3u8
+http://s2.callofliberty.fr/directfr/CSTAR/master.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="http://s2.callofliberty.fr/tv/18-Gulli/18-Gulli.png",GULLI 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/18-Gulli/18-Gulli.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/Gulli/master.m3u8
+http://s2.callofliberty.fr/directfr/Gulli/master.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="KTO.fr" tvg-logo="http://s2.callofliberty.fr/tv/19-KTO/19-KTO.png",KTO 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/19-KTO/19-KTO.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/KTO/master.m3u8
+http://s2.callofliberty.fr/directfr/KTO/master.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="http://s2.callofliberty.fr/tv/20-TF1SERIESFILMS/20-TF1SERIESFILMS.png",TF1 SÉRIES FILMS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/20-TF1SERIESFILMS/20-TF1SERIESFILMS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TF1SERIESFILMS/master.m3u8
+http://s2.callofliberty.fr/directfr/TF1SERIESFILMS/master.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="http://s2.callofliberty.fr/tv/21-LEQUIPE/21-LEQUIPE.png",L'ÉQUIPE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/21-LEQUIPE/21-LEQUIPE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LEQUIPE/master.m3u8
+http://s2.callofliberty.fr/directfr/LEQUIPE/master.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="http://s2.callofliberty.fr/tv/22-6ter/22-6ter.png",6TER 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/22-6ter/22-6ter.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/6ter/master.m3u8
+http://s2.callofliberty.fr/directfr/6ter/master.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="http://s2.callofliberty.fr/tv/23-RMCSTORY/23-RMCSTORY.png",RMC STORY 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/23-RMCSTORY/23-RMCSTORY.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RMCSTORY/master.m3u8
+http://s2.callofliberty.fr/directfr/RMCSTORY/master.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="http://s2.callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.png",RMC DÉCOUVERTE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RMCDECOUVERTE/master.m3u8
+http://s2.callofliberty.fr/directfr/RMCDECOUVERTE/master.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="http://s2.callofliberty.fr/tv/25-Cherie25/25-Cherie25.png",CHÉRIE25 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/25-Cherie25/25-Cherie25.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/Cherie25/master.m3u8
+http://s2.callofliberty.fr/directfr/Cherie25/master.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="http://s2.callofliberty.fr/tv/26-LCI/26-LCI.png",LCI 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/26-LCI/26-LCI.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LCI/master.m3u8
+http://s2.callofliberty.fr/directfr/LCI/master.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="http://s2.callofliberty.fr/tv/27-franceinfo/27-franceinfo.png",FRANCEINFO 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/27-franceinfo/27-franceinfo.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/franceinfo/master.m3u8
+http://s2.callofliberty.fr/directfr/franceinfo/master.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="LCP100.fr" tvg-logo="http://s2.callofliberty.fr/tv/28-LCP/28-LCP.png",LCP 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/28-LCP/28-LCP.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LCP/master.m3u8
+http://s2.callofliberty.fr/directfr/LCP/master.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="PublicSenat.fr" tvg-logo="http://s2.callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.png",PUBLICSÉNAT 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/PublicSenat/master.m3u8
+http://s2.callofliberty.fr/directfr/PublicSenat/master.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="ViaGrandParis.fr" tvg-logo="http://s2.callofliberty.fr/tv/30-20MINUTESTVILEDEFRANCE/30-20MINUTESTVILEDEFRANCE.png",20' TV ÎLE-DE-FRANCE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/30-20MINUTESTVILEDEFRANCE/30-20MINUTESTVILEDEFRANCE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/20MINUTESTVILEDEFRANCE/master.m3u8
+http://s2.callofliberty.fr/directfr/20MINUTESTVILEDEFRANCE/master.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/31-france.tvseries/31-france.tvseries.png",FRANCE TVSERIES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/31-france.tvseries/31-france.tvseries.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.tvseries/index.m3u8
+http://s2.callofliberty.fr/directfr/france.tvseries/index.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="BFMBusiness.fr" tvg-logo="http://s2.callofliberty.fr/tv/32-BFMBUSINESS/32-BFMBUSINESS.png",BFM BUSINESS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/32-BFMBUSINESS/32-BFMBUSINESS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMBUSINESS/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMBUSINESS/master.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/33-LEMEDIA/33-LEMEDIA.png",LE MEDIA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/33-LEMEDIA/33-LEMEDIA.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LEMEDIA/master.m3u8
+http://s2.callofliberty.fr/directfr/LEMEDIA/master.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/34-SQOOLTV/34-SQOOLTV.png",SQOOL TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/34-SQOOLTV/34-SQOOLTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/SQOOLTV/master.m3u8
+http://s2.callofliberty.fr/directfr/SQOOLTV/master.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="Euronews.fr" tvg-logo="http://s2.callofliberty.fr/tv/35-euronews/35-euronews.png",EURONEWS  
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/35-euronews/35-euronews.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/euronews/master.m3u8
+http://s2.callofliberty.fr/directfr/euronews/master.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="TV5MondeInfo.fr" tvg-logo="http://s2.callofliberty.fr/tv/36-TV5MONDEINFO/36-TV5MONDEINFO.png",TV5MONDE INFO 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/36-TV5MONDEINFO/36-TV5MONDEINFO.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TV5MONDEINFO/master.m3u8
+http://s2.callofliberty.fr/directfr/TV5MONDEINFO/master.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="TV5Monde.fr" tvg-logo="http://s2.callofliberty.fr/tv/37-TV5MONDEFBSM/37-TV5MONDEFBSM.png",TV5MONDE FBSM 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/37-TV5MONDEFBSM/37-TV5MONDEFBSM.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TV5MONDEFBSM/master.m3u8
+http://s2.callofliberty.fr/directfr/TV5MONDEFBSM/master.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="I24news.fr" tvg-logo="http://s2.callofliberty.fr/tv/38-i24NEWS/38-i24NEWS.png",I24NEWS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/38-i24NEWS/38-i24NEWS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/i24NEWS/master.m3u8
+http://s2.callofliberty.fr/directfr/i24NEWS/master.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="France24.fr" tvg-logo="http://s2.callofliberty.fr/tv/39-FRANCE24/39-FRANCE24.png",FRANCE24 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/39-FRANCE24/39-FRANCE24.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/FRANCE24/master.m3u8
+http://s2.callofliberty.fr/directfr/FRANCE24/master.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="BSmartTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/40-BSMART/40-BSMART.png",B SMART 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/40-BSMART/40-BSMART.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BSMART/master.m3u8
+http://s2.callofliberty.fr/directfr/BSMART/master.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="01TV.fr" tvg-logo="http://s2.callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.png",TECH&CO 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TECHANDCO/master.m3u8
+http://s2.callofliberty.fr/directfr/TECHANDCO/master.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/43-journaldugolftv/43-journaldugolftv.png",JOURNAL DU GOLF TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/43-journaldugolftv/43-journaldugolftv.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/journaldugolftv/master.m3u8
+http://s2.callofliberty.fr/directfr/journaldugolftv/master.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-id="LEspritSorcier.fr" tvg-logo="http://s2.callofliberty.fr/tv/44-LESPRITSORCIERTV/44-LESPRITSORCIERTV.png",L'ESPRIT SORCIER TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/44-LESPRITSORCIERTV/44-LESPRITSORCIERTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LESPRITSORCIERTV/index.m3u8
+http://s2.callofliberty.fr/directfr/LESPRITSORCIERTV/index.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-id="TahitiNuiTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/46-TNTV/46-TNTV.png",TNTV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/46-TNTV/46-TNTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TNTV/index.m3u8
+http://s2.callofliberty.fr/directfr/TNTV/index.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="AntenneReunion.fr" tvg-logo="http://s2.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png",ANTENNE RÉUNION 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/AntenneREUNION/master.m3u8
+http://s2.callofliberty.fr/directfr/AntenneREUNION/master.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="TeleQuebec.ca" tvg-logo="http://s2.callofliberty.fr/tv/48-TeleQuebec/48-TeleQuebec.png",TÉLÉ-QUÉBEC 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/48-TeleQuebec/48-TeleQuebec.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TeleQuebec/master.m3u8
+http://s2.callofliberty.fr/directfr/TeleQuebec/master.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-id="Gong.fr" tvg-logo="http://s2.callofliberty.fr/tv/49-GONG/49-GONG.png",GONG 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/49-GONG/49-GONG.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/GONG/index.m3u8
+http://s2.callofliberty.fr/directfr/GONG/index.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="ParisPremiere.fr" tvg-logo="http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.png",PARIS PREMIERE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/PARISPREMIERE/master.m3u8
+http://s2.callofliberty.fr/directfr/PARISPREMIERE/master.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-id="Teva.fr" tvg-logo="http://s2.callofliberty.fr/tv/111-teva/111-teva.png",TÉVA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/111-teva/111-teva.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/teva/master.m3u8
+http://s2.callofliberty.fr/directfr/teva/master.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="MaisonEtTravaux.fr" tvg-logo="http://s2.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png",MAISON&TRAVAUXTV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/MaisonEtTravauxTV/master.m3u8
+http://s2.callofliberty.fr/directfr/MaisonEtTravauxTV/master.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-id="TopSanteTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png",TOP SANTÉ TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TOPSanteTV/master.m3u8
+http://s2.callofliberty.fr/directfr/TOPSanteTV/master.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="FashionTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/122-FashionTV/122-FashionTV.png",FASHION TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/122-FashionTV/122-FashionTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/FashionTV/master.m3u8
+http://s2.callofliberty.fr/directfr/FashionTV/master.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-id="MensUpTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/124-MENSUPTV/124-MENSUPTV.png",MEN'S UP TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/124-MENSUPTV/124-MENSUPTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/MENSUPTV/master.m3u8
+http://s2.callofliberty.fr/directfr/MENSUPTV/master.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-id="Museum.fr" tvg-logo="http://s2.callofliberty.fr/tv/129-MUSEUMTV/129-MUSEUMTV.png",MUSEUM TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/129-MUSEUMTV/129-MUSEUMTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/MUSEUMTV/master.m3u8
+http://s2.callofliberty.fr/directfr/MUSEUMTV/master.m3u8
 #EXTINF:-1 tvg-chno="149" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/149-Melody/149-Melody.png",MELODY 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/149-Melody/149-Melody.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/Melody/master.m3u8
+http://s2.callofliberty.fr/directfr/Melody/master.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="TraceLatina.fr" tvg-logo="http://s2.callofliberty.fr/tv/156-TRACELATINA/156-TRACELATINA.png",TRACE LATINA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/156-TRACELATINA/156-TRACELATINA.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TRACELATINA/master.m3u8
+http://s2.callofliberty.fr/directfr/TRACELATINA/master.m3u8
 #EXTINF:-1 tvg-chno="161" tvg-id="ClubbingTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/161-CLUBBINGTV/161-CLUBBINGTV.png",CLUBBING TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/161-CLUBBINGTV/161-CLUBBINGTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/CLUBBINGTV/index.m3u8
+http://s2.callofliberty.fr/directfr/CLUBBINGTV/index.m3u8
 #EXTINF:-1 tvg-chno="162" tvg-id="BBlackAfrica.fr" tvg-logo="http://s2.callofliberty.fr/tv/162-BBLACKAFRICA/162-BBLACKAFRICA.png",BBLACK! AFRICA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/162-BBLACKAFRICA/162-BBLACKAFRICA.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BBLACKAFRICA/master.m3u8
+http://s2.callofliberty.fr/directfr/BBLACKAFRICA/master.m3u8
 #EXTINF:-1 tvg-chno="163" tvg-id="BBlackCaribbean.fr" tvg-logo="http://s2.callofliberty.fr/tv/163-BBLACKCARIBBEAN/163-BBLACKCARIBBEAN.png",BBLACK! CARIBBEAN 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/163-BBLACKCARIBBEAN/163-BBLACKCARIBBEAN.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BBLACKCARIBBEAN/master.m3u8
+http://s2.callofliberty.fr/directfr/BBLACKCARIBBEAN/master.m3u8
 #EXTINF:-1 tvg-chno="164" tvg-id="BBlackClassik.fr" tvg-logo="http://s2.callofliberty.fr/tv/164-BBLACKCLASSIK/164-BBLACKCLASSIK.png",BBLACK! CLASSIK 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/164-BBLACKCLASSIK/164-BBLACKCLASSIK.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BBLACKCLASSIK/master.m3u8
+http://s2.callofliberty.fr/directfr/BBLACKCLASSIK/master.m3u8
 #EXTINF:-1 tvg-chno="167" tvg-id="MyZenTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/167-MYZENTV/167-MYZENTV.png",MY ZEN TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/167-MYZENTV/167-MYZENTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/MYZENTV/master.m3u8
+http://s2.callofliberty.fr/directfr/MYZENTV/master.m3u8
 #EXTINF:-1 tvg-chno="177" tvg-id="SportEnFrance.fr" tvg-logo="http://s2.callofliberty.fr/tv/177-SPORTENFRANCE/177-SPORTENFRANCE.png",SPORT EN FRANCE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/177-SPORTENFRANCE/177-SPORTENFRANCE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/SPORTENFRANCE/master.m3u8
+http://s2.callofliberty.fr/directfr/SPORTENFRANCE/master.m3u8
 #EXTINF:-1 tvg-chno="178" tvg-id="Equidia.fr" tvg-logo="http://s2.callofliberty.fr/tv/178-EQUIDIA/178-EQUIDIA.png",EQUIDIA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/EQUIDIA/master.m3u8
+http://s2.callofliberty.fr/directfr/EQUIDIA/master.m3u8
 #EXTINF:-1 tvg-chno="200" tvg-id="France3Alpes.fr" tvg-logo="http://s2.callofliberty.fr/tv/200-france.3alpes/200-france.3alpes.png",FRANCE 3 ALPES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/200-france.3alpes/200-france.3alpes.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3alpes/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3alpes/master.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-id="France3Alsace.fr" tvg-logo="http://s2.callofliberty.fr/tv/201-france.3alsace/201-france.3alsace.png",FRANCE 3 ALSACE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/201-france.3alsace/201-france.3alsace.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3alsace/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3alsace/master.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-id="France3Aquitaine.fr" tvg-logo="http://s2.callofliberty.fr/tv/202-france.3aquitaine/202-france.3aquitaine.png",FRANCE 3 AQUITAINE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/202-france.3aquitaine/202-france.3aquitaine.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3aquitaine/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3aquitaine/master.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-id="France3Auvergne.fr" tvg-logo="http://s2.callofliberty.fr/tv/203-france.3auvergne/203-france.3auvergne.png",FRANCE 3 AUVERGNE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/203-france.3auvergne/203-france.3auvergne.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3auvergne/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3auvergne/master.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-id="France3BasseNormandie.fr" tvg-logo="http://s2.callofliberty.fr/tv/204-france.3bassenormandie/204-france.3bassenormandie.png",FRANCE 3 BASSE NORMANDIE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/204-france.3bassenormandie/204-france.3bassenormandie.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3bassenormandie/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3bassenormandie/master.m3u8
 #EXTINF:-1 tvg-chno="205" tvg-id="France3Bourgogne.fr" tvg-logo="http://s2.callofliberty.fr/tv/205-france.3bourgogne/205-france.3bourgogne.png",FRANCE 3 BOURGOGNE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/205-france.3bourgogne/205-france.3bourgogne.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3bourgogne/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3bourgogne/master.m3u8
 #EXTINF:-1 tvg-chno="206" tvg-id="France3Bretagne.fr" tvg-logo="http://s2.callofliberty.fr/tv/206-france.3bretagne/206-france.3bretagne.png",FRANCE 3 BRETAGNE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/206-france.3bretagne/206-france.3bretagne.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3bretagne/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3bretagne/master.m3u8
 #EXTINF:-1 tvg-chno="207" tvg-id="France3Centre.fr" tvg-logo="http://s2.callofliberty.fr/tv/207-france.3centrevaldeloire/207-france.3centrevaldeloire.png",FRANCE 3 CENTRE VAL DE LOIRE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/207-france.3centrevaldeloire/207-france.3centrevaldeloire.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3centrevaldeloire/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3centrevaldeloire/master.m3u8
 #EXTINF:-1 tvg-chno="208" tvg-id="France3ChampagneArdenne.fr" tvg-logo="http://s2.callofliberty.fr/tv/208-france.3champagneardenne/208-france.3champagneardenne.png",FRANCE 3 CHAMPAGNE ARDENNE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/208-france.3champagneardenne/208-france.3champagneardenne.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3champagneardenne/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3champagneardenne/master.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-id="France3CorseViaStella.fr" tvg-logo="http://s2.callofliberty.fr/tv/209-france.3corse/209-france.3corse.png",FRANCE 3 CORSE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/209-france.3corse/209-france.3corse.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3corse/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3corse/master.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-id="France3CotedAzur.fr" tvg-logo="http://s2.callofliberty.fr/tv/210-france.3cotedazur/210-france.3cotedazur.png",FRANCE 3 CÔTE D'AZUR 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/210-france.3cotedazur/210-france.3cotedazur.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3cotedazur/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3cotedazur/master.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-id="France3FrancheComte.fr" tvg-logo="http://s2.callofliberty.fr/tv/211-france.3franchecomte/211-france.3franchecomte.png",FRANCE 3 FRANCHE-COMTÉ 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/211-france.3franchecomte/211-france.3franchecomte.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3franchecomte/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3franchecomte/master.m3u8
 #EXTINF:-1 tvg-chno="212" tvg-id="France3HauteNormandie.fr" tvg-logo="http://s2.callofliberty.fr/tv/212-france.3hautenormandie/212-france.3hautenormandie.png",FRANCE 3 HAUTE NORMANDIE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/212-france.3hautenormandie/212-france.3hautenormandie.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3hautenormandie/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3hautenormandie/master.m3u8
 #EXTINF:-1 tvg-chno="213" tvg-id="France3Languedoc.fr" tvg-logo="http://s2.callofliberty.fr/tv/213-france.3languedocroussillon/213-france.3languedocroussillon.png",FRANCE 3 LANGUEDOC ROUSSILLON 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/213-france.3languedocroussillon/213-france.3languedocroussillon.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3languedocroussillon/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3languedocroussillon/master.m3u8
 #EXTINF:-1 tvg-chno="214" tvg-id="France3Limousin.fr" tvg-logo="http://s2.callofliberty.fr/tv/214-france.3limousin/214-france.3limousin.png",FRANCE 3 LIMOUSIN 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/214-france.3limousin/214-france.3limousin.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3limousin/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3limousin/master.m3u8
 #EXTINF:-1 tvg-chno="215" tvg-id="France3Lorraine.fr" tvg-logo="http://s2.callofliberty.fr/tv/215-france.3lorraine/215-france.3lorraine.png",FRANCE 3 LORRAINE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/215-france.3lorraine/215-france.3lorraine.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3lorraine/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3lorraine/master.m3u8
 #EXTINF:-1 tvg-chno="216" tvg-id="France3MidiPyrenees.fr" tvg-logo="http://s2.callofliberty.fr/tv/216-france.3midipyrenees/216-france.3midipyrenees.png",FRANCE 3 MIDI-PYRÉNÉES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/216-france.3midipyrenees/216-france.3midipyrenees.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3midipyrenees/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3midipyrenees/master.m3u8
 #EXTINF:-1 tvg-chno="217" tvg-id="France3NouvelleAquitaine.fr" tvg-logo="http://s2.callofliberty.fr/tv/217-france.3NoA/217-france.3NoA.png",FRANCE 3 NOA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/217-france.3NoA/217-france.3NoA.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3NoA/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3NoA/master.m3u8
 #EXTINF:-1 tvg-chno="218" tvg-id="France3NordPasDeCalais.fr" tvg-logo="http://s2.callofliberty.fr/tv/218-france.3nordpasdecalais/218-france.3nordpasdecalais.png",FRANCE 3 NORD PAS-DE-CALAIS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/218-france.3nordpasdecalais/218-france.3nordpasdecalais.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3nordpasdecalais/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3nordpasdecalais/master.m3u8
 #EXTINF:-1 tvg-chno="219" tvg-id="France3ParisIdF.fr" tvg-logo="http://s2.callofliberty.fr/tv/219-france.3parisiledefrance/219-france.3parisiledefrance.png",FRANCE 3 PARIS ÎLE-DE-FRANCE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/219-france.3parisiledefrance/219-france.3parisiledefrance.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3parisiledefrance/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3parisiledefrance/master.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-id="France3PaysDeLaLoire.fr" tvg-logo="http://s2.callofliberty.fr/tv/220-france.3paysdelaloire/220-france.3paysdelaloire.png",FRANCE 3 PAYS DE LA LOIRE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/220-france.3paysdelaloire/220-france.3paysdelaloire.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3paysdelaloire/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3paysdelaloire/master.m3u8
 #EXTINF:-1 tvg-chno="221" tvg-id="France3Picardie.fr" tvg-logo="http://s2.callofliberty.fr/tv/221-france.3picardie/221-france.3picardie.png",FRANCE 3 PICARDIE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/221-france.3picardie/221-france.3picardie.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3picardie/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3picardie/master.m3u8
 #EXTINF:-1 tvg-chno="222" tvg-id="France3PoitouCharentes.fr" tvg-logo="http://s2.callofliberty.fr/tv/222-france.3poitoucharentes/222-france.3poitoucharentes.png",FRANCE 3 POITOU CHARENTES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/222-france.3poitoucharentes/222-france.3poitoucharentes.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3poitoucharentes/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3poitoucharentes/master.m3u8
 #EXTINF:-1 tvg-chno="223" tvg-id="France3ProvenceAlpes.fr" tvg-logo="http://s2.callofliberty.fr/tv/223-france.3provencealpes/223-france.3provencealpes.png",FRANCE 3 PROVENCE-ALPES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/223-france.3provencealpes/223-france.3provencealpes.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3provencealpes/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3provencealpes/master.m3u8
 #EXTINF:-1 tvg-chno="224" tvg-id="France3RhoneAlpes.fr" tvg-logo="http://s2.callofliberty.fr/tv/224-france.3rhonealpes/224-france.3rhonealpes.png",FRANCE 3 RHÔNE-ALPES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/224-france.3rhonealpes/224-france.3rhonealpes.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/france.3rhonealpes/master.m3u8
+http://s2.callofliberty.fr/directfr/france.3rhonealpes/master.m3u8
 #EXTINF:-1 tvg-chno="241" tvg-id="Alsace20.fr" tvg-logo="http://s2.callofliberty.fr/tv/241-BFMALSACE/241-BFMALSACE.png",BFM ALSACE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/241-BFMALSACE/241-BFMALSACE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMALSACE/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMALSACE/master.m3u8
 #EXTINF:-1 tvg-chno="242" tvg-id="DiciTvAlpes.fr" tvg-logo="http://s2.callofliberty.fr/tv/242-BFMDICIALPESDUSUD/242-BFMDICIALPESDUSUD.png",BFM DICI ALPES DU SUD 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/242-BFMDICIALPESDUSUD/242-BFMDICIALPESDUSUD.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMDICIALPESDUSUD/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMDICIALPESDUSUD/master.m3u8
 #EXTINF:-1 tvg-chno="243" tvg-id="DiciTvProvence.fr" tvg-logo="http://s2.callofliberty.fr/tv/243-BFMDICIHAUTEPROVENCE/243-BFMDICIHAUTEPROVENCE.png",BFM DICI HAUTE-PROVENCE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/243-BFMDICIHAUTEPROVENCE/243-BFMDICIHAUTEPROVENCE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMDICIHAUTEPROVENCE/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMDICIHAUTEPROVENCE/master.m3u8
 #EXTINF:-1 tvg-chno="244" tvg-id="BFMGrandLille.fr" tvg-logo="http://s2.callofliberty.fr/tv/244-BFMGRANDLILLE/244-BFMGRANDLILLE.png",BFM GRAND LILLE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/244-BFMGRANDLILLE/244-BFMGRANDLILLE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMGRANDLILLE/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMGRANDLILLE/master.m3u8
 #EXTINF:-1 tvg-chno="245" tvg-id="BFMGrandLittoral.fr" tvg-logo="http://s2.callofliberty.fr/tv/245-BFMGRANDLITTORAL/245-BFMGRANDLITTORAL.png",BFM GRAND LITTORAL 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/245-BFMGRANDLITTORAL/245-BFMGRANDLITTORAL.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMGRANDLITTORAL/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMGRANDLITTORAL/master.m3u8
 #EXTINF:-1 tvg-chno="246" tvg-id="TeleLyonMetropole.fr" tvg-logo="http://s2.callofliberty.fr/tv/246-BFMLYON/246-BFMLYON.png",BFMLYON 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/246-BFMLYON/246-BFMLYON.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMLYON/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMLYON/master.m3u8
 #EXTINF:-1 tvg-chno="247" tvg-id="ProvenceAzur.fr" tvg-logo="http://s2.callofliberty.fr/tv/247-BFMMARSEILLEPROVENCE/247-BFMMARSEILLEPROVENCE.png",BFM MARSEILLE PROVENCE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/247-BFMMARSEILLEPROVENCE/247-BFMMARSEILLEPROVENCE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMMARSEILLEPROVENCE/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMMARSEILLEPROVENCE/master.m3u8
 #EXTINF:-1 tvg-chno="248" tvg-id="AzurTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/248-BFMNICECOTEDAZUR/248-BFMNICECOTEDAZUR.png",BFM NICE CÔTE D'AZUR 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/248-BFMNICECOTEDAZUR/248-BFMNICECOTEDAZUR.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMNICECOTEDAZUR/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMNICECOTEDAZUR/master.m3u8
 #EXTINF:-1 tvg-chno="249" tvg-id="LaChaineNormande.fr" tvg-logo="http://s2.callofliberty.fr/tv/249-BFMNORMANDIE/249-BFMNORMANDIE.png",BFM NORMANDIE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/249-BFMNORMANDIE/249-BFMNORMANDIE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMNORMANDIE/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMNORMANDIE/master.m3u8
 #EXTINF:-1 tvg-chno="250" tvg-id="BFMParis.fr" tvg-logo="http://s2.callofliberty.fr/tv/250-BFMPARISILEDEFRANCE/250-BFMPARISILEDEFRANCE.png",BFM PARIS ÎLE DE FRANCE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/250-BFMPARISILEDEFRANCE/250-BFMPARISILEDEFRANCE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMPARISILEDEFRANCE/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMPARISILEDEFRANCE/master.m3u8
 #EXTINF:-1 tvg-chno="251" tvg-id="VarAzur.fr" tvg-logo="http://s2.callofliberty.fr/tv/251-BFMTOULONVAR/251-BFMTOULONVAR.png",BFM TOULON VAR 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/251-BFMTOULONVAR/251-BFMTOULONVAR.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BFMTOULONVAR/master.m3u8
+http://s2.callofliberty.fr/directfr/BFMTOULONVAR/master.m3u8
 #EXTINF:-1 tvg-chno="300" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/300-canal9/300-canal9.png",CANAL 9 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/300-canal9/300-canal9.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/canal9/master.m3u8
+http://s2.callofliberty.fr/directfr/canal9/master.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-id="RTSUn.ch" tvg-logo="http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.png",RTS 1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/301-RTS1/301-RTS1.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RTS1/master.m3u8
+http://s2.callofliberty.fr/directfr/RTS1/master.m3u8
 #EXTINF:-1 tvg-chno="302" tvg-id="RTSDeux.ch" tvg-logo="http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.png",RTS 2 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/302-RTS2/302-RTS2.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RTS2/master.m3u8
+http://s2.callofliberty.fr/directfr/RTS2/master.m3u8
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/303-tvm3/303-tvm3.png",TVM3 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/303-tvm3/303-tvm3.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/tvm3/master.m3u8
+http://s2.callofliberty.fr/directfr/tvm3/master.m3u8
 #EXTINF:-1 tvg-chno="304" tvg-id="CanalAlphaJura.ch" tvg-logo="http://s2.callofliberty.fr/tv/304-canalalpha/304-canalalpha.png",CANAL ALPHA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/304-canalalpha/304-canalalpha.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/canalalpha/master.m3u8
+http://s2.callofliberty.fr/directfr/canalalpha/master.m3u8
 #EXTINF:-1 tvg-chno="305" tvg-id="Canal9.fr" tvg-logo="http://s2.callofliberty.fr/tv/305-carac1/305-carac1.png",CARAC1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/305-carac1/305-carac1.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/carac1/master.m3u8
+http://s2.callofliberty.fr/directfr/carac1/master.m3u8
 #EXTINF:-1 tvg-chno="306" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/306-carac2/306-carac2.png",CARAC2 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/306-carac2/306-carac2.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/carac2/master.m3u8
+http://s2.callofliberty.fr/directfr/carac2/master.m3u8
 #EXTINF:-1 tvg-chno="307" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/307-carac3/307-carac3.png",CARAC3 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/307-carac3/307-carac3.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/carac3/master.m3u8
+http://s2.callofliberty.fr/directfr/carac3/master.m3u8
 #EXTINF:-1 tvg-chno="308" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/308-carac4/308-carac4.png",CARAC4 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/308-carac4/308-carac4.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/carac4/master.m3u8
+http://s2.callofliberty.fr/directfr/carac4/master.m3u8
 #EXTINF:-1 tvg-chno="321" tvg-id="ClubRTL.be" tvg-logo="http://s2.callofliberty.fr/tv/321-RTLclub/321-RTLclub.png",RTLCLUB [OFFLINE]
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/321-RTLclub/321-RTLclub.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RTLclub/master.m3u8
+http://s2.callofliberty.fr/directfr/RTLclub/master.m3u8
 #EXTINF:-1 tvg-chno="322" tvg-id="PlugRTL.be" tvg-logo="http://s2.callofliberty.fr/tv/322-RTLplug/322-RTLplug.png",RTLPLUG 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/322-RTLplug/322-RTLplug.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RTLplug/master.m3u8
+http://s2.callofliberty.fr/directfr/RTLplug/master.m3u8
 #EXTINF:-1 tvg-chno="323" tvg-id="RTLTVI.be" tvg-logo="http://s2.callofliberty.fr/tv/323-RTLtvi/323-RTLtvi.png",RTLTVI [OFFLINE]
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/323-RTLtvi/323-RTLtvi.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RTLtvi/master.m3u8
+http://s2.callofliberty.fr/directfr/RTLtvi/master.m3u8
 #EXTINF:-1 tvg-chno="324" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/324-RTLplay/324-RTLplay.png",RTLPLAY 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/324-RTLplay/324-RTLplay.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RTLplay/master.m3u8
+http://s2.callofliberty.fr/directfr/RTLplay/master.m3u8
 #EXTINF:-1 tvg-chno="401" tvg-id="JustePourRire.fr" tvg-logo="http://s2.callofliberty.fr/tv/401-JUSTEPOURRIRE/401-JUSTEPOURRIRE.png",PLUTO TV JUSTE POUR RIRE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/401-JUSTEPOURRIRE/401-JUSTEPOURRIRE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/JUSTEPOURRIRE/index.m3u8
+http://s2.callofliberty.fr/directfr/JUSTEPOURRIRE/index.m3u8
 #EXTINF:-1 tvg-chno="402" tvg-id="GamingTv.fr" tvg-logo="http://s2.callofliberty.fr/tv/402-GAMINGTV/402-GAMINGTV.png",PLUTO TV GAMING TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/402-GAMINGTV/402-GAMINGTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/GAMINGTV/index.m3u8
+http://s2.callofliberty.fr/directfr/GAMINGTV/index.m3u8
 #EXTINF:-1 tvg-chno="403" tvg-id="Avatar.fr" tvg-logo="http://s2.callofliberty.fr/tv/403-AVATAR/403-AVATAR.png",PLUTO TV AVATAR 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/403-AVATAR/403-AVATAR.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/AVATAR/index.m3u8
+http://s2.callofliberty.fr/directfr/AVATAR/index.m3u8
 #EXTINF:-1 tvg-chno="404" tvg-id="BobLepongePtv3.fr" tvg-logo="http://s2.callofliberty.fr/tv/404-BobLepongeTV/404-BobLepongeTV.png",PLUTO TV BOB L'ÉPONGE TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/404-BobLepongeTV/404-BobLepongeTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BobLepongeTV/index.m3u8
+http://s2.callofliberty.fr/directfr/BobLepongeTV/index.m3u8
 #EXTINF:-1 tvg-chno="405" tvg-id="InazumaEleven.fr" tvg-logo="http://s2.callofliberty.fr/tv/405-INAZUMAELEVEN/405-INAZUMAELEVEN.png",PLUTO TV INAZUMA ELEVEN 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/405-INAZUMAELEVEN/405-INAZUMAELEVEN.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/INAZUMAELEVEN/index.m3u8
+http://s2.callofliberty.fr/directfr/INAZUMAELEVEN/index.m3u8
 #EXTINF:-1 tvg-chno="406" tvg-id="SabrinaLaSerieAnimee.fr" tvg-logo="http://s2.callofliberty.fr/tv/406-Sabrina/406-Sabrina.png",PLUTO TV SABRINA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/406-Sabrina/406-Sabrina.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/Sabrina/index.m3u8
+http://s2.callofliberty.fr/directfr/Sabrina/index.m3u8
 #EXTINF:-1 tvg-chno="407" tvg-id="TortuesNinjaTv.fr" tvg-logo="http://s2.callofliberty.fr/tv/407-TORTUESNINJA/407-TORTUESNINJA.png",PLUTO TV TORTUES NINJA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/407-TORTUESNINJA/407-TORTUESNINJA.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TORTUESNINJA/index.m3u8
+http://s2.callofliberty.fr/directfr/TORTUESNINJA/index.m3u8
 #EXTINF:-1 tvg-chno="408" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/408-YuGiOh/408-YuGiOh.png",PLUTO TV YU-GI-OH! 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/408-YuGiOh/408-YuGiOh.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/YuGiOh/index.m3u8
+http://s2.callofliberty.fr/directfr/YuGiOh/index.m3u8
 #EXTINF:-1 tvg-chno="409" tvg-id="PlutoTvKidsAnimation.fr" tvg-logo="http://s2.callofliberty.fr/tv/409-KIDSAnimation/409-KIDSAnimation.png",PLUTO TV KIDS ANIMATION 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/409-KIDSAnimation/409-KIDSAnimation.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/KIDSAnimation/index.m3u8
+http://s2.callofliberty.fr/directfr/KIDSAnimation/index.m3u8
 #EXTINF:-1 tvg-chno="410" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/410-KIDSClassics/410-KIDSClassics.png",PLUTO TV KIDS CLASSICS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/410-KIDSClassics/410-KIDSClassics.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/KIDSClassics/index.m3u8
+http://s2.callofliberty.fr/directfr/KIDSClassics/index.m3u8
 #EXTINF:-1 tvg-chno="411" tvg-id="PlutoTvKidsGaming.fr" tvg-logo="http://s2.callofliberty.fr/tv/411-KIDSGAMING/411-KIDSGAMING.png",PLUTO TV KIDS GAMING 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/411-KIDSGAMING/411-KIDSGAMING.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/KIDSGAMING/index.m3u8
+http://s2.callofliberty.fr/directfr/KIDSGAMING/index.m3u8
 #EXTINF:-1 tvg-chno="412" tvg-id="PlutoTvKidsSeries.fr" tvg-logo="http://s2.callofliberty.fr/tv/412-KIDSSERIES/412-KIDSSERIES.png",PLUTO TV KIDS SÉRIES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/412-KIDSSERIES/412-KIDSSERIES.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/KIDSSERIES/index.m3u8
+http://s2.callofliberty.fr/directfr/KIDSSERIES/index.m3u8
 #EXTINF:-1 tvg-chno="413" tvg-id="AngelaAnaconda.fr" tvg-logo="http://s2.callofliberty.fr/tv/413-AngelaAnaconda/413-AngelaAnaconda.png",PLUTO TV ANGELA ANACONDA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/413-AngelaAnaconda/413-AngelaAnaconda.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/AngelaAnaconda/index.m3u8
+http://s2.callofliberty.fr/directfr/AngelaAnaconda/index.m3u8
 #EXTINF:-1 tvg-chno="414" tvg-id="BubbleGuppies.fr" tvg-logo="http://s2.callofliberty.fr/tv/414-BUBBLEGUPPIES/414-BUBBLEGUPPIES.png",PLUTO TV BUBBLE GUPPIES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/414-BUBBLEGUPPIES/414-BUBBLEGUPPIES.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/BUBBLEGUPPIES/index.m3u8
+http://s2.callofliberty.fr/directfr/BUBBLEGUPPIES/index.m3u8
 #EXTINF:-1 tvg-chno="415" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/415-CharlotteAuxFraises/415-CharlotteAuxFraises.png",PLUTO TV CHARLOTTE AUX FRAISES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/415-CharlotteAuxFraises/415-CharlotteAuxFraises.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/CharlotteAuxFraises/index.m3u8
+http://s2.callofliberty.fr/directfr/CharlotteAuxFraises/index.m3u8
 #EXTINF:-1 tvg-chno="416" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/416-DETECTIVECONAN/416-DETECTIVECONAN.png",PLUTO TV DETECTIVE CONAN 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/416-DETECTIVECONAN/416-DETECTIVECONAN.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/DETECTIVECONAN/index.m3u8
+http://s2.callofliberty.fr/directfr/DETECTIVECONAN/index.m3u8
 #EXTINF:-1 tvg-chno="417" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/417-DIGIMON/417-DIGIMON.png",PLUTO TV DIGIMON 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/417-DIGIMON/417-DIGIMON.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/DIGIMON/index.m3u8
+http://s2.callofliberty.fr/directfr/DIGIMON/index.m3u8
 #EXTINF:-1 tvg-chno="418" tvg-id="DoraTV.fr" tvg-logo="http://s2.callofliberty.fr/tv/418-DORATV/418-DORATV.png",PLUTO TV DORA TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/418-DORATV/418-DORATV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/DORATV/index.m3u8
+http://s2.callofliberty.fr/directfr/DORATV/index.m3u8
 #EXTINF:-1 tvg-chno="419" tvg-id="PlutoTvJunior.fr" tvg-logo="http://s2.callofliberty.fr/tv/419-JUNIOR/419-JUNIOR.png",PLUTO TV JUNIOR 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/419-JUNIOR/419-JUNIOR.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/JUNIOR/index.m3u8
+http://s2.callofliberty.fr/directfr/JUNIOR/index.m3u8
 #EXTINF:-1 tvg-chno="420" tvg-id="LesRazmoket.fr" tvg-logo="http://s2.callofliberty.fr/tv/420-LesRazmoket/420-LesRazmoket.png",PLUTO TV LES RAZMOKET 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/420-LesRazmoket/420-LesRazmoket.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LesRazmoket/index.m3u8
+http://s2.callofliberty.fr/directfr/LesRazmoket/index.m3u8
 #EXTINF:-1 tvg-chno="421" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/421-ONEPIECE/421-ONEPIECE.png",PLUTO TV ONE PIECE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/421-ONEPIECE/421-ONEPIECE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/ONEPIECE/index.m3u8
+http://s2.callofliberty.fr/directfr/ONEPIECE/index.m3u8
 #EXTINF:-1 tvg-chno="422" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/422-RETROTOONS/422-RETROTOONS.png",PLUTO TV RETRO TOONS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/422-RETROTOONS/422-RETROTOONS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RETROTOONS/index.m3u8
+http://s2.callofliberty.fr/directfr/RETROTOONS/index.m3u8
 #EXTINF:-1 tvg-chno="423" tvg-id="SouthPark.fr" tvg-logo="http://s2.callofliberty.fr/tv/423-SOUTHPARK/423-SOUTHPARK.png",PLUTO TV SOUTH PARK 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/423-SOUTHPARK/423-SOUTHPARK.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/SOUTHPARK/index.m3u8
+http://s2.callofliberty.fr/directfr/SOUTHPARK/index.m3u8
 #EXTINF:-1 tvg-chno="424" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/424-SUPERKIDS/424-SUPERKIDS.png",PLUTO TV SUPER KIDS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/424-SUPERKIDS/424-SUPERKIDS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/SUPERKIDS/index.m3u8
+http://s2.callofliberty.fr/directfr/SUPERKIDS/index.m3u8
 #EXTINF:-1 tvg-chno="425" tvg-id="PlutoTvComedie.fr" tvg-logo="http://s2.callofliberty.fr/tv/425-COMEDIE/425-COMEDIE.png",PLUTO TV COMÉDIE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/425-COMEDIE/425-COMEDIE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/COMEDIE/index.m3u8
+http://s2.callofliberty.fr/directfr/COMEDIE/index.m3u8
 #EXTINF:-1 tvg-chno="426" tvg-id="PlutoTvAction.fr" tvg-logo="http://s2.callofliberty.fr/tv/426-ACTION/426-ACTION.png",PLUTO TV ACTION 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/426-ACTION/426-ACTION.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/ACTION/index.m3u8
+http://s2.callofliberty.fr/directfr/ACTION/index.m3u8
 #EXTINF:-1 tvg-chno="427" tvg-id="PlutoTvCine.fr" tvg-logo="http://s2.callofliberty.fr/tv/427-CINE/427-CINE.png",PLUTO TV CINÉ 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/427-CINE/427-CINE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/CINE/index.m3u8
+http://s2.callofliberty.fr/directfr/CINE/index.m3u8
 #EXTINF:-1 tvg-chno="428" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/428-CINEDASIE/428-CINEDASIE.png",PLUTO TV CINÉ D'ASIE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/428-CINEDASIE/428-CINEDASIE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/CINEDASIE/index.m3u8
+http://s2.callofliberty.fr/directfr/CINEDASIE/index.m3u8
 #EXTINF:-1 tvg-chno="429" tvg-id="PlutoTvCineRetro.fr" tvg-logo="http://s2.callofliberty.fr/tv/429-CINERETRO/429-CINERETRO.png",PLUTO TV CINÉ RÉTRO 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/429-CINERETRO/429-CINERETRO.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/CINERETRO/index.m3u8
+http://s2.callofliberty.fr/directfr/CINERETRO/index.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-id="PlutoTvPolar.fr" tvg-logo="http://s2.callofliberty.fr/tv/430-POLAR/430-POLAR.png",PLUTO TV POLAR 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/430-POLAR/430-POLAR.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/POLAR/index.m3u8
+http://s2.callofliberty.fr/directfr/POLAR/index.m3u8
 #EXTINF:-1 tvg-chno="431" tvg-id="PlutoTvRomance.fr" tvg-logo="http://s2.callofliberty.fr/tv/431-ROMANCE/431-ROMANCE.png",PLUTO TV ROMANCE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/431-ROMANCE/431-ROMANCE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/ROMANCE/index.m3u8
+http://s2.callofliberty.fr/directfr/ROMANCE/index.m3u8
 #EXTINF:-1 tvg-chno="432" tvg-id="PlutoTvSciFi.fr" tvg-logo="http://s2.callofliberty.fr/tv/432-SCIFI/432-SCIFI.png",PLUTO TV SCIFI 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/432-SCIFI/432-SCIFI.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/SCIFI/index.m3u8
+http://s2.callofliberty.fr/directfr/SCIFI/index.m3u8
 #EXTINF:-1 tvg-chno="433" tvg-id="TheAsylumChannel.fr" tvg-logo="http://s2.callofliberty.fr/tv/433-THEASYLUM/433-THEASYLUM.png",PLUTO TV THE ASYLUM 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/433-THEASYLUM/433-THEASYLUM.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/THEASYLUM/index.m3u8
+http://s2.callofliberty.fr/directfr/THEASYLUM/index.m3u8
 #EXTINF:-1 tvg-chno="434" tvg-id="PlutoTvThrillers.fr" tvg-logo="http://s2.callofliberty.fr/tv/434-THRILLERS/434-THRILLERS.png",PLUTO TV THRILLERS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/434-THRILLERS/434-THRILLERS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/THRILLERS/index.m3u8
+http://s2.callofliberty.fr/directfr/THRILLERS/index.m3u8
 #EXTINF:-1 tvg-chno="435" tvg-id="WildSideTv.fr" tvg-logo="http://s2.callofliberty.fr/tv/435-WILDSIDETV/435-WILDSIDETV.png",PLUTO TV WILD SIDE TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/435-WILDSIDETV/435-WILDSIDETV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/WILDSIDETV/index.m3u8
+http://s2.callofliberty.fr/directfr/WILDSIDETV/index.m3u8
 #EXTINF:-1 tvg-chno="436" tvg-id="PlutoTvHistoire.fr" tvg-logo="http://s2.callofliberty.fr/tv/436-HISTOIRE/436-HISTOIRE.png",PLUTO TV HISTOIRE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/436-HISTOIRE/436-HISTOIRE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/HISTOIRE/index.m3u8
+http://s2.callofliberty.fr/directfr/HISTOIRE/index.m3u8
 #EXTINF:-1 tvg-chno="437" tvg-id="PlutoTvParanormal.fr" tvg-logo="http://s2.callofliberty.fr/tv/437-PARANORMAL/437-PARANORMAL.png",PLUTO TV PARANORMAL 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/437-PARANORMAL/437-PARANORMAL.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/PARANORMAL/index.m3u8
+http://s2.callofliberty.fr/directfr/PARANORMAL/index.m3u8
 #EXTINF:-1 tvg-chno="438" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/438-ALERTECOBRA/438-ALERTECOBRA.png",PLUTO TV ALERTE COBRA 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/438-ALERTECOBRA/438-ALERTECOBRA.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/ALERTECOBRA/index.m3u8
+http://s2.callofliberty.fr/directfr/ALERTECOBRA/index.m3u8
 #EXTINF:-1 tvg-chno="439" tvg-id="AmourGloireEtBeaute.fr" tvg-logo="http://s2.callofliberty.fr/tv/439-AmourGloireEtBeaute/439-AmourGloireEtBeaute.png",PLUTO TV AMOUR GLOIRE ET BEAUTÉ 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/439-AmourGloireEtBeaute/439-AmourGloireEtBeaute.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/AmourGloireEtBeaute/index.m3u8
+http://s2.callofliberty.fr/directfr/AmourGloireEtBeaute/index.m3u8
 #EXTINF:-1 tvg-chno="440" tvg-id="Degrassi.fr" tvg-logo="http://s2.callofliberty.fr/tv/440-Degrassi/440-Degrassi.png",PLUTO TV DEGRASSI 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/440-Degrassi/440-Degrassi.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/Degrassi/index.m3u8
+http://s2.callofliberty.fr/directfr/Degrassi/index.m3u8
 #EXTINF:-1 tvg-chno="441" tvg-id="DoctorWho.fr" tvg-logo="http://s2.callofliberty.fr/tv/441-DOCTORWHO/441-DOCTORWHO.png",PLUTO TV DOCTOR WHO 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/441-DOCTORWHO/441-DOCTORWHO.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/DOCTORWHO/index.m3u8
+http://s2.callofliberty.fr/directfr/DOCTORWHO/index.m3u8
 #EXTINF:-1 tvg-chno="442" tvg-id="ICarly.fr" tvg-logo="http://s2.callofliberty.fr/tv/442-iCarly/442-iCarly.png",PLUTO TV ICARLY 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/442-iCarly/442-iCarly.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/iCarly/index.m3u8
+http://s2.callofliberty.fr/directfr/iCarly/index.m3u8
 #EXTINF:-1 tvg-chno="443" tvg-id="LesCordierJugeEtFlic.fr" tvg-logo="http://s2.callofliberty.fr/tv/443-LESCORDIER/443-LESCORDIER.png",PLUTO TV LES CORDIER 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/443-LESCORDIER/443-LESCORDIER.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LESCORDIER/index.m3u8
+http://s2.callofliberty.fr/directfr/LESCORDIER/index.m3u8
 #EXTINF:-1 tvg-chno="444" tvg-id="LouisLaBrocante.fr" tvg-logo="http://s2.callofliberty.fr/tv/444-LouislaBrocante/444-LouislaBrocante.png",PLUTO TV LOUIS LA BROCANTE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/444-LouislaBrocante/444-LouislaBrocante.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LouislaBrocante/index.m3u8
+http://s2.callofliberty.fr/directfr/LouislaBrocante/index.m3u8
 #EXTINF:-1 tvg-chno="445" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/445-MACGYVER/445-MACGYVER.png",PLUTO TV MACGYVER 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/445-MACGYVER/445-MACGYVER.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/MACGYVER/index.m3u8
+http://s2.callofliberty.fr/directfr/MACGYVER/index.m3u8
 #EXTINF:-1 tvg-chno="446" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/446-MELROSEPLACE/446-MELROSEPLACE.png",PLUTO TV MELROSE PLACE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/446-MELROSEPLACE/446-MELROSEPLACE.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/MELROSEPLACE/index.m3u8
+http://s2.callofliberty.fr/directfr/MELROSEPLACE/index.m3u8
 #EXTINF:-1 tvg-chno="447" tvg-id="PlutoTvSeries.fr" tvg-logo="http://s2.callofliberty.fr/tv/447-Series/447-Series.png",PLUTO TV SERIES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/447-Series/447-Series.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/Series/index.m3u8
+http://s2.callofliberty.fr/directfr/Series/index.m3u8
 #EXTINF:-1 tvg-chno="448" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/448-SERIESFANTASTIQUES/448-SERIESFANTASTIQUES.png",PLUTO TV SÉRIES FANTASTIQUES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/448-SERIESFANTASTIQUES/448-SERIESFANTASTIQUES.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/SERIESFANTASTIQUES/index.m3u8
+http://s2.callofliberty.fr/directfr/SERIESFANTASTIQUES/index.m3u8
 #EXTINF:-1 tvg-chno="449" tvg-id="PlutoTvTeenSeries.fr" tvg-logo="http://s2.callofliberty.fr/tv/449-TEENSERIES/449-TEENSERIES.png",PLUTO TV TEEN SÉRIES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/449-TEENSERIES/449-TEENSERIES.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/TEENSERIES/index.m3u8
+http://s2.callofliberty.fr/directfr/TEENSERIES/index.m3u8
 #EXTINF:-1 tvg-chno="450" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/450-Ungarsunefille/450-Ungarsunefille.png",PLUTO TV UN GARS UNE FILLE 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/450-Ungarsunefille/450-Ungarsunefille.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/Ungarsunefille/index.m3u8
+http://s2.callofliberty.fr/directfr/Ungarsunefille/index.m3u8
 #EXTINF:-1 tvg-chno="451" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/451-VICTORIOUS/451-VICTORIOUS.png",PLUTO TV VICTORIOUS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/451-VICTORIOUS/451-VICTORIOUS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/VICTORIOUS/index.m3u8
+http://s2.callofliberty.fr/directfr/VICTORIOUS/index.m3u8
 #EXTINF:-1 tvg-chno="452" tvg-id="WalkerTexasRanger.fr" tvg-logo="http://s2.callofliberty.fr/tv/452-WALKERTEXASRANGER/452-WALKERTEXASRANGER.png",PLUTO TV WALKER TEXAS RANGER 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/452-WALKERTEXASRANGER/452-WALKERTEXASRANGER.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/WALKERTEXASRANGER/index.m3u8
+http://s2.callofliberty.fr/directfr/WALKERTEXASRANGER/index.m3u8
 #EXTINF:-1 tvg-chno="461" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/461-RakutenTVACTION/461-RakutenTVACTION.png",RAKUTEN TV ACTION 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/461-RakutenTVACTION/461-RakutenTVACTION.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RakutenTVACTION/index.m3u8
+http://s2.callofliberty.fr/directfr/RakutenTVACTION/index.m3u8
 #EXTINF:-1 tvg-chno="462" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/462-RakutenTVDRAMES/462-RakutenTVDRAMES.png",RAKUTEN TV DRAMES 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/462-RakutenTVDRAMES/462-RakutenTVDRAMES.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RakutenTVDRAMES/index.m3u8
+http://s2.callofliberty.fr/directfr/RakutenTVDRAMES/index.m3u8
 #EXTINF:-1 tvg-chno="463" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/463-RakutenTVTHRILLERS/463-RakutenTVTHRILLERS.png",RAKUTEN TV THRILLERS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/463-RakutenTVTHRILLERS/463-RakutenTVTHRILLERS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RakutenTVTHRILLERS/index.m3u8
+http://s2.callofliberty.fr/directfr/RakutenTVTHRILLERS/index.m3u8
 #EXTINF:-1 tvg-chno="464" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/464-RakutenTVTOPFILMS/464-RakutenTVTOPFILMS.png",RAKUTEN TV TOP FILMS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/464-RakutenTVTOPFILMS/464-RakutenTVTOPFILMS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/RakutenTVTOPFILMS/index.m3u8
+http://s2.callofliberty.fr/directfr/RakutenTVTOPFILMS/index.m3u8
 #EXTINF:-1 tvg-chno="481" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/481-caillou/481-caillou.png",SMART TV CAILLOU 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/481-caillou/481-caillou.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/caillou/index.m3u8
+http://s2.callofliberty.fr/directfr/caillou/index.m3u8
 #EXTINF:-1 tvg-chno="482" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/482-JELLYTOON/482-JELLYTOON.png",SMART TV JELLYTOON 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/482-JELLYTOON/482-JELLYTOON.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/JELLYTOON/index.m3u8
+http://s2.callofliberty.fr/directfr/JELLYTOON/index.m3u8
 #EXTINF:-1 tvg-chno="483" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/483-SUPERTOONSTV/483-SUPERTOONSTV.png",SMART TV SUPER TOONS TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/483-SUPERTOONSTV/483-SUPERTOONSTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/SUPERTOONSTV/index.m3u8
+http://s2.callofliberty.fr/directfr/SUPERTOONSTV/index.m3u8
 #EXTINF:-1 tvg-chno="484" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/484-XILAMTV/484-XILAMTV.png",SMART TV XILAM TV 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/484-XILAMTV/484-XILAMTV.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/XILAMTV/index.m3u8
+http://s2.callofliberty.fr/directfr/XILAMTV/index.m3u8
 #EXTINF:-1 tvg-chno="485" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/485-MOTUS/485-MOTUS.png",SMART TV MOTUS 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/485-MOTUS/485-MOTUS.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/MOTUS/index.m3u8
+http://s2.callofliberty.fr/directfr/MOTUS/index.m3u8
 #EXTINF:-1 tvg-chno="486" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/486-LEQUIPElive1/486-LEQUIPElive1.png",SMART TV L'ÉQUIPE LIVE 1 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/486-LEQUIPElive1/486-LEQUIPElive1.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LEQUIPElive1/index.m3u8
+http://s2.callofliberty.fr/directfr/LEQUIPElive1/index.m3u8
 #EXTINF:-1 tvg-chno="487" tvg-id="" tvg-logo="http://s2.callofliberty.fr/tv/487-LEQUIPElive2/487-LEQUIPElive2.png",SMART TV L'ÉQUIPE LIVE 2 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/487-LEQUIPElive2/487-LEQUIPElive2.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/LEQUIPElive2/index.m3u8
+http://s2.callofliberty.fr/directfr/LEQUIPElive2/index.m3u8
 #EXTINF:-1 tvg-chno="488" tvg-id="WorldPokerTourPtv1.fr" tvg-logo="http://s2.callofliberty.fr/tv/488-WORLDPOKERTOUR/488-WORLDPOKERTOUR.png",SMART TV WORLD POKER TOUR 
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/488-WORLDPOKERTOUR/488-WORLDPOKERTOUR.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://s2.callofliberty.fr/directweb/WORLDPOKERTOUR/index.m3u8
+http://s2.callofliberty.fr/directfr/WORLDPOKERTOUR/index.m3u8
