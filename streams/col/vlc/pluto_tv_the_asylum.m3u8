@@ -3,8 +3,8 @@
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/433-THEASYLUM/433-THEASYLUM.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="433" tvg-id="TheAsylumChannel.fr" tvg-logo="http://s2.callofliberty.fr/tv/433-THEASYLUM/433-THEASYLUM.png",PLUTO TV THE ASYLUM 
-http://s2.callofliberty.fr/directweb/THEASYLUM/index.m3u8
+http://s2.callofliberty.fr/directfr/THEASYLUM/index.m3u8
 
 #This only works for the VLC player (Open Network Stream CTRL+N). It can also work in other players if you manually set up the referrer and user-agent in the player settings.
 #Playlist is located at '/playlists/col/vlc.m3u8'.
-#Last refreshed on 25/04/2024 05:08:15 CEST.
+#Last refreshed on 25/04/2024 16:55:06 CEST.
