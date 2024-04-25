@@ -3,8 +3,8 @@
 #EXTVLCOPT:http-referrer=http://s2.callofliberty.fr/tv/221-france.3picardie/221-france.3picardie.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="221" tvg-id="France3Picardie.fr" tvg-logo="http://s2.callofliberty.fr/tv/221-france.3picardie/221-france.3picardie.png",FRANCE 3 PICARDIE 
-http://s2.callofliberty.fr/directtv/france.3picardie/master.m3u8
+http://s2.callofliberty.fr/directweb/france.3picardie/master.m3u8
 
 #This only works for the VLC player (Open Network Stream CTRL+N). It can also work in other players if you manually set up the referrer and user-agent in the player settings.
 #Playlist is located at '/playlists/col/vlc.m3u8'.
-#Last refreshed on 23/04/2024 15:36:12 CEST.
+#Last refreshed on 25/04/2024 02:16:10 CEST.
