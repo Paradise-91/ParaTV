@@ -2,6 +2,18 @@
 
 #This only works for Kodi (tested in IPTV Simple Client).
 
+# For the site owner,
+#
+# There is no way to contact you, but I know you will see this. I have stopped the script to update the playlist. 
+# I don't want either of us to waste our time by you continuously banning all the user-agents of your website or changing link paths. 
+# I like your project, and I just wanted to make the content of the website easily accessible for TV, but it seems like you don't want to. 
+# It would be cool if you could make a playlist for TV with geo-blocking that allow France only on the streams if you don't want it to spread too much. 
+# It's just an idea. If you want to keep it secret like this for legal reasons, then I understand.
+#
+# PS: You can unban Chrome now. I've seen your message "Vilain Voyou". It's pretty funny, even if the website is not very legal itself.
+#
+# Le Vilain Voyou
+
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="http://s2.callofliberty.fr/tv/1-TF1/1-TF1.png",TF1 
 http://s2.callofliberty.fr/directlive/TF1/master.m3u8|Referer=http://s2.callofliberty.fr/tv/1-TF1/1-TF1.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Safari%2F537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="http://s2.callofliberty.fr/tv/2-france.2/2-france.2.png",FRANCE 2 
