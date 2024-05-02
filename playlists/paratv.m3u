@@ -90,6 +90,14 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/teva/teva.m3u8
 #PARIS PREMIERE
 #EXTINF:-1 tvg-chno="35" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png" tvg-country="FR" group-title="FRANCE",Paris Premiere
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/parispremiere/parispremiere.m3u8
+#FRANCE TV DOCS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="100" tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR" group-title="FRANCE",France TV Docs
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.m3u8
+#FRANCE TV SERIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="FRANCE",France TV Séries
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
 
 #SUISSE
 #EXTINF:-1 tvg-chno="1001" tvg-id="RTSUn.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-un-ch.png" tvg-country="CH" group-title="SUISSE",RTS Un [OFFLINE]
