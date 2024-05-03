@@ -3,7 +3,7 @@
 #FRANCE
 #TF1
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="FRANCE",TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tf1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #FRANCE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" tvg-country="FR" group-title="FRANCE",France 2
@@ -33,10 +33,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/c8/c8.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/w9/w9.m3u8
 #TMC
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" tvg-country="FR" group-title="FRANCE",TMC
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tmc.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 #TFX
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" tvg-country="FR" group-title="FRANCE",TFX
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tfx.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #NRJ12
 #EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/nrj-12-fr.png" tvg-country="FR" group-title="FRANCE",NRJ 12 [BACKUP]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj12/nrj12.m3u8
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cstar/cstar.m3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gulli/gulli.m3u8
 #TF1 SERIES FILMS
 #EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" tvg-country="FR" group-title="FRANCE",TF1 Séries Films
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tf1sf.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 #EQUIPE 21
 #EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png" tvg-country="FR" group-title="FRANCE",L'Equipe 21
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equipe21/equipe21.m3u8
@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmcdecouverte/
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cherie25/cherie25.m3u8
 #LCI
 #EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" tvg-country="FR" group-title="FRANCE",LCI
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/lci.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
 #FRANCE INFO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" tvg-country="FR" group-title="FRANCE",France Info
@@ -90,14 +90,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/teva/teva.m3u8
 #PARIS PREMIERE
 #EXTINF:-1 tvg-chno="35" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png" tvg-country="FR" group-title="FRANCE",Paris Premiere
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/parispremiere/parispremiere.m3u8
-#FRANCE TV DOCS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="100" tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR" group-title="FRANCE",France TV Docs
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.m3u8
-#FRANCE TV SERIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="FRANCE",France TV Séries
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
 
 #SUISSE
 #EXTINF:-1 tvg-chno="1001" tvg-id="RTSUn.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-un-ch.png" tvg-country="CH" group-title="SUISSE",RTS Un [OFFLINE]
@@ -108,3 +100,117 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtsdeux/rtsdeu
 #BELGIQUE
 #EXTINF:-1 tvg-chno="1003" tvg-id="PlugRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" tvg-country="BE" group-title="BELGIQUE",RTL Plug
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtlplug/rtlplug.m3u8
+
+#FRANCE.TV
+#FRANCE TV DOCS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="100" tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR" group-title="FRANCE.TV",France TV Docs
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.m3u8
+#FRANCE TV SERIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="FRANCE.TV",France TV Séries
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
+
+#TF1PLUS
+#NOTRE PLANÈTE
+#EXTINF:-1 tvg-chno="200" tvg-id="" tvg-logo="https://i.imgur.com/4vYf7WE.png" tvg-country="FR" group-title="TF1PLUS",NOTRE PLANÈTE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/notre-planete.m3u8
+#LES ENFOIRÉS
+#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-logo="https://i.imgur.com/gc4o8Jx.png" tvg-country="FR" group-title="TF1PLUS",LES ENFOIRÉS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-enfoires.m3u8
+#LES RESTOS DU CŒUR
+#EXTINF:-1 tvg-chno="202" tvg-id="" tvg-logo="https://i.imgur.com/LBybvLe.png" tvg-country="FR" group-title="TF1PLUS",LES RESTOS DU CŒUR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-restos-du-coeur.m3u8
+#PALMASHOW TV
+#EXTINF:-1 tvg-chno="203" tvg-id="" tvg-logo="https://i.imgur.com/yKzaS2p.png" tvg-country="FR" group-title="TF1PLUS",PALMASHOW TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/palmashow.m3u8
+#TAKEN TV
+#EXTINF:-1 tvg-chno="204" tvg-id="" tvg-logo="https://i.imgur.com/ggZyeqo.png" tvg-country="FR" group-title="TF1PLUS",TAKEN TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/taken.m3u8
+#NARUTO TV
+#EXTINF:-1 tvg-chno="205" tvg-id="" tvg-logo="https://i.imgur.com/XDSZEf5.png" tvg-country="FR" group-title="TF1PLUS",NARUTO TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/naruto.m3u8
+#RIS POLICE SCIENTIFIQUE TV
+#EXTINF:-1 tvg-chno="206" tvg-id="" tvg-logo="https://i.imgur.com/vuegmgX.png" tvg-country="FR" group-title="TF1PLUS",RIS POLICE SCIENTIFIQUE TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ris-police-scientifique.m3u8
+#MAMANS & CÉLÈBRES TV
+#EXTINF:-1 tvg-chno="207" tvg-id="" tvg-logo="https://i.imgur.com/TTHKVng.png" tvg-country="FR" group-title="TF1PLUS",MAMANS & CÉLÈBRES TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/mamans-and-celebres.m3u8
+#SOUS LE SOLEIL
+#EXTINF:-1 tvg-chno="208" tvg-id="" tvg-logo="https://i.imgur.com/p8z2Pdx.png" tvg-country="FR" group-title="TF1PLUS",SOUS LE SOLEIL
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/sous-le-soleil.m3u8
+#INAZUMA ELEVEN TV
+#EXTINF:-1 tvg-chno="209" tvg-id="" tvg-logo="https://i.imgur.com/nnurTYz.png" tvg-country="FR" group-title="TF1PLUS",INAZUMA ELEVEN TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/inazuma-eleven.m3u8
+#NASHVILLE TV
+#EXTINF:-1 tvg-chno="210" tvg-id="" tvg-logo="https://i.imgur.com/MnhmPBS.png" tvg-country="FR" group-title="TF1PLUS",NASHVILLE TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/nashville.m3u8
+#FOUDRE
+#EXTINF:-1 tvg-chno="211" tvg-id="" tvg-logo="https://i.imgur.com/GvRjHlF.png" tvg-country="FR" group-title="TF1PLUS",FOUDRE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/foudre.m3u8
+#POUR TOUJOURS PLUS UN JOUR TV
+#EXTINF:-1 tvg-chno="212" tvg-id="" tvg-logo="https://i.imgur.com/HIoOJP7.png" tvg-country="FR" group-title="TF1PLUS",POUR TOUJOURS PLUS UN JOUR TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/pour-toujours-plus-un-jour.m3u8
+#POLAR FICTION TV
+#EXTINF:-1 tvg-chno="213" tvg-id="" tvg-logo="https://i.imgur.com/gGcEmJy.png" tvg-country="FR" group-title="TF1PLUS",POLAR FICTION TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/police-fiction.m3u8
+#THRILLER FICTION
+#EXTINF:-1 tvg-chno="214" tvg-id="" tvg-logo="https://i.imgur.com/4qgvfWz.png" tvg-country="FR" group-title="TF1PLUS",THRILLER FICTION
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/thriller-fiction.m3u8
+#COMÉDIE FICTION
+#EXTINF:-1 tvg-chno="215" tvg-id="" tvg-logo="https://i.imgur.com/xYTnqgs.png" tvg-country="FR" group-title="TF1PLUS",COMÉDIE FICTION
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/comedie-fiction.m3u8
+#SAGA DE L'ÉTÉ TV
+#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://i.imgur.com/pt98fmf.png" tvg-country="FR" group-title="TF1PLUS",SAGA DE L'ÉTÉ TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/saga-de-lete.m3u8
+#CHANTE !
+#EXTINF:-1 tvg-chno="217" tvg-id="" tvg-logo="https://i.imgur.com/pu2vetV.png" tvg-country="FR" group-title="TF1PLUS",CHANTE !
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/chante.m3u8
+#SECONDE CHANCE
+#EXTINF:-1 tvg-chno="218" tvg-id="" tvg-logo="https://i.imgur.com/sF0lTZP.png" tvg-country="FR" group-title="TF1PLUS",SECONDE CHANCE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/seconde-chance.m3u8
+#PAS DE SECRET ENTRE NOUS
+#EXTINF:-1 tvg-chno="219" tvg-id="" tvg-logo="https://i.imgur.com/cnsaBl1.png" tvg-country="FR" group-title="TF1PLUS",PAS DE SECRET ENTRE NOUS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/pas-de-ca-entre-nous.m3u8
+#HARTLEY, COEUR À VIF
+#EXTINF:-1 tvg-chno="220" tvg-id="" tvg-logo="https://i.imgur.com/2QGNRM5.png" tvg-country="FR" group-title="TF1PLUS",HARTLEY, COEUR À VIF
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/hartley-coeur-a-vif.m3u8
+#LE DESTIN DE LISA TV
+#EXTINF:-1 tvg-chno="221" tvg-id="" tvg-logo="https://i.imgur.com/5t4eEtL.png" tvg-country="FR" group-title="TF1PLUS",LE DESTIN DE LISA TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-destin-de-lisa.m3u8
+#BORUTO: NARUTO NEXT GEN TV
+#EXTINF:-1 tvg-chno="222" tvg-id="" tvg-logo="https://i.imgur.com/XIb6l36.png" tvg-country="FR" group-title="TF1PLUS",BORUTO: NARUTO NEXT GEN TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boruto-naruto-next-generatio.m3u8
+#STAR ACADEMY TV
+#EXTINF:-1 tvg-chno="223" tvg-id="" tvg-logo="https://i.imgur.com/QhWkGNN.png" tvg-country="FR" group-title="TF1PLUS",STAR ACADEMY TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/star-academy.m3u8
+#LA VILLA DES CŒURS BRISÉS TV
+#EXTINF:-1 tvg-chno="224" tvg-id="" tvg-logo="https://i.imgur.com/HCx0Q4i.png" tvg-country="FR" group-title="TF1PLUS",LA VILLA DES CŒURS BRISÉS TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-villa-des-coeurs-brises.m3u8
+#LA BATAILLE DES COUPLES TV
+#EXTINF:-1 tvg-chno="225" tvg-id="" tvg-logo="https://i.imgur.com/0gDSjtG.png" tvg-country="FR" group-title="TF1PLUS",LA BATAILLE DES COUPLES TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-couples.m3u8
+#FRANÇOIS DAMIENS TV
+#EXTINF:-1 tvg-chno="226" tvg-id="" tvg-logo="https://i.imgur.com/SrPQVxp.png" tvg-country="FR" group-title="TF1PLUS",FRANÇOIS DAMIENS TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/francois-lembrouille.m3u8
+#LES INCONNUS TV
+#EXTINF:-1 tvg-chno="227" tvg-id="" tvg-logo="https://i.imgur.com/31w3MTI.png" tvg-country="FR" group-title="TF1PLUS",LES INCONNUS TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-inconnus.m3u8
+#DANSE AVEC LES STARS TV
+#EXTINF:-1 tvg-chno="228" tvg-id="" tvg-logo="https://i.imgur.com/bI5hYv1.png" tvg-country="FR" group-title="TF1PLUS",DANSE AVEC LES STARS TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/danse-avec-les-stars.m3u8
+#LA BATAILLE DES CLANS TV
+#EXTINF:-1 tvg-chno="229" tvg-id="" tvg-logo="https://i.imgur.com/ioGvLuG.png" tvg-country="FR" group-title="TF1PLUS",LA BATAILLE DES CLANS TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-clans.m3u8
+#LOLYWOOD TV
+#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-logo="https://i.imgur.com/CtifFwz.png" tvg-country="FR" group-title="TF1PLUS",LOLYWOOD TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lolywood.m3u8
+#USHUAIA FOR CHANGE
+#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-logo="https://i.imgur.com/AR0WjAE.png" tvg-country="FR" group-title="TF1PLUS",USHUAIA FOR CHANGE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
+#BOULE ET BILL TV
+#EXTINF:-1 tvg-chno="232" tvg-id="" tvg-logo="https://i.imgur.com/kIc0h5h.png" tvg-country="FR" group-title="TF1PLUS",BOULE ET BILL TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boule-et-bill.m3u8
+#SUPER WINGS TV
+#EXTINF:-1 tvg-chno="233" tvg-id="" tvg-logo="https://i.imgur.com/W3Lblts.png" tvg-country="FR" group-title="TF1PLUS",SUPER WINGS TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/super-wings.m3u8
