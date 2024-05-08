@@ -118,6 +118,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="101" tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="FRANCE.TV",France TV Séries
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
+#FRANCE TV PARIS 2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="102" tvg-id="" tvg-logo="https://i.imgur.com/WQWr91P.png" tvg-country="FR" group-title="FRANCE.TV",France TV Paris 2024
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/paris2024.m3u8
 
 #TF1PLUS
 #NOTRE PLANÈTE
