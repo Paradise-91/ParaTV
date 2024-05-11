@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cana
 #EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" tvg-country="FR" group-title="FRANCE",France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 #M6
-#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" tvg-country="FR" group-title="FRANCE",M6 [BACKUP-TEST]
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" tvg-country="FR" group-title="FRANCE",M6 [BACKUP]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6/m6.m3u8
 #ARTE
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" tvg-country="FR" group-title="FRANCE",Arte
@@ -102,12 +102,24 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtsdeux/rtsdeu
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtlplug/rtlplug.m3u8
 
 #LEQUIPE.FR
-#EQUIPE 21
-#EXTINF:-1 tvg-chno="98" tvg-logo="https://i.imgur.com/3gfaW8a.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 1
+#JOURNAL DU GOLF
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://i.imgur.com/a10Rnsp.png" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/journal-du-golf-tv.m3u8
+#EQUIPE LIVE 1
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://i.imgur.com/3gfaW8a.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 1 [NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1.m3u8
-#EQUIPE 21
-#EXTINF:-1 tvg-chno="99" tvg-logo="https://i.imgur.com/bmXOZME.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 2
+#EQUIPE LIVE 2
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://i.imgur.com/bmXOZME.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 2 [NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2.m3u8
+#EQUIPE LIVE 3
+#EXTINF:-1 tvg-chno="83" tvg-logo="" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 3 [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3.m3u8
+#EQUIPE LIVE 4
+#EXTINF:-1 tvg-chno="84" tvg-logo="" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 4 [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-4.m3u8
+#EQUIPE LIVE 5
+#EXTINF:-1 tvg-chno="85" tvg-logo="" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 5 [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-5.m3u8
 
 #FRANCE.TV
 #FRANCE TV DOCS
