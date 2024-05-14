@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cana
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 #M6
 #EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" tvg-country="FR" group-title="FRANCE",M6 [BACKUP]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6/m6.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/m6.m3u8
 #ARTE
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" tvg-country="FR" group-title="FRANCE",Arte
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/c8/c8.m3u8
 #W9
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" tvg-country="FR" group-title="FRANCE",W9 [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/w9/w9.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/w9.m3u8
 #TMC
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" tvg-country="FR" group-title="FRANCE",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cnews/cnews.m3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cstar/cstar.m3u8
 #GULLI
 #EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" tvg-country="FR" group-title="FRANCE",Gulli
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gulli/gulli.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
 #TF1 SERIES FILMS
 #EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" tvg-country="FR" group-title="FRANCE",TF1 Séries Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct.m3u8
 #6TER
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" tvg-country="FR" group-title="FRANCE",6ter [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/6ter/6ter.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/6ter.m3u8
 #RMC STORY
 #EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" tvg-country="FR" group-title="FRANCE",RMC Story [BACKUP]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmcstory/rmcstory.m3u8
@@ -86,10 +86,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #TEVA
 #EXTINF:-1 tvg-chno="34" tvg-id="Teva.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/teva-fr.png" tvg-country="FR" group-title="FRANCE",Téva
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/teva/teva.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/teva.m3u8
 #PARIS PREMIERE
 #EXTINF:-1 tvg-chno="35" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png" tvg-country="FR" group-title="FRANCE",Paris Premiere
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/parispremiere/parispremiere.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/parispremiere.m3u8
 
 #SUISSE
 #EXTINF:-1 tvg-chno="1001" tvg-id="RTSUn.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-un-ch.png" tvg-country="CH" group-title="SUISSE",RTS Un [OFFLINE]
