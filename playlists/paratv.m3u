@@ -134,6 +134,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/serie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="102" tvg-id="" tvg-logo="https://i.imgur.com/WQWr91P.png" tvg-country="FR" group-title="FRANCE.TV",France TV Paris 2024
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/paris2024.m3u8
+#FESTIVAL DE CANNES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="103" tvg-id="" tvg-logo="https://i.imgur.com/5hD0HHg.png" tvg-country="FR" group-title="FRANCE.TV",TV du Festival de Cannes
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-de-cannes.m3u8
 
 #TF1PLUS
 #NOTRE PLANÈTE
