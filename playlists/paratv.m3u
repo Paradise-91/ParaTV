@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/m6.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #C8
 #EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/C8_color.png?h=100" tvg-country="FR" group-title="FRANCE",C8
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/c8/c8.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8.m3u8
 #W9
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" tvg-country="FR" group-title="FRANCE",W9 [BACKUP]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/w9.m3u8
@@ -52,10 +52,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bfmtv/bfmtv.m3u8
 #CNEWS
 #EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cnews/cnews.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
 #CSTAR
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" tvg-country="FR" group-title="FRANCE",CStar
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cstar/cstar.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
 #GULLI
 #EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Gulli100x100Couleur.png?h=100" tvg-country="FR" group-title="FRANCE",Gulli
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
@@ -70,10 +70,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-cha
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/6ter.m3u8
 #RMC STORY
 #EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Story [BACKUP]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmcstory/rmcstory.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc/rmcstory.m3u8
 #RMC DECOUVERTE
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Découverte [BACKUP]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmcdecouverte/rmcdecouverte.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc/rmcdecouverte.m3u8
 #CHERIE 25
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" tvg-country="FR" group-title="FRANCE",Chérie 25
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m3u8
@@ -93,13 +93,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/parispr
 
 #SUISSE
 #EXTINF:-1 tvg-chno="1001" tvg-id="RTSUn.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-un-ch.png" tvg-country="CH" group-title="SUISSE",RTS Un [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtsun/rtsun.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rts/rtsun.m3u8
 #EXTINF:-1 tvg-chno="1002" tvg-id="RTSDeux.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-deux-ch.png" tvg-country="CH" group-title="SUISSE",RTS Deux [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtsdeux/rtsdeux.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rts/rtsdeux.m3u8
 
 #BELGIQUE
 #EXTINF:-1 tvg-chno="1003" tvg-id="PlugRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" tvg-country="BE" group-title="BELGIQUE",RTL Plug
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtlplug/rtlplug.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtlplug.m3u8
 
 #LEQUIPE.FR
 #JOURNAL DU GOLF
