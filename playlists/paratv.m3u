@@ -134,10 +134,22 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/serie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="102" tvg-id="" tvg-logo="https://i.imgur.com/WQWr91P.png" tvg-country="FR" group-title="FRANCE.TV",France TV Paris 2024
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/paris2024.m3u8
-#FESTIVAL DE CANNES
+#ROLAND-GARROS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="103" tvg-id="" tvg-logo="https://i.imgur.com/5hD0HHg.png" tvg-country="FR" group-title="FRANCE.TV",TV du Festival de Cannes
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-de-cannes.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros 1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg1.m3u8
+#ROLAND-GARROS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="104" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg2.m3u8
+#ROLAND-GARROS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="105" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros 3
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg3.m3u8
+#ROLAND-GARROS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="106" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros 4
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg4.m3u8
 
 #TF1PLUS
 #NOTRE PLANÈTE
