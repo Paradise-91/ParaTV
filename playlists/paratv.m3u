@@ -134,26 +134,66 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/serie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="102" tvg-id="" tvg-logo="https://i.imgur.com/WQWr91P.png" tvg-country="FR" group-title="FRANCE.TV",France TV Paris 2024
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/paris2024.m3u8
-#ROLAND-GARROS 1
+#ROLAND-GARROS EVENT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="103" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros 1
+#EXTINF:-1 tvg-chno="103" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Le direct TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg1.m3u8
-#ROLAND-GARROS 2
+#ROLAND-GARROS EVENT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="104" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros 2
+#EXTINF:-1 tvg-chno="104" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Event 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg2.m3u8
-#ROLAND-GARROS 3
+#ROLAND-GARROS EVENT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="105" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros 3
+#EXTINF:-1 tvg-chno="105" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Event 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg3.m3u8
-#ROLAND-GARROS 4
+#ROLAND-GARROS EVENT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="106" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros 4
+#EXTINF:-1 tvg-chno="106" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Event 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg4.m3u8
-#ROLAND-GARROS 5
+#ROLAND-GARROS EVENT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="107" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros 5
+#EXTINF:-1 tvg-chno="107" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Event 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg5.m3u8
+#ROLAND-GARROS COURT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="108" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Court n°4
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rgc4.m3u8
+#ROLAND-GARROS COURT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="109" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Court n°5
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rgc5.m3u8
+#ROLAND-GARROS COURT 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="110" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Court n°6
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rgc6.m3u8
+#ROLAND-GARROS COURT 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="111" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Court n°7
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rgc7.m3u8
+#ROLAND-GARROS COURT 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="112" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Court n°8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rgc8.m3u8
+#ROLAND-GARROS COURT 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="113" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Court n°9
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rgc9.m3u8
+#ROLAND-GARROS COURT 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="114" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Court n°10
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rgc10.m3u8
+#ROLAND-GARROS COURT 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="115" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Court n°11
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rgc11.m3u8
+#ROLAND-GARROS COURT 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="116" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Court n°12
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rgc12.m3u8
+#ROLAND-GARROS COURT 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="117" tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",Roland-Garros Court n°13
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rgc13.m3u8
 
 #TF1PLUS
 #NOTRE PLANÈTE
