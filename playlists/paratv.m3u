@@ -41,8 +41,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3
 #EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/NRJ12_color.png?h=100" tvg-country="FR" group-title="FRANCE",NRJ 12
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/nrj12.m3u8
 #LCP
-#EXTINF:-1 tvg-chno="13" tvg-id="LCP100.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP 
+#EXTINF:-1 tvg-chno="13" tvg-id="LCP100.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP-AN 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp.m3u8
+#PUBLIC SENAT
+#EXTINF:-1 tvg-chno="" tvg-id="PublicSenat2424.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="FRANCE",Public Sénat 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat.m3u8
 #FRANCE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 4
