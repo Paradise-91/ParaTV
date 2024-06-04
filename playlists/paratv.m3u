@@ -101,13 +101,29 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rts/rtsun.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rts/rtsdeux.m3u8
 
 #BELGIQUE
-#EXTINF:-1 tvg-chno="1003" tvg-id="PlugRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" tvg-country="BE" group-title="BELGIQUE",RTL Plug
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtlplug.m3u8
+#RTL TVI
+#EXTINF:-1 tvg-chno="1003" tvg-id="RTLTVI.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" tvg-country="BE" group-title="BELGIQUE",RTL tvi
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.m3u8
+#RTL CLUB
+#EXTINF:-1 tvg-chno="1004" tvg-id="ClubRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-club-be.png" tvg-country="BE" group-title="BELGIQUE",RTL club
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/clubrtl.m3u8
+#RTL PLUG
+#EXTINF:-1 tvg-chno="1005" tvg-id="PlugRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" tvg-country="BE" group-title="BELGIQUE",RTL plug
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/plugrtl.m3u8
+#BEL RTL
+#EXTINF:-1 tvg-chno="1006" tvg-id="BelRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/bel-rtl-be.png" tvg-country="BE" group-title="BELGIQUE",bel RTL
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
+#RADIO CONTACT
+#EXTINF:-1 tvg-chno="1007" tvg-id="RadioContact.be" tvg-logo="https://images.lesindesradios.fr/100x100/radios/contactfm/images/logo.png" tvg-country="BE" group-title="BELGIQUE",Radio Contact
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/contact.m3u8
 
 #LEQUIPE.FR
 #JOURNAL DU GOLF
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://i.imgur.com/a10Rnsp.png" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [NOT 24/7]
+#EXTINF:-1 tvg-chno="79" tvg-logo="https://i.imgur.com/a10Rnsp.png" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/journal-du-golf-tv.m3u8
+#LIVE FOOT
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://i.imgur.com/p7UiaCG.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live foot
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot.m3u8
 #EQUIPE LIVE 1
 #EXTINF:-1 tvg-chno="81" tvg-logo="https://i.imgur.com/3gfaW8a.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 1 [NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1.m3u8
