@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" tvg-country="FR",W9 [BACKUP]
-https://s14.tntendirect.com/w9/live/playlist.m3u8
-#^BACKUP LINK^#
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" tvg-country="FR",W9 [OFFLINE]
+https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.ts

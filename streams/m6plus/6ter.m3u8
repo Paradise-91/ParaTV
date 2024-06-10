@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100" tvg-country="FR",6ter [BACKUP]
-https://s14.tntendirect.com/6ter/live/playlist.m3u8
-#^BACKUP LINK^#
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100" tvg-country="FR",6ter [OFFLINE]
+https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.ts
