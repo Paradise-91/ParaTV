@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100" tvg-country="FR" group-title="FRANCE",M6 [BACKUP]
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=5420000,BANDWIDTH=6770000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.640020,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://livetvde.net/m6/tracks-v1a1/mono.m3u8
 
-#Last refreshed on 11/05/2024 00:23:00 CET
+#Last refreshed on 12/06/2024 14:00:00 CET
