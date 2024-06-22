@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-event01-b31-cdn.hexaglobe.net/6dad15afc1d20cd6e2c8a0873b56e7cd/66775ed8/equidia/equidia-mobileapp-ios-1/eqdevent01pri_fre.smil/slot04_audio_french.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=2380400,RESOLUTION=1152x648,AUDIO="group_aud"
+https://equidia-event01-b31-cdn.hexaglobe.net/6dad15afc1d20cd6e2c8a0873b56e7cd/66775ed8/equidia/equidia-mobileapp-ios-1/eqdevent01pri_fre.smil/slot04_648p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1280400,RESOLUTION=960x540,AUDIO="group_aud"
+https://equidia-event01-b31-cdn.hexaglobe.net/6dad15afc1d20cd6e2c8a0873b56e7cd/66775ed8/equidia/equidia-mobileapp-ios-1/eqdevent01pri_fre.smil/slot04_540p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=840400,RESOLUTION=640x360,AUDIO="group_aud"
+https://equidia-event01-b31-cdn.hexaglobe.net/6dad15afc1d20cd6e2c8a0873b56e7cd/66775ed8/equidia/equidia-mobileapp-ios-1/eqdevent01pri_fre.smil/slot04_360p.m3u8
+
+#Last refreshed on 23/06/2024 01:31:27 CEST.
