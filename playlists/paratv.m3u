@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cana
 #EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 #M6
-#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100" tvg-country="FR" group-title="FRANCE",M6 [BACKUP]
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100" tvg-country="FR" group-title="FRANCE",M6 [OFFLINE]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/m6.m3u8
 #ARTE
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" tvg-country="FR" group-title="FRANCE",Arte
@@ -102,10 +102,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rts/rtsdeux.m3
 
 #BELGIQUE
 #RTL TVI
-#EXTINF:-1 tvg-chno="1003" tvg-id="RTLTVI.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" tvg-country="BE" group-title="BELGIQUE",RTL tvi
+#EXTINF:-1 tvg-chno="1003" tvg-id="RTLTVI.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" tvg-country="BE" group-title="BELGIQUE",RTL tvi [OFFLINE]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.m3u8
 #RTL CLUB
-#EXTINF:-1 tvg-chno="1004" tvg-id="ClubRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-club-be.png" tvg-country="BE" group-title="BELGIQUE",RTL club
+#EXTINF:-1 tvg-chno="1004" tvg-id="ClubRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-club-be.png" tvg-country="BE" group-title="BELGIQUE",RTL club [OFFLINE]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/clubrtl.m3u8
 #RTL PLUG
 #EXTINF:-1 tvg-chno="1005" tvg-id="PlugRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" tvg-country="BE" group-title="BELGIQUE",RTL plug
