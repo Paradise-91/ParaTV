@@ -1,19 +1,15 @@
 #EXTM3U
-#EXT-X-VERSION:7
-## Just In Time Delivered by Quortex Solution, version 3.0.1
+#EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=3150000,RESOLUTION=1280x720,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/vwY8N2N/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=400x224,FRAME-RATE=25,CODECS="avc1.42000c,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/vQUYxBa/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.640016,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/vcrp6Kd/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=720x404,FRAME-RATE=25,CODECS="avc1.640016,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/vvJVUc5/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2100000,RESOLUTION=960x540,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/vOeVqA6/index.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/ayKqaBx/index.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="audio-qaa",LANGUAGE="qaa",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/aBQqtIt/index.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="audio-qad",LANGUAGE="qad",CHARACTERISTICS="public.accessibility.describes-video",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/afZJeKs/index.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=489280,AVERAGE-BANDWIDTH=545600,CODECS="avc1.4d4029,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_400.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=681120,AVERAGE-BANDWIDTH=765600,CODECS="avc1.4d4029,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_600.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=872960,AVERAGE-BANDWIDTH=985600,CODECS="avc1.4d4029,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_800.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1256640,AVERAGE-BANDWIDTH=1425600,CODECS="avc1.4d4029,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_1200.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1832160,AVERAGE-BANDWIDTH=2085600,CODECS="avc1.4d4029,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_1800.m3u8
 
-#Last refreshed on 04/06/2024 03:00:00 CEST.
+#Last refreshed on 21/07/2024 23:00:00 CEST.

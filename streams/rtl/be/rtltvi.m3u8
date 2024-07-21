@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" tvg-country="BE",RTL tvi [OFFLINE]
-https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.ts
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=489280,AVERAGE-BANDWIDTH=545600,CODECS="avc1.4d4029,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master20220525-HLS_400.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=681120,AVERAGE-BANDWIDTH=765600,CODECS="avc1.4d4029,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master20220525-HLS_600.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=872960,AVERAGE-BANDWIDTH=985600,CODECS="avc1.4d4029,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master20220525-HLS_800.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1256640,AVERAGE-BANDWIDTH=1425600,CODECS="avc1.4d4029,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master20220525-HLS_1200.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1832160,AVERAGE-BANDWIDTH=2085600,CODECS="avc1.4d4029,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master20220525-HLS_1800.m3u8
 
-#Last refreshed on 02/07/2024 03:20:00 CET
+#Last refreshed on 21/07/2024 23:00:00 CEST.
