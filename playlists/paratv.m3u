@@ -43,9 +43,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/nrj12.m3u8
 #LCP
 #EXTINF:-1 tvg-chno="13" tvg-id="LCP100.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP-AN 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp.m3u8
-#PUBLIC SENAT
-#EXTINF:-1 tvg-chno="" tvg-id="PublicSenat2424.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="FRANCE",Public Sénat 
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat.m3u8
 #FRANCE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 4
@@ -72,10 +69,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-cha
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100" tvg-country="FR" group-title="FRANCE",6ter [OFFLINE]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/6ter.m3u8
 #RMC STORY
-#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Story [BACKUP]
+#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Story
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc/rmcstory.m3u8
 #RMC DECOUVERTE
-#EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Découverte [BACKUP]
+#EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Découverte
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc/rmcdecouverte.m3u8
 #CHERIE 25
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" tvg-country="FR" group-title="FRANCE",Chérie 25
@@ -87,35 +84,18 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/franceinfo:_color.png?h=100" tvg-country="FR" group-title="FRANCE",France Info
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+#FIGARO TV
+#EXTINF:-1 tvg-chno="34" tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",Figaro TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 #TEVA
-#EXTINF:-1 tvg-chno="34" tvg-id="Teva.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Teva_color.png?h=100" tvg-country="FR" group-title="FRANCE",Téva
+#EXTINF:-1 tvg-chno="40" tvg-id="Teva.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Teva_color.png?h=100" tvg-country="FR" group-title="FRANCE",Téva
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/teva.m3u8
 #PARIS PREMIERE
-#EXTINF:-1 tvg-chno="35" tvg-id="ParisPremiere.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paris_Premiere_color.png?h=100" tvg-country="FR" group-title="FRANCE",Paris Premiere
+#EXTINF:-1 tvg-chno="41" tvg-id="ParisPremiere.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paris_Premiere_color.png?h=100" tvg-country="FR" group-title="FRANCE",Paris Premiere
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/parispremiere.m3u8
-
-#SUISSE
-#EXTINF:-1 tvg-chno="1001" tvg-id="RTSUn.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-un-ch.png" tvg-country="CH" group-title="SUISSE",RTS Un [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rts/rtsun.m3u8
-#EXTINF:-1 tvg-chno="1002" tvg-id="RTSDeux.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-deux-ch.png" tvg-country="CH" group-title="SUISSE",RTS Deux [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rts/rtsdeux.m3u8
-
-#BELGIQUE
-#RTL TVI
-#EXTINF:-1 tvg-chno="1003" tvg-id="RTLTVI.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" tvg-country="BE" group-title="BELGIQUE",RTL tvi [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.m3u8
-#RTL CLUB
-#EXTINF:-1 tvg-chno="1004" tvg-id="ClubRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-club-be.png" tvg-country="BE" group-title="BELGIQUE",RTL club [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/clubrtl.m3u8
-#RTL PLUG
-#EXTINF:-1 tvg-chno="1005" tvg-id="PlugRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" tvg-country="BE" group-title="BELGIQUE",RTL plug
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/plugrtl.m3u8
-#BEL RTL
-#EXTINF:-1 tvg-chno="1006" tvg-id="BelRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/bel-rtl-be.png" tvg-country="BE" group-title="BELGIQUE",bel RTL
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
-#RADIO CONTACT
-#EXTINF:-1 tvg-chno="1007" tvg-id="RadioContact.be" tvg-logo="https://images.lesindesradios.fr/100x100/radios/contactfm/images/logo.png" tvg-country="BE" group-title="BELGIQUE",Radio Contact
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/contact.m3u8
+#PUBLIC SENAT
+#EXTINF:-1 tvg-chno="42" tvg-id="PublicSenat2424.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="FRANCE",Public Sénat 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat.m3u8
 
 #LEQUIPE.FR
 #JOURNAL DU GOLF
@@ -451,3 +431,26 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region
 #REGION 16
 #EXTINF:-1 tvg-chno="336" tvg-id="" tvg-logo="" tvg-country="FR" group-title="EQUIDIA",REGION 16 [NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region16.m3u8
+
+#SUISSE
+#EXTINF:-1 tvg-chno="1001" tvg-id="RTSUn.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-un-ch.png" tvg-country="CH" group-title="SUISSE",RTS Un [OFFLINE]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rts/rtsun.m3u8
+#EXTINF:-1 tvg-chno="1002" tvg-id="RTSDeux.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-deux-ch.png" tvg-country="CH" group-title="SUISSE",RTS Deux [OFFLINE]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rts/rtsdeux.m3u8
+
+#BELGIQUE
+#RTL TVI
+#EXTINF:-1 tvg-chno="1003" tvg-id="RTLTVI.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" tvg-country="BE" group-title="BELGIQUE",RTL tvi [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.m3u8
+#RTL CLUB
+#EXTINF:-1 tvg-chno="1004" tvg-id="ClubRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-club-be.png" tvg-country="BE" group-title="BELGIQUE",RTL club [OFFLINE][DRM]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/clubrtl.m3u8
+#RTL PLUG
+#EXTINF:-1 tvg-chno="1005" tvg-id="PlugRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" tvg-country="BE" group-title="BELGIQUE",RTL plug [OFFLINE][DRM]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/plugrtl.m3u8
+#BEL RTL
+#EXTINF:-1 tvg-chno="1006" tvg-id="BelRTL.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/bel-rtl-be.png" tvg-country="BE" group-title="BELGIQUE",bel RTL
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
+#RADIO CONTACT
+#EXTINF:-1 tvg-chno="1007" tvg-id="RadioContact.be" tvg-logo="https://images.lesindesradios.fr/100x100/radios/contactfm/images/logo.png" tvg-country="BE" group-title="BELGIQUE",Radio Contact
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/contact.m3u8
