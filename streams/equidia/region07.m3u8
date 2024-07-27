@@ -1,9 +1,15 @@
-<html>
-<head><title>404 Not Found</title></head>
-<body>
-<center><h1>404 Not Found</h1></center>
-<hr><center>nginx/1.18.0 (Ubuntu)</center>
-</body>
-</html>
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-region07-b28-cdn.hexaglobe.net/59d5f00a8585e80b5f972d713002c630/66a5831c/equidia/equidia-mobileapp-ios-1/eqdregion07_fre.smil/slot10_audio_french.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
+https://equidia-region07-b28-cdn.hexaglobe.net/59d5f00a8585e80b5f972d713002c630/66a5831c/equidia/equidia-mobileapp-ios-1/eqdregion07_fre.smil/slot10_1080p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720,AUDIO="group_aud"
+https://equidia-region07-b28-cdn.hexaglobe.net/59d5f00a8585e80b5f972d713002c630/66a5831c/equidia/equidia-mobileapp-ios-1/eqdregion07_fre.smil/slot10_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=848x480,AUDIO="group_aud"
+https://equidia-region07-b28-cdn.hexaglobe.net/59d5f00a8585e80b5f972d713002c630/66a5831c/equidia/equidia-mobileapp-ios-1/eqdregion07_fre.smil/slot10_480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=432x240,AUDIO="group_aud"
+https://equidia-region07-b28-cdn.hexaglobe.net/59d5f00a8585e80b5f972d713002c630/66a5831c/equidia/equidia-mobileapp-ios-1/eqdregion07_fre.smil/slot10_240p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144,AUDIO="group_aud"
+https://equidia-region07-b28-cdn.hexaglobe.net/59d5f00a8585e80b5f972d713002c630/66a5831c/equidia/equidia-mobileapp-ios-1/eqdregion07_fre.smil/slot10_144p.m3u8
 
-#Last refreshed on 21/07/2024 10:31:24 CEST.
+#Last refreshed on 28/07/2024 01:30:10 CEST.
