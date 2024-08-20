@@ -51,8 +51,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="FRANCE",BFM TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bfmtv/bfmtv.m3u8
 #CNEWS
-#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS
+#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
+#CNEWS
+#EXTINF:-1 tvg-chno="44" tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnewsdm.m3u8
 #CSTAR
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" tvg-country="FR" group-title="FRANCE",CStar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
@@ -62,9 +65,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m
 #TF1 SERIES FILMS
 #EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 Séries Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
-#EQUIPE 21
-#EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",la chaine L'Équipe en direct
+#LA CHAÎNE L'EQUIPE
+#EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-lequipe.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct.m3u8
+#LA CHAÎNE L'EQUIPE
+#EXTINF:-1 tvg-chno="43" tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lequipe.m3u8
 #6TER
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100" tvg-country="FR" group-title="FRANCE",6ter [OFFLINE]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/6ter.m3u8
@@ -84,9 +90,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/franceinfo:_color.png?h=100" tvg-country="FR" group-title="FRANCE",France Info
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#FIGARO TV
-#EXTINF:-1 tvg-chno="34" tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",Figaro TV
+#LE FIGARO TV
+#EXTINF:-1 tvg-chno="34" tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
+#LE FIGARO TV
+#EXTINF:-1 tvg-chno="35" tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [1080p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/figarotv.m3u8
 #TEVA
 #EXTINF:-1 tvg-chno="40" tvg-id="Teva.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Teva_color.png?h=100" tvg-country="FR" group-title="FRANCE",Téva [OFFLINE]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/teva.m3u8
@@ -244,107 +253,196 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 
 #TF1PLUS
 #LES ENFOIRÉS
-#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-logo="https://i.imgur.com/gc4o8Jx.png" tvg-country="FR" group-title="TF1PLUS",LES ENFOIRÉS
+#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-logo="https://i.imgur.com/s9HmEW1.png" tvg-country="FR" group-title="TF1PLUS",LES ENFOIRÉS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-enfoires.m3u8
 #LES RESTOS DU CŒUR
-#EXTINF:-1 tvg-chno="202" tvg-id="" tvg-logo="https://i.imgur.com/LBybvLe.png" tvg-country="FR" group-title="TF1PLUS",LES RESTOS DU CŒUR
+#EXTINF:-1 tvg-chno="202" tvg-id="" tvg-logo="https://i.imgur.com/6I467VK.png" tvg-country="FR" group-title="TF1PLUS",LES RESTOS DU CŒUR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-restos-du-coeur.m3u8
 #PALMASHOW TV
-#EXTINF:-1 tvg-chno="203" tvg-id="" tvg-logo="https://i.imgur.com/yKzaS2p.png" tvg-country="FR" group-title="TF1PLUS",PALMASHOW TV
+#EXTINF:-1 tvg-chno="203" tvg-id="" tvg-logo="https://i.imgur.com/hHV8Dv7.png" tvg-country="FR" group-title="TF1PLUS",PALMASHOW TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/palmashow.m3u8
 #TAKEN TV
-#EXTINF:-1 tvg-chno="204" tvg-id="" tvg-logo="https://i.imgur.com/ggZyeqo.png" tvg-country="FR" group-title="TF1PLUS",TAKEN TV
+#EXTINF:-1 tvg-chno="204" tvg-id="" tvg-logo="https://i.imgur.com/j6A9rGk.png" tvg-country="FR" group-title="TF1PLUS",TAKEN TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/taken.m3u8
 #NARUTO TV
-#EXTINF:-1 tvg-chno="205" tvg-id="" tvg-logo="https://i.imgur.com/XDSZEf5.png" tvg-country="FR" group-title="TF1PLUS",NARUTO TV
+#EXTINF:-1 tvg-chno="205" tvg-id="" tvg-logo="https://i.imgur.com/ZwvYdxZ.png" tvg-country="FR" group-title="TF1PLUS",NARUTO TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/naruto.m3u8
 #RIS POLICE SCIENTIFIQUE TV
-#EXTINF:-1 tvg-chno="206" tvg-id="" tvg-logo="https://i.imgur.com/vuegmgX.png" tvg-country="FR" group-title="TF1PLUS",RIS POLICE SCIENTIFIQUE TV
+#EXTINF:-1 tvg-chno="206" tvg-id="" tvg-logo="https://i.imgur.com/ClGhov1.png" tvg-country="FR" group-title="TF1PLUS",RIS POLICE SCIENTIFIQUE TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ris-police-scientifique.m3u8
 #MAMANS & CÉLÈBRES TV
-#EXTINF:-1 tvg-chno="207" tvg-id="" tvg-logo="https://i.imgur.com/TTHKVng.png" tvg-country="FR" group-title="TF1PLUS",MAMANS & CÉLÈBRES TV
+#EXTINF:-1 tvg-chno="207" tvg-id="" tvg-logo="https://i.imgur.com/iVGn6IA.png" tvg-country="FR" group-title="TF1PLUS",MAMANS & CÉLÈBRES TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/mamans-and-celebres.m3u8
 #SOUS LE SOLEIL
-#EXTINF:-1 tvg-chno="208" tvg-id="" tvg-logo="https://i.imgur.com/p8z2Pdx.png" tvg-country="FR" group-title="TF1PLUS",SOUS LE SOLEIL
+#EXTINF:-1 tvg-chno="208" tvg-id="" tvg-logo="https://i.imgur.com/xpIOOU7.png" tvg-country="FR" group-title="TF1PLUS",SOUS LE SOLEIL
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/sous-le-soleil.m3u8
 #INAZUMA ELEVEN TV
-#EXTINF:-1 tvg-chno="209" tvg-id="" tvg-logo="https://i.imgur.com/nnurTYz.png" tvg-country="FR" group-title="TF1PLUS",INAZUMA ELEVEN TV
+#EXTINF:-1 tvg-chno="209" tvg-id="" tvg-logo="https://i.imgur.com/w0xg5a4.png" tvg-country="FR" group-title="TF1PLUS",INAZUMA ELEVEN TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/inazuma-eleven.m3u8
 #NASHVILLE TV
-#EXTINF:-1 tvg-chno="210" tvg-id="" tvg-logo="https://i.imgur.com/MnhmPBS.png" tvg-country="FR" group-title="TF1PLUS",NASHVILLE TV
+#EXTINF:-1 tvg-chno="210" tvg-id="" tvg-logo="https://i.imgur.com/hsOzEfh.png" tvg-country="FR" group-title="TF1PLUS",NASHVILLE TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/nashville.m3u8
 #FOUDRE
-#EXTINF:-1 tvg-chno="211" tvg-id="" tvg-logo="https://i.imgur.com/GvRjHlF.png" tvg-country="FR" group-title="TF1PLUS",FOUDRE
+#EXTINF:-1 tvg-chno="211" tvg-id="" tvg-logo="https://i.imgur.com/iQMJbw3.png" tvg-country="FR" group-title="TF1PLUS",FOUDRE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/foudre.m3u8
 #POUR TOUJOURS PLUS UN JOUR TV
-#EXTINF:-1 tvg-chno="212" tvg-id="" tvg-logo="https://i.imgur.com/HIoOJP7.png" tvg-country="FR" group-title="TF1PLUS",POUR TOUJOURS PLUS UN JOUR TV
+#EXTINF:-1 tvg-chno="212" tvg-id="" tvg-logo="https://i.imgur.com/HMSwfZS.png" tvg-country="FR" group-title="TF1PLUS",POUR TOUJOURS PLUS UN JOUR TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/pour-toujours-plus-un-jour.m3u8
 #POLAR FICTION TV
-#EXTINF:-1 tvg-chno="213" tvg-id="" tvg-logo="https://i.imgur.com/gGcEmJy.png" tvg-country="FR" group-title="TF1PLUS",POLAR FICTION TV
+#EXTINF:-1 tvg-chno="213" tvg-id="" tvg-logo="https://i.imgur.com/sTokDSm.png" tvg-country="FR" group-title="TF1PLUS",POLAR FICTION TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/police-fiction.m3u8
 #THRILLER FICTION
-#EXTINF:-1 tvg-chno="214" tvg-id="" tvg-logo="https://i.imgur.com/4qgvfWz.png" tvg-country="FR" group-title="TF1PLUS",THRILLER FICTION
+#EXTINF:-1 tvg-chno="214" tvg-id="" tvg-logo="https://i.imgur.com/4RPQwXg.png" tvg-country="FR" group-title="TF1PLUS",THRILLER FICTION
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/thriller-fiction.m3u8
 #COMÉDIE FICTION
-#EXTINF:-1 tvg-chno="215" tvg-id="" tvg-logo="https://i.imgur.com/xYTnqgs.png" tvg-country="FR" group-title="TF1PLUS",COMÉDIE FICTION
+#EXTINF:-1 tvg-chno="215" tvg-id="" tvg-logo="https://i.imgur.com/aNzbl1a.png" tvg-country="FR" group-title="TF1PLUS",COMÉDIE FICTION
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/comedie-fiction.m3u8
 #SAGA DE L'ÉTÉ TV
-#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://i.imgur.com/pt98fmf.png" tvg-country="FR" group-title="TF1PLUS",SAGA DE L'ÉTÉ TV
+#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://i.imgur.com/BJh4BNY.png" tvg-country="FR" group-title="TF1PLUS",SAGA DE L'ÉTÉ TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/saga-de-lete.m3u8
 #CHANTE !
-#EXTINF:-1 tvg-chno="217" tvg-id="" tvg-logo="https://i.imgur.com/pu2vetV.png" tvg-country="FR" group-title="TF1PLUS",CHANTE !
+#EXTINF:-1 tvg-chno="217" tvg-id="" tvg-logo="https://i.imgur.com/jyL2Nza.png" tvg-country="FR" group-title="TF1PLUS",CHANTE !
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/chante.m3u8
 #SECONDE CHANCE
-#EXTINF:-1 tvg-chno="218" tvg-id="" tvg-logo="https://i.imgur.com/sF0lTZP.png" tvg-country="FR" group-title="TF1PLUS",SECONDE CHANCE
+#EXTINF:-1 tvg-chno="218" tvg-id="" tvg-logo="https://i.imgur.com/DUhwp95.png" tvg-country="FR" group-title="TF1PLUS",SECONDE CHANCE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/seconde-chance.m3u8
 #PAS DE SECRET ENTRE NOUS
-#EXTINF:-1 tvg-chno="219" tvg-id="" tvg-logo="https://i.imgur.com/cnsaBl1.png" tvg-country="FR" group-title="TF1PLUS",PAS DE SECRET ENTRE NOUS
+#EXTINF:-1 tvg-chno="219" tvg-id="" tvg-logo="https://i.imgur.com/CMZeGco.png" tvg-country="FR" group-title="TF1PLUS",PAS DE SECRET ENTRE NOUS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/pas-de-ca-entre-nous.m3u8
 #HARTLEY, COEUR À VIF
-#EXTINF:-1 tvg-chno="220" tvg-id="" tvg-logo="https://i.imgur.com/2QGNRM5.png" tvg-country="FR" group-title="TF1PLUS",HARTLEY, COEUR À VIF
+#EXTINF:-1 tvg-chno="220" tvg-id="" tvg-logo="https://i.imgur.com/lg4gGau.png" tvg-country="FR" group-title="TF1PLUS",HARTLEY, COEUR À VIF
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/hartley-coeur-a-vif.m3u8
 #LE DESTIN DE LISA TV
-#EXTINF:-1 tvg-chno="221" tvg-id="" tvg-logo="https://i.imgur.com/5t4eEtL.png" tvg-country="FR" group-title="TF1PLUS",LE DESTIN DE LISA TV
+#EXTINF:-1 tvg-chno="221" tvg-id="" tvg-logo="https://i.imgur.com/XYNFKYC.png" tvg-country="FR" group-title="TF1PLUS",LE DESTIN DE LISA TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-destin-de-lisa.m3u8
 #BORUTO: NARUTO NEXT GEN TV
-#EXTINF:-1 tvg-chno="222" tvg-id="" tvg-logo="https://i.imgur.com/XIb6l36.png" tvg-country="FR" group-title="TF1PLUS",BORUTO: NARUTO NEXT GEN TV
+#EXTINF:-1 tvg-chno="222" tvg-id="" tvg-logo="https://i.imgur.com/UNmJ7TM.png" tvg-country="FR" group-title="TF1PLUS",BORUTO: NARUTO NEXT GEN TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boruto-naruto-next-generatio.m3u8
 #STAR ACADEMY TV
-#EXTINF:-1 tvg-chno="223" tvg-id="" tvg-logo="https://i.imgur.com/QhWkGNN.png" tvg-country="FR" group-title="TF1PLUS",STAR ACADEMY TV
+#EXTINF:-1 tvg-chno="223" tvg-id="" tvg-logo="https://i.imgur.com/kjqzQiu.png" tvg-country="FR" group-title="TF1PLUS",STAR ACADEMY TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/star-academy.m3u8
 #LA VILLA DES CŒURS BRISÉS TV
-#EXTINF:-1 tvg-chno="224" tvg-id="" tvg-logo="https://i.imgur.com/HCx0Q4i.png" tvg-country="FR" group-title="TF1PLUS",LA VILLA DES CŒURS BRISÉS TV
+#EXTINF:-1 tvg-chno="224" tvg-id="" tvg-logo="https://i.imgur.com/JwYPqSY.png" tvg-country="FR" group-title="TF1PLUS",LA VILLA DES CŒURS BRISÉS TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-villa-des-coeurs-brises.m3u8
 #LA BATAILLE DES COUPLES TV
-#EXTINF:-1 tvg-chno="225" tvg-id="" tvg-logo="https://i.imgur.com/0gDSjtG.png" tvg-country="FR" group-title="TF1PLUS",LA BATAILLE DES COUPLES TV
+#EXTINF:-1 tvg-chno="225" tvg-id="" tvg-logo="https://i.imgur.com/CDm2wdc.png" tvg-country="FR" group-title="TF1PLUS",LA BATAILLE DES COUPLES TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-couples.m3u8
 #FRANÇOIS DAMIENS TV
-#EXTINF:-1 tvg-chno="226" tvg-id="" tvg-logo="https://i.imgur.com/SrPQVxp.png" tvg-country="FR" group-title="TF1PLUS",FRANÇOIS DAMIENS TV
+#EXTINF:-1 tvg-chno="226" tvg-id="" tvg-logo="https://i.imgur.com/SMUe8GW.png" tvg-country="FR" group-title="TF1PLUS",FRANÇOIS DAMIENS TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/francois-lembrouille.m3u8
 #LES INCONNUS TV
-#EXTINF:-1 tvg-chno="227" tvg-id="" tvg-logo="https://i.imgur.com/31w3MTI.png" tvg-country="FR" group-title="TF1PLUS",LES INCONNUS TV
+#EXTINF:-1 tvg-chno="227" tvg-id="" tvg-logo="https://i.imgur.com/cE4FbBv.png" tvg-country="FR" group-title="TF1PLUS",LES INCONNUS TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-inconnus.m3u8
 #DANSE AVEC LES STARS TV
-#EXTINF:-1 tvg-chno="228" tvg-id="" tvg-logo="https://i.imgur.com/bI5hYv1.png" tvg-country="FR" group-title="TF1PLUS",DANSE AVEC LES STARS TV
+#EXTINF:-1 tvg-chno="228" tvg-id="" tvg-logo="https://i.imgur.com/HDzpRjp.png" tvg-country="FR" group-title="TF1PLUS",DANSE AVEC LES STARS TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/danse-avec-les-stars.m3u8
 #LA BATAILLE DES CLANS TV
-#EXTINF:-1 tvg-chno="229" tvg-id="" tvg-logo="https://i.imgur.com/ioGvLuG.png" tvg-country="FR" group-title="TF1PLUS",LA BATAILLE DES CLANS TV
+#EXTINF:-1 tvg-chno="229" tvg-id="" tvg-logo="https://i.imgur.com/Vd5kQgz.png" tvg-country="FR" group-title="TF1PLUS",LA BATAILLE DES CLANS TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-clans.m3u8
 #LOLYWOOD TV
-#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-logo="https://i.imgur.com/CtifFwz.png" tvg-country="FR" group-title="TF1PLUS",LOLYWOOD TV
+#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-logo="https://i.imgur.com/ucZNfKs.png" tvg-country="FR" group-title="TF1PLUS",LOLYWOOD TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lolywood.m3u8
 #USHUAIA FOR CHANGE
-#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-logo="https://i.imgur.com/AR0WjAE.png" tvg-country="FR" group-title="TF1PLUS",USHUAIA FOR CHANGE
+#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-logo="https://i.imgur.com/YstrIOn.png" tvg-country="FR" group-title="TF1PLUS",USHUAIA FOR CHANGE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
 #LE MONDE DE LITTLE ANGEL
-#EXTINF:-1 tvg-chno="232" tvg-id="" tvg-logo="https://i.imgur.com/thFYK1s.png" tvg-country="FR" group-title="TF1PLUS",LE MONDE DE LITTLE ANGEL
+#EXTINF:-1 tvg-chno="232" tvg-id="" tvg-logo="https://i.imgur.com/39pf1d2.png" tvg-country="FR" group-title="TF1PLUS",LE MONDE DE LITTLE ANGEL
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-monde-little-angel.m3u8
 #BOULE ET BILL TV
-#EXTINF:-1 tvg-chno="233" tvg-id="" tvg-logo="https://i.imgur.com/kIc0h5h.png" tvg-country="FR" group-title="TF1PLUS",BOULE ET BILL TV
+#EXTINF:-1 tvg-chno="233" tvg-id="" tvg-logo="https://i.imgur.com/4gLfisz.png" tvg-country="FR" group-title="TF1PLUS",BOULE ET BILL TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boule-et-bill.m3u8
 #SUPER WINGS TV
-#EXTINF:-1 tvg-chno="234" tvg-id="" tvg-logo="https://i.imgur.com/W3Lblts.png" tvg-country="FR" group-title="TF1PLUS",SUPER WINGS TV
+#EXTINF:-1 tvg-chno="234" tvg-id="" tvg-logo="https://i.imgur.com/6PYQrQb.png" tvg-country="FR" group-title="TF1PLUS",SUPER WINGS TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/super-wings.m3u8
+#235
+#236
+#JOSEPHINE, ANGE GARDIEN
+#EXTINF:-1 tvg-chno="237" tvg-id="" tvg-logo="https://i.imgur.com/DhBHXQa.png" tvg-country="FR" group-title="TF1PLUS",JOSEPHINE, ANGE GARDIEN
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/josephine-ange-gardien.m3u8
+#BABY BOOM
+#EXTINF:-1 tvg-chno="238" tvg-id="" tvg-logo="https://i.imgur.com/swaKe3e.png" tvg-country="FR" group-title="TF1PLUS",BABY BOOM
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/baby-boom.m3u8
+#LES BRACELETS ROUGES
+#EXTINF:-1 tvg-chno="239" tvg-id="" tvg-logo="https://i.imgur.com/yBF9gOX.png" tvg-country="FR" group-title="TF1PLUS",LES BRACELETS ROUGES
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/bracelets-rouges.m3u8
+#LÉO MATTÉÏ
+#EXTINF:-1 tvg-chno="240" tvg-id="" tvg-logo="https://i.imgur.com/u9le4nl.png" tvg-country="FR" group-title="TF1PLUS",LÉO MATTÉÏ
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/leo-mattei.m3u8
+#FAMILLE D'ACCUEIL
+#EXTINF:-1 tvg-chno="241" tvg-id="" tvg-logo="https://i.imgur.com/jH7Oq4D.png" tvg-country="FR" group-title="TF1PLUS",FAMILLE D'ACCUEIL
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/famille-daccueil.m3u8
+#JE TE PROMETS
+#EXTINF:-1 tvg-chno="242" tvg-id="" tvg-logo="https://i.imgur.com/YDzflaX.png" tvg-country="FR" group-title="TF1PLUS",JE TE PROMETS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/je-te-promets.m3u8
+#BALTHAZAR
+#EXTINF:-1 tvg-chno="243" tvg-id="" tvg-logo="https://i.imgur.com/t4BbVlk.png" tvg-country="FR" group-title="TF1PLUS",BALTHAZAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/balthazar.m3u8
+#LES PLUS BELLES VACANCES
+#EXTINF:-1 tvg-chno="244" tvg-id="" tvg-logo="https://i.imgur.com/FtDdOjl.png" tvg-country="FR" group-title="TF1PLUS",LES PLUS BELLES VACANCES
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cap-sur-les-vacances.m3u8
+#MUNCH
+#EXTINF:-1 tvg-chno="245" tvg-id="" tvg-logo="https://i.imgur.com/2UAkBzk.png" tvg-country="FR" group-title="TF1PLUS",MUNCH
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/munch.m3u8
+#ALICE NEVERS
+#EXTINF:-1 tvg-chno="246" tvg-id="" tvg-logo="https://i.imgur.com/hecjFY5.png" tvg-country="FR" group-title="TF1PLUS",ALICE NEVERS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/alice-nevers.m3u8
+#SUPER NANNY
+#EXTINF:-1 tvg-chno="247" tvg-id="" tvg-logo="https://i.imgur.com/AJxgrnt.png" tvg-country="FR" group-title="TF1PLUS",SUPER NANNY
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/super-nanny.m3u8
+#SECTION DE RECHERCHES
+#EXTINF:-1 tvg-chno="248" tvg-id="" tvg-logo="https://i.imgur.com/roEan9V.png" tvg-country="FR" group-title="TF1PLUS",SECTION DE RECHERCHES
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/section-de-recherches.m3u8
+#NOS CHERS VOISINS
+#EXTINF:-1 tvg-chno="249" tvg-id="" tvg-logo="https://i.imgur.com/oCy34fC.png" tvg-country="FR" group-title="TF1PLUS",NOS CHERS VOISINS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/nos-chers-voisins.m3u8
+#ICI TOUT COMMENCE
+#EXTINF:-1 tvg-chno="250" tvg-id="" tvg-logo="https://i.imgur.com/NV2rd6q.png" tvg-country="FR" group-title="TF1PLUS",ICI TOUT COMMENCE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ici-tout-commence.m3u8
+#PROFILAGE
+#EXTINF:-1 tvg-chno="251" tvg-id="" tvg-logo="https://i.imgur.com/7ov4a2R.png" tvg-country="FR" group-title="TF1PLUS",PROFILAGE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/profilage.m3u8
+#CAMPING PARADIS
+#EXTINF:-1 tvg-chno="252" tvg-id="" tvg-logo="https://i.imgur.com/YI4DojJ.png" tvg-country="FR" group-title="TF1PLUS",CAMPING PARADIS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/camping-paradis.m3u8
+#CÉDRIC
+#EXTINF:-1 tvg-chno="253" tvg-id="" tvg-logo="https://i.imgur.com/bmiFx6q.png" tvg-country="FR" group-title="TF1PLUS",CÉDRIC
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cedric.m3u8
+#LE MARSUPILAMI
+#EXTINF:-1 tvg-chno="254" tvg-id="" tvg-logo="https://i.imgur.com/LsRBMfe.png" tvg-country="FR" group-title="TF1PLUS",LE MARSUPILAMI
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-marsupilami.m3u8
+#SAM
+#EXTINF:-1 tvg-chno="255" tvg-id="" tvg-logo="https://i.imgur.com/H7Ag5YQ.png" tvg-country="FR" group-title="TF1PLUS",SAM
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/sam.m3u8
+#DEMAIN NOUS APPARTIENT
+#EXTINF:-1 tvg-chno="256" tvg-id="" tvg-logo="https://i.imgur.com/FPfY5Tm.png" tvg-country="FR" group-title="TF1PLUS",DEMAIN NOUS APPARTIENT
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/demain-nous-appartient.m3u8
+#PLUS BELLE LA VIE
+#EXTINF:-1 tvg-chno="257" tvg-id="" tvg-logo="https://i.imgur.com/D8DheBb.png" tvg-country="FR" group-title="TF1PLUS",PLUS BELLE LA VIE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/plus-belle-la-vie.m3u8
+#LES SCHTROUMPFS
+#EXTINF:-1 tvg-chno="258" tvg-id="" tvg-logo="https://i.imgur.com/4wYkrLv.png" tvg-country="FR" group-title="TF1PLUS",LES SCHTROUMPFS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-schtroumpfs.m3u8
+#LES PYJAMASQUES
+#EXTINF:-1 tvg-chno="259" tvg-id="" tvg-logo="https://i.imgur.com/lWq8maz.png" tvg-country="FR" group-title="TF1PLUS",LES PYJAMASQUES
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-pyjamasques.m3u8
+#ROBOCARPOLI
+#EXTINF:-1 tvg-chno="260" tvg-id="" tvg-logo="https://i.imgur.com/DKzFRfD.png" tvg-country="FR" group-title="TF1PLUS",ROBOCARPOLI
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/robocarpoli.m3u8
+#CRY BABIES BFF
+#EXTINF:-1 tvg-chno="261" tvg-id="" tvg-logo="https://i.imgur.com/Wd8tKgw.png" tvg-country="FR" group-title="TF1PLUS",CRY BABIES BFF
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cry-babies-bff.m3u8
+#MILO
+#EXTINF:-1 tvg-chno="262" tvg-id="" tvg-logo="https://i.imgur.com/g5Oj52a.png" tvg-country="FR" group-title="TF1PLUS",MILO
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/milo.m3u8
+#LE PETIT SPIROU
+#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-logo="https://i.imgur.com/54bJ7Aa.png" tvg-country="FR" group-title="TF1PLUS",LE PETIT SPIROU
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-petit-spirou.m3u8
+#MIGHTY EXPRESS
+#EXTINF:-1 tvg-chno="264" tvg-id="" tvg-logo="https://i.imgur.com/iaxtAak.png" tvg-country="FR" group-title="TF1PLUS",MIGHTY EXPRESS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/mighty-express.m3u8
+#UNE FAMILLE FORMIDABLE
+#EXTINF:-1 tvg-chno="265" tvg-id="" tvg-logo="https://i.imgur.com/7j7vtrx.png" tvg-country="FR" group-title="TF1PLUS",UNE FAMILLE FORMIDABLE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/une-famille-formidable.m3u8
 
 #EQUIDIA
 #LE GRAND DIRECT
