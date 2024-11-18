@@ -15,7 +15,7 @@
 | [paratv_group_only.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/filter/group_only.m3u) | [https://paratv.duckdns.org/paratv4](https://paratv.duckdns.org/paratv4) |
 | [paratv_logo_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/filter/logo_off.m3u) | [https://paratv.duckdns.org/paratv5](https://paratv.duckdns.org/paratv5) |
 
-<details>
+<details  open>
 <summary><strong>GROUP</strong></summary>
 
 <details>
