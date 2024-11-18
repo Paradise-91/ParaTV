@@ -1,0 +1,10 @@
+#EXTM3U
+# Generated on: 18/11/2024 18:50:43 CET+0100
+
+#BELGIQUE (3)
+#EXTINF:-1 tvg-chno="1003" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" tvg-country="BE" group-title="BELGIQUE",RTL tvi [1080p-rtlplay.be] [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.m3u8
+#EXTINF:-1 tvg-chno="1006" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/bel-rtl-be.png" tvg-country="BE" group-title="BELGIQUE",bel RTL [1080p-rtlplay.be]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
+#EXTINF:-1 tvg-chno="1007" tvg-logo="https://images.lesindesradios.fr/100x100/radios/contactfm/images/logo.png" tvg-country="BE" group-title="BELGIQUE",Radio Contact [1080p-rtlplay.be]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/contact.m3u8

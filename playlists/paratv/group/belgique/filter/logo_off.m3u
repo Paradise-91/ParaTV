@@ -1,0 +1,10 @@
+#EXTM3U
+# Generated on: 18/11/2024 18:50:43 CET+0100
+
+#BELGIQUE (3)
+#EXTINF:-1 tvg-country="BE" group-title="BELGIQUE",RTL tvi [1080p-rtlplay.be] [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.m3u8
+#EXTINF:-1 tvg-country="BE" group-title="BELGIQUE",bel RTL [1080p-rtlplay.be]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
+#EXTINF:-1 tvg-country="BE" group-title="BELGIQUE",Radio Contact [1080p-rtlplay.be]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/contact.m3u8
