@@ -139,17 +139,17 @@
 </details>
 
 <details>
-<summary>rmc</summary>
+<summary>rmc-bfm</summary>
 
 | File                                      | Short URL                                 |
 | :-----------------------------------------| :-----------------------------------------|
-| [rmc.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc/rmc.m3u) | [https://paratv.duckdns.org/rmc](https://paratv.duckdns.org/rmc) |
-| [rmc_chno_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc/filter/chno_off.m3u) | [https://paratv.duckdns.org/rmc0](https://paratv.duckdns.org/rmc0) |
-| [rmc_id_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc/filter/id_off.m3u) | [https://paratv.duckdns.org/rmc1](https://paratv.duckdns.org/rmc1) |
-| [rmc_group_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc/filter/group_off.m3u) | [https://paratv.duckdns.org/rmc2](https://paratv.duckdns.org/rmc2) |
-| [rmc_raw.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc/filter/raw.m3u) | [https://paratv.duckdns.org/rmc3](https://paratv.duckdns.org/rmc3) |
-| [rmc_group_only.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc/filter/group_only.m3u) | [https://paratv.duckdns.org/rmc4](https://paratv.duckdns.org/rmc4) |
-| [rmc_logo_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc/filter/logo_off.m3u) | [https://paratv.duckdns.org/rmc5](https://paratv.duckdns.org/rmc5) |
+| [rmc-bfm.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc-bfm/rmc-bfm.m3u) | [https://paratv.duckdns.org/rmcbfm](https://paratv.duckdns.org/rmcbfm) |
+| [rmc-bfm_chno_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc-bfm/filter/chno_off.m3u) | [https://paratv.duckdns.org/rmcbfm0](https://paratv.duckdns.org/rmcbfm0) |
+| [rmc-bfm_id_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc-bfm/filter/id_off.m3u) | [https://paratv.duckdns.org/rmcbfm1](https://paratv.duckdns.org/rmcbfm1) |
+| [rmc-bfm_group_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc-bfm/filter/group_off.m3u) | [https://paratv.duckdns.org/rmcbfm2](https://paratv.duckdns.org/rmcbfm2) |
+| [rmc-bfm_raw.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc-bfm/filter/raw.m3u) | [https://paratv.duckdns.org/rmcbfm3](https://paratv.duckdns.org/rmcbfm3) |
+| [rmc-bfm_group_only.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc-bfm/filter/group_only.m3u) | [https://paratv.duckdns.org/rmcbfm4](https://paratv.duckdns.org/rmcbfm4) |
+| [rmc-bfm_logo_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/rmc-bfm/filter/logo_off.m3u) | [https://paratv.duckdns.org/rmcbfm5](https://paratv.duckdns.org/rmcbfm5) |
 
 </details>
 
