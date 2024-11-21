@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 21/11/2024 07:25:14 CET+0100
+# Generated on: 21/11/2024 13:25:14 CET+0100
 
 #FRANCE (30)
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -206,7 +206,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 #EXTINF:-1 tvg-chno="174" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",174. France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
-#TF1PLUS (73)
+#TF1PLUS (74)
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",200. TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",201. TMC [720p-tf1.fr]
@@ -353,6 +353,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cry-ba
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-petit-spirou.m3u8
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-cedric-ee871b-db9831-0@3x.png" tvg-country="FR" group-title="TF1PLUS",272. CÉDRIC  [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cedric.m3u8
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_les-telefilms-de-noel-dec_2023-61c97c-43e20f-0@3x.png" tvg-country="FR" group-title="TF1PLUS",273. LES FILMS DE NOËL
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/christmas-movie.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://i.imgur.com/tM9y14c.png" tvg-country="FR" group-title="EQUIDIA",300. LE GRAND DIRECT [1080p-equidia.fr]
