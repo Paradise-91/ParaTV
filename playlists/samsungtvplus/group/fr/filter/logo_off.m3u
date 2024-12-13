@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 12/12/2024 03:58:36 CET+0100
+# Generated on: 13/12/2024 19:28:45 CET+0100
 #TOTAL: 146
 
 #Actualités (10)
@@ -21,6 +21,8 @@ https://jmp2.uk/sam-FRBD4100010ZZ.m3u8
 https://jmp2.uk/sam-FRBD190001055.m3u8
 #EXTINF:-1 tvg-chno="705" tvg-id="FRBD490000195" tvg-country="FR" group-title="Actualités",705. Reuters 
 https://jmp2.uk/sam-FRBD490000195.m3u8
+#EXTINF:-1 tvg-chno="1838" tvg-id="FR1800005X0" tvg-country="FR" group-title="Actualités",1838. TV5 Monde Info 
+https://jmp2.uk/sam-FR1800005X0.m3u8
 
 #Anime (4)
 #EXTINF:-1 tvg-chno="706" tvg-id="FRBD5100001ZA" tvg-country="FR" group-title="Anime",706. ADN 
@@ -69,6 +71,14 @@ https://jmp2.uk/sam-FRBB4600002K5.m3u8
 https://jmp2.uk/sam-FR2600005LH.m3u8
 #EXTINF:-1 tvg-chno="727" tvg-id="FR2600002X9" tvg-country="FR" group-title="Cinéma",727. Films d'action - Rakuten TV 
 https://jmp2.uk/sam-FR2600002X9.m3u8
+#EXTINF:-1 tvg-chno="1839" tvg-id="FR3700001AG" tvg-country="FR" group-title="Cinéma",1839. Box Office Teens 
+https://jmp2.uk/sam-FR3700001AG.m3u8
+#EXTINF:-1 tvg-chno="1840" tvg-id="FR3700003N4" tvg-country="FR" group-title="Cinéma",1840. Box Office Drama 
+https://jmp2.uk/sam-FR3700003N4.m3u8
+#EXTINF:-1 tvg-chno="1841" tvg-id="FR1800003VF" tvg-country="FR" group-title="Cinéma",1841. Shadowz 
+https://jmp2.uk/sam-FR1800003VF.m3u8
+#EXTINF:-1 tvg-chno="1842" tvg-id="FR370000288" tvg-country="FR" group-title="Cinéma",1842. Box Office Action 
+https://jmp2.uk/sam-FR370000288.m3u8
 
 #Crime (6)
 #EXTINF:-1 tvg-chno="728" tvg-id="FR1400002XF" tvg-country="FR" group-title="Crime",728. Faites entrer l'accusé 
@@ -167,6 +177,8 @@ https://jmp2.uk/sam-FR3200001NQ.m3u8
 https://jmp2.uk/sam-FRBB4900002D4.m3u8
 #EXTINF:-1 tvg-chno="774" tvg-id="FRBC3900004DS" tvg-country="FR" group-title="Documentaires",774. Love the Planet 
 https://jmp2.uk/sam-FRBC3900004DS.m3u8
+#EXTINF:-1 tvg-chno="1843" tvg-id="FR26000089E" tvg-country="FR" group-title="Documentaires",1843. Documentaires - Rakuten TV 
+https://jmp2.uk/sam-FR26000089E.m3u8
 
 #Jeunesse (14)
 #EXTINF:-1 tvg-chno="775" tvg-id="FRBA3300028VI" tvg-country="FR" group-title="Jeunesse",775. Caillou 
@@ -195,6 +207,8 @@ https://jmp2.uk/sam-FRAJ38000035M.m3u8
 https://jmp2.uk/sam-FRAJ38000061J.m3u8
 #EXTINF:-1 tvg-chno="787" tvg-id="FR2600001PI" tvg-country="FR" group-title="Jeunesse",787. 100% Noël - Rakuten TV 
 https://jmp2.uk/sam-FR2600001PI.m3u8
+#EXTINF:-1 tvg-chno="1844" tvg-id="FR1800002C4" tvg-country="FR" group-title="Jeunesse",1844. Wonderland Kids TV 
+https://jmp2.uk/sam-FR1800002C4.m3u8
 
 #Musique (9)
 #EXTINF:-1 tvg-chno="788" tvg-id="FRBC2100001YY" tvg-country="FR" group-title="Musique",788. Vevo Pop 
@@ -303,25 +317,3 @@ https://jmp2.uk/sam-FR3700004HZ.m3u8
 https://jmp2.uk/sam-FR1800004EP.m3u8
 #EXTINF:-1 tvg-chno="837" tvg-id="FRBC3500002E4" tvg-country="FR" group-title="Voyages et Gastronomie",837. Echappées belles & co 
 https://jmp2.uk/sam-FRBC3500002E4.m3u8
-
-#Actualités (10)
-#EXTINF:-1 tvg-chno="1838" tvg-id="FR1800005X0" tvg-country="FR" group-title="Actualités",1838. TV5 Monde Info 
-https://jmp2.uk/sam-FR1800005X0.m3u8
-
-#Cinéma (22)
-#EXTINF:-1 tvg-chno="1839" tvg-id="FR3700001AG" tvg-country="FR" group-title="Cinéma",1839. Box Office Teens 
-https://jmp2.uk/sam-FR3700001AG.m3u8
-#EXTINF:-1 tvg-chno="1840" tvg-id="FR3700003N4" tvg-country="FR" group-title="Cinéma",1840. Box Office Drama 
-https://jmp2.uk/sam-FR3700003N4.m3u8
-#EXTINF:-1 tvg-chno="1841" tvg-id="FR1800003VF" tvg-country="FR" group-title="Cinéma",1841. Shadowz 
-https://jmp2.uk/sam-FR1800003VF.m3u8
-#EXTINF:-1 tvg-chno="1842" tvg-id="FR370000288" tvg-country="FR" group-title="Cinéma",1842. Box Office Action 
-https://jmp2.uk/sam-FR370000288.m3u8
-
-#Documentaires (19)
-#EXTINF:-1 tvg-chno="1843" tvg-id="FR26000089E" tvg-country="FR" group-title="Documentaires",1843. Documentaires - Rakuten TV 
-https://jmp2.uk/sam-FR26000089E.m3u8
-
-#Jeunesse (14)
-#EXTINF:-1 tvg-chno="1844" tvg-id="FR1800002C4" tvg-country="FR" group-title="Jeunesse",1844. Wonderland Kids TV 
-https://jmp2.uk/sam-FR1800002C4.m3u8
