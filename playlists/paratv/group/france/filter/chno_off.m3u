@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 08/12/2024 07:26:59 CET+0100
+# Generated on: 18/12/2024 16:25:14 CET+0100
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCI [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/franceinfo:_color.png?h=100" tvg-country="FR" group-title="FRANCE",France Info [1080p-france.tv]
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png?h=100" tvg-country="FR" group-title="FRANCE",France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
