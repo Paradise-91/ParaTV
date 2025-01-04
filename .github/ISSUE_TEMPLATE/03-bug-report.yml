@@ -1,0 +1,18 @@
+name: 🐛 Bug Report
+description: Report a bug
+title: 'Bug: '
+labels: ['bug']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Warning
+        Before creating an issue, please ensure that the problem does not originate from your end. Try multiple ways to verify the issue.
+
+  - type: textarea
+    attributes:
+      label: Describe the issue (required)
+      description: Provide a clear and concise description of the bug.
+    validations:
+      required: true

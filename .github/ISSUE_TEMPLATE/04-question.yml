@@ -1,0 +1,12 @@
+name: ❓ Ask a Question
+description: Ask a question
+title: 'Question: '
+labels: ['question']
+
+body:
+  - type: textarea
+    attributes:
+      label: Describe your question (required)
+      description: Provide a clear and concise description of your question.
+    validations:
+      required: true

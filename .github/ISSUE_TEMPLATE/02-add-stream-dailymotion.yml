@@ -1,0 +1,74 @@
+name: ➕ Add Dailymotion stream
+description: Request to add a new Dailymotion stream
+title: 'Add: '
+labels: ['add:stream:dailymotion']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Stream Information
+
+  - type: input
+    attributes:
+      label: Dailymotion URL (required)
+      description: Link to the stream
+      placeholder: 'https://www.dailymotion.com/video/x3b68jn'
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+  - type: input
+    attributes:
+      label: Country (required)
+      description: Specify the country where the stream originates
+      placeholder: 'France'
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Geoblocked ?
+      options:
+        - 'Yes'
+        - 'No'
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+  - type: dropdown
+    attributes:
+      label: Is the video private? (required)
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Is the stream in an embed from another website? (required if private)
+      options:
+        - 'Yes'
+        - 'No'
+
+  - type: input
+    attributes:
+      label: Website URL (required if embed)
+      description: Specify the website URL if the stream is an embed
+      placeholder: 'https://example.com/'
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+  - type: textarea
+    attributes:
+      label: Notes
