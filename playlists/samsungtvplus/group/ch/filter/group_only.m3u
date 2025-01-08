@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 17/12/2024 03:44:25 CET+0100
+# Generated on: 08/01/2025 03:21:46 CET+0100
 #TOTAL: 124
 
 #Anime (5)
@@ -60,39 +60,61 @@ https://jmp2.uk/sam-CHBC4000003K9.m3u8
 #EXTINF:-1 group-title="Chaînes en français",Ciné Nanar [FR]
 https://jmp2.uk/sam-CHBB3900007I2.m3u8
 
-#Dokus (12)
-#EXTINF:-1 group-title="Dokus",Faites entrer l'accusé [FR]
+#Dokus & Wissen (12)
+#EXTINF:-1 group-title="Dokus & Wissen",Faites entrer l'accusé [FR]
 https://jmp2.uk/sam-CH330000132.m3u8
-#EXTINF:-1 group-title="Dokus",SPIEGEL TV Konflikte
+#EXTINF:-1 group-title="Dokus & Wissen",SPIEGEL TV Konflikte
 https://jmp2.uk/sam-CHBD1400002AK.m3u8
-#EXTINF:-1 group-title="Dokus",The Wicked Tuna Channel
+#EXTINF:-1 group-title="Dokus & Wissen",The Wicked Tuna Channel
 https://jmp2.uk/sam-CHBC40000011Y.m3u8
-#EXTINF:-1 group-title="Dokus",CURIOSITY Now
+#EXTINF:-1 group-title="Dokus & Wissen",CURIOSITY Now
 https://jmp2.uk/sam-CHBD1400001NP.m3u8
-#EXTINF:-1 group-title="Dokus",Pluto TV Paranormal
+#EXTINF:-1 group-title="Dokus & Wissen",Pluto TV Paranormal
 https://jmp2.uk/sam-CHAJ7000084D.m3u8
-#EXTINF:-1 group-title="Dokus",Grandi Documentari - Wedo Big Stories [IT]
+#EXTINF:-1 group-title="Dokus & Wissen",Grandi Documentari - Wedo Big Stories [IT]
 https://jmp2.uk/sam-CHBC40000040J.m3u8
-#EXTINF:-1 group-title="Dokus",Ice Pilots
+#EXTINF:-1 group-title="Dokus & Wissen",Ice Pilots
 https://jmp2.uk/sam-CHAJ700009UV.m3u8
-#EXTINF:-1 group-title="Dokus",Tempora
+#EXTINF:-1 group-title="Dokus & Wissen",Tempora
 https://jmp2.uk/sam-CHAJ0500457A.m3u8
-#EXTINF:-1 group-title="Dokus",Höhenrausch
+#EXTINF:-1 group-title="Dokus & Wissen",Höhenrausch
 https://jmp2.uk/sam-CHBA1500028KP.m3u8
-#EXTINF:-1 group-title="Dokus",Pluto TV Science
+#EXTINF:-1 group-title="Dokus & Wissen",Pluto TV Science
 https://jmp2.uk/sam-CHAK3504503A.m3u8
-#EXTINF:-1 group-title="Dokus",RMC Story
+#EXTINF:-1 group-title="Dokus & Wissen",RMC Story
 https://jmp2.uk/sam-CH500002H2.m3u8
-#EXTINF:-1 group-title="Dokus",RMC Découverte
+#EXTINF:-1 group-title="Dokus & Wissen",RMC Découverte
 https://jmp2.uk/sam-CH500003EH.m3u8
 
-#Essen & Trinken (3)
-#EXTINF:-1 group-title="Essen & Trinken",The Jamie Oliver Channel
-https://jmp2.uk/sam-CH20000288.m3u8
-#EXTINF:-1 group-title="Essen & Trinken",Pluto TV Food
-https://jmp2.uk/sam-CHAK3504501A.m3u8
-#EXTINF:-1 group-title="Essen & Trinken",Just Cooking
-https://jmp2.uk/sam-CHAJ0500443A.m3u8
+#Entertainment (14)
+#EXTINF:-1 group-title="Entertainment",X-MAS Mix
+https://jmp2.uk/sam-CHBD3700001XS.m3u8
+#EXTINF:-1 group-title="Entertainment",Freitag Nacht News
+https://jmp2.uk/sam-CHBD2700004E9.m3u8
+#EXTINF:-1 group-title="Entertainment",Hell's Kitchen
+https://jmp2.uk/sam-CHBD26000017A.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV Catfish
+https://jmp2.uk/sam-CHAK3504517A.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV Pluto TV
+https://jmp2.uk/sam-CHAJ700002UB.m3u8
+#EXTINF:-1 group-title="Entertainment",FailArmy
+https://jmp2.uk/sam-CHAJ32000026J.m3u8
+#EXTINF:-1 group-title="Entertainment",The Pet Collective
+https://jmp2.uk/sam-CHAJ3200003RF.m3u8
+#EXTINF:-1 group-title="Entertainment",Craction TV
+https://jmp2.uk/sam-CHBA3300026CA.m3u8
+#EXTINF:-1 group-title="Entertainment",Out TV
+https://jmp2.uk/sam-CHBD2500001SY.m3u8
+#EXTINF:-1 group-title="Entertainment",People Are Awesome
+https://jmp2.uk/sam-CHBA1000004IU.m3u8
+#EXTINF:-1 group-title="Entertainment",Comedy Central Pluto TV
+https://jmp2.uk/sam-CHAK3504510A.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV Teen Mom
+https://jmp2.uk/sam-CHAJ700010NR.m3u8
+#EXTINF:-1 group-title="Entertainment",Comedy & Shows
+https://jmp2.uk/sam-CHBB4900004VT.m3u8
+#EXTINF:-1 group-title="Entertainment",Stars in Gefahr
+https://jmp2.uk/sam-CHBB49000054U.m3u8
 
 #Extremsport (1)
 #EXTINF:-1 group-title="Extremsport",World of Freesports - WoF
@@ -148,22 +170,30 @@ https://jmp2.uk/sam-CH2600002VE.m3u8
 #EXTINF:-1 group-title="Filme",Actionfilme - Rakuten TV
 https://jmp2.uk/sam-CH2600004R1.m3u8
 
-#Kinder (8)
-#EXTINF:-1 group-title="Kinder",LooLoo Kids
+#Food & Travel (3)
+#EXTINF:-1 group-title="Food & Travel",The Jamie Oliver Channel
+https://jmp2.uk/sam-CH20000288.m3u8
+#EXTINF:-1 group-title="Food & Travel",Pluto TV Food
+https://jmp2.uk/sam-CHAK3504501A.m3u8
+#EXTINF:-1 group-title="Food & Travel",Just Cooking
+https://jmp2.uk/sam-CHAJ0500443A.m3u8
+
+#Kids (8)
+#EXTINF:-1 group-title="Kids",LooLoo Kids
 https://jmp2.uk/sam-CHBD4700001DY.m3u8
-#EXTINF:-1 group-title="Kinder",Teletubbies
+#EXTINF:-1 group-title="Kids",Teletubbies
 https://jmp2.uk/sam-CHBA3300014AM.m3u8
-#EXTINF:-1 group-title="Kinder",SpongeBob Schwammkopf
+#EXTINF:-1 group-title="Kids",SpongeBob Schwammkopf
 https://jmp2.uk/sam-CHAJ7000057P.m3u8
-#EXTINF:-1 group-title="Kinder",100% Weihnachten - Rakuten TV
+#EXTINF:-1 group-title="Kids",100% Weihnachten - Rakuten TV
 https://jmp2.uk/sam-CH26000056O.m3u8
-#EXTINF:-1 group-title="Kinder",Teen Nick
+#EXTINF:-1 group-title="Kids",Teen Nick
 https://jmp2.uk/sam-CHAJ700004GX.m3u8
-#EXTINF:-1 group-title="Kinder",Nick Pluto TV
+#EXTINF:-1 group-title="Kids",Nick Pluto TV
 https://jmp2.uk/sam-CHAJ700003CV.m3u8
-#EXTINF:-1 group-title="Kinder",iCarly
+#EXTINF:-1 group-title="Kids",iCarly
 https://jmp2.uk/sam-CHAJ700006QR.m3u8
-#EXTINF:-1 group-title="Kinder",Garfield
+#EXTINF:-1 group-title="Kids",Garfield
 https://jmp2.uk/sam-CHBD2600010Q6.m3u8
 
 #Lifestyle (2)
@@ -249,33 +279,3 @@ https://jmp2.uk/sam-CHBA3300008LD.m3u8
 https://jmp2.uk/sam-CHBD2900001LI.m3u8
 #EXTINF:-1 group-title="Sport",Strongman Champions League
 https://jmp2.uk/sam-CHBA3300011A6.m3u8
-
-#Unterhaltung (14)
-#EXTINF:-1 group-title="Unterhaltung",X-MAS Mix
-https://jmp2.uk/sam-CHBD3700001XS.m3u8
-#EXTINF:-1 group-title="Unterhaltung",Freitag Nacht News
-https://jmp2.uk/sam-CHBD2700004E9.m3u8
-#EXTINF:-1 group-title="Unterhaltung",Hell's Kitchen
-https://jmp2.uk/sam-CHBD26000017A.m3u8
-#EXTINF:-1 group-title="Unterhaltung",MTV Catfish
-https://jmp2.uk/sam-CHAK3504517A.m3u8
-#EXTINF:-1 group-title="Unterhaltung",MTV Pluto TV
-https://jmp2.uk/sam-CHAJ700002UB.m3u8
-#EXTINF:-1 group-title="Unterhaltung",FailArmy
-https://jmp2.uk/sam-CHAJ32000026J.m3u8
-#EXTINF:-1 group-title="Unterhaltung",The Pet Collective
-https://jmp2.uk/sam-CHAJ3200003RF.m3u8
-#EXTINF:-1 group-title="Unterhaltung",Craction TV
-https://jmp2.uk/sam-CHBA3300026CA.m3u8
-#EXTINF:-1 group-title="Unterhaltung",Out TV
-https://jmp2.uk/sam-CHBD2500001SY.m3u8
-#EXTINF:-1 group-title="Unterhaltung",People Are Awesome
-https://jmp2.uk/sam-CHBA1000004IU.m3u8
-#EXTINF:-1 group-title="Unterhaltung",Comedy Central Pluto TV
-https://jmp2.uk/sam-CHAK3504510A.m3u8
-#EXTINF:-1 group-title="Unterhaltung",MTV Teen Mom
-https://jmp2.uk/sam-CHAJ700010NR.m3u8
-#EXTINF:-1 group-title="Unterhaltung",Comedy & Shows
-https://jmp2.uk/sam-CHBB4900004VT.m3u8
-#EXTINF:-1 group-title="Unterhaltung",Stars in Gefahr
-https://jmp2.uk/sam-CHBB49000054U.m3u8
