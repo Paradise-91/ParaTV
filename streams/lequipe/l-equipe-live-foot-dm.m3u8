@@ -1,121 +1,13 @@
+#EXTM3U
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"
+https://live-c2.cf.dmcdn.net/sec2(3yII6NfY_ot0Gn-mWHHdH7YZIyyG5g209qSRglTszYev5r5w5AIOowXEfvkfpAZ8Pq6ixDdDx4ay9pklwhsJ4zSZwxnayETG2vKgNPA7dV8HdJ-Iau_mSmvIqhJR6b3n)/cloud/3/x6hd0e1/d/live-480@60.m3u8#cell=lcfc2
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://live-c2.cf.dmcdn.net/sec2(3yII6NfY_ot0Gn-mWHHdH7YZIyyG5g209qSRglTszYev5r5w5AIOowXEfvkfpAZ8Pq6ixDdDx4ay9pklwhsJ4zSZwxnayETG2vKgNPA7dV8HdJ-Iau_mSmvIqhJR6b3n)/cloud/3/x6hd0e1/d/live-240.m3u8#cell=lcfc2
+#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
+https://live-c2.cf.dmcdn.net/sec2(3yII6NfY_ot0Gn-mWHHdH7YZIyyG5g209qSRglTszYev5r5w5AIOowXEfvkfpAZ8Pq6ixDdDx4ay9pklwhsJ4zSZwxnayETG2vKgNPA7dV8HdJ-Iau_mSmvIqhJR6b3n)/cloud/3/x6hd0e1/d/live-380.m3u8#cell=lcfc2
+#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=50.000000,BANDWIDTH=2691072,CODECS="avc1.640020,mp4a.40.2",NAME="720@60"
+https://live-c2.cf.dmcdn.net/sec2(3yII6NfY_ot0Gn-mWHHdH7YZIyyG5g209qSRglTszYev5r5w5AIOowXEfvkfpAZ8Pq6ixDdDx4ay9pklwhsJ4zSZwxnayETG2vKgNPA7dV8HdJ-Iau_mSmvIqhJR6b3n)/cloud/3/x6hd0e1/d/live-720@60.m3u8#cell=lcfc2
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=50.000000,BANDWIDTH=7811072,CODECS="avc1.64002a,mp4a.40.2",NAME="1080@60"
+https://live-c2.cf.dmcdn.net/sec2(3yII6NfY_ot0Gn-mWHHdH7YZIyyG5g209qSRglTszYev5r5w5AIOowXEfvkfpAZ8Pq6ixDdDx4ay9pklwhsJ4zSZwxnayETG2vKgNPA7dV8HdJ-Iau_mSmvIqhJR6b3n)/cloud/3/x6hd0e1/d/live-1080@60.m3u8#cell=lcfc2
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>503 Service Unavailable</title>
-    <meta name="description" content="dailymotion 503 Service Unavailable">
-    <meta charset="utf-8">
-    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width" >
-    <meta name="author" content="dailymotion.com">
-    <link href='https://fonts.googleapis.com/css?family=Hind:300,500' rel='stylesheet' type='text/css'>
-    <style type="text/css">
-        body
-        {
-            height: 100vh;
-            background: #000 url('//static1.dmcdn.net/503images/503background.png') center bottom no-repeat;
-            background-size:cover;
-            overflow:hidden;
-            margin:0;
-            padding:0;
-            border:0;
-        }
-
-        .container
-        {
-            width:80%;
-            position:absolute;
-            top:50%;
-            left:50%;
-            -webkit-transform:translate(-50%,-50%);
-            -moz-transform:translate(-50%,-50%);
-            -ms-transform:translate(-50%,-50%);
-            -o-transform:translate(-50%,-50%);
-            transform:translate(-50 %,-50%);
-            color:#FFF;
-            text-align:center;
-        }
-
-        h1, h2
-        {
-            font-family: 'Hind', Arial, sans-serif;
-        }
-        h1
-        {
-            font-weight:500;
-        }
-        h2
-        {
-            font-weight:300;
-        }
-
-        .main{ width:100%;margin-bottom:8%; }
-        .main h1{ font-size:50px; }
-        .main h2{ font-size:22px; }
-
-        .col-3
-        {
-            width:30%;
-            float:left;
-        }
-
-        .col-3.center
-        {
-            margin:0 5%;
-        }
-
-        @media screen and (max-width:960px),
-        screen and (max-height:600px)
-        {
-            .col-3
-            {
-                display:none;
-            }
-        }
-
-        .col-3 h1{ font-size:20px }
-        .col-3 h2{ font-size:16px }
-
-        .titles, .description{ overflow: hidden }
-
-        .logo-dailymotion {
-            margin:0 auto;
-            width:177px;
-            height:60px;
-            background-image: url('//www.dailymotion.com/503images/logo_dailymotion.png');
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="main">
-            <div class="logo-dailymotion"></div>
-            <h1>Stay Tuned - we'll be back soon...</h1>
-            <h2>Dailymotion is currently offline for unplanned maintenance.<br/>Thanks for your patience.</h2>
-        </div>
-        <div class="titles">
-            <div class="col-3">
-                <h1>Restez connecté, nous revenons bientôt…</h1>
-            </div>
-            <div class="col-3 center">
-                <h1>Bizi takip edin, kısa bir süre içinde geri döneceğiz...</h1>
-            </div>
-            <div class="col-3">
-                <h1>まもなく再開します。このままお待ちください。</h1>
-            </div>
-        </div>
-        <div class="descriptions">
-            <div class="col-3">
-                <h2>Dailymotion est actuellement hors ligne pour effectuer une maintenance non programmée.<br/>Merci pour votre patience.</h2>
-            </div>
-            <div class="col-3 center">
-                <h2>Dailymotion planlanmamış bir bakım çalışmasından ötürü şu anda çevrimdışı.<br/>Anlayışınız için teşekkür ederiz.</h2>
-            </div>
-            <div class="col-3">
-                <h2>Dailymotionは現在オフラインです。予期せぬ事情によりメンテナンスを行っています。<br/>ご理解のほどお願いいたします。</h2>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
-
-#Last refreshed on 09/01/2025 12:21:41 CET.
+#Last refreshed on 09/01/2025 15:20:17 CET.
