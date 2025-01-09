@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 17/12/2024 03:44:24 CET+0100
-#TOTAL: 126
+# Generated on: 09/01/2025 01:08:26 CET+0100
+#TOTAL: 125
 
 #Cine (22)
 #EXTINF:-1,Runtime Familia
@@ -33,9 +33,11 @@ https://jmp2.uk/sam-ESBC2700002LO.m3u8
 https://jmp2.uk/sam-ESBC2700003T8.m3u8
 #EXTINF:-1,FreeTV Clásico
 https://jmp2.uk/sam-ESBD230000143.m3u8
+#EXTINF:-1,Planeta de Cine
+https://jmp2.uk/sam-ES2800001G7.m3u8
 #EXTINF:-1,Cine Español - Rakuten TV
 https://jmp2.uk/sam-ES3000008O8.m3u8
-#EXTINF:-1,Horror Vision
+#EXTINF:-1,Action Movie Channel
 https://jmp2.uk/sam-ESBC40000248.m3u8
 #EXTINF:-1,Cine Friki
 https://jmp2.uk/sam-ESBD800001RJ.m3u8
@@ -45,8 +47,6 @@ https://jmp2.uk/sam-ESBD80000288.m3u8
 https://jmp2.uk/sam-ES2600003UM.m3u8
 #EXTINF:-1,Acción - Rakuten TV
 https://jmp2.uk/sam-ES2600004BD.m3u8
-#EXTINF:-1,Planeta de Cine
-https://jmp2.uk/sam-ES2800001G7.m3u8
 
 #Comedia (6)
 #EXTINF:-1,Comedia Made in Spain
@@ -73,10 +73,10 @@ https://jmp2.uk/sam-ES2600001MC.m3u8
 https://jmp2.uk/sam-ES33000025N.m3u8
 #EXTINF:-1,DATELINE 24/7
 https://jmp2.uk/sam-ESBD3700001S0.m3u8
-#EXTINF:-1,Crimen - Rakuten TV
-https://jmp2.uk/sam-ES2600005G9.m3u8
 #EXTINF:-1,Crimenes Reales
 https://jmp2.uk/sam-ES3300001MC.m3u8
+#EXTINF:-1,Crimen - Rakuten TV
+https://jmp2.uk/sam-ES2600005G9.m3u8
 
 #Deporte (10)
 #EXTINF:-1,FIFA+
@@ -119,8 +119,6 @@ https://jmp2.uk/sam-ESBC170000388.m3u8
 #Entretenimiento (17)
 #EXTINF:-1,Estilo y Vida – Rakuten TV
 https://jmp2.uk/sam-ES26000068D.m3u8
-#EXTINF:-1,Mi chimenea
-https://jmp2.uk/sam-ESBD1500001SD.m3u8
 #EXTINF:-1,La 1
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTINF:-1,Canal Sur Andalucía
@@ -135,6 +133,8 @@ https://jmp2.uk/sam-ESAJ380000226.m3u8
 https://jmp2.uk/sam-ESBA1400007MR.m3u8
 #EXTINF:-1,Beyblade
 https://jmp2.uk/sam-ES1400001T8.m3u8
+#EXTINF:-1,¡Hola! Play
+https://jmp2.uk/sam-ES26000025M.m3u8
 #EXTINF:-1,Ideas en 5 Minutos
 https://jmp2.uk/sam-ESBC3500002PW.m3u8
 #EXTINF:-1,Fashion TV
@@ -149,12 +149,10 @@ https://jmp2.uk/sam-ESBD1300004IG.m3u8
 https://jmp2.uk/sam-ESBA3300033PL.m3u8
 #EXTINF:-1,Teen Vee
 https://jmp2.uk/sam-ESBC4700003RJ.m3u8
-#EXTINF:-1,¡Hola! Play
-https://jmp2.uk/sam-ES26000025M.m3u8
+#EXTINF:-1,Mi chimenea
+https://jmp2.uk/sam-ESBD1500001SD.m3u8
 
-#Música (13)
-#EXTINF:-1,Vevo Navidad
-https://jmp2.uk/sam-ES35000016A.m3u8
+#Música (12)
 #EXTINF:-1,Vevo Latino
 https://jmp2.uk/sam-ESBC2100002LV.m3u8
 #EXTINF:-1,Vevo '70s & '80s
@@ -173,12 +171,12 @@ https://jmp2.uk/sam-ES1900001OE.m3u8
 https://jmp2.uk/sam-ESBD2300004Y7.m3u8
 #EXTINF:-1,Cool Summer Channel
 https://jmp2.uk/sam-ES2500001F9.m3u8
+#EXTINF:-1,CLIPS don´t Lie
+https://jmp2.uk/sam-ES32000027M.m3u8
 #EXTINF:-1,K-POP by CJ ENM
 https://jmp2.uk/sam-ES3900001QG.m3u8
 #EXTINF:-1,Deluxe Lounge HD
 https://jmp2.uk/sam-ESBA1500001C4.m3u8
-#EXTINF:-1,Clips don´t Lie
-https://jmp2.uk/sam-ES32000027M.m3u8
 
 #Niños (18)
 #EXTINF:-1,Clan
@@ -209,14 +207,14 @@ https://jmp2.uk/sam-ESBA33000324U.m3u8
 https://jmp2.uk/sam-ESBA33000262Z.m3u8
 #EXTINF:-1,Pluto TV Animakids
 https://jmp2.uk/sam-ESAJ3800009VJ.m3u8
+#EXTINF:-1,Rantaró
+https://jmp2.uk/sam-ES2600008NX.m3u8
 #EXTINF:-1,Pluto TV Kids
 https://jmp2.uk/sam-ESAJ38000046O.m3u8
 #EXTINF:-1,iCarly
 https://jmp2.uk/sam-ESBA3300028OE.m3u8
-#EXTINF:-1,100% Navidad - Rakuten TV
+#EXTINF:-1,En Familia - Rakuten TV
 https://jmp2.uk/sam-ES260001081.m3u8
-#EXTINF:-1,Rantaró
-https://jmp2.uk/sam-ES2600008NX.m3u8
 
 #Noticias (13)
 #EXTINF:-1,Euronews en directo
