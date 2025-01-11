@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 09/01/2025 01:08:39 CET+0100
+# Generated on: 11/01/2025 01:25:14 CET+0100
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -218,7 +218,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
-#TF1PLUS (70)
+#TF1PLUS (69)
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -335,8 +335,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/baby-b
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-enfoires.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-08064c-779091-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LES RESTOS DU CŒUR [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-restos-du-coeur.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-little-angel-png-2e5fab-aa7748-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LE MONDE DE LITTLE ANGEL [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/little-angel.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-boule-et-bill-a7e70a-68f2cc-0@3x.png" tvg-country="FR" group-title="TF1PLUS",BOULE ET BILL TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boule-et-bill.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-super-wings-312b9f-f8a07e-0@3x.png" tvg-country="FR" group-title="TF1PLUS",SUPER WINGS TV [720p-tf1.fr]
