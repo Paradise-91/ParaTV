@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 15/01/2025 06:20:59 CET+0100
-#TOTAL: 401
+# Generated on: 22/01/2025 06:22:04 CET+0100
+#TOTAL: 406
 
 #Action & Drama (20)
 #EXTINF:-1 tvg-chno="1439" tvg-id="USBD300002TU" tvg-country="US" group-title="Action & Drama",1439. ION
@@ -44,7 +44,7 @@ https://jmp2.uk/sam-USBD700010XU.m3u8
 #EXTINF:-1 tvg-chno="1458" tvg-id="USBC240001823" tvg-country="US" group-title="Action & Drama",1458. Brat TV
 https://jmp2.uk/sam-USBC240001823.m3u8
 
-#Ambiance (20)
+#Ambiance (18)
 #EXTINF:-1 tvg-chno="1459" tvg-id="US1400010S0" tvg-country="US" group-title="Ambiance",1459. Winter Vibes
 https://jmp2.uk/sam-US1400010S0.m3u8
 #EXTINF:-1 tvg-chno="1460" tvg-id="US700012OU" tvg-country="US" group-title="Ambiance",1460. Ocean Vibes
@@ -81,10 +81,6 @@ https://jmp2.uk/sam-US2900005NW.m3u8
 https://jmp2.uk/sam-US2900004L2.m3u8
 #EXTINF:-1 tvg-chno="1476" tvg-id="USBA3800004EL" tvg-country="US" group-title="Ambiance",1476. Fireplace Vibes
 https://jmp2.uk/sam-USBA3800004EL.m3u8
-#EXTINF:-1 tvg-chno="1477" tvg-id="US2900002P8" tvg-country="US" group-title="Ambiance",1477. Holiday Fireplace Vibes
-https://jmp2.uk/sam-US2900002P8.m3u8
-#EXTINF:-1 tvg-chno="1478" tvg-id="US2900003NN" tvg-country="US" group-title="Ambiance",1478. Christmas Vibes
-https://jmp2.uk/sam-US2900003NN.m3u8
 
 #Animals, Nature & History (22)
 #EXTINF:-1 tvg-chno="1479" tvg-id="US3800007CR" tvg-country="US" group-title="Animals, Nature & History",1479. WildEarth
@@ -132,7 +128,7 @@ https://jmp2.uk/sam-USAJ3400014LK.m3u8
 #EXTINF:-1 tvg-chno="1500" tvg-id="USBB800001O7" tvg-country="US" group-title="Animals, Nature & History",1500. PBS Digital Studios
 https://jmp2.uk/sam-USBB800001O7.m3u8
 
-#Comedy (18)
+#Comedy (20)
 #EXTINF:-1 tvg-chno="1501" tvg-id="US2900006IV" tvg-country="US" group-title="Comedy",1501. Hot Ones
 https://jmp2.uk/sam-US2900006IV.m3u8
 #EXTINF:-1 tvg-chno="1502" tvg-id="US400002PS" tvg-country="US" group-title="Comedy",1502. Animation+
@@ -169,6 +165,10 @@ https://jmp2.uk/sam-USBD7000145C.m3u8
 https://jmp2.uk/sam-US4500004SQ.m3u8
 #EXTINF:-1 tvg-chno="1518" tvg-id="USAJ3504706A" tvg-country="US" group-title="Comedy",1518. RiffTrax
 https://jmp2.uk/sam-USAJ3504706A.m3u8
+#EXTINF:-1 tvg-chno="1882" tvg-id="US310000101" tvg-country="US" group-title="Comedy",1882. MrBeast
+https://jmp2.uk/sam-US310000101.m3u8
+#EXTINF:-1 tvg-chno="1883" tvg-id="US4500009VV" tvg-country="US" group-title="Comedy",1883. BBC Comedy
+https://jmp2.uk/sam-US4500009VV.m3u8
 
 #Crime (21)
 #EXTINF:-1 tvg-chno="1519" tvg-id="USBC24000223S" tvg-country="US" group-title="Crime",1519. ION Mystery
@@ -498,7 +498,7 @@ https://jmp2.uk/sam-USAJ30000122O.m3u8
 #EXTINF:-1 tvg-chno="1674" tvg-id="USAJ3000007MT" tvg-country="US" group-title="Movies",1674. Maverick Black Cinema
 https://jmp2.uk/sam-USAJ3000007MT.m3u8
 
-#Music (43)
+#Music (47)
 #EXTINF:-1 tvg-chno="1675" tvg-id="USBD350003932" tvg-country="US" group-title="Music",1675. XITE Celebrates
 https://jmp2.uk/sam-USBD350003932.m3u8
 #EXTINF:-1 tvg-chno="1676" tvg-id="USBB320000647" tvg-country="US" group-title="Music",1676. XITE 80s Flashback
@@ -581,10 +581,18 @@ https://jmp2.uk/sam-USBD35000180U.m3u8
 https://jmp2.uk/sam-USBD3500010MT.m3u8
 #EXTINF:-1 tvg-chno="1715" tvg-id="US4700003DP" tvg-country="US" group-title="Music",1715. Stingray Movie Music
 https://jmp2.uk/sam-US4700003DP.m3u8
-#EXTINF:-1 tvg-chno="1716" tvg-id="USBD3300021KV" tvg-country="US" group-title="Music",1716. Stingray Hot Country Christmas
+#EXTINF:-1 tvg-chno="1716" tvg-id="USBD3300021KV" tvg-country="US" group-title="Music",1716. Stingray Hot Country
 https://jmp2.uk/sam-USBD3300021KV.m3u8
-#EXTINF:-1 tvg-chno="1717" tvg-id="USBD3500022DN" tvg-country="US" group-title="Music",1717. Greatest Holiday Hits
+#EXTINF:-1 tvg-chno="1717" tvg-id="USBD3500022DN" tvg-country="US" group-title="Music",1717. Stingray Greatest Hits
 https://jmp2.uk/sam-USBD3500022DN.m3u8
+#EXTINF:-1 tvg-chno="1884" tvg-id="US4700002UF" tvg-country="US" group-title="Music",1884. Stingray Euro Hits
+https://jmp2.uk/sam-US4700002UF.m3u8
+#EXTINF:-1 tvg-chno="1885" tvg-id="US4700007GV" tvg-country="US" group-title="Music",1885. Stingray Soft Hits
+https://jmp2.uk/sam-US4700007GV.m3u8
+#EXTINF:-1 tvg-chno="1886" tvg-id="US4700006XL" tvg-country="US" group-title="Music",1886. Stingray Jukebox Oldies
+https://jmp2.uk/sam-US4700006XL.m3u8
+#EXTINF:-1 tvg-chno="1887" tvg-id="US4700005EA" tvg-country="US" group-title="Music",1887. Stingray Country Greats
+https://jmp2.uk/sam-US4700005EA.m3u8
 
 #News & Opinion (23)
 #EXTINF:-1 tvg-chno="1718" tvg-id="USBA370000104" tvg-country="US" group-title="News & Opinion",1718. CBS News 24/7
@@ -752,7 +760,7 @@ https://jmp2.uk/sam-USBC36000073J.m3u8
 #EXTINF:-1 tvg-chno="1796" tvg-id="US3500004M7" tvg-country="US" group-title="Sci-Fi & Horror",1796. FilmRise Anime
 https://jmp2.uk/sam-US3500004M7.m3u8
 
-#Sports & Outdoors (35)
+#Sports & Outdoors (36)
 #EXTINF:-1 tvg-chno="1797" tvg-id="US2600007WJ" tvg-country="US" group-title="Sports & Outdoors",1797. NFL Channel
 https://jmp2.uk/sam-US2600007WJ.m3u8
 #EXTINF:-1 tvg-chno="1798" tvg-id="US1400001WV" tvg-country="US" group-title="Sports & Outdoors",1798. MLB Channel
@@ -823,6 +831,8 @@ https://jmp2.uk/sam-USBB440002055.m3u8
 https://jmp2.uk/sam-USBD17000025J.m3u8
 #EXTINF:-1 tvg-chno="1831" tvg-id="USBD1200020Y4" tvg-country="US" group-title="Sports & Outdoors",1831. Outdoor America
 https://jmp2.uk/sam-USBD1200020Y4.m3u8
+#EXTINF:-1 tvg-chno="1888" tvg-id="US4700001B4" tvg-country="US" group-title="Sports & Outdoors",1888. Samsung Showcase
+https://jmp2.uk/sam-US4700001B4.m3u8
 
 #Western & Classic TV (8)
 #EXTINF:-1 tvg-chno="1832" tvg-id="USBA300005MK" tvg-country="US" group-title="Western & Classic TV",1832. Pluto TV Westerns

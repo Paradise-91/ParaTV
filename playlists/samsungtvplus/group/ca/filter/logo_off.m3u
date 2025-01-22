@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 09/01/2025 01:08:26 CET+0100
-#TOTAL: 206
+# Generated on: 22/01/2025 06:22:03 CET+0100
+#TOTAL: 202
 
-#Ambiance (19)
+#Ambiance (17)
 #EXTINF:-1 tvg-chno="112" tvg-id="CA14000121V" tvg-country="CA" group-title="Ambiance",112. Winter Vibes
 https://jmp2.uk/sam-CA14000121V.m3u8
 #EXTINF:-1 tvg-chno="113" tvg-id="CA7000015K" tvg-country="CA" group-title="Ambiance",113. Ocean Vibes
@@ -37,10 +37,30 @@ https://jmp2.uk/sam-CA2900005KG.m3u8
 https://jmp2.uk/sam-CA29000043R.m3u8
 #EXTINF:-1 tvg-chno="128" tvg-id="CABB260002016" tvg-country="CA" group-title="Ambiance",128. Fireplace Vibes
 https://jmp2.uk/sam-CABB260002016.m3u8
-#EXTINF:-1 tvg-chno="129" tvg-id="CA29000026X" tvg-country="CA" group-title="Ambiance",129. Holiday Fireplace Vibes
-https://jmp2.uk/sam-CA29000026X.m3u8
-#EXTINF:-1 tvg-chno="130" tvg-id="CA29000034C" tvg-country="CA" group-title="Ambiance",130. Christmas Vibes
-https://jmp2.uk/sam-CA29000034C.m3u8
+
+#Animals, Nature & History (11)
+#EXTINF:-1 tvg-chno="143" tvg-id="CAAJ270002855" tvg-country="CA" group-title="Animals, Nature & History",143. The Pet Collective
+https://jmp2.uk/sam-CAAJ270002855.m3u8
+#EXTINF:-1 tvg-chno="258" tvg-id="CA900004R3" tvg-country="CA" group-title="Animals, Nature & History",258. Modern Marvels
+https://jmp2.uk/sam-CA900004R3.m3u8
+#EXTINF:-1 tvg-chno="259" tvg-id="CA600001C3" tvg-country="CA" group-title="Animals, Nature & History",259. History & Warfare
+https://jmp2.uk/sam-CA600001C3.m3u8
+#EXTINF:-1 tvg-chno="260" tvg-id="CABC2300002VB" tvg-country="CA" group-title="Animals, Nature & History",260. Xplore
+https://jmp2.uk/sam-CABC2300002VB.m3u8
+#EXTINF:-1 tvg-chno="261" tvg-id="CABC2300001X9" tvg-country="CA" group-title="Animals, Nature & History",261. The Jack Hanna Channel
+https://jmp2.uk/sam-CABC2300001X9.m3u8
+#EXTINF:-1 tvg-chno="262" tvg-id="CA900003IF" tvg-country="CA" group-title="Animals, Nature & History",262. Evolution Earth
+https://jmp2.uk/sam-CA900003IF.m3u8
+#EXTINF:-1 tvg-chno="263" tvg-id="CABA800002RW" tvg-country="CA" group-title="Animals, Nature & History",263. InWonder
+https://jmp2.uk/sam-CABA800002RW.m3u8
+#EXTINF:-1 tvg-chno="264" tvg-id="CAAJ3400017AE" tvg-country="CA" group-title="Animals, Nature & History",264. Magellan TV Now
+https://jmp2.uk/sam-CAAJ3400017AE.m3u8
+#EXTINF:-1 tvg-chno="265" tvg-id="CAAJ3400007TS" tvg-country="CA" group-title="Animals, Nature & History",265. WeatherSpy
+https://jmp2.uk/sam-CAAJ3400007TS.m3u8
+#EXTINF:-1 tvg-chno="266" tvg-id="CABB2500020SS" tvg-country="CA" group-title="Animals, Nature & History",266. TED
+https://jmp2.uk/sam-CABB2500020SS.m3u8
+#EXTINF:-1 tvg-chno="276" tvg-id="CA3400002KP" tvg-country="CA" group-title="Animals, Nature & History",276. Dog Whisperer
+https://jmp2.uk/sam-CA3400002KP.m3u8
 
 #Comedy (17)
 #EXTINF:-1 tvg-chno="131" tvg-id="CA2900007ZL" tvg-country="CA" group-title="Comedy",131. Hot Ones
@@ -67,8 +87,6 @@ https://jmp2.uk/sam-CABB26000192D.m3u8
 https://jmp2.uk/sam-CA2900009GM.m3u8
 #EXTINF:-1 tvg-chno="142" tvg-id="CA41000052M" tvg-country="CA" group-title="Comedy",142. ALF
 https://jmp2.uk/sam-CA41000052M.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="CAAJ270002855" tvg-country="CA" group-title="Comedy",143. The Pet Collective
-https://jmp2.uk/sam-CAAJ270002855.m3u8
 #EXTINF:-1 tvg-chno="144" tvg-id="CAAJ2700029OC" tvg-country="CA" group-title="Comedy",144. FailArmy
 https://jmp2.uk/sam-CAAJ2700029OC.m3u8
 #EXTINF:-1 tvg-chno="145" tvg-id="CABA3700001DB" tvg-country="CA" group-title="Comedy",145. Always Funny Videos
@@ -77,8 +95,10 @@ https://jmp2.uk/sam-CABA3700001DB.m3u8
 https://jmp2.uk/sam-CAAJ3400013EH.m3u8
 #EXTINF:-1 tvg-chno="147" tvg-id="CABC5200020WJ" tvg-country="CA" group-title="Comedy",147. Comedy Dynamics
 https://jmp2.uk/sam-CABC5200020WJ.m3u8
+#EXTINF:-1 tvg-chno="1845" tvg-id="CA3100001IB" tvg-country="CA" group-title="Comedy",1845. MrBeast
+https://jmp2.uk/sam-CA3100001IB.m3u8
 
-#Crime (10)
+#Crime (9)
 #EXTINF:-1 tvg-chno="148" tvg-id="CABC23000189A" tvg-country="CA" group-title="Crime",148. Cops
 https://jmp2.uk/sam-CABC23000189A.m3u8
 #EXTINF:-1 tvg-chno="149" tvg-id="CABB2600009WE" tvg-country="CA" group-title="Crime",149. Dr. G: Medical Examiner
@@ -95,12 +115,12 @@ https://jmp2.uk/sam-CABA3700005AD.m3u8
 https://jmp2.uk/sam-CAAJ27000079E.m3u8
 #EXTINF:-1 tvg-chno="155" tvg-id="CAAJ27000135F" tvg-country="CA" group-title="Crime",155. Unsolved Mysteries
 https://jmp2.uk/sam-CAAJ27000135F.m3u8
-#EXTINF:-1 tvg-chno="156" tvg-id="CABC23000056U" tvg-country="CA" group-title="Crime",156. Midsomer Murders
-https://jmp2.uk/sam-CABC23000056U.m3u8
 #EXTINF:-1 tvg-chno="157" tvg-id="CABA8000080J" tvg-country="CA" group-title="Crime",157. Total Crime
 https://jmp2.uk/sam-CABA8000080J.m3u8
 
-#Entertainment (17)
+#Entertainment (18)
+#EXTINF:-1 tvg-chno="156" tvg-id="CABC23000056U" tvg-country="CA" group-title="Entertainment",156. Midsomer Murders
+https://jmp2.uk/sam-CABC23000056U.m3u8
 #EXTINF:-1 tvg-chno="158" tvg-id="CA4600001IG" tvg-country="CA" group-title="Entertainment",158. Murdoch Mysteries
 https://jmp2.uk/sam-CA4600001IG.m3u8
 #EXTINF:-1 tvg-chno="159" tvg-id="CA4600004EA" tvg-country="CA" group-title="Entertainment",159. Heartland
@@ -115,7 +135,7 @@ https://jmp2.uk/sam-CABC2300015UM.m3u8
 https://jmp2.uk/sam-CABB1900002SS.m3u8
 #EXTINF:-1 tvg-chno="164" tvg-id="CABC5200008Q6" tvg-country="CA" group-title="Entertainment",164. Divorce Court
 https://jmp2.uk/sam-CABC5200008Q6.m3u8
-#EXTINF:-1 tvg-chno="165" tvg-id="CABB19000010Y" tvg-country="CA" group-title="Entertainment",165. Circle
+#EXTINF:-1 tvg-chno="165" tvg-id="CABB19000010Y" tvg-country="CA" group-title="Entertainment",165. Circle Country
 https://jmp2.uk/sam-CABB19000010Y.m3u8
 #EXTINF:-1 tvg-chno="166" tvg-id="CA2900008Y0" tvg-country="CA" group-title="Entertainment",166. Death Valley Days
 https://jmp2.uk/sam-CA2900008Y0.m3u8
@@ -210,6 +230,18 @@ https://jmp2.uk/sam-CAAJ34000122Z.m3u8
 #EXTINF:-1 tvg-chno="208" tvg-id="CABD1700003AY" tvg-country="CA" group-title="Kids",208. ZooMoo
 https://jmp2.uk/sam-CABD1700003AY.m3u8
 
+#Motor Sports (5)
+#EXTINF:-1 tvg-chno="313" tvg-id="CABC2300004A4" tvg-country="CA" group-title="Motor Sports",313. Top Gear
+https://jmp2.uk/sam-CABC2300004A4.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-id="CABD1200015FS" tvg-country="CA" group-title="Motor Sports",314. MAVTV Select
+https://jmp2.uk/sam-CABD1200015FS.m3u8
+#EXTINF:-1 tvg-chno="315" tvg-id="CABD1200016E8" tvg-country="CA" group-title="Motor Sports",315. POWERNATION
+https://jmp2.uk/sam-CABD1200016E8.m3u8
+#EXTINF:-1 tvg-chno="316" tvg-id="CABC2300006OP" tvg-country="CA" group-title="Motor Sports",316. NHRA TV
+https://jmp2.uk/sam-CABC2300006OP.m3u8
+#EXTINF:-1 tvg-chno="317" tvg-id="CA290000616" tvg-country="CA" group-title="Motor Sports",317. Hagerty
+https://jmp2.uk/sam-CA290000616.m3u8
+
 #Movies (6)
 #EXTINF:-1 tvg-chno="209" tvg-id="CAAJ40000077N" tvg-country="CA" group-title="Movies",209. FilmRise Free Movies
 https://jmp2.uk/sam-CAAJ40000077N.m3u8
@@ -224,7 +256,7 @@ https://jmp2.uk/sam-CABD1200001SY.m3u8
 #EXTINF:-1 tvg-chno="214" tvg-id="CAAJ27000159K" tvg-country="CA" group-title="Movies",214. FilmRise Western
 https://jmp2.uk/sam-CAAJ27000159K.m3u8
 
-#Music (43)
+#Music (40)
 #EXTINF:-1 tvg-chno="215" tvg-id="CABB2600017ZU" tvg-country="CA" group-title="Music",215. XITE 80s Flashback
 https://jmp2.uk/sam-CABB2600017ZU.m3u8
 #EXTINF:-1 tvg-chno="216" tvg-id="CABB2600018T4" tvg-country="CA" group-title="Music",216. XITE 90s Throwback
@@ -247,22 +279,6 @@ https://jmp2.uk/sam-CABB26000054K.m3u8
 https://jmp2.uk/sam-CABB2600004RZ.m3u8
 #EXTINF:-1 tvg-chno="225" tvg-id="CABD17000043J" tvg-country="CA" group-title="Music",225. XITE Celebrates
 https://jmp2.uk/sam-CABD17000043J.m3u8
-#EXTINF:-1 tvg-chno="226" tvg-id="CABC5200010G2" tvg-country="CA" group-title="Music",226. Vevo '70s
-https://jmp2.uk/sam-CABC5200010G2.m3u8
-#EXTINF:-1 tvg-chno="227" tvg-id="CABC5200011IS" tvg-country="CA" group-title="Music",227. Vevo '80s
-https://jmp2.uk/sam-CABC5200011IS.m3u8
-#EXTINF:-1 tvg-chno="228" tvg-id="CABC52000127S" tvg-country="CA" group-title="Music",228. Vevo '90s
-https://jmp2.uk/sam-CABC52000127S.m3u8
-#EXTINF:-1 tvg-chno="229" tvg-id="CABC5200013DN" tvg-country="CA" group-title="Music",229. Vevo 2K
-https://jmp2.uk/sam-CABC5200013DN.m3u8
-#EXTINF:-1 tvg-chno="230" tvg-id="CABD1200009SD" tvg-country="CA" group-title="Music",230. Vevo 2010s
-https://jmp2.uk/sam-CABD1200009SD.m3u8
-#EXTINF:-1 tvg-chno="231" tvg-id="CABC5200014PD" tvg-country="CA" group-title="Music",231. Vevo Retro Rock
-https://jmp2.uk/sam-CABC5200014PD.m3u8
-#EXTINF:-1 tvg-chno="232" tvg-id="CABC52000171D" tvg-country="CA" group-title="Music",232. Vevo Hip-Hop
-https://jmp2.uk/sam-CABC52000171D.m3u8
-#EXTINF:-1 tvg-chno="233" tvg-id="CABC5200015Q1" tvg-country="CA" group-title="Music",233. Vevo R&B
-https://jmp2.uk/sam-CABC5200015Q1.m3u8
 #EXTINF:-1 tvg-chno="234" tvg-id="CABC52000165E" tvg-country="CA" group-title="Music",234. Vevo Country
 https://jmp2.uk/sam-CABC52000165E.m3u8
 #EXTINF:-1 tvg-chno="235" tvg-id="CABC52000180Z" tvg-country="CA" group-title="Music",235. Vevo Pop
@@ -293,9 +309,9 @@ https://jmp2.uk/sam-CABD1200033B1.m3u8
 https://jmp2.uk/sam-CABD1200036YT.m3u8
 #EXTINF:-1 tvg-chno="248" tvg-id="CABD1200029U0" tvg-country="CA" group-title="Music",248. Stingray Hip Hop
 https://jmp2.uk/sam-CABD1200029U0.m3u8
-#EXTINF:-1 tvg-chno="249" tvg-id="CABD1200025IX" tvg-country="CA" group-title="Music",249. Stingray Hot Country Christmas
+#EXTINF:-1 tvg-chno="249" tvg-id="CABD1200025IX" tvg-country="CA" group-title="Music",249. Stingray Hot Country
 https://jmp2.uk/sam-CABD1200025IX.m3u8
-#EXTINF:-1 tvg-chno="250" tvg-id="CABD1200037BS" tvg-country="CA" group-title="Music",250. Stingray Greatest Holiday Hits
+#EXTINF:-1 tvg-chno="250" tvg-id="CABD1200037BS" tvg-country="CA" group-title="Music",250. Stingray Greatest Hits
 https://jmp2.uk/sam-CABD1200037BS.m3u8
 #EXTINF:-1 tvg-chno="251" tvg-id="CA29000146S" tvg-country="CA" group-title="Music",251. Stingray Souvenirs
 https://jmp2.uk/sam-CA29000146S.m3u8
@@ -311,28 +327,18 @@ https://jmp2.uk/sam-CA2900017MW.m3u8
 https://jmp2.uk/sam-CA29000139Y.m3u8
 #EXTINF:-1 tvg-chno="257" tvg-id="CA290001647" tvg-country="CA" group-title="Music",257. Stingray Franco Pop
 https://jmp2.uk/sam-CA290001647.m3u8
+#EXTINF:-1 tvg-chno="1846" tvg-id="CA4700002IH" tvg-country="CA" group-title="Music",1846. Stingray Movie Music
+https://jmp2.uk/sam-CA4700002IH.m3u8
+#EXTINF:-1 tvg-chno="1847" tvg-id="CA4700001Z6" tvg-country="CA" group-title="Music",1847. Stingray Euro Hits
+https://jmp2.uk/sam-CA4700001Z6.m3u8
+#EXTINF:-1 tvg-chno="1848" tvg-id="CA4700006LN" tvg-country="CA" group-title="Music",1848. Stingray Soft Hits
+https://jmp2.uk/sam-CA4700006LN.m3u8
+#EXTINF:-1 tvg-chno="1849" tvg-id="CA47000052C" tvg-country="CA" group-title="Music",1849. Stingray Jukebox Oldies
+https://jmp2.uk/sam-CA47000052C.m3u8
+#EXTINF:-1 tvg-chno="1850" tvg-id="CA47000031R" tvg-country="CA" group-title="Music",1850. Stingray Country Greats
+https://jmp2.uk/sam-CA47000031R.m3u8
 
-#Nature & History (9)
-#EXTINF:-1 tvg-chno="258" tvg-id="CA900004R3" tvg-country="CA" group-title="Nature & History",258. Modern Marvels
-https://jmp2.uk/sam-CA900004R3.m3u8
-#EXTINF:-1 tvg-chno="259" tvg-id="CA600001C3" tvg-country="CA" group-title="Nature & History",259. History & Warfare
-https://jmp2.uk/sam-CA600001C3.m3u8
-#EXTINF:-1 tvg-chno="260" tvg-id="CABC2300002VB" tvg-country="CA" group-title="Nature & History",260. Xplore
-https://jmp2.uk/sam-CABC2300002VB.m3u8
-#EXTINF:-1 tvg-chno="261" tvg-id="CABC2300001X9" tvg-country="CA" group-title="Nature & History",261. The Jack Hanna Channel
-https://jmp2.uk/sam-CABC2300001X9.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-id="CA900003IF" tvg-country="CA" group-title="Nature & History",262. Evolution Earth
-https://jmp2.uk/sam-CA900003IF.m3u8
-#EXTINF:-1 tvg-chno="263" tvg-id="CABA800002RW" tvg-country="CA" group-title="Nature & History",263. InWonder
-https://jmp2.uk/sam-CABA800002RW.m3u8
-#EXTINF:-1 tvg-chno="264" tvg-id="CAAJ3400017AE" tvg-country="CA" group-title="Nature & History",264. Magellan TV Now
-https://jmp2.uk/sam-CAAJ3400017AE.m3u8
-#EXTINF:-1 tvg-chno="265" tvg-id="CAAJ3400007TS" tvg-country="CA" group-title="Nature & History",265. WeatherSpy
-https://jmp2.uk/sam-CAAJ3400007TS.m3u8
-#EXTINF:-1 tvg-chno="266" tvg-id="CABB2500020SS" tvg-country="CA" group-title="Nature & History",266. TED
-https://jmp2.uk/sam-CABB2500020SS.m3u8
-
-#News & Opinion (7)
+#News & Opinion (8)
 #EXTINF:-1 tvg-chno="267" tvg-id="CA1400004AE" tvg-country="CA" group-title="News & Opinion",267. CTV News
 https://jmp2.uk/sam-CA1400004AE.m3u8
 #EXTINF:-1 tvg-chno="268" tvg-id="CABC2300009KD" tvg-country="CA" group-title="News & Opinion",268. CBC News
@@ -347,43 +353,41 @@ https://jmp2.uk/sam-CA1500002Q4.m3u8
 https://jmp2.uk/sam-CAAJ2700011IF.m3u8
 #EXTINF:-1 tvg-chno="273" tvg-id="CABC23000223U" tvg-country="CA" group-title="News & Opinion",273. The Weather Network
 https://jmp2.uk/sam-CABC23000223U.m3u8
-
-#Reality (18)
-#EXTINF:-1 tvg-chno="274" tvg-id="CA9000118M" tvg-country="CA" group-title="Reality",274. Duck Dynasty
-https://jmp2.uk/sam-CA9000118M.m3u8
-#EXTINF:-1 tvg-chno="275" tvg-id="CABD1200041NC" tvg-country="CA" group-title="Reality",275. Cheaters
-https://jmp2.uk/sam-CABD1200041NC.m3u8
-#EXTINF:-1 tvg-chno="276" tvg-id="CA3400002KP" tvg-country="CA" group-title="Reality",276. Dog Whisperer
-https://jmp2.uk/sam-CA3400002KP.m3u8
-#EXTINF:-1 tvg-chno="277" tvg-id="CA900006X7" tvg-country="CA" group-title="Reality",277. Dog the Bounty Hunter
-https://jmp2.uk/sam-CA900006X7.m3u8
-#EXTINF:-1 tvg-chno="278" tvg-id="CABB2500026WM" tvg-country="CA" group-title="Reality",278. Operation Repo
-https://jmp2.uk/sam-CABB2500026WM.m3u8
-#EXTINF:-1 tvg-chno="279" tvg-id="CA900007X0" tvg-country="CA" group-title="Reality",279. Little Women: LA
-https://jmp2.uk/sam-CA900007X0.m3u8
-#EXTINF:-1 tvg-chno="280" tvg-id="CA900005B8" tvg-country="CA" group-title="Reality",280. Dance Moms
-https://jmp2.uk/sam-CA900005B8.m3u8
-#EXTINF:-1 tvg-chno="281" tvg-id="CA35000025N" tvg-country="CA" group-title="Reality",281. CTV Gets Real
-https://jmp2.uk/sam-CA35000025N.m3u8
-#EXTINF:-1 tvg-chno="282" tvg-id="CABB2600006SV" tvg-country="CA" group-title="Reality",282. Hell's Kitchen
-https://jmp2.uk/sam-CABB2600006SV.m3u8
-#EXTINF:-1 tvg-chno="283" tvg-id="CA18000010N" tvg-country="CA" group-title="Reality",283. Fear Factor
-https://jmp2.uk/sam-CA18000010N.m3u8
-#EXTINF:-1 tvg-chno="284" tvg-id="CA900009VP" tvg-country="CA" group-title="Reality",284. Ax Men
-https://jmp2.uk/sam-CA900009VP.m3u8
-#EXTINF:-1 tvg-chno="285" tvg-id="CA9000027P" tvg-country="CA" group-title="Reality",285. Intervention
-https://jmp2.uk/sam-CA9000027P.m3u8
-#EXTINF:-1 tvg-chno="286" tvg-id="CA1400014EH" tvg-country="CA" group-title="Reality",286. American Pickers
-https://jmp2.uk/sam-CA1400014EH.m3u8
-#EXTINF:-1 tvg-chno="287" tvg-id="CA14000105P" tvg-country="CA" group-title="Reality",287. CTV Gridlock
-https://jmp2.uk/sam-CA14000105P.m3u8
-#EXTINF:-1 tvg-chno="288" tvg-id="CA1400009E5" tvg-country="CA" group-title="Reality",288. The Mightiest by CTV
-https://jmp2.uk/sam-CA1400009E5.m3u8
-#EXTINF:-1 tvg-chno="289" tvg-id="CA1400006BZ" tvg-country="CA" group-title="Reality",289. Les Débatteurs de Noovo
+#EXTINF:-1 tvg-chno="289" tvg-id="CA1400006BZ" tvg-country="CA" group-title="News & Opinion",289. Les Débatteurs de Noovo
 https://jmp2.uk/sam-CA1400006BZ.m3u8
-#EXTINF:-1 tvg-chno="290" tvg-id="CABA800001IQ" tvg-country="CA" group-title="Reality",290. INFAST
+
+#Reality TV (16)
+#EXTINF:-1 tvg-chno="274" tvg-id="CA9000118M" tvg-country="CA" group-title="Reality TV",274. Duck Dynasty
+https://jmp2.uk/sam-CA9000118M.m3u8
+#EXTINF:-1 tvg-chno="275" tvg-id="CABD1200041NC" tvg-country="CA" group-title="Reality TV",275. Cheaters
+https://jmp2.uk/sam-CABD1200041NC.m3u8
+#EXTINF:-1 tvg-chno="277" tvg-id="CA900006X7" tvg-country="CA" group-title="Reality TV",277. Dog the Bounty Hunter
+https://jmp2.uk/sam-CA900006X7.m3u8
+#EXTINF:-1 tvg-chno="278" tvg-id="CABB2500026WM" tvg-country="CA" group-title="Reality TV",278. Operation Repo
+https://jmp2.uk/sam-CABB2500026WM.m3u8
+#EXTINF:-1 tvg-chno="279" tvg-id="CA900007X0" tvg-country="CA" group-title="Reality TV",279. Little Women: LA
+https://jmp2.uk/sam-CA900007X0.m3u8
+#EXTINF:-1 tvg-chno="280" tvg-id="CA900005B8" tvg-country="CA" group-title="Reality TV",280. Dance Moms
+https://jmp2.uk/sam-CA900005B8.m3u8
+#EXTINF:-1 tvg-chno="281" tvg-id="CA35000025N" tvg-country="CA" group-title="Reality TV",281. CTV Gets Real
+https://jmp2.uk/sam-CA35000025N.m3u8
+#EXTINF:-1 tvg-chno="282" tvg-id="CABB2600006SV" tvg-country="CA" group-title="Reality TV",282. Hell's Kitchen
+https://jmp2.uk/sam-CABB2600006SV.m3u8
+#EXTINF:-1 tvg-chno="283" tvg-id="CA18000010N" tvg-country="CA" group-title="Reality TV",283. Fear Factor
+https://jmp2.uk/sam-CA18000010N.m3u8
+#EXTINF:-1 tvg-chno="284" tvg-id="CA900009VP" tvg-country="CA" group-title="Reality TV",284. Ax Men
+https://jmp2.uk/sam-CA900009VP.m3u8
+#EXTINF:-1 tvg-chno="285" tvg-id="CA9000027P" tvg-country="CA" group-title="Reality TV",285. Intervention
+https://jmp2.uk/sam-CA9000027P.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-id="CA1400014EH" tvg-country="CA" group-title="Reality TV",286. American Pickers
+https://jmp2.uk/sam-CA1400014EH.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-id="CA14000105P" tvg-country="CA" group-title="Reality TV",287. CTV Gridlock
+https://jmp2.uk/sam-CA14000105P.m3u8
+#EXTINF:-1 tvg-chno="288" tvg-id="CA1400009E5" tvg-country="CA" group-title="Reality TV",288. The Mightiest by CTV
+https://jmp2.uk/sam-CA1400009E5.m3u8
+#EXTINF:-1 tvg-chno="290" tvg-id="CABA800001IQ" tvg-country="CA" group-title="Reality TV",290. INFAST
 https://jmp2.uk/sam-CABA800001IQ.m3u8
-#EXTINF:-1 tvg-chno="291" tvg-id="CA1300002XC" tvg-country="CA" group-title="Reality",291. DangerTV
+#EXTINF:-1 tvg-chno="291" tvg-id="CA1300002XC" tvg-country="CA" group-title="Reality TV",291. DangerTV
 https://jmp2.uk/sam-CA1300002XC.m3u8
 
 #Sci-Fi & Horror (6)
@@ -400,44 +404,34 @@ https://jmp2.uk/sam-CABC2300012FY.m3u8
 #EXTINF:-1 tvg-chno="297" tvg-id="CABC5200021HG" tvg-country="CA" group-title="Sci-Fi & Horror",297. Midnight Pulp
 https://jmp2.uk/sam-CABC5200021HG.m3u8
 
-#Sports (20)
-#EXTINF:-1 tvg-chno="298" tvg-id="CA1400001PI" tvg-country="CA" group-title="Sports",298. MLB Channel
+#Sports & Outdoors (15)
+#EXTINF:-1 tvg-chno="298" tvg-id="CA1400001PI" tvg-country="CA" group-title="Sports & Outdoors",298. MLB Channel
 https://jmp2.uk/sam-CA1400001PI.m3u8
-#EXTINF:-1 tvg-chno="299" tvg-id="CA1400003R3" tvg-country="CA" group-title="Sports",299. TSN The Ocho
+#EXTINF:-1 tvg-chno="299" tvg-id="CA1400003R3" tvg-country="CA" group-title="Sports & Outdoors",299. TSN The Ocho
 https://jmp2.uk/sam-CA1400003R3.m3u8
-#EXTINF:-1 tvg-chno="300" tvg-id="CA2900012S9" tvg-country="CA" group-title="Sports",300. UFC
+#EXTINF:-1 tvg-chno="300" tvg-id="CA2900012S9" tvg-country="CA" group-title="Sports & Outdoors",300. UFC
 https://jmp2.uk/sam-CA2900012S9.m3u8
-#EXTINF:-1 tvg-chno="301" tvg-id="CA3500003OX" tvg-country="CA" group-title="Sports",301. PFL
+#EXTINF:-1 tvg-chno="301" tvg-id="CA3500003OX" tvg-country="CA" group-title="Sports & Outdoors",301. PFL
 https://jmp2.uk/sam-CA3500003OX.m3u8
-#EXTINF:-1 tvg-chno="302" tvg-id="CABD1200008JG" tvg-country="CA" group-title="Sports",302. FIFA+
+#EXTINF:-1 tvg-chno="302" tvg-id="CABD1200008JG" tvg-country="CA" group-title="Sports & Outdoors",302. FIFA+
 https://jmp2.uk/sam-CABD1200008JG.m3u8
-#EXTINF:-1 tvg-chno="303" tvg-id="CABA8000043F" tvg-country="CA" group-title="Sports",303. beIN SPORTS XTRA
+#EXTINF:-1 tvg-chno="303" tvg-id="CABA8000043F" tvg-country="CA" group-title="Sports & Outdoors",303. beIN SPORTS XTRA
 https://jmp2.uk/sam-CABA8000043F.m3u8
-#EXTINF:-1 tvg-chno="304" tvg-id="CA3900001GT" tvg-country="CA" group-title="Sports",304. RYZ Sports Network
+#EXTINF:-1 tvg-chno="304" tvg-id="CA3900001GT" tvg-country="CA" group-title="Sports & Outdoors",304. RYZ Sports Network
 https://jmp2.uk/sam-CA3900001GT.m3u8
-#EXTINF:-1 tvg-chno="305" tvg-id="CA4100001H8" tvg-country="CA" group-title="Sports",305. Big 12 Studios
+#EXTINF:-1 tvg-chno="305" tvg-id="CA4100001H8" tvg-country="CA" group-title="Sports & Outdoors",305. Big 12 Studios
 https://jmp2.uk/sam-CA4100001H8.m3u8
-#EXTINF:-1 tvg-chno="306" tvg-id="CA110000152" tvg-country="CA" group-title="Sports",306. PickleballTV
+#EXTINF:-1 tvg-chno="306" tvg-id="CA110000152" tvg-country="CA" group-title="Sports & Outdoors",306. PickleballTV
 https://jmp2.uk/sam-CA110000152.m3u8
-#EXTINF:-1 tvg-chno="307" tvg-id="CABC2300014PV" tvg-country="CA" group-title="Sports",307. Origin Sports
+#EXTINF:-1 tvg-chno="307" tvg-id="CABC2300014PV" tvg-country="CA" group-title="Sports & Outdoors",307. Origin Sports
 https://jmp2.uk/sam-CABC2300014PV.m3u8
-#EXTINF:-1 tvg-chno="308" tvg-id="CABA3700006IC" tvg-country="CA" group-title="Sports",308. TNA Wrestling
+#EXTINF:-1 tvg-chno="308" tvg-id="CABA3700006IC" tvg-country="CA" group-title="Sports & Outdoors",308. TNA Wrestling
 https://jmp2.uk/sam-CABA3700006IC.m3u8
-#EXTINF:-1 tvg-chno="309" tvg-id="CAAJ2700030ON" tvg-country="CA" group-title="Sports",309. Outside TV
+#EXTINF:-1 tvg-chno="309" tvg-id="CAAJ2700030ON" tvg-country="CA" group-title="Sports & Outdoors",309. Outside TV
 https://jmp2.uk/sam-CAAJ2700030ON.m3u8
-#EXTINF:-1 tvg-chno="310" tvg-id="CAAJ34000089L" tvg-country="CA" group-title="Sports",310. People Are Awesome
+#EXTINF:-1 tvg-chno="310" tvg-id="CAAJ34000089L" tvg-country="CA" group-title="Sports & Outdoors",310. People Are Awesome
 https://jmp2.uk/sam-CAAJ34000089L.m3u8
-#EXTINF:-1 tvg-chno="311" tvg-id="CABB2500034Q4" tvg-country="CA" group-title="Sports",311. Waypoint TV
+#EXTINF:-1 tvg-chno="311" tvg-id="CABB2500034Q4" tvg-country="CA" group-title="Sports & Outdoors",311. Waypoint TV
 https://jmp2.uk/sam-CABB2500034Q4.m3u8
-#EXTINF:-1 tvg-chno="312" tvg-id="CABD1200013IH" tvg-country="CA" group-title="Sports",312. World Poker Tour
+#EXTINF:-1 tvg-chno="312" tvg-id="CABD1200013IH" tvg-country="CA" group-title="Sports & Outdoors",312. World Poker Tour
 https://jmp2.uk/sam-CABD1200013IH.m3u8
-#EXTINF:-1 tvg-chno="313" tvg-id="CABC2300004A4" tvg-country="CA" group-title="Sports",313. Top Gear
-https://jmp2.uk/sam-CABC2300004A4.m3u8
-#EXTINF:-1 tvg-chno="314" tvg-id="CABD1200015FS" tvg-country="CA" group-title="Sports",314. MAVTV Select
-https://jmp2.uk/sam-CABD1200015FS.m3u8
-#EXTINF:-1 tvg-chno="315" tvg-id="CABD1200016E8" tvg-country="CA" group-title="Sports",315. POWERNATION
-https://jmp2.uk/sam-CABD1200016E8.m3u8
-#EXTINF:-1 tvg-chno="316" tvg-id="CABC2300006OP" tvg-country="CA" group-title="Sports",316. NHRA TV
-https://jmp2.uk/sam-CABC2300006OP.m3u8
-#EXTINF:-1 tvg-chno="317" tvg-id="CA290000616" tvg-country="CA" group-title="Sports",317. Hagerty
-https://jmp2.uk/sam-CA290000616.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 21/01/2025 06:21:34 CET+0100
-#TOTAL: 146
+# Generated on: 22/01/2025 06:22:05 CET+0100
+#TOTAL: 148
 
 #Anime (5)
 #EXTINF:-1 tvg-chno="1171" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800001SW_20241022T043953SQUARE.png" tvg-country="IT" group-title="Anime",1171. Bleach
@@ -15,8 +15,6 @@ https://jmp2.uk/sam-ITBD1000003NB.m3u8
 https://jmp2.uk/sam-IT3200005F4.m3u8
 
 #Bambini (16)
-#EXTINF:-1 tvg-chno="1176" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1400010A5_20241106T142441SQUARE.png" tvg-country="IT" group-title="Bambini",1176. Teletubbies
-https://jmp2.uk/sam-ITBA1400010A5.m3u8
 #EXTINF:-1 tvg-chno="1177" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000002D1_20241210T052846SQUARE.png" tvg-country="IT" group-title="Bambini",1177. CAR CITY ADVENTURES
 https://jmp2.uk/sam-IT2000002D1.m3u8
 #EXTINF:-1 tvg-chno="1178" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700001E6_20241022T051716SQUARE.png" tvg-country="IT" group-title="Bambini",1178. duckTV
@@ -47,6 +45,8 @@ https://jmp2.uk/sam-ITAJ3800002PN.m3u8
 https://jmp2.uk/sam-ITAJ380000343.m3u8
 #EXTINF:-1 tvg-chno="1191" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20250107T022452SQUARE.png" tvg-country="IT" group-title="Bambini",1191. Family - Rakuten TV
 https://jmp2.uk/sam-IT2600010E0.m3u8
+#EXTINF:-1 tvg-chno="1877" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT480000143_20250121T012642SQUARE.png" tvg-country="IT" group-title="Bambini",1877. Teletubbies
+https://jmp2.uk/sam-IT480000143.m3u8
 
 #Calcio (4)
 #EXTINF:-1 tvg-chno="1192" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000002HF_20241022T043726SQUARE.png" tvg-country="IT" group-title="Calcio",1192. FIFA+
@@ -108,14 +108,12 @@ https://jmp2.uk/sam-ITBC4700003GR.m3u8
 #EXTINF:-1 tvg-chno="1217" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000478X_20241022T043935SQUARE.png" tvg-country="IT" group-title="Documentari",1217. WaterBear
 https://jmp2.uk/sam-ITBA33000478X.m3u8
 
-#Film (36)
-#EXTINF:-1 tvg-chno="1218" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600006RB_20250121T012605SQUARE.png" tvg-country="IT" group-title="Film",1218. Christmas Time
-https://jmp2.uk/sam-IT3600006RB.m3u8
+#Film (35)
 #EXTINF:-1 tvg-chno="1219" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250121T012549SQUARE.png" tvg-country="IT" group-title="Film",1219. Film Top - Rakuten TV
 https://jmp2.uk/sam-IT2600002F6.m3u8
-#EXTINF:-1 tvg-chno="1220" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20250121T012646SQUARE.png" tvg-country="IT" group-title="Film",1220. Risate Cult '80
+#EXTINF:-1 tvg-chno="1220" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20250121T012646SQUARE.png" tvg-country="IT" group-title="Film",1220. Totò & Co
 https://jmp2.uk/sam-ITBD140000119.m3u8
-#EXTINF:-1 tvg-chno="1221" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20250121T012619SQUARE.png" tvg-country="IT" group-title="Film",1221. Natale con CineMadame
+#EXTINF:-1 tvg-chno="1221" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20250121T012619SQUARE.png" tvg-country="IT" group-title="Film",1221. CineMadame
 https://jmp2.uk/sam-ITBD1400003D0.m3u8
 #EXTINF:-1 tvg-chno="1222" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20241112T093234SQUARE.png" tvg-country="IT" group-title="Film",1222. Cinema Poliziottesco
 https://jmp2.uk/sam-ITBA33000238E.m3u8
@@ -139,7 +137,7 @@ https://jmp2.uk/sam-IT500004JK.m3u8
 https://jmp2.uk/sam-ITBC11000047F.m3u8
 #EXTINF:-1 tvg-chno="1232" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100002ZU_20241022T043826SQUARE.png" tvg-country="IT" group-title="Film",1232. Smile
 https://jmp2.uk/sam-ITBC1100002ZU.m3u8
-#EXTINF:-1 tvg-chno="1233" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250121T012557SQUARE.png" tvg-country="IT" group-title="Film",1233. Comedy Time
+#EXTINF:-1 tvg-chno="1233" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250121T115904SQUARE.png" tvg-country="IT" group-title="Film",1233. San Valentino Movies
 https://jmp2.uk/sam-IT3600005AL.m3u8
 #EXTINF:-1 tvg-chno="1234" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600007WQ_20241022T051556SQUARE.png" tvg-country="IT" group-title="Film",1234. Commedia - Rakuten TV
 https://jmp2.uk/sam-IT2600007WQ.m3u8
@@ -151,18 +149,14 @@ https://jmp2.uk/sam-ITBB20000072M.m3u8
 https://jmp2.uk/sam-ITBD10000019E.m3u8
 #EXTINF:-1 tvg-chno="1238" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600004TW_20250121T012648SQUARE.png" tvg-country="IT" group-title="Film",1238. Western Time
 https://jmp2.uk/sam-IT3600004TW.m3u8
-#EXTINF:-1 tvg-chno="1239" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20250121T012600SQUARE.png" tvg-country="IT" group-title="Film",1239. Marcello
+#EXTINF:-1 tvg-chno="1239" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20250121T012600SQUARE.png" tvg-country="IT" group-title="Film",1239. I Film di Wim Wenders
 https://jmp2.uk/sam-ITBA14000093A.m3u8
 #EXTINF:-1 tvg-chno="1240" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300048YJ_20241022T043911SQUARE.png" tvg-country="IT" group-title="Film",1240. Trailers
 https://jmp2.uk/sam-ITBA3300048YJ.m3u8
 #EXTINF:-1 tvg-chno="1241" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200002DU_20241022T051648SQUARE.png" tvg-country="IT" group-title="Film",1241. Le Vite degli Altri
 https://jmp2.uk/sam-ITBD3200002DU.m3u8
-#EXTINF:-1 tvg-chno="1242" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1900001RK_20250121T012608SQUARE.png" tvg-country="IT" group-title="Film",1242. Film Asiatici Rakuten TV
-https://jmp2.uk/sam-IT1900001RK.m3u8
 #EXTINF:-1 tvg-chno="1243" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20241106T142419SQUARE.png" tvg-country="IT" group-title="Film",1243. I Bellissimi - Film by Cinema Excelsior
 https://jmp2.uk/sam-ITBD3200001VR.m3u8
-#EXTINF:-1 tvg-chno="1244" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800001W9_20250121T012612SQUARE.png" tvg-country="IT" group-title="Film",1244. RTV Fantascienza
-https://jmp2.uk/sam-IT1800001W9.m3u8
 #EXTINF:-1 tvg-chno="1245" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400001LX_20250107T022411SQUARE.png" tvg-country="IT" group-title="Film",1245. Action Movie Channel
 https://jmp2.uk/sam-ITBC400001LX.m3u8
 #EXTINF:-1 tvg-chno="1246" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20241210T052827SQUARE.png" tvg-country="IT" group-title="Film",1246. DinoMonsters Movies
@@ -181,10 +175,20 @@ https://jmp2.uk/sam-ITBC3000003CT.m3u8
 https://jmp2.uk/sam-IT2600005ZN.m3u8
 #EXTINF:-1 tvg-chno="1253" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600003FM_20240827T040705SQUARE.png" tvg-country="IT" group-title="Film",1253. Film d'azione - Rakuten TV
 https://jmp2.uk/sam-IT2600003FM.m3u8
+#EXTINF:-1 tvg-chno="1878" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600006JG_20250121T012630SQUARE.png" tvg-country="IT" group-title="Film",1878. Film Asiatici - Rakuten TV
+https://jmp2.uk/sam-IT2600006JG.m3u8
+#EXTINF:-1 tvg-chno="1879" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT260000131_20250121T012628SQUARE.png" tvg-country="IT" group-title="Film",1879. Fantascienza - Rakuten TV
+https://jmp2.uk/sam-IT260000131.m3u8
 
-#Intrattenimento (13)
+#Intrattenimento (16)
+#EXTINF:-1 tvg-chno="1254" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400001X5_20250121T012622SQUARE.png" tvg-country="IT" group-title="Intrattenimento",1254. DMAX
+https://jmp2.uk/sam-ITBD4400001X5.m3u8
+#EXTINF:-1 tvg-chno="1255" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400008Z5_20250121T012638SQUARE.png" tvg-country="IT" group-title="Intrattenimento",1255. NOVE
+https://jmp2.uk/sam-ITBD4400008Z5.m3u8
 #EXTINF:-1 tvg-chno="1256" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800001Z4_20241022T051550SQUARE.png" tvg-country="IT" group-title="Intrattenimento",1256. Catfish
 https://jmp2.uk/sam-ITAJ3800001Z4.m3u8
+#EXTINF:-1 tvg-chno="1257" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400007AR_20250121T012640SQUARE.png" tvg-country="IT" group-title="Intrattenimento",1257. Real time
+https://jmp2.uk/sam-ITBD4400007AR.m3u8
 #EXTINF:-1 tvg-chno="1258" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC30000017U_20241022T051709SQUARE.png" tvg-country="IT" group-title="Intrattenimento",1258. Pluto TV Reality
 https://jmp2.uk/sam-ITBC30000017U.m3u8
 #EXTINF:-1 tvg-chno="1259" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800006UB_20241022T051502SQUARE.png" tvg-country="IT" group-title="Intrattenimento",1259. Pluto TV Real Life
@@ -245,8 +249,6 @@ https://jmp2.uk/sam-ITBB1900001O3.m3u8
 https://jmp2.uk/sam-ITBA1500001R6.m3u8
 
 #News (10)
-#EXTINF:-1 tvg-chno="1286" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500023ZX_20230222T012102SQUARE.png_20230222012103.png" tvg-country="IT" group-title="News",1286. Euronews in diretta
-https://jmp2.uk/sam-ITAJ4500023ZX.m3u8
 #EXTINF:-1 tvg-chno="1287" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20241022T051646SQUARE.png" tvg-country="IT" group-title="News",1287. La 7
 https://jmp2.uk/sam-ITBD1500002NL.m3u8
 #EXTINF:-1 tvg-chno="1288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB5000002N0_20250107T022423SQUARE.png" tvg-country="IT" group-title="News",1288. Giornale Radio TV
@@ -265,6 +267,8 @@ https://jmp2.uk/sam-ITBC4000028E.m3u8
 https://jmp2.uk/sam-ITBA3300025F5.m3u8
 #EXTINF:-1 tvg-chno="1295" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600003SG_20241022T051636SQUARE.png" tvg-country="IT" group-title="News",1295. Il Tempo delle Donne - Corriere della Sera
 https://jmp2.uk/sam-ITBD3600003SG.m3u8
+#EXTINF:-1 tvg-chno="1880" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600009QD_20250121T012625SQUARE.png" tvg-country="IT" group-title="News",1880. Euronews IN DIRETTA
+https://jmp2.uk/sam-IT2600009QD.m3u8
 
 #Serie TV (13)
 #EXTINF:-1 tvg-chno="1296" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400010WK_20241106T142432SQUARE.png" tvg-country="IT" group-title="Serie TV",1296. WBTV
@@ -295,7 +299,7 @@ https://jmp2.uk/sam-IT3600007QQ.m3u8
 https://jmp2.uk/sam-ITBA14000026G.m3u8
 
 #Sport (11)
-#EXTINF:-1 tvg-chno="1309" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20250121T012603SQUARE.png" tvg-country="IT" group-title="Sport",1309. Salto Ostacoli - Global Equestrian Champions TV
+#EXTINF:-1 tvg-chno="1309" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20250121T012603SQUARE.png" tvg-country="IT" group-title="Sport",1309. Automoto TV
 https://jmp2.uk/sam-ITBC3000007XK.m3u8
 #EXTINF:-1 tvg-chno="1310" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" tvg-country="IT" group-title="Sport",1310. Italian Fishing TV
 https://jmp2.uk/sam-IT600001L6.m3u8
