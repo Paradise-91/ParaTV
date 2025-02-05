@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 22/01/2025 06:22:04 CET+0100
-#TOTAL: 178
+# Generated on: 05/02/2025 06:22:44 CET+0100
+#TOTAL: 179
 
 #Crime (8)
 #EXTINF:-1 group-title="Crime",DATELINE 24/7
@@ -20,7 +20,7 @@ https://jmp2.uk/sam-GBAK3504516A.m3u8
 #EXTINF:-1 group-title="Crime",Pluto TV Inside
 https://jmp2.uk/sam-GBAK3504518A.m3u8
 
-#Documentaries (31)
+#Documentaries (29)
 #EXTINF:-1 group-title="Documentaries",5 Cops
 https://jmp2.uk/sam-GBAK3504500A.m3u8
 #EXTINF:-1 group-title="Documentaries",5 Exploring Britain
@@ -47,12 +47,8 @@ https://jmp2.uk/sam-GB2700009R7.m3u8
 https://jmp2.uk/sam-GB500001HY.m3u8
 #EXTINF:-1 group-title="Documentaries",History Hunters
 https://jmp2.uk/sam-GB1200002ON.m3u8
-#EXTINF:-1 group-title="Documentaries",Deal Masters
-https://jmp2.uk/sam-GB12000037Y.m3u8
 #EXTINF:-1 group-title="Documentaries",I Survived
 https://jmp2.uk/sam-GB27000089Z.m3u8
-#EXTINF:-1 group-title="Documentaries",So…Real
-https://jmp2.uk/sam-GBBD1100009M9.m3u8
 #EXTINF:-1 group-title="Documentaries",Autopsy
 https://jmp2.uk/sam-GBBD4100006KV.m3u8
 #EXTINF:-1 group-title="Documentaries",U&Transport
@@ -308,7 +304,11 @@ https://jmp2.uk/sam-GB2600019ON.m3u8
 #EXTINF:-1 group-title="News",The Guardian
 https://jmp2.uk/sam-GB2600016U8.m3u8
 
-#Reality (16)
+#Reality (18)
+#EXTINF:-1 group-title="Reality",Deal Masters
+https://jmp2.uk/sam-GB12000037Y.m3u8
+#EXTINF:-1 group-title="Reality",So…Real
+https://jmp2.uk/sam-GBBD1100009M9.m3u8
 #EXTINF:-1 group-title="Reality",Project Runway
 https://jmp2.uk/sam-GBBB4600001IK.m3u8
 #EXTINF:-1 group-title="Reality",America's Got Talent
@@ -342,7 +342,7 @@ https://jmp2.uk/sam-GB2600021LP.m3u8
 #EXTINF:-1 group-title="Reality",Catfish
 https://jmp2.uk/sam-GBBA330003941.m3u8
 
-#Sport (12)
+#Sport (13)
 #EXTINF:-1 group-title="Sport",PGA Tour
 https://jmp2.uk/sam-GBBB1500005BH.m3u8
 #EXTINF:-1 group-title="Sport",Tennis Channel International
@@ -367,6 +367,8 @@ https://jmp2.uk/sam-GBBA1500006H6.m3u8
 https://jmp2.uk/sam-GBBD2900001VD.m3u8
 #EXTINF:-1 group-title="Sport",Strongman Champions League
 https://jmp2.uk/sam-GBBC90001089.m3u8
+#EXTINF:-1 group-title="Sport",talkSPORT
+https://jmp2.uk/sam-GB30003577.m3u8
 
 #TV Series (6)
 #EXTINF:-1 group-title="TV Series",Pluto TV Classic TV
