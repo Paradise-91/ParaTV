@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 12/02/2025 06:22:12 CET+0100
+# Generated on: 17/02/2025 13:25:16 CET+0100
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -218,7 +218,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 #EXTINF:-1 group-title="FRANCE3-REGIONS",France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
-#TF1PLUS (68)
+#TF1PLUS (71)
 #EXTINF:-1 group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -263,10 +263,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/sous-l
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ris-police-scientifique.m3u8
 #EXTINF:-1 group-title="TF1PLUS",FOUDRE [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/foudre.m3u8
+#EXTINF:-1 group-title="TF1PLUS",CAMPING PARADIS [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/camping-paradis.m3u8
 #EXTINF:-1 group-title="TF1PLUS",NOS CHERS VOISINS [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/nos-chers-voisins.m3u8
+#EXTINF:-1 group-title="TF1PLUS",UNE FAMILLE FORMIDABLE [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/une-famille-formidable.m3u8
 #EXTINF:-1 group-title="TF1PLUS",JOSÉPHINE, ANGE GARDIEN [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/josephine-ange-gardien.m3u8
+#EXTINF:-1 group-title="TF1PLUS",FAMILLE D'ACCUEIL [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/famille-daccueil.m3u8
 #EXTINF:-1 group-title="TF1PLUS",LES BRACELETS ROUGES [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-bracelets-rouges.m3u8
 #EXTINF:-1 group-title="TF1PLUS",SAM [720p-tf1.fr]
