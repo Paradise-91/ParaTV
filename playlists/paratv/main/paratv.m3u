@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 20/02/2025 01:10:59 CET+0100
+# Generated on: 20/02/2025 06:22:09 CET+0100
 
 #FRANCE (33)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -504,7 +504,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://images.lesindesradios.fr/100x100/radios/contactfm/images/logo.png" tvg-country="BE" group-title="BELGIQUE",502. Radio Contact [1080p-rtlplay.be]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/contact.m3u8
 
-#SAMSUNGTVPLUSFR (145)
+#SAMSUNGTVPLUSFR (146)
 #EXTINF:-1 tvg-chno="1000" tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20231213T034713SQUARE.png_20231213034713.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1000. BFM TV [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBD410000783.m3u8
 #EXTINF:-1 tvg-chno="1002" tvg-id="FR1400003Y0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1002. BFM 2 [1080p-samsungtvplus]
@@ -795,3 +795,5 @@ https://jmp2.uk/sam-FR4200001BN.m3u8
 https://jmp2.uk/sam-FR4800002NE.m3u8
 #EXTINF:-1 tvg-chno="1150" tvg-id="FR5000002SW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR5000002SW_20250121T012942SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1150. Tennis Channel [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR5000002SW.m3u8
+#EXTINF:-1 tvg-chno="1151" tvg-id="FR300032ZK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300032ZK_20250218T040022SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1151. IntoCrime [1080p-samsungtvplus]
+https://jmp2.uk/sam-FR300032ZK.m3u8
