@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 22/02/2025 04:25:13 CET+0100
+# Generated on: 01/03/2025 00:35:58 CET+0100
 
-#FRANCE (33)
+#FRANCE (31)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -28,14 +28,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE",Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
-#EXTINF:-1 group-title="FRANCE",C8 [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8-dm.m3u8
 #EXTINF:-1 group-title="FRANCE",TMC [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 group-title="FRANCE",TFX [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 group-title="FRANCE",NRJ 12 [1080p-nrj-play.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/nrj12.m3u8
 #EXTINF:-1 group-title="FRANCE",LCP-AN [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -147,13 +143,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.
 #EXTINF:-1 group-title="FRANCE.TV",France TV Séries [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
 
-#CANALPLUS (5)
+#CANALPLUS (4)
 #EXTINF:-1 group-title="CANALPLUS",CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 group-title="CANALPLUS",C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
-#EXTINF:-1 group-title="CANALPLUS",C8 [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8-dm.m3u8
 #EXTINF:-1 group-title="CANALPLUS",CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 group-title="CANALPLUS",C NEWS [1080p-dailymotion.com]
@@ -438,9 +432,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region
 #EXTINF:-1 group-title="EQUIDIA",REGION 16 [1080p-equidia.fr][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region16.m3u8
 
-#NRJ (2)
-#EXTINF:-1 group-title="NRJ",NRJ 12 [1080p-nrj-play.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/nrj12.m3u8
+#NRJ (1)
 #EXTINF:-1 group-title="NRJ",Chérie 25 [1080p-nrj-play.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m3u8
 

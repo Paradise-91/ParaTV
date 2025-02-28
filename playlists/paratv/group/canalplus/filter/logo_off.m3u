@@ -1,13 +1,11 @@
 #EXTM3U
-# Generated on: 21/11/2024 07:25:14 CET+0100
+# Generated on: 01/03/2025 00:35:58 CET+0100
 
-#CANALPLUS (5)
+#CANALPLUS (4)
 #EXTINF:-1 tvg-chno="120" tvg-country="FR" group-title="CANALPLUS",120. CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-country="FR" group-title="CANALPLUS",121. C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-chno="122" tvg-country="FR" group-title="CANALPLUS",122. C8 [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8-dm.m3u8
 #EXTINF:-1 tvg-chno="123" tvg-country="FR" group-title="CANALPLUS",123. CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-country="FR" group-title="CANALPLUS",124. C NEWS [1080p-dailymotion.com]

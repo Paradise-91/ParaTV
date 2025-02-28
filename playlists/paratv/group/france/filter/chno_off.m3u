@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 22/02/2025 04:25:13 CET+0100
+# Generated on: 01/03/2025 00:35:58 CET+0100
 
-#FRANCE (33)
+#FRANCE (31)
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -28,14 +28,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" tvg-country="FR" group-title="FRANCE",Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
-#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/C8_color.png?h=100" tvg-country="FR" group-title="FRANCE",C8 [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8-dm.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="FRANCE",TMC [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="FRANCE",TFX [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/NRJ12_color.png?h=100" tvg-country="FR" group-title="FRANCE",NRJ 12 [1080p-nrj-play.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/nrj12.m3u8
 #EXTINF:-1 tvg-id="LCP100.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP-AN [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
