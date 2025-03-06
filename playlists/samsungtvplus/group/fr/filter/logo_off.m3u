@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 20/02/2025 06:21:18 CET+0100
-#TOTAL: 146
+# Generated on: 06/03/2025 06:21:42 CET+0100
+#TOTAL: 145
 
 #Actualités (10)
 #EXTINF:-1 tvg-chno="706" tvg-id="FRBD410000783" tvg-country="FR" group-title="Actualités",706. BFM TV
@@ -82,7 +82,7 @@ https://jmp2.uk/sam-FR2600002X9.m3u8
 #EXTINF:-1 tvg-chno="1863" tvg-id="FR3800001ZU" tvg-country="FR" group-title="Cinéma",1863. 100% Adrenaline
 https://jmp2.uk/sam-FR3800001ZU.m3u8
 
-#Crime (6)
+#Crime (7)
 #EXTINF:-1 tvg-chno="742" tvg-id="FR1400002XF" tvg-country="FR" group-title="Crime",742. Faites entrer l'accusé
 https://jmp2.uk/sam-FR1400002XF.m3u8
 #EXTINF:-1 tvg-chno="743" tvg-id="FRBB49000033R" tvg-country="FR" group-title="Crime",743. Homicide
@@ -95,8 +95,10 @@ https://jmp2.uk/sam-FRBD39000039D.m3u8
 https://jmp2.uk/sam-FRAJ38000089S.m3u8
 #EXTINF:-1 tvg-chno="747" tvg-id="FR2600009UG" tvg-country="FR" group-title="Crime",747. Crime - Rakuten TV
 https://jmp2.uk/sam-FR2600009UG.m3u8
+#EXTINF:-1 tvg-chno="1926" tvg-id="FR300032ZK" tvg-country="FR" group-title="Crime",1926. IntoCrime
+https://jmp2.uk/sam-FR300032ZK.m3u8
 
-#Divertissement (25)
+#Divertissement (24)
 #EXTINF:-1 tvg-chno="748" tvg-id="FR300001M1" tvg-country="FR" group-title="Divertissement",748. RMC Wow
 https://jmp2.uk/sam-FR300001M1.m3u8
 #EXTINF:-1 tvg-chno="749" tvg-id="FR300006GF" tvg-country="FR" group-title="Divertissement",749. RMC MYSTERE
@@ -145,10 +147,8 @@ https://jmp2.uk/sam-FRBD41000097I.m3u8
 https://jmp2.uk/sam-FRBD4100008QS.m3u8
 #EXTINF:-1 tvg-chno="1864" tvg-id="FR4600001FK" tvg-country="FR" group-title="Divertissement",1864. Top Sci-Fi
 https://jmp2.uk/sam-FR4600001FK.m3u8
-#EXTINF:-1 tvg-chno="1926" tvg-id="FR300032ZK" tvg-country="FR" group-title="Divertissement",1926. IntoCrime
-https://jmp2.uk/sam-FR300032ZK.m3u8
 
-#Documentaires (17)
+#Documentaires (16)
 #EXTINF:-1 tvg-chno="770" tvg-id="FRBC4000001IO" tvg-country="FR" group-title="Documentaires",770. Destination Nature
 https://jmp2.uk/sam-FRBC4000001IO.m3u8
 #EXTINF:-1 tvg-chno="773" tvg-id="FRBD4800001P4" tvg-country="FR" group-title="Documentaires",773. J'irai dormir chez vous
@@ -169,8 +169,6 @@ https://jmp2.uk/sam-FR1200001N2.m3u8
 https://jmp2.uk/sam-FRBD11000038N.m3u8
 #EXTINF:-1 tvg-chno="782" tvg-id="FRBD3900004PH" tvg-country="FR" group-title="Documentaires",782. Reportages by Spica
 https://jmp2.uk/sam-FRBD3900004PH.m3u8
-#EXTINF:-1 tvg-chno="783" tvg-id="FRBD26000031Q" tvg-country="FR" group-title="Documentaires",783. Top Santé
-https://jmp2.uk/sam-FRBD26000031Q.m3u8
 #EXTINF:-1 tvg-chno="784" tvg-id="FRBB49000059E" tvg-country="FR" group-title="Documentaires",784. Tahiti TV
 https://jmp2.uk/sam-FRBB49000059E.m3u8
 #EXTINF:-1 tvg-chno="785" tvg-id="FR26000089E" tvg-country="FR" group-title="Documentaires",785. Documentaires - Rakuten TV
