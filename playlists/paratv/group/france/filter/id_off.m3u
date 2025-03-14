@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 02/03/2025 04:25:13 CET+0100
+# Generated on: 14/03/2025 02:53:23 CET+0100
 
-#FRANCE (31)
+#FRANCE (32)
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -70,3 +70,5 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-figaro.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="FRANCE",42. Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LogoConfidentielCouleur100x100.png?h=100" tvg-country="FR" group-title="FRANCE",77. TPMP [1080p-dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/m6plus/tpmp-dm.m3u8
