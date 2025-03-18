@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 14/03/2025 02:53:22 CET+0100
+# Generated on: 18/03/2025 03:53:19 CET+0100
 
 #FRANCE (32)
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -497,6 +497,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
 #EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/100x100/radios/contactfm/images/logo.png" tvg-country="BE" group-title="BELGIQUE",Radio Contact [1080p-rtlplay.be]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/contact.m3u8
+
+#SWITZERLAND (4)
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac1-ch.png" tvg-country="CH" group-title="SWITZERLAND",carac1 [1080p-carac.tv]
+https://rougetv.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac2-ch.png" tvg-country="CH" group-title="SWITZERLAND",carac2 [1080p-carac.tv]
+https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 tvg-id="LFMTV.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac3-ch.png" tvg-country="CH" group-title="SWITZERLAND",carac3 [1080p-carac.tv]
+https://lfmmd.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1 tvg-id="CARAC4.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac4-ch.png" tvg-country="CH" group-title="SWITZERLAND",carac4 [1080p-carac.tv]
+https://compack_media_1.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
 
 #SAMSUNGTVPLUSFR (145)
 #EXTINF:-1 tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20231213T034713SQUARE.png_20231213034713.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",BFM TV [1080p-samsungtvplus]

@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 14/03/2025 02:53:22 CET+0100
+# Generated on: 18/03/2025 03:53:19 CET+0100
 
 #FRANCE (32)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p-tf1.fr]
@@ -497,6 +497,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://images.lesindesradios.fr/100x100/radios/contactfm/images/logo.png",502. Radio Contact [1080p-rtlplay.be]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/contact.m3u8
+
+#SWITZERLAND (4)
+#EXTINF:-1 tvg-chno="551" tvg-id="RougeTV.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac1-ch.png",551. carac1 [1080p-carac.tv]
+https://rougetv.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
+#EXTINF:-1 tvg-chno="552" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac2-ch.png",552. carac2 [1080p-carac.tv]
+https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 tvg-chno="553" tvg-id="LFMTV.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac3-ch.png",553. carac3 [1080p-carac.tv]
+https://lfmmd.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1 tvg-chno="554" tvg-id="CARAC4.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac4-ch.png",554. carac4 [1080p-carac.tv]
+https://compack_media_1.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
 
 #SAMSUNGTVPLUSFR (145)
 #EXTINF:-1 tvg-chno="1000" tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20231213T034713SQUARE.png_20231213034713.png",1000. BFM TV [1080p-samsungtvplus]
