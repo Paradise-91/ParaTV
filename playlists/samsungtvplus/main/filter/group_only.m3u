@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 17/03/2025 06:21:17 CET+0100
-#TOTAL: 1855
+# Generated on: 20/03/2025 06:21:21 CET+0100
+#TOTAL: 1856
 
 #Austria (112)
 #EXTINF:-1 group-title="Austria",[Anime] Aniverse TV
@@ -177,12 +177,12 @@ https://jmp2.uk/sam-ATBD190000101.m3u8
 https://jmp2.uk/sam-ATBD1100002TA.m3u8
 #EXTINF:-1 group-title="Austria",[News] Focus TV
 https://jmp2.uk/sam-ATAJ0500419A.m3u8
-#EXTINF:-1 group-title="Austria",[News] SPIEGEL TV
-https://jmp2.uk/sam-AT70000492.m3u8
 #EXTINF:-1 group-title="Austria",[News] Bloomberg TV+
 https://jmp2.uk/sam-ATBA3300018K1.m3u8
 #EXTINF:-1 group-title="Austria",[News] Euronews LIVE
 https://jmp2.uk/sam-AT2600002KW.m3u8
+#EXTINF:-1 group-title="Austria",[News] SPIEGEL TV
+https://jmp2.uk/sam-ATAJ0500445A.m3u8
 #EXTINF:-1 group-title="Austria",[Serien] Baywatch
 https://jmp2.uk/sam-ATBD2600008HN.m3u8
 #EXTINF:-1 group-title="Austria",[Serien] Heartland
@@ -859,8 +859,6 @@ https://jmp2.uk/sam-CHBD1900001JB.m3u8
 https://jmp2.uk/sam-CHBD1100003CW.m3u8
 #EXTINF:-1 group-title="Switzerland",[News] Focus TV
 https://jmp2.uk/sam-CHAJ0500419A.m3u8
-#EXTINF:-1 group-title="Switzerland",[News] SPIEGEL TV
-https://jmp2.uk/sam-CH700002JB.m3u8
 #EXTINF:-1 group-title="Switzerland",[News] Bloomberg TV+
 https://jmp2.uk/sam-CHBA3300018TD.m3u8
 #EXTINF:-1 group-title="Switzerland",[News] BFM TV
@@ -869,6 +867,8 @@ https://jmp2.uk/sam-CH500001V2.m3u8
 https://jmp2.uk/sam-CHBC14000022X.m3u8
 #EXTINF:-1 group-title="Switzerland",[News] Euronews LIVE
 https://jmp2.uk/sam-CH26000037F.m3u8
+#EXTINF:-1 group-title="Switzerland",[News] SPIEGEL TV
+https://jmp2.uk/sam-CHAJ0500445A.m3u8
 #EXTINF:-1 group-title="Switzerland",[Serien] Baywatch
 https://jmp2.uk/sam-CHBD2600009ZC.m3u8
 #EXTINF:-1 group-title="Switzerland",[Serien] Heartland
@@ -1139,14 +1139,14 @@ https://jmp2.uk/sam-DEBD19000012M.m3u8
 https://jmp2.uk/sam-DEBD1100002II.m3u8
 #EXTINF:-1 group-title="Germany",[News] Focus TV
 https://jmp2.uk/sam-DEAJ0500413A.m3u8
-#EXTINF:-1 group-title="Germany",[News] SPIEGEL TV
-https://jmp2.uk/sam-DE7000028I.m3u8
 #EXTINF:-1 group-title="Germany",[News] Bloomberg TV+
 https://jmp2.uk/sam-DEBA3300027ZJ.m3u8
 #EXTINF:-1 group-title="Germany",[News] Reuters
 https://jmp2.uk/sam-DEBD4900001QV.m3u8
 #EXTINF:-1 group-title="Germany",[News] Euronews LIVE
 https://jmp2.uk/sam-DE2600003TR.m3u8
+#EXTINF:-1 group-title="Germany",[News] SPIEGEL TV
+https://jmp2.uk/sam-DEAK0500441A.m3u8
 #EXTINF:-1 group-title="Germany",[Serien] Baywatch
 https://jmp2.uk/sam-DEBD26000020X.m3u8
 #EXTINF:-1 group-title="Germany",[Serien] Heartland
@@ -2104,7 +2104,7 @@ https://jmp2.uk/sam-GB3700007OZ.m3u8
 #EXTINF:-1 group-title="United Kingdom",[TV Series] Heartland
 https://jmp2.uk/sam-GB5100001EW.m3u8
 
-#India (134)
+#India (135)
 #EXTINF:-1 group-title="India",[Devotional] Divya
 https://jmp2.uk/sam-INBD13000053R.m3u8
 #EXTINF:-1 group-title="India",[Devotional] Divya Bhajan
@@ -2233,6 +2233,8 @@ https://jmp2.uk/sam-IN4600007TC.m3u8
 https://jmp2.uk/sam-IN4600008T4.m3u8
 #EXTINF:-1 group-title="India",[Kids] Hooray Kids
 https://jmp2.uk/sam-IN4600009F9.m3u8
+#EXTINF:-1 group-title="India",[Kids] RiC+
+https://jmp2.uk/sam-IN3900010TD.m3u8
 #EXTINF:-1 group-title="India",[Lifestyle] Travelxp HD
 https://jmp2.uk/sam-IN300000210.m3u8
 #EXTINF:-1 group-title="India",[Lifestyle] India TV Yoga
@@ -2687,7 +2689,7 @@ https://jmp2.uk/sam-KRBB500039Y5.m3u8
 https://jmp2.uk/sam-KRBB500044GP.m3u8
 #EXTINF:-1 group-title="South Korea",[뉴스] 글로벌 뉴스 by LeadStory
 https://jmp2.uk/sam-KRBD3100006X4.m3u8
-#EXTINF:-1 group-title="South Korea",[드라마] SBS 열혈사제1
+#EXTINF:-1 group-title="South Korea",[드라마] SBS 그 해 우리는
 https://jmp2.uk/sam-KRBB42000061Z.m3u8
 #EXTINF:-1 group-title="South Korea",[드라마] SBS 올인
 https://jmp2.uk/sam-KRBB420001572.m3u8
@@ -2707,7 +2709,7 @@ https://jmp2.uk/sam-KRBC320002200.m3u8
 https://jmp2.uk/sam-KR7000023Z.m3u8
 #EXTINF:-1 group-title="South Korea",[드라마] Animax 요리왕 비룡 더 마스터
 https://jmp2.uk/sam-KRBC3200001VC.m3u8
-#EXTINF:-1 group-title="South Korea",[드라마] SBS 원더우먼
+#EXTINF:-1 group-title="South Korea",[드라마] SBS 하이에나
 https://jmp2.uk/sam-KRBB420000180.m3u8
 #EXTINF:-1 group-title="South Korea",[드라마] JTBC 라이프
 https://jmp2.uk/sam-KR4000020F.m3u8
@@ -2715,7 +2717,7 @@ https://jmp2.uk/sam-KR4000020F.m3u8
 https://jmp2.uk/sam-KRBC4000003J2.m3u8
 #EXTINF:-1 group-title="South Korea",[드라마] 고독한 미식가
 https://jmp2.uk/sam-KRBC3500014ZH.m3u8
-#EXTINF:-1 group-title="South Korea",[드라마] SBS 황후의 품격
+#EXTINF:-1 group-title="South Korea",[드라마] SBS 내 남자의 여자
 https://jmp2.uk/sam-KRBB4200005CK.m3u8
 #EXTINF:-1 group-title="South Korea",[드라마] MBC 해를 품은 달
 https://jmp2.uk/sam-KRBB5000070U4.m3u8
@@ -2827,7 +2829,7 @@ https://jmp2.uk/sam-KRBC200002I0.m3u8
 https://jmp2.uk/sam-KRBD27000069Q.m3u8
 #EXTINF:-1 group-title="South Korea",[예능] MBC 무한도전
 https://jmp2.uk/sam-KRBB5000069BS.m3u8
-#EXTINF:-1 group-title="South Korea",[예능] TV조선 조선의 사랑꾼
+#EXTINF:-1 group-title="South Korea",[예능] TV조선 생존왕
 https://jmp2.uk/sam-KRBD2700001QR.m3u8
 #EXTINF:-1 group-title="South Korea",[예능] TV조선 미스터로또
 https://jmp2.uk/sam-KRBD2700002IV.m3u8
