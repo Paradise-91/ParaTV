@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 12/03/2025 06:21:20 CET+0100
-#TOTAL: 145
+# Generated on: 26/03/2025 06:25:33 CET+0100
+#TOTAL: 147
 
 #Actualités (10)
 #EXTINF:-1 group-title="Actualités",BFM TV
@@ -98,7 +98,7 @@ https://jmp2.uk/sam-FR2600009UG.m3u8
 #EXTINF:-1 group-title="Crime",IntoCrime
 https://jmp2.uk/sam-FR300032ZK.m3u8
 
-#Divertissement (24)
+#Divertissement (26)
 #EXTINF:-1 group-title="Divertissement",RMC Wow
 https://jmp2.uk/sam-FR300001M1.m3u8
 #EXTINF:-1 group-title="Divertissement",RMC MYSTERE
@@ -147,6 +147,10 @@ https://jmp2.uk/sam-FRBD41000097I.m3u8
 https://jmp2.uk/sam-FRBD4100008QS.m3u8
 #EXTINF:-1 group-title="Divertissement",Top Sci-Fi
 https://jmp2.uk/sam-FR4600001FK.m3u8
+#EXTINF:-1 group-title="Divertissement",Immersion - Crime & Justice
+https://jmp2.uk/sam-FR600002ZR.m3u8
+#EXTINF:-1 group-title="Divertissement",Real Life
+https://jmp2.uk/sam-FR700002UP.m3u8
 
 #Documentaires (16)
 #EXTINF:-1 group-title="Documentaires",Destination Nature
@@ -182,7 +186,7 @@ https://jmp2.uk/sam-FRBC3900004DS.m3u8
 #EXTINF:-1 group-title="Documentaires",La Maison France 5
 https://jmp2.uk/sam-FR4200001BN.m3u8
 
-#Jeunesse (14)
+#Jeunesse (15)
 #EXTINF:-1 group-title="Jeunesse",Pocoyo
 https://jmp2.uk/sam-FR700001VJ.m3u8
 #EXTINF:-1 group-title="Jeunesse",Garfield
@@ -211,8 +215,14 @@ https://jmp2.uk/sam-FRAJ38000061J.m3u8
 https://jmp2.uk/sam-FR2600001PI.m3u8
 #EXTINF:-1 group-title="Jeunesse",Caillou
 https://jmp2.uk/sam-FR4800002NE.m3u8
+#EXTINF:-1 group-title="Jeunesse",LooLoo Kids
+https://jmp2.uk/sam-FR5000001UH.m3u8
 
-#Musique (8)
+#Lifestyle (1)
+#EXTINF:-1 group-title="Lifestyle",Ailleurs - Destination Luxe
+https://jmp2.uk/sam-FR600001I2.m3u8
+
+#Musique (7)
 #EXTINF:-1 group-title="Musique",Vevo Pop
 https://jmp2.uk/sam-FRBC2100001YY.m3u8
 #EXTINF:-1 group-title="Musique",Vevo Hip-Hop & R&B
@@ -223,14 +233,12 @@ https://jmp2.uk/sam-FRBD1900013CB.m3u8
 https://jmp2.uk/sam-FR3900001AC.m3u8
 #EXTINF:-1 group-title="Musique",Cool Summer Channel
 https://jmp2.uk/sam-FR2500001BS.m3u8
-#EXTINF:-1 group-title="Musique",Clubbing TV
-https://jmp2.uk/sam-FRBB1900001FA.m3u8
 #EXTINF:-1 group-title="Musique",Émotion
 https://jmp2.uk/sam-FRBC900001LB.m3u8
 #EXTINF:-1 group-title="Musique",Deluxe Lounge HD
 https://jmp2.uk/sam-FRBA1500001G6.m3u8
 
-#Sports (13)
+#Sports (12)
 #EXTINF:-1 group-title="Sports",L'Equipe Live 1
 https://jmp2.uk/sam-FRBC4200004XH.m3u8
 #EXTINF:-1 group-title="Sports",L'Equipe Live 2
@@ -247,8 +255,6 @@ https://jmp2.uk/sam-FR2400001TP.m3u8
 https://jmp2.uk/sam-FRBD3600001BQ.m3u8
 #EXTINF:-1 group-title="Sports",Motor Racing
 https://jmp2.uk/sam-FRBD4100013LN.m3u8
-#EXTINF:-1 group-title="Sports",Motorvision
-https://jmp2.uk/sam-FRBD3200001DV.m3u8
 #EXTINF:-1 group-title="Sports",The Boat Show
 https://jmp2.uk/sam-FRBA1500005IU.m3u8
 #EXTINF:-1 group-title="Sports",Wellbeing TV

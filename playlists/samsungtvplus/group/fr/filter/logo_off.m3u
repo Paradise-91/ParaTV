@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 12/03/2025 06:21:20 CET+0100
-#TOTAL: 145
+# Generated on: 26/03/2025 06:25:33 CET+0100
+#TOTAL: 147
 
 #Actualités (10)
 #EXTINF:-1 tvg-chno="706" tvg-id="FRBD410000783" tvg-country="FR" group-title="Actualités",706. BFM TV
@@ -98,7 +98,7 @@ https://jmp2.uk/sam-FR2600009UG.m3u8
 #EXTINF:-1 tvg-chno="1926" tvg-id="FR300032ZK" tvg-country="FR" group-title="Crime",1926. IntoCrime
 https://jmp2.uk/sam-FR300032ZK.m3u8
 
-#Divertissement (24)
+#Divertissement (26)
 #EXTINF:-1 tvg-chno="748" tvg-id="FR300001M1" tvg-country="FR" group-title="Divertissement",748. RMC Wow
 https://jmp2.uk/sam-FR300001M1.m3u8
 #EXTINF:-1 tvg-chno="749" tvg-id="FR300006GF" tvg-country="FR" group-title="Divertissement",749. RMC MYSTERE
@@ -147,6 +147,10 @@ https://jmp2.uk/sam-FRBD41000097I.m3u8
 https://jmp2.uk/sam-FRBD4100008QS.m3u8
 #EXTINF:-1 tvg-chno="1864" tvg-id="FR4600001FK" tvg-country="FR" group-title="Divertissement",1864. Top Sci-Fi
 https://jmp2.uk/sam-FR4600001FK.m3u8
+#EXTINF:-1 tvg-chno="1942" tvg-id="FR600002ZR" tvg-country="FR" group-title="Divertissement",1942. Immersion - Crime & Justice
+https://jmp2.uk/sam-FR600002ZR.m3u8
+#EXTINF:-1 tvg-chno="1943" tvg-id="FR700002UP" tvg-country="FR" group-title="Divertissement",1943. Real Life
+https://jmp2.uk/sam-FR700002UP.m3u8
 
 #Documentaires (16)
 #EXTINF:-1 tvg-chno="770" tvg-id="FRBC4000001IO" tvg-country="FR" group-title="Documentaires",770. Destination Nature
@@ -182,7 +186,7 @@ https://jmp2.uk/sam-FRBC3900004DS.m3u8
 #EXTINF:-1 tvg-chno="1865" tvg-id="FR4200001BN" tvg-country="FR" group-title="Documentaires",1865. La Maison France 5
 https://jmp2.uk/sam-FR4200001BN.m3u8
 
-#Jeunesse (14)
+#Jeunesse (15)
 #EXTINF:-1 tvg-chno="790" tvg-id="FR700001VJ" tvg-country="FR" group-title="Jeunesse",790. Pocoyo
 https://jmp2.uk/sam-FR700001VJ.m3u8
 #EXTINF:-1 tvg-chno="791" tvg-id="FRBB4600001MQ" tvg-country="FR" group-title="Jeunesse",791. Garfield
@@ -211,8 +215,14 @@ https://jmp2.uk/sam-FRAJ38000061J.m3u8
 https://jmp2.uk/sam-FR2600001PI.m3u8
 #EXTINF:-1 tvg-chno="1866" tvg-id="FR4800002NE" tvg-country="FR" group-title="Jeunesse",1866. Caillou
 https://jmp2.uk/sam-FR4800002NE.m3u8
+#EXTINF:-1 tvg-chno="1944" tvg-id="FR5000001UH" tvg-country="FR" group-title="Jeunesse",1944. LooLoo Kids
+https://jmp2.uk/sam-FR5000001UH.m3u8
 
-#Musique (8)
+#Lifestyle (1)
+#EXTINF:-1 tvg-chno="1945" tvg-id="FR600001I2" tvg-country="FR" group-title="Lifestyle",1945. Ailleurs - Destination Luxe
+https://jmp2.uk/sam-FR600001I2.m3u8
+
+#Musique (7)
 #EXTINF:-1 tvg-chno="803" tvg-id="FRBC2100001YY" tvg-country="FR" group-title="Musique",803. Vevo Pop
 https://jmp2.uk/sam-FRBC2100001YY.m3u8
 #EXTINF:-1 tvg-chno="804" tvg-id="FRBC2100002JA" tvg-country="FR" group-title="Musique",804. Vevo Hip-Hop & R&B
@@ -223,14 +233,12 @@ https://jmp2.uk/sam-FRBD1900013CB.m3u8
 https://jmp2.uk/sam-FR3900001AC.m3u8
 #EXTINF:-1 tvg-chno="807" tvg-id="FR2500001BS" tvg-country="FR" group-title="Musique",807. Cool Summer Channel
 https://jmp2.uk/sam-FR2500001BS.m3u8
-#EXTINF:-1 tvg-chno="808" tvg-id="FRBB1900001FA" tvg-country="FR" group-title="Musique",808. Clubbing TV
-https://jmp2.uk/sam-FRBB1900001FA.m3u8
 #EXTINF:-1 tvg-chno="809" tvg-id="FRBC900001LB" tvg-country="FR" group-title="Musique",809. Émotion
 https://jmp2.uk/sam-FRBC900001LB.m3u8
 #EXTINF:-1 tvg-chno="810" tvg-id="FRBA1500001G6" tvg-country="FR" group-title="Musique",810. Deluxe Lounge HD
 https://jmp2.uk/sam-FRBA1500001G6.m3u8
 
-#Sports (13)
+#Sports (12)
 #EXTINF:-1 tvg-chno="811" tvg-id="FRBC4200004XH" tvg-country="FR" group-title="Sports",811. L'Equipe Live 1
 https://jmp2.uk/sam-FRBC4200004XH.m3u8
 #EXTINF:-1 tvg-chno="812" tvg-id="FRBC4200005X2" tvg-country="FR" group-title="Sports",812. L'Equipe Live 2
@@ -247,8 +255,6 @@ https://jmp2.uk/sam-FR2400001TP.m3u8
 https://jmp2.uk/sam-FRBD3600001BQ.m3u8
 #EXTINF:-1 tvg-chno="818" tvg-id="FRBD4100013LN" tvg-country="FR" group-title="Sports",818. Motor Racing
 https://jmp2.uk/sam-FRBD4100013LN.m3u8
-#EXTINF:-1 tvg-chno="819" tvg-id="FRBD3200001DV" tvg-country="FR" group-title="Sports",819. Motorvision
-https://jmp2.uk/sam-FRBD3200001DV.m3u8
 #EXTINF:-1 tvg-chno="820" tvg-id="FRBA1500005IU" tvg-country="FR" group-title="Sports",820. The Boat Show
 https://jmp2.uk/sam-FRBA1500005IU.m3u8
 #EXTINF:-1 tvg-chno="821" tvg-id="FRBA3300063FP" tvg-country="FR" group-title="Sports",821. Wellbeing TV

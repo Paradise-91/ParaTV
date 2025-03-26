@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 18/03/2025 03:53:19 CET+0100
+# Generated on: 26/03/2025 06:25:44 CET+0100
 
 #FRANCE (32)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -508,7 +508,7 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-chno="554" tvg-id="CARAC4.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac4-ch.png" tvg-country="CH" group-title="SWITZERLAND",554. carac4 [1080p-carac.tv]
 https://compack_media_1.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
 
-#SAMSUNGTVPLUSFR (145)
+#SAMSUNGTVPLUSFR (147)
 #EXTINF:-1 tvg-chno="1000" tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20231213T034713SQUARE.png_20231213034713.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1000. BFM TV [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBD410000783.m3u8
 #EXTINF:-1 tvg-chno="1002" tvg-id="FR1400003Y0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1002. BFM 2 [1080p-samsungtvplus]
@@ -703,8 +703,6 @@ https://jmp2.uk/sam-FRBD1900013CB.m3u8
 https://jmp2.uk/sam-FR3900001AC.m3u8
 #EXTINF:-1 tvg-chno="1101" tvg-id="FR2500001BS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2500001BS_20241015T040238SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1101. Cool Summer Channel [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR2500001BS.m3u8
-#EXTINF:-1 tvg-chno="1102" tvg-id="FRBB1900001FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB1900001FA_20241015T035901SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1102. Clubbing TV [1080p-samsungtvplus]
-https://jmp2.uk/sam-FRBB1900001FA.m3u8
 #EXTINF:-1 tvg-chno="1103" tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20241015T040425SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1103. Émotion [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBC900001LB.m3u8
 #EXTINF:-1 tvg-chno="1104" tvg-id="FRBA1500001G6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1500001G6_20241015T035913SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1104. Deluxe Lounge HD [1080p-samsungtvplus]
@@ -725,8 +723,6 @@ https://jmp2.uk/sam-FR2400001TP.m3u8
 https://jmp2.uk/sam-FRBD3600001BQ.m3u8
 #EXTINF:-1 tvg-chno="1112" tvg-id="FRBD4100013LN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100013LN_20241015T040359SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1112. Motor Racing [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBD4100013LN.m3u8
-#EXTINF:-1 tvg-chno="1113" tvg-id="FRBD3200001DV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3200001DV_20241015T040401SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1113. Motorvision [1080p-samsungtvplus]
-https://jmp2.uk/sam-FRBD3200001DV.m3u8
 #EXTINF:-1 tvg-chno="1114" tvg-id="FRBA1500005IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1500005IU_20241015T042713SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1114. The Boat Show [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBA1500005IU.m3u8
 #EXTINF:-1 tvg-chno="1115" tvg-id="FRBA3300063FP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300063FP_20241015T040118SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1115. Wellbeing TV [1080p-samsungtvplus]
@@ -799,3 +795,11 @@ https://jmp2.uk/sam-FR4800002NE.m3u8
 https://jmp2.uk/sam-FR5000002SW.m3u8
 #EXTINF:-1 tvg-chno="1151" tvg-id="FR300032ZK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300032ZK_20250304T015622SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1151. IntoCrime [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR300032ZK.m3u8
+#EXTINF:-1 tvg-chno="1152" tvg-id="FR600002ZR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20250326T013530SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1152. Immersion - Crime & Justice [1080p-samsungtvplus]
+https://jmp2.uk/sam-FR600002ZR.m3u8
+#EXTINF:-1 tvg-chno="1153" tvg-id="FR700002UP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20250326T013533SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1153. Real Life [1080p-samsungtvplus]
+https://jmp2.uk/sam-FR700002UP.m3u8
+#EXTINF:-1 tvg-chno="1154" tvg-id="FR5000001UH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR5000001UH_20250326T013223SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1154. LooLoo Kids [1080p-samsungtvplus]
+https://jmp2.uk/sam-FR5000001UH.m3u8
+#EXTINF:-1 tvg-chno="1155" tvg-id="FR600001I2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600001I2_20250325T155705SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1155. Ailleurs - Destination Luxe [1080p-samsungtvplus]
+https://jmp2.uk/sam-FR600001I2.m3u8
