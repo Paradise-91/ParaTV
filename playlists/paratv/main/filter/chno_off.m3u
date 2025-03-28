@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 28/03/2025 20:25:11 CET+0100
+# Generated on: 28/03/2025 21:25:11 CET+0100
 
 #FRANCE (32)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -232,7 +232,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 #EXTINF:-1 epg-s="1943" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
-#TF1PLUS (72)
+#TF1PLUS (69)
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -277,16 +277,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/sous-l
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ris-police-scientifique.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-foudre-0decfb-740fbd-0@3x.png" tvg-country="FR" group-title="TF1PLUS",FOUDRE [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/foudre.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-camping-paradis-e83290-e0910b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",CAMPING PARADIS [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/camping-paradis.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_ncv-e03213-3aceba-0@3x.png" tvg-country="FR" group-title="TF1PLUS",NOS CHERS VOISINS [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/nos-chers-voisins.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-une-famille-formidable-9c8489-17b308-0@3x.png" tvg-country="FR" group-title="TF1PLUS",UNE FAMILLE FORMIDABLE [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/une-famille-formidable.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-josephine-ange-gardien-f155fd-5d0b6d-0@3x.png" tvg-country="FR" group-title="TF1PLUS",JOSÉPHINE, ANGE GARDIEN [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/josephine-ange-gardien.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-famille-daccueil-a68a46-595b34-0@3x.png" tvg-country="FR" group-title="TF1PLUS",FAMILLE D'ACCUEIL [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/famille-daccueil.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_lbr-0a833f-37c3e7-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LES BRACELETS ROUGES [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-bracelets-rouges.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_sam-5664dd-7a4b43-0@3x.png" tvg-country="FR" group-title="TF1PLUS",SAM [720p-tf1.fr]
