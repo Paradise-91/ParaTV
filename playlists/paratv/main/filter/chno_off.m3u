@@ -1,82 +1,82 @@
 #EXTM3U
-# Generated on: 26/03/2025 06:25:44 CET+0100
+# Generated on: 28/03/2025 17:34:44 CET+0100
 
 #FRANCE (32)
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
+#EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 2 [1080p-france.tv]
+#EXTINF:-1 tvg-id="France2.fr" epg-s="4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 2 [SSAI][1080p-france.tv]
+#EXTINF:-1 tvg-id="France2.fr" epg-s="4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/france2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 3 [1080p-france.tv]
+#EXTINF:-1 tvg-id="France3.fr" epg-s="80" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 3 [SSAI][1080p-france.tv]
+#EXTINF:-1 tvg-id="France3.fr" epg-s="80" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 3 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/france3.m3u8
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="FRANCE",CANAL+ EN CLAIR [1080p-canalplus.com]
+#EXTINF:-1 tvg-id="CanalPlus.fr" epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="FRANCE",CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 5 [1080p-france.tv]
+#EXTINF:-1 tvg-id="France5.fr" epg-s="47" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 5 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 5 [SSAI][1080p-france.tv]
+#EXTINF:-1 tvg-id="France5.fr" epg-s="47" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 5 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/france5.m3u8
-#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" tvg-country="FR" group-title="FRANCE",Arte [720p-arte.tv]
+#EXTINF:-1 tvg-id="Arte.fr" epg-s="111" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" tvg-country="FR" group-title="FRANCE",Arte [720p-arte.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" tvg-country="FR" group-title="FRANCE",ARTE [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" tvg-country="FR" group-title="FRANCE",Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="FRANCE",TMC [720p-tf1.fr]
+#EXTINF:-1 tvg-id="TMC.fr" epg-s="195" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="FRANCE",TMC [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="FRANCE",TFX [720p-tf1.fr]
+#EXTINF:-1 tvg-id="NT1.fr" epg-s="446" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="FRANCE",TFX [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-id="LCP100.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP-AN [1080p-dailymotion.com]
+#EXTINF:-1 tvg-id="LCP100.fr" epg-s="234" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP-AN [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 4 [1080p-france.tv]
+#EXTINF:-1 tvg-id="France4.fr" epg-s="78" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 4 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="FRANCE",BFM TV [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="BFMTV.fr" epg-s="481" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="FRANCE",BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-canalplus.com]
+#EXTINF:-1 tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-dailymotion.com]
+#EXTINF:-1 tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" tvg-country="FR" group-title="FRANCE",CStar [1080p-dailymotion.com]
+#EXTINF:-1 tvg-id="CStar.fr" epg-s="458" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" tvg-country="FR" group-title="FRANCE",CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Gulli100x100Couleur.png?h=100" tvg-country="FR" group-title="FRANCE",Gulli [576p-gulli.fr]
+#EXTINF:-1 tvg-id="Gulli.fr" epg-s="482" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Gulli100x100Couleur.png?h=100" tvg-country="FR" group-title="FRANCE",Gulli [576p-gulli.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 Séries Films [720p-tf1.fr]
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" epg-s="1404" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 Séries Films [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
+#EXTINF:-1 tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
+#EXTINF:-1 tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
-#EXTINF:-1 tvg-id="Numero23.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC STORY [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="Numero23.fr" epg-s="1402" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC STORY [1080p-rmcbfmplay.com]
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Découverte [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" epg-s="1400" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Découverte [1080p-rmcbfmplay.com]
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" tvg-country="FR" group-title="FRANCE",Chérie 25 [1080p-nrj-play.fr]
+#EXTINF:-1 tvg-id="Cherie25.fr" epg-s="1399" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" tvg-country="FR" group-title="FRANCE",Chérie 25 [1080p-nrj-play.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCI [720p-tf1.fr]
+#EXTINF:-1 tvg-id="LCI.fr" epg-s="112" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCI [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png?h=100" tvg-country="FR" group-title="FRANCE",France Info [1080p-france.tv]
+#EXTINF:-1 tvg-id="FranceInfo.fr" epg-s="2111" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png?h=100" tvg-country="FR" group-title="FRANCE",France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#EXTINF:-1 tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [720p-lefigaro.fr]
+#EXTINF:-1 tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
-#EXTINF:-1 tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [1080p-tf1.fr]
+#EXTINF:-1 tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-figaro.m3u8
-#EXTINF:-1 tvg-id="PublicSenat2424.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="FRANCE",Public Sénat [480p-dailymotion.com]
+#EXTINF:-1 tvg-id="PublicSenat2424.fr" epg-s="2013" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="FRANCE",Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LogoConfidentielCouleur100x100.png?h=100" tvg-country="FR" group-title="FRANCE",TPMP [1080p-dailymotion.com]
+#EXTINF:-1 epg-s="4145" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LogoConfidentielCouleur100x100.png?h=100" tvg-country="FR" group-title="FRANCE",TPMP [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/m6plus/tpmp-dm.m3u8
 
 #LEQUIPE.FR (19)
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [1080p-dailymotion.com]
+#EXTINF:-1 epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/journal-du-golf-tv-dm.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [BACKUP][1080p-dailymotion.com]
+#EXTINF:-1 epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [BACKUP][1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/journal-du-golf-tv-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
@@ -117,17 +117,17 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 2 [SSAI][1080p-france.tv]
+#EXTINF:-1 tvg-id="France2.fr" epg-s="4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/france2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 3 [SSAI][1080p-france.tv]
+#EXTINF:-1 tvg-id="France3.fr" epg-s="80" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 3 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/france3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 5 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 5 [SSAI][1080p-france.tv]
+#EXTINF:-1 tvg-id="France5.fr" epg-s="47" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 5 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/france5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 4 [1080p-france.tv]
@@ -157,79 +157,79 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 
 #FRANCE3-REGIONS (25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Alpes [1080p-france.tv]
+#EXTINF:-1 epg-s="1921" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/alpes.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Auvergne-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Auvergne [1080p-france.tv]
+#EXTINF:-1 epg-s="1924" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Auvergne-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Auvergne [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/auvergne.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Rhone-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Rhône-Alpes [1080p-france.tv]
+#EXTINF:-1 epg-s="1944" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Rhone-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Rhône-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/rhonealpes.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Bourgogne-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Bourgogne [1080p-france.tv]
+#EXTINF:-1 epg-s="1926" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Bourgogne-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Bourgogne [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/bourgogne.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Franche-Comte-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Franche-Comté [1080p-france.tv]
+#EXTINF:-1 epg-s="1932" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Franche-Comte-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Franche-Comté [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/franchecomte.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Bretagne-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Bretagne [1080p-france.tv]
+#EXTINF:-1 epg-s="1927" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Bretagne-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Bretagne [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/bretagne.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/France3CenCouleur.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Centre-Val-de-Loire [1080p-france.tv]
+#EXTINF:-1 epg-s="1928" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/France3CenCouleur.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Centre-Val-de-Loire [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/centre.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Corse-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Corse ViaStella [1080p-france.tv]
+#EXTINF:-1 epg-s="1930" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Corse-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Corse ViaStella [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/corse.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Alsace-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Alsace [1080p-france.tv]
+#EXTINF:-1 epg-s="1922" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Alsace-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Alsace [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/alsace.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Champagne-Ardenne-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Champagne-Ardenne [1080p-france.tv]
+#EXTINF:-1 epg-s="1929" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Champagne-Ardenne-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Champagne-Ardenne [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/champagne.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Lorraine-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Lorraine [1080p-france.tv]
+#EXTINF:-1 epg-s="1936" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Lorraine-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Lorraine [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/lorraine.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Nord-pas-de-Calais-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Nord-Pas-de-Calais [1080p-france.tv]
+#EXTINF:-1 epg-s="1938" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Nord-pas-de-Calais-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Nord-Pas-de-Calais [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/nordpdc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Picardie-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Picardie [1080p-france.tv]
+#EXTINF:-1 epg-s="1941" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Picardie-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Picardie [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/picardie.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Normandie-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Basse-Normandie [1080p-france.tv]
+#EXTINF:-1 epg-s="1925" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Normandie-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Basse-Normandie [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/bnormandie.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Normandie-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Haute-Normandie [1080p-france.tv]
+#EXTINF:-1 epg-s="1933" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Normandie-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Haute-Normandie [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/hnormandie.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Aquitaine-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Aquitaine [1080p-france.tv]
+#EXTINF:-1 epg-s="1923" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Aquitaine-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Aquitaine [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/aquitaine.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Limousin-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Limousin [1080p-france.tv]
+#EXTINF:-1 epg-s="1935" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Limousin-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Limousin [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/limousin.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Poitou-Charentes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Poitou-Charentes [1080p-france.tv]
+#EXTINF:-1 epg-s="1942" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Poitou-Charentes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Poitou-Charentes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/poitoucharentes.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Nouvelle-Aquitaine-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Nouvelle-Aquitaine [1080p-france.tv]
+#EXTINF:-1 epg-s="2730" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Nouvelle-Aquitaine-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Nouvelle-Aquitaine [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/noa.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Languedoc-Roussillon-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Languedoc-Roussillon [1080p-france.tv]
+#EXTINF:-1 epg-s="1934" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Languedoc-Roussillon-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Languedoc-Roussillon [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/languedoc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Midi-Pyrenees-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Midi-Pyrénées [1080p-france.tv]
+#EXTINF:-1 epg-s="1937" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Midi-Pyrenees-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Midi-Pyrénées [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/midipyrenees.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Paris-IdF-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Paris-Ile-de-France [1080p-france.tv]
+#EXTINF:-1 epg-s="1939" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Paris-IdF-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Paris-Ile-de-France [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/parisidf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Pyas-de-la-Loire-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Pays-de-la-Loire [1080p-france.tv]
+#EXTINF:-1 epg-s="1940" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Pyas-de-la-Loire-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Pays-de-la-Loire [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/paysloire.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Cote-Azur-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Côte d'azur [1080p-france.tv]
+#EXTINF:-1 epg-s="1931" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Cote-Azur-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Côte d'azur [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/azur.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Provence-Alpes [1080p-france.tv]
+#EXTINF:-1 epg-s="1943" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
 #TF1PLUS (71)
@@ -439,55 +439,55 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m3u8
 
 #RMC-BFM (25)
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM TV [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="BFMTV.fr" epg-s="481" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFM2100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM2 [1080p-rmcbfmplay.com]
+#EXTINF:-1 epg-s="4092" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFM2100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM2 [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="Numero23.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC STORY [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="Numero23.fr" epg-s="1402" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC STORY [1080p-rmcbfmplay.com]
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Découverte [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" epg-s="1400" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Découverte [1080p-rmcbfmplay.com]
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Business_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Business [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="BFMBusiness.fr" epg-s="1073" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Business_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Business [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="01TV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFR100x100COLORTECHCO.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM TECH & CO [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCJDCV100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC J'irai dormir chez vous [1080p-rmcbfmplay.com]
 https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCMystere100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Mystère [1080p-rmcbfmplay.com]
+#EXTINF:-1 epg-s="3952" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCMystere100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Mystère [1080p-rmcbfmplay.com]
 https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-30cqeaahzofvb/index.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCWOW100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC WOW [1080p-rmcbfmplay.com]
+#EXTINF:-1 epg-s="3950" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCWOW100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC WOW [1080p-rmcbfmplay.com]
 https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCALERTESECOURS100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Alerte Secours [1080p-rmcbfmplay.com]
+#EXTINF:-1 epg-s="3949" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCALERTESECOURS100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Alerte Secours [1080p-rmcbfmplay.com]
 https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jompzy8pen6vl/index.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCMECANIC100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Mecanic [1080p-rmcbfmplay.com]
+#EXTINF:-1 epg-s="3953" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCMECANIC100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Mecanic [1080p-rmcbfmplay.com]
 https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMGrandsReportages100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Grands Reportages [1080p-rmcbfmplay.com]
+#EXTINF:-1 epg-s="3948" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMGrandsReportages100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Grands Reportages [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkInfo100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Talk Info [1080p-rmcbfmplay.com]
+#EXTINF:-1 epg-s="3947" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkInfo100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Talk Info [1080p-rmcbfmplay.com]
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkSport100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Talk Sport [1080p-rmcbfmplay.com]
+#EXTINF:-1 epg-s="3946" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkSport100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Talk Sport [1080p-rmcbfmplay.com]
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMPARISIDF100x100COULEURAVECCONTOUR.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM PARIS ILE-DE-FRANCE [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="BFMParis.fr" epg-s="1077" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMPARISIDF100x100COULEURAVECCONTOUR.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM PARIS ILE-DE-FRANCE [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="TeleLyonMetropole.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Lyon_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Lyon [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="TeleLyonMetropole.fr" epg-s="116" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Lyon_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Lyon [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlille-100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Grand Lille [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" epg-s="930" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlille-100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Grand Lille [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlittoral-100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Grand Littoral [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" epg-s="2317" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlittoral-100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Grand Littoral [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="ProvenceAzur.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMMARSEILLEPROV100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM MARSEILLE PROVENCE [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="ProvenceAzur.fr" epg-s="3289" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMMARSEILLEPROV100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM MARSEILLE PROVENCE [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="AzurTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM NICE COTE D'AZUR [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="AzurTV.fr" epg-s="3291" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM NICE COTE D'AZUR [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="VarAzur.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMTOULONVAR100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM TOULON VAR [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="VarAzur.fr" epg-s="3290" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMTOULONVAR100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM TOULON VAR [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="DiciTvAlpes.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMDICIALPESDUSUD100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM DICI ALPES DU SUD [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="DiciTvAlpes.fr" epg-s="3165" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMDICIALPESDUSUD100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM DICI ALPES DU SUD [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="DiciTvProvence.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMDICIHAUTEPROVENCE100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM DICI HAUTE-PROVENCE [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="DiciTvProvence.fr" epg-s="3164" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMDICIHAUTEPROVENCE100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM DICI HAUTE-PROVENCE [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="Alsace20.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMALSACE100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM ALSACE [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="Alsace20.fr" epg-s="3460" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMALSACE100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM ALSACE [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="LaChaineNormande.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMNORMANDIE100x100COULEUR.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM NORMANDIE [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-id="LaChaineNormande.fr" epg-s="3557" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMNORMANDIE100x100COULEUR.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM NORMANDIE [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
 
 #BELGIQUE (3)
