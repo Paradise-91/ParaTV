@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated on: 29/03/2025 01:25:11 CET+0100
+# Generated on: 29/03/2025 16:25:11 CET+0100
 
 #TF1PLUS (71)
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 [720p-tf1.fr]
+#EXTINF:-1 epg-s="192" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TMC [720p-tf1.fr]
+#EXTINF:-1 epg-s="195" tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TMC [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-tfx-2020-min-2ac5f0-2f567e-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TFX [720p-tf1.fr]
+#EXTINF:-1 epg-s="446" tvg-logo="https://photos.tf1.fr/0/40/logo-tfx-2020-min-2ac5f0-2f567e-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TFX [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-tf1sf-2020-min-4957cb-3dbe13-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 SÉRIES FILMS [720p-tf1.fr]
+#EXTINF:-1 epg-s="1404" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1sf-2020-min-4957cb-3dbe13-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 SÉRIES FILMS [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-lci-2020-min-a0978b-a422bb-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LCI [720p-tf1.fr]
+#EXTINF:-1 epg-s="112" tvg-logo="https://photos.tf1.fr/0/40/logo-lci-2020-min-a0978b-a422bb-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LCI [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-lequipe-1-3a8544-a40f82-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LA CHAÎNE L'EQUIPE [1080p-tf1.fr]
+#EXTINF:-1 epg-s="1401" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-lequipe-1-3a8544-a40f82-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LA CHAÎNE L'EQUIPE [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-a5c261-f6c496-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LE FIGARO TV [1080p-tf1.fr]
+#EXTINF:-1 epg-s="3768" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-a5c261-f6c496-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LE FIGARO TV [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-figaro.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" tvg-country="FR" group-title="TF1PLUS",ARTE [1080p-tf1.fr]
+#EXTINF:-1 epg-s="111" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" tvg-country="FR" group-title="TF1PLUS",ARTE [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_dna-3ab0c5-97c3f1-0@3x.png" tvg-country="FR" group-title="TF1PLUS",DEMAIN NOUS APPARTIENT [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/demain-nous-appartient.m3u8
