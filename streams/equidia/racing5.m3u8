@@ -1,15 +1,20 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racing5-p32-cdn.hexaglobe.net/4d05ed315c87ff2aa4a98b6ebdf330ed/67ea4fd5/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05_audio_french.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
-https://equidia-racing5-p32-cdn.hexaglobe.net/4d05ed315c87ff2aa4a98b6ebdf330ed/67ea4fd5/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05_1080p.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720,AUDIO="group_aud"
-https://equidia-racing5-p32-cdn.hexaglobe.net/4d05ed315c87ff2aa4a98b6ebdf330ed/67ea4fd5/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05_720p.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=848x480,AUDIO="group_aud"
-https://equidia-racing5-p32-cdn.hexaglobe.net/4d05ed315c87ff2aa4a98b6ebdf330ed/67ea4fd5/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05_480p.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=432x240,AUDIO="group_aud"
-https://equidia-racing5-p32-cdn.hexaglobe.net/4d05ed315c87ff2aa4a98b6ebdf330ed/67ea4fd5/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05_240p.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144,AUDIO="group_aud"
-https://equidia-racing5-p32-cdn.hexaglobe.net/4d05ed315c87ff2aa4a98b6ebdf330ed/67ea4fd5/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05_144p.m3u8
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="1080p_audio",NAME="Audio_7",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="1",URI="/https://equidia-racing5-b28-cdn.hexaglobe.net/68320b1bf0ea57910ec814518d2e37d0/67ea7a04/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05/llhls/chunklist_7_audio_rfTiE0qW_llhls.m3u8?session=14_Vazjs38K"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="144p_audio",NAME="Audio_15",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="1",URI="/https://equidia-racing5-b28-cdn.hexaglobe.net/68320b1bf0ea57910ec814518d2e37d0/67ea7a04/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05/llhls/chunklist_15_audio_rfTiE0qW_llhls.m3u8?session=14_Vazjs38K"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="240p_audio",NAME="Audio_13",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="1",URI="/https://equidia-racing5-b28-cdn.hexaglobe.net/68320b1bf0ea57910ec814518d2e37d0/67ea7a04/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05/llhls/chunklist_13_audio_rfTiE0qW_llhls.m3u8?session=14_Vazjs38K"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="480p_audio",NAME="Audio_11",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="1",URI="/https://equidia-racing5-b28-cdn.hexaglobe.net/68320b1bf0ea57910ec814518d2e37d0/67ea7a04/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05/llhls/chunklist_11_audio_rfTiE0qW_llhls.m3u8?session=14_Vazjs38K"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="720p_audio",NAME="Audio_9",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="1",URI="/https://equidia-racing5-b28-cdn.hexaglobe.net/68320b1bf0ea57910ec814518d2e37d0/67ea7a04/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05/llhls/chunklist_9_audio_rfTiE0qW_llhls.m3u8?session=14_Vazjs38K"
+#EXT-X-STREAM-INF:BANDWIDTH=3015157,RESOLUTION=1920x1080,FRAME-RATE=29.890,CODECS="avc1.640028,mp4a.40.2",AUDIO="1080p_audio"
+/https://equidia-racing5-b28-cdn.hexaglobe.net/68320b1bf0ea57910ec814518d2e37d0/67ea7a04/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05/llhls/chunklist_6_video_rfTiE0qW_llhls.m3u8?session=14_Vazjs38K
+#EXT-X-STREAM-INF:BANDWIDTH=2413177,RESOLUTION=1280x720,FRAME-RATE=29.855,CODECS="avc1.640028,mp4a.40.2",AUDIO="720p_audio"
+/https://equidia-racing5-b28-cdn.hexaglobe.net/68320b1bf0ea57910ec814518d2e37d0/67ea7a04/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05/llhls/chunklist_8_video_rfTiE0qW_llhls.m3u8?session=14_Vazjs38K
+#EXT-X-STREAM-INF:BANDWIDTH=1449976,RESOLUTION=848x480,FRAME-RATE=29.855,CODECS="avc1.640028,mp4a.40.2",AUDIO="480p_audio"
+/https://equidia-racing5-b28-cdn.hexaglobe.net/68320b1bf0ea57910ec814518d2e37d0/67ea7a04/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05/llhls/chunklist_10_video_rfTiE0qW_llhls.m3u8?session=14_Vazjs38K
+#EXT-X-STREAM-INF:BANDWIDTH=728801,RESOLUTION=432x240,FRAME-RATE=29.854,CODECS="avc1.640028,mp4a.40.2",AUDIO="240p_audio"
+/https://equidia-racing5-b28-cdn.hexaglobe.net/68320b1bf0ea57910ec814518d2e37d0/67ea7a04/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05/llhls/chunklist_12_video_rfTiE0qW_llhls.m3u8?session=14_Vazjs38K
+#EXT-X-STREAM-INF:BANDWIDTH=367511,RESOLUTION=256x144,FRAME-RATE=29.854,CODECS="avc1.640028,mp4a.40.2",AUDIO="144p_audio"
+/https://equidia-racing5-b28-cdn.hexaglobe.net/68320b1bf0ea57910ec814518d2e37d0/67ea7a04/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/slot05/llhls/chunklist_14_video_rfTiE0qW_llhls.m3u8?session=14_Vazjs38K
 
-#Last refreshed on 31/03/2025 10:18:11 CEST.
+#Last refreshed on 31/03/2025 13:18:11 CEST.
