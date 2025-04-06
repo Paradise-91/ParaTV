@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 29/03/2025 16:25:11 CET+0100
+# Generated on: 06/04/2025 16:25:11 CEST+0200
 
-#TF1PLUS (71)
+#TF1PLUS (72)
 #EXTINF:-1 tvg-chno="200" epg-s="192" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",200. TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-chno="201" epg-s="195" tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",201. TMC [720p-tf1.fr]
@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-se
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
 #EXTINF:-1 tvg-chno="205" epg-s="1401" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-lequipe-1-3a8544-a40f82-0@3x.png" tvg-country="FR" group-title="TF1PLUS",205. LA CHAÎNE L'EQUIPE [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
-#EXTINF:-1 tvg-chno="206" epg-s="3768" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-a5c261-f6c496-0@3x.png" tvg-country="FR" group-title="TF1PLUS",206. LE FIGARO TV [1080p-tf1.fr]
+#EXTINF:-1 tvg-chno="206" epg-s="3768" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-e0e79f-d3470f-0@3x.png" tvg-country="FR" group-title="TF1PLUS",206. LE FIGARO TV [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-figaro.m3u8
 #EXTINF:-1 tvg-chno="207" epg-s="111" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" tvg-country="FR" group-title="TF1PLUS",207. ARTE [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m3u8
@@ -144,3 +144,5 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-mar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cry-babies-bff.m3u8
 #EXTINF:-1 tvg-chno="270" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-cedric-ee871b-db9831-0@3x.png" tvg-country="FR" group-title="TF1PLUS",270. CÉDRIC  [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cedric.m3u8
+#EXTINF:-1 tvg-chno="271" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_les-telefilms-de-noel-dec_2023-61c97c-43e20f-0@3x.png" tvg-country="FR" group-title="TF1PLUS",271. LES FILMS DE NOËL [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/christmas-movie.m3u8
