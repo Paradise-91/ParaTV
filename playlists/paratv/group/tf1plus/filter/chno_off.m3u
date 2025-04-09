@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 08/04/2025 19:25:15 CEST+0200
+# Generated on: 10/04/2025 01:25:11 CEST+0200
 
-#TF1PLUS (71)
+#TF1PLUS (70)
 #EXTINF:-1 epg-s="192" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 epg-s="195" tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -68,8 +68,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/profil
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/leo-mattei.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-balthazar-eed798-6480da-0@3x.png" tvg-country="FR" group-title="TF1PLUS",BALTHAZAR [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/balthazar.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-munch-356197-951397-0@3x.png" tvg-country="FR" group-title="TF1PLUS",MUNCH [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/munch.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-section-de-recherches-1a364c-5bb6da-0@3x.png" tvg-country="FR" group-title="TF1PLUS",SECTION DE RECHERCHES [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/section-de-recherches.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-alice-nevers-0451f1-686ee2-0@3x.png" tvg-country="FR" group-title="TF1PLUS",ALICE NEVERS [720p-tf1.fr]
