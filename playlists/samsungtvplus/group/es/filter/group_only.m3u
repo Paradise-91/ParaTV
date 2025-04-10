@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 26/03/2025 06:25:33 CET+0100
-#TOTAL: 126
+# Generated on: 10/04/2025 06:22:52 CEST+0200
+#TOTAL: 133
 
-#Cine (22)
+#Cine (24)
 #EXTINF:-1 group-title="Cine",Runtime Familia
 https://jmp2.uk/sam-ES700004C8.m3u8
 #EXTINF:-1 group-title="Cine",Trailers
@@ -47,6 +47,10 @@ https://jmp2.uk/sam-ESBD80000288.m3u8
 https://jmp2.uk/sam-ES2600003UM.m3u8
 #EXTINF:-1 group-title="Cine",Acción - Rakuten TV
 https://jmp2.uk/sam-ES2600004BD.m3u8
+#EXTINF:-1 group-title="Cine",RTVE Somos Cine
+https://jmp2.uk/sam-ES33000058B.m3u8
+#EXTINF:-1 group-title="Cine",Sci-Fi - Rakuten TV
+https://jmp2.uk/sam-ES500004NO.m3u8
 
 #Comedia (6)
 #EXTINF:-1 group-title="Comedia",Comedia Made in Spain
@@ -62,7 +66,7 @@ https://jmp2.uk/sam-ESAJ4500016BH.m3u8
 #EXTINF:-1 group-title="Comedia",Just For Laughs
 https://jmp2.uk/sam-ESBC2700008SK.m3u8
 
-#Crimen (7)
+#Crimen (8)
 #EXTINF:-1 group-title="Crimen",El Comisario
 https://jmp2.uk/sam-ESBA3300029UG.m3u8
 #EXTINF:-1 group-title="Crimen",Los Asesinatos de Midsomer
@@ -77,6 +81,8 @@ https://jmp2.uk/sam-ESBD3700001S0.m3u8
 https://jmp2.uk/sam-ES3300001MC.m3u8
 #EXTINF:-1 group-title="Crimen",Crimen - Rakuten TV
 https://jmp2.uk/sam-ES2600005G9.m3u8
+#EXTINF:-1 group-title="Crimen",RTVE Crimen
+https://jmp2.uk/sam-ES33000079W.m3u8
 
 #Deporte (11)
 #EXTINF:-1 group-title="Deporte",FIFA+
@@ -91,8 +97,6 @@ https://jmp2.uk/sam-ESBC410000577.m3u8
 https://jmp2.uk/sam-ESBD3600001Q1.m3u8
 #EXTINF:-1 group-title="Deporte",DFB Play TV
 https://jmp2.uk/sam-ES3200003OC.m3u8
-#EXTINF:-1 group-title="Deporte",Top Gear en Español
-https://jmp2.uk/sam-ESAJ2900001Y3.m3u8
 #EXTINF:-1 group-title="Deporte",Motorvision
 https://jmp2.uk/sam-ESBD3200001EG.m3u8
 #EXTINF:-1 group-title="Deporte",World Poker Tour
@@ -101,8 +105,10 @@ https://jmp2.uk/sam-ESBD2900001P9.m3u8
 https://jmp2.uk/sam-ESBC1700002IM.m3u8
 #EXTINF:-1 group-title="Deporte",Surf Channel
 https://jmp2.uk/sam-ES3400002PY.m3u8
+#EXTINF:-1 group-title="Deporte",Top Gear
+https://jmp2.uk/sam-ES2700002YP.m3u8
 
-#Documentales (7)
+#Documentales (8)
 #EXTINF:-1 group-title="Documentales",Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
 #EXTINF:-1 group-title="Documentales",Royalworld - Nobleza y Dinastias
@@ -117,8 +123,10 @@ https://jmp2.uk/sam-ESBA330004121.m3u8
 https://jmp2.uk/sam-ESBC4700002TD.m3u8
 #EXTINF:-1 group-title="Documentales",WaterBear
 https://jmp2.uk/sam-ESBC170000388.m3u8
+#EXTINF:-1 group-title="Documentales",RTVE Docs
+https://jmp2.uk/sam-ES33000036Q.m3u8
 
-#Entretenimiento (18)
+#Entretenimiento (20)
 #EXTINF:-1 group-title="Entretenimiento",Estilo y Vida – Rakuten TV
 https://jmp2.uk/sam-ES26000068D.m3u8
 #EXTINF:-1 group-title="Entretenimiento",La 1
@@ -131,8 +139,6 @@ https://jmp2.uk/sam-ESBC4100002AG.m3u8
 https://jmp2.uk/sam-ESAJ3800006TT.m3u8
 #EXTINF:-1 group-title="Entretenimiento",MTV Originals
 https://jmp2.uk/sam-ESAJ380000226.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Yu-Gi-Oh!
-https://jmp2.uk/sam-ESBA1400007MR.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Beyblade
 https://jmp2.uk/sam-ES1400001T8.m3u8
 #EXTINF:-1 group-title="Entretenimiento",¡Hola! Play
@@ -155,6 +161,12 @@ https://jmp2.uk/sam-ES4700001VS.m3u8
 https://jmp2.uk/sam-ES300029LP.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Anime Visión Classics
 https://jmp2.uk/sam-ES3000288I.m3u8
+#EXTINF:-1 group-title="Entretenimiento",RTVE Saber y Ganar
+https://jmp2.uk/sam-ES3300004P0.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Yu-Gi-Oh!
+https://jmp2.uk/sam-ES7000056Z.m3u8
+#EXTINF:-1 group-title="Entretenimiento",H2O & Friends
+https://jmp2.uk/sam-ES500002NY.m3u8
 
 #Música (10)
 #EXTINF:-1 group-title="Música",Vevo Latino
@@ -244,7 +256,7 @@ https://jmp2.uk/sam-ES260000968.m3u8
 #EXTINF:-1 group-title="Noticias",Actualidad 360
 https://jmp2.uk/sam-ES300034BT.m3u8
 
-#Serie (9)
+#Serie (10)
 #EXTINF:-1 group-title="Serie",Cuéntame cómo pasó
 https://jmp2.uk/sam-ES400002P5.m3u8
 #EXTINF:-1 group-title="Serie",Baywatch – Los Vigilantes de la Playa
@@ -263,6 +275,8 @@ https://jmp2.uk/sam-ES2900001DQ.m3u8
 https://jmp2.uk/sam-ESBC1700001QI.m3u8
 #EXTINF:-1 group-title="Serie",Águila Roja
 https://jmp2.uk/sam-ES500005BP.m3u8
+#EXTINF:-1 group-title="Serie",RTVE Época
+https://jmp2.uk/sam-ES3300006QL.m3u8
 
 #Telenovela (2)
 #EXTINF:-1 group-title="Telenovela",Stormcast Novelas

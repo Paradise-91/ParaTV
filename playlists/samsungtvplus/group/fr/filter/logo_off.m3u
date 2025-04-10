@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 03/04/2025 06:22:00 CEST+0200
-#TOTAL: 146
+# Generated on: 10/04/2025 06:22:52 CEST+0200
+#TOTAL: 147
 
 #Actualités (10)
 #EXTINF:-1 tvg-chno="706" tvg-id="FRBD410000783" tvg-country="FR" group-title="Actualités",706. BFM TV
@@ -27,12 +27,12 @@ https://jmp2.uk/sam-FR2600004SS.m3u8
 #Anime (4)
 #EXTINF:-1 tvg-chno="716" tvg-id="FRBD5100001ZA" tvg-country="FR" group-title="Anime",716. ADN
 https://jmp2.uk/sam-FRBD5100001ZA.m3u8
-#EXTINF:-1 tvg-chno="717" tvg-id="FRBA3300038I4" tvg-country="FR" group-title="Anime",717. Yu-Gi-Oh!
-https://jmp2.uk/sam-FRBA3300038I4.m3u8
 #EXTINF:-1 tvg-chno="718" tvg-id="FR1400001VU" tvg-country="FR" group-title="Anime",718. Beyblade
 https://jmp2.uk/sam-FR1400001VU.m3u8
 #EXTINF:-1 tvg-chno="719" tvg-id="FRBD41000051L" tvg-country="FR" group-title="Anime",719. Wasabi
 https://jmp2.uk/sam-FRBD41000051L.m3u8
+#EXTINF:-1 tvg-chno="1978" tvg-id="FR7000045E" tvg-country="FR" group-title="Anime",1978. Yu-Gi-Oh!
+https://jmp2.uk/sam-FR7000045E.m3u8
 
 #Cinéma (23)
 #EXTINF:-1 tvg-chno="720" tvg-id="FR2600007CB" tvg-country="FR" group-title="Cinéma",720. Top Films - Rakuten TV
@@ -82,7 +82,7 @@ https://jmp2.uk/sam-FR2600002X9.m3u8
 #EXTINF:-1 tvg-chno="1863" tvg-id="FR3800001ZU" tvg-country="FR" group-title="Cinéma",1863. 100% Adrenaline
 https://jmp2.uk/sam-FR3800001ZU.m3u8
 
-#Crime (7)
+#Crime (8)
 #EXTINF:-1 tvg-chno="742" tvg-id="FR1400002XF" tvg-country="FR" group-title="Crime",742. Faites entrer l'accusé
 https://jmp2.uk/sam-FR1400002XF.m3u8
 #EXTINF:-1 tvg-chno="743" tvg-id="FRBB49000033R" tvg-country="FR" group-title="Crime",743. Homicide
@@ -97,8 +97,10 @@ https://jmp2.uk/sam-FRAJ38000089S.m3u8
 https://jmp2.uk/sam-FR2600009UG.m3u8
 #EXTINF:-1 tvg-chno="1926" tvg-id="FR300032ZK" tvg-country="FR" group-title="Crime",1926. IntoCrime
 https://jmp2.uk/sam-FR300032ZK.m3u8
+#EXTINF:-1 tvg-chno="1942" tvg-id="FR600002ZR" tvg-country="FR" group-title="Crime",1942. Immersion - Crime & Justice
+https://jmp2.uk/sam-FR600002ZR.m3u8
 
-#Divertissement (25)
+#Divertissement (24)
 #EXTINF:-1 tvg-chno="748" tvg-id="FR300001M1" tvg-country="FR" group-title="Divertissement",748. RMC Wow
 https://jmp2.uk/sam-FR300001M1.m3u8
 #EXTINF:-1 tvg-chno="749" tvg-id="FR300006GF" tvg-country="FR" group-title="Divertissement",749. RMC MYSTERE
@@ -145,12 +147,10 @@ https://jmp2.uk/sam-FRBD41000097I.m3u8
 https://jmp2.uk/sam-FRBD4100008QS.m3u8
 #EXTINF:-1 tvg-chno="1864" tvg-id="FR4600001FK" tvg-country="FR" group-title="Divertissement",1864. Top Sci-Fi
 https://jmp2.uk/sam-FR4600001FK.m3u8
-#EXTINF:-1 tvg-chno="1942" tvg-id="FR600002ZR" tvg-country="FR" group-title="Divertissement",1942. Immersion - Crime & Justice
-https://jmp2.uk/sam-FR600002ZR.m3u8
-#EXTINF:-1 tvg-chno="1943" tvg-id="FR700002UP" tvg-country="FR" group-title="Divertissement",1943. Real Life
-https://jmp2.uk/sam-FR700002UP.m3u8
+#EXTINF:-1 tvg-chno="1979" tvg-id="FR500003PJ" tvg-country="FR" group-title="Divertissement",1979. H2O & Friends
+https://jmp2.uk/sam-FR500003PJ.m3u8
 
-#Documentaires (16)
+#Documentaires (17)
 #EXTINF:-1 tvg-chno="770" tvg-id="FRBC4000001IO" tvg-country="FR" group-title="Documentaires",770. Destination Nature
 https://jmp2.uk/sam-FRBC4000001IO.m3u8
 #EXTINF:-1 tvg-chno="773" tvg-id="FRBD4800001P4" tvg-country="FR" group-title="Documentaires",773. J'irai dormir chez vous
@@ -183,6 +183,8 @@ https://jmp2.uk/sam-FRBB4900002D4.m3u8
 https://jmp2.uk/sam-FRBC3900004DS.m3u8
 #EXTINF:-1 tvg-chno="1865" tvg-id="FR4200001BN" tvg-country="FR" group-title="Documentaires",1865. La Maison France 5
 https://jmp2.uk/sam-FR4200001BN.m3u8
+#EXTINF:-1 tvg-chno="1943" tvg-id="FR700002UP" tvg-country="FR" group-title="Documentaires",1943. Real Life
+https://jmp2.uk/sam-FR700002UP.m3u8
 
 #Jeunesse (15)
 #EXTINF:-1 tvg-chno="790" tvg-id="FR700001VJ" tvg-country="FR" group-title="Jeunesse",790. Pocoyo
@@ -215,10 +217,6 @@ https://jmp2.uk/sam-FR2600001PI.m3u8
 https://jmp2.uk/sam-FR4800002NE.m3u8
 #EXTINF:-1 tvg-chno="1944" tvg-id="FR5000001UH" tvg-country="FR" group-title="Jeunesse",1944. LooLoo Kids
 https://jmp2.uk/sam-FR5000001UH.m3u8
-
-#Lifestyle (1)
-#EXTINF:-1 tvg-chno="1945" tvg-id="FR600001I2" tvg-country="FR" group-title="Lifestyle",1945. Ailleurs - Destination Luxe
-https://jmp2.uk/sam-FR600001I2.m3u8
 
 #Musique (7)
 #EXTINF:-1 tvg-chno="803" tvg-id="FRBC2100001YY" tvg-country="FR" group-title="Musique",803. Vevo Pop
@@ -304,7 +302,7 @@ https://jmp2.uk/sam-FRBD3900005MB.m3u8
 #EXTINF:-1 tvg-chno="842" tvg-id="FRAJ38000050Z" tvg-country="FR" group-title="Télé réalité",842. MTV Catfish
 https://jmp2.uk/sam-FRAJ38000050Z.m3u8
 
-#Voyages et Gastronomie (7)
+#Voyages et Gastronomie (8)
 #EXTINF:-1 tvg-chno="843" tvg-id="FRBB3900001PZ" tvg-country="FR" group-title="Voyages et Gastronomie",843. Chefclub TV
 https://jmp2.uk/sam-FRBB3900001PZ.m3u8
 #EXTINF:-1 tvg-chno="845" tvg-id="FR34000032F" tvg-country="FR" group-title="Voyages et Gastronomie",845. Ça Chauffe en Cuisine
@@ -319,3 +317,5 @@ https://jmp2.uk/sam-FR3700004HZ.m3u8
 https://jmp2.uk/sam-FR1800004EP.m3u8
 #EXTINF:-1 tvg-chno="850" tvg-id="FRBC3500002E4" tvg-country="FR" group-title="Voyages et Gastronomie",850. Echappées belles & co
 https://jmp2.uk/sam-FRBC3500002E4.m3u8
+#EXTINF:-1 tvg-chno="1945" tvg-id="FR600001I2" tvg-country="FR" group-title="Voyages et Gastronomie",1945. Ailleurs - Destination Luxe
+https://jmp2.uk/sam-FR600001I2.m3u8
