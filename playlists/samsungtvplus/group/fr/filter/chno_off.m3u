@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 23/04/2025 06:22:33 CEST+0200
-#TOTAL: 147
+# Generated on: 24/04/2025 06:22:40 CEST+0200
+#TOTAL: 148
 
 #Actualités (10)
 #EXTINF:-1 tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20231213T034713SQUARE.png_20231213034713.png" tvg-country="FR" group-title="Actualités",BFM TV
@@ -17,7 +17,7 @@ https://jmp2.uk/sam-FR1800005X0.m3u8
 https://jmp2.uk/sam-FRBD4100006OC.m3u8
 #EXTINF:-1 tvg-id="FRBD4100010ZZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100010ZZ_20241015T042850SQUARE.png" tvg-country="FR" group-title="Actualités",Tech & Co
 https://jmp2.uk/sam-FRBD4100010ZZ.m3u8
-#EXTINF:-1 tvg-id="FRBD190001055" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD190001055_20250422T045314SQUARE.png" tvg-country="FR" group-title="Actualités",CNN FAST
+#EXTINF:-1 tvg-id="FRBD190001055" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD190001055_20250422T045314SQUARE.png" tvg-country="FR" group-title="Actualités",CNN Headlines
 https://jmp2.uk/sam-FRBD190001055.m3u8
 #EXTINF:-1 tvg-id="FRBD490000195" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD490000195_20241015T042818SQUARE.png" tvg-country="FR" group-title="Actualités",Reuters
 https://jmp2.uk/sam-FRBD490000195.m3u8
@@ -234,13 +234,11 @@ https://jmp2.uk/sam-FRBC900001LB.m3u8
 #EXTINF:-1 tvg-id="FRBA1500001G6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1500001G6_20241015T035913SQUARE.png" tvg-country="FR" group-title="Musique",Deluxe Lounge HD
 https://jmp2.uk/sam-FRBA1500001G6.m3u8
 
-#Sports (12)
+#Sports (13)
 #EXTINF:-1 tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20250415T020901SQUARE.png" tvg-country="FR" group-title="Sports",L'Equipe Live 1
 https://jmp2.uk/sam-FRBC4200004XH.m3u8
 #EXTINF:-1 tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" tvg-country="FR" group-title="Sports",L'Equipe Live 2
 https://jmp2.uk/sam-FRBC4200005X2.m3u8
-#EXTINF:-1 tvg-id="FR300007IY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20250422T045317SQUARE.png" tvg-country="FR" group-title="Sports",RMC TALK SPORT
-https://jmp2.uk/sam-FR300007IY.m3u8
 #EXTINF:-1 tvg-id="FRBA3300037Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300037Y7_20241015T040305SQUARE.png" tvg-country="FR" group-title="Sports",FIFA+
 https://jmp2.uk/sam-FRBA3300037Y7.m3u8
 #EXTINF:-1 tvg-id="FR300003ZB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png" tvg-country="FR" group-title="Sports",RMC MECANIC
@@ -259,6 +257,10 @@ https://jmp2.uk/sam-FRBA3300063FP.m3u8
 https://jmp2.uk/sam-FRBD2900001M3.m3u8
 #EXTINF:-1 tvg-id="FR5000002SW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR5000002SW_20250121T012942SQUARE.png" tvg-country="FR" group-title="Sports",Tennis Channel
 https://jmp2.uk/sam-FR5000002SW.m3u8
+#EXTINF:-1 tvg-id="FR200016Y5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR200016Y5_20250422T103213SQUARE.png" tvg-country="FR" group-title="Sports",L'Equipe
+https://jmp2.uk/sam-FR200016Y5.m3u8
+#EXTINF:-1 tvg-id="FR1100002RF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100002RF_20250422T045320SQUARE.png" tvg-country="FR" group-title="Sports",AFTER FOOT TV
+https://jmp2.uk/sam-FR1100002RF.m3u8
 
 #Séries TV (16)
 #EXTINF:-1 tvg-id="FRBD37000020Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20250415T020906SQUARE.png" tvg-country="FR" group-title="Séries TV",Plus belle la vie

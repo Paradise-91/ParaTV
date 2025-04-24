@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 10/04/2025 06:22:52 CEST+0200
-#TOTAL: 147
+# Generated on: 24/04/2025 06:22:40 CEST+0200
+#TOTAL: 148
 
 #Actualités (10)
 #EXTINF:-1 tvg-chno="706" tvg-id="FRBD410000783" tvg-country="FR" group-title="Actualités",706. BFM TV
@@ -17,7 +17,7 @@ https://jmp2.uk/sam-FR1800005X0.m3u8
 https://jmp2.uk/sam-FRBD4100006OC.m3u8
 #EXTINF:-1 tvg-chno="713" tvg-id="FRBD4100010ZZ" tvg-country="FR" group-title="Actualités",713. Tech & Co
 https://jmp2.uk/sam-FRBD4100010ZZ.m3u8
-#EXTINF:-1 tvg-chno="714" tvg-id="FRBD190001055" tvg-country="FR" group-title="Actualités",714. CNN FAST
+#EXTINF:-1 tvg-chno="714" tvg-id="FRBD190001055" tvg-country="FR" group-title="Actualités",714. CNN Headlines
 https://jmp2.uk/sam-FRBD190001055.m3u8
 #EXTINF:-1 tvg-chno="715" tvg-id="FRBD490000195" tvg-country="FR" group-title="Actualités",715. Reuters
 https://jmp2.uk/sam-FRBD490000195.m3u8
@@ -234,13 +234,11 @@ https://jmp2.uk/sam-FRBC900001LB.m3u8
 #EXTINF:-1 tvg-chno="810" tvg-id="FRBA1500001G6" tvg-country="FR" group-title="Musique",810. Deluxe Lounge HD
 https://jmp2.uk/sam-FRBA1500001G6.m3u8
 
-#Sports (12)
+#Sports (13)
 #EXTINF:-1 tvg-chno="811" tvg-id="FRBC4200004XH" tvg-country="FR" group-title="Sports",811. L'Equipe Live 1
 https://jmp2.uk/sam-FRBC4200004XH.m3u8
 #EXTINF:-1 tvg-chno="812" tvg-id="FRBC4200005X2" tvg-country="FR" group-title="Sports",812. L'Equipe Live 2
 https://jmp2.uk/sam-FRBC4200005X2.m3u8
-#EXTINF:-1 tvg-chno="813" tvg-id="FR300007IY" tvg-country="FR" group-title="Sports",813. RMC TALK SPORT
-https://jmp2.uk/sam-FR300007IY.m3u8
 #EXTINF:-1 tvg-chno="814" tvg-id="FRBA3300037Y7" tvg-country="FR" group-title="Sports",814. FIFA+
 https://jmp2.uk/sam-FRBA3300037Y7.m3u8
 #EXTINF:-1 tvg-chno="815" tvg-id="FR300003ZB" tvg-country="FR" group-title="Sports",815. RMC MECANIC
@@ -259,6 +257,10 @@ https://jmp2.uk/sam-FRBA3300063FP.m3u8
 https://jmp2.uk/sam-FRBD2900001M3.m3u8
 #EXTINF:-1 tvg-chno="1867" tvg-id="FR5000002SW" tvg-country="FR" group-title="Sports",1867. Tennis Channel
 https://jmp2.uk/sam-FR5000002SW.m3u8
+#EXTINF:-1 tvg-chno="2028" tvg-id="FR200016Y5" tvg-country="FR" group-title="Sports",2028. L'Equipe
+https://jmp2.uk/sam-FR200016Y5.m3u8
+#EXTINF:-1 tvg-chno="2029" tvg-id="FR1100002RF" tvg-country="FR" group-title="Sports",2029. AFTER FOOT TV
+https://jmp2.uk/sam-FR1100002RF.m3u8
 
 #Séries TV (16)
 #EXTINF:-1 tvg-chno="823" tvg-id="FRBD37000020Y" tvg-country="FR" group-title="Séries TV",823. Plus belle la vie

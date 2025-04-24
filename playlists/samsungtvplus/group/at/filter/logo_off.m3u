@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 10/04/2025 06:22:52 CEST+0200
-#TOTAL: 113
+# Generated on: 24/04/2025 06:22:40 CEST+0200
+#TOTAL: 117
 
 #Anime (4)
 #EXTINF:-1 tvg-chno="1" tvg-id="ATBD390000167" tvg-country="AT" group-title="Anime",1. Aniverse TV
@@ -16,11 +16,13 @@ https://jmp2.uk/sam-AT70000595.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="ATBD2600009FE" tvg-country="AT" group-title="Auto & Motor",5. More than Sports TV
 https://jmp2.uk/sam-ATBD2600009FE.m3u8
 
-#Crime (2)
+#Crime (3)
 #EXTINF:-1 tvg-chno="6" tvg-id="AT260000634" tvg-country="AT" group-title="Crime",6. Crime Serien - Rakuten TV
 https://jmp2.uk/sam-AT260000634.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="ATBA33000270C" tvg-country="AT" group-title="Crime",7. Top Serien
 https://jmp2.uk/sam-ATBA33000270C.m3u8
+#EXTINF:-1 tvg-chno="2015" tvg-id="AT15000015I" tvg-country="AT" group-title="Crime",2015. KultKrimi
+https://jmp2.uk/sam-AT15000015I.m3u8
 
 #Dokus & Wissen (16)
 #EXTINF:-1 tvg-chno="8" tvg-id="ATBC3900001W3" tvg-country="AT" group-title="Dokus & Wissen",8. The Wicked Tuna Channel
@@ -56,7 +58,7 @@ https://jmp2.uk/sam-AT4600002H5.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="ATAK3504500A" tvg-country="AT" group-title="Dokus & Wissen",23. Pluto TV Animals
 https://jmp2.uk/sam-ATAK3504500A.m3u8
 
-#Entertainment (17)
+#Entertainment (18)
 #EXTINF:-1 tvg-chno="25" tvg-id="ATBD2600001QK" tvg-country="AT" group-title="Entertainment",25. Hell's Kitchen
 https://jmp2.uk/sam-ATBD2600001QK.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="ATAJ7000105F" tvg-country="AT" group-title="Entertainment",26. MTV Teen Mom
@@ -91,6 +93,8 @@ https://jmp2.uk/sam-AT26000086D.m3u8
 https://jmp2.uk/sam-AT4500001S1.m3u8
 #EXTINF:-1 tvg-chno="1963" tvg-id="AT80000194" tvg-country="AT" group-title="Entertainment",1963. H2O & Friends
 https://jmp2.uk/sam-AT80000194.m3u8
+#EXTINF:-1 tvg-chno="2016" tvg-id="AT48000012I" tvg-country="AT" group-title="Entertainment",2016. Hochzeit auf den ersten Blick
+https://jmp2.uk/sam-AT48000012I.m3u8
 
 #Filme (23)
 #EXTINF:-1 tvg-chno="41" tvg-id="ATBA330002946" tvg-country="AT" group-title="Filme",41. Moviedome Family
@@ -193,7 +197,7 @@ https://jmp2.uk/sam-ATAJ0500413A.m3u8
 #News (7)
 #EXTINF:-1 tvg-chno="86" tvg-id="ATBD800001VA" tvg-country="AT" group-title="News",86. CNN
 https://jmp2.uk/sam-ATBD800001VA.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="ATBD190000101" tvg-country="AT" group-title="News",87. CNN FAST
+#EXTINF:-1 tvg-chno="87" tvg-id="ATBD190000101" tvg-country="AT" group-title="News",87. CNN Headlines
 https://jmp2.uk/sam-ATBD190000101.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="ATBD1100002TA" tvg-country="AT" group-title="News",88. FRANCE 24 FAST
 https://jmp2.uk/sam-ATBD1100002TA.m3u8
@@ -206,7 +210,7 @@ https://jmp2.uk/sam-AT2600002KW.m3u8
 #EXTINF:-1 tvg-chno="1936" tvg-id="ATAJ0500445A" tvg-country="AT" group-title="News",1936. SPIEGEL TV
 https://jmp2.uk/sam-ATAJ0500445A.m3u8
 
-#Serien (11)
+#Serien (13)
 #EXTINF:-1 tvg-chno="92" tvg-id="ATBD2600008HN" tvg-country="AT" group-title="Serien",92. Baywatch
 https://jmp2.uk/sam-ATBD2600008HN.m3u8
 #EXTINF:-1 tvg-chno="93" tvg-id="AT3700002Z3" tvg-country="AT" group-title="Serien",93. Heartland
@@ -229,6 +233,10 @@ https://jmp2.uk/sam-AT3300001K9.m3u8
 https://jmp2.uk/sam-AT4600003EY.m3u8
 #EXTINF:-1 tvg-chno="1919" tvg-id="AT4800002G5" tvg-country="AT" group-title="Serien",1919. Hudson & Rex
 https://jmp2.uk/sam-AT4800002G5.m3u8
+#EXTINF:-1 tvg-chno="2017" tvg-id="AT1500003M7" tvg-country="AT" group-title="Serien",2017. Herzfrequenz
+https://jmp2.uk/sam-AT1500003M7.m3u8
+#EXTINF:-1 tvg-chno="2018" tvg-id="AT1500002N1" tvg-country="AT" group-title="Serien",2018. Telenovela ZDF
+https://jmp2.uk/sam-AT1500002N1.m3u8
 
 #Sport (11)
 #EXTINF:-1 tvg-chno="101" tvg-id="ATBA2200008XN" tvg-country="AT" group-title="Sport",101. Tennis Channel
