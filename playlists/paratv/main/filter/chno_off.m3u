@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 15/05/2025 06:22:54 CEST+0200
+# Generated on: 18/05/2025 16:25:11 CEST+0200
 
 #FRANCE (31)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -111,7 +111,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equi
 #EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 7 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-7-dm.m3u8
 
-#FRANCE.TV (11)
+#FRANCE.TV (12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 epg-s="4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
@@ -142,6 +142,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="FRANCE.TV",France TV Séries [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5hD0HHg.png" tvg-country="FR" group-title="FRANCE.TV",TV du Festival de Cannes [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-de-cannes.m3u8
 
 #CANALPLUS (4)
 #EXTINF:-1 epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="CANALPLUS",CANAL+ EN CLAIR [1080p-canalplus.com]
