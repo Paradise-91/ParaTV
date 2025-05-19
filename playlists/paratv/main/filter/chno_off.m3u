@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 19/05/2025 16:25:11 CEST+0200
+# Generated on: 19/05/2025 18:25:11 CEST+0200
 
 #FRANCE (31)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -233,7 +233,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 #EXTINF:-1 epg-s="1943" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
-#TF1PLUS (69)
+#TF1PLUS (67)
 #EXTINF:-1 epg-s="192" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 epg-s="195" tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -304,12 +304,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/baltha
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/section-de-recherches.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-alice-nevers-0451f1-686ee2-0@3x.png" tvg-country="FR" group-title="TF1PLUS",ALICE NEVERS [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/alice-nevers.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-fast-taken-f26f13-74547f-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TAKEN TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/taken.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream-nashville-489ef1-a17beb-0@3x.png" tvg-country="FR" group-title="TF1PLUS",NASHVILLE TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/nashville.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-7d42f9-deacac-0@3x.png" tvg-country="FR" group-title="TF1PLUS",HARTLEY, COEUR À VIF [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/hartley-coeur-a-vif.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-0459fa-580b38-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LE DESTIN DE LISA TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-destin-de-lisa.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream-naruto-4dda81-03df71-0@3x.png" tvg-country="FR" group-title="TF1PLUS",NARUTO TV [720p-tf1.fr]
@@ -338,6 +332,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/danse-
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-clans.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-165684-6d3792-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LOLYWOOD TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lolywood.m3u8
+#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-4d1f7c-ec88f2-0@3x.png" tvg-country="FR" group-title="TF1PLUS",USHUAIA FOR CHANGE [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-plus-belles-vacances-7154d5-d66cad-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LES PLUS BELLES VACANCES [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cap-sur-les-vacances.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-secret-story-3935ed-01c0f2-0@3x.png" tvg-country="FR" group-title="TF1PLUS",SECRET STORY  [720p-tf1.fr]
