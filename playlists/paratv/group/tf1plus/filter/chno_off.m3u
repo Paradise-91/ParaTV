@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 10/04/2025 01:25:11 CEST+0200
+# Generated on: 19/05/2025 16:25:11 CEST+0200
 
-#TF1PLUS (70)
+#TF1PLUS (69)
 #EXTINF:-1 epg-s="192" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 epg-s="195" tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -106,8 +106,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/danse-
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-clans.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-165684-6d3792-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LOLYWOOD TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lolywood.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-4d1f7c-ec88f2-0@3x.png" tvg-country="FR" group-title="TF1PLUS",USHUAIA FOR CHANGE [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-plus-belles-vacances-7154d5-d66cad-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LES PLUS BELLES VACANCES [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cap-sur-les-vacances.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-secret-story-3935ed-01c0f2-0@3x.png" tvg-country="FR" group-title="TF1PLUS",SECRET STORY  [720p-tf1.fr]
