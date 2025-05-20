@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 20/05/2025 07:25:11 CEST+0200
+# Generated on: 20/05/2025 10:25:12 CEST+0200
 
 #FRANCE (31)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -233,7 +233,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 #EXTINF:-1 group-title="FRANCE3-REGIONS",France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
-#TF1PLUS (59)
+#TF1PLUS (61)
 #EXTINF:-1 group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -260,6 +260,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/plus-b
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/police-fiction.m3u8
 #EXTINF:-1 group-title="TF1PLUS",SAGA DE L'ÉTÉ TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/saga-de-lete.m3u8
+#EXTINF:-1 group-title="TF1PLUS",SECONDE CHANCE [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/seconde-chance.m3u8
 #EXTINF:-1 group-title="TF1PLUS",PAS DE SECRET ENTRE NOUS [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/pas-de-ca-entre-nous.m3u8
 #EXTINF:-1 group-title="TF1PLUS",CHANTE ! [720p-tf1.fr]
@@ -328,6 +330,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuai
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/garder-son-secret-a-tout-prix.m3u8
 #EXTINF:-1 group-title="TF1PLUS",MASK SINGER [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/revivez-lintegral-mask-singer.m3u8
+#EXTINF:-1 group-title="TF1PLUS",SUPER NANNY [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/super-nanny.m3u8
 #EXTINF:-1 group-title="TF1PLUS",BABY BOOM [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/baby-boom.m3u8
 #EXTINF:-1 group-title="TF1PLUS",LES ENFOIRÉS  [720p-tf1.fr]
