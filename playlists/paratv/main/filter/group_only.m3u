@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 22/05/2025 16:25:12 CEST+0200
+# Generated on: 22/05/2025 18:25:11 CEST+0200
 
 #FRANCE (31)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -235,7 +235,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 #EXTINF:-1 group-title="FRANCE3-REGIONS",France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
-#TF1PLUS (59)
+#TF1PLUS (64)
 #EXTINF:-1 group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -258,6 +258,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/demain
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ici-tout-commence.m3u8
 #EXTINF:-1 group-title="TF1PLUS",PLUS BELLE LA VIE [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/plus-belle-la-vie.m3u8
+#EXTINF:-1 group-title="TF1PLUS",POLAR FICTION TV [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/police-fiction.m3u8
+#EXTINF:-1 group-title="TF1PLUS",COMÉDIE FICTION [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/comedie-fiction.m3u8
 #EXTINF:-1 group-title="TF1PLUS",SAGA DE L'ÉTÉ TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/saga-de-lete.m3u8
 #EXTINF:-1 group-title="TF1PLUS",SECONDE CHANCE [720p-tf1.fr]
@@ -310,10 +314,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boruto
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/palmashow.m3u8
 #EXTINF:-1 group-title="TF1PLUS",MAMANS & CÉLÈBRES TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/mamans-and-celebres.m3u8
+#EXTINF:-1 group-title="TF1PLUS",STAR ACADEMY TV [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/star-academy.m3u8
+#EXTINF:-1 group-title="TF1PLUS",LA VILLA DES CŒURS BRISÉS TV [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-villa-des-coeurs-brises.m3u8
 #EXTINF:-1 group-title="TF1PLUS",LA BATAILLE DES COUPLES TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-couples.m3u8
 #EXTINF:-1 group-title="TF1PLUS",FRANÇOIS DAMIENS TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/francois-lembrouille.m3u8
+#EXTINF:-1 group-title="TF1PLUS",LES INCONNUS TV [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-inconnus.m3u8
 #EXTINF:-1 group-title="TF1PLUS",DANSE AVEC LES STARS TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/danse-avec-les-stars.m3u8
 #EXTINF:-1 group-title="TF1PLUS",LA BATAILLE DES CLANS TV [720p-tf1.fr]
