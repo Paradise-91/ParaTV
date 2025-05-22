@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 22/05/2025 10:25:11 CEST+0200
+# Generated on: 22/05/2025 16:25:12 CEST+0200
 
 #FRANCE (31)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -235,7 +235,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 #EXTINF:-1 epg-s="1943" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE3-REGIONS",France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
-#TF1PLUS (60)
+#TF1PLUS (59)
 #EXTINF:-1 epg-s="192" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 epg-s="195" tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -266,8 +266,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/second
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/pas-de-ca-entre-nous.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-371b4d-4d7da3-0@3x.png" tvg-country="FR" group-title="TF1PLUS",CHANTE ! [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/chante.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-fast-pour-toujours-plus-un-jour-e7cb1a-2677e2-0@3x.png" tvg-country="FR" group-title="TF1PLUS",POUR TOUJOURS PLUS UN JOUR TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/pour-toujours-plus-un-jour.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-960c76-d09a88-0@3x.png" tvg-country="FR" group-title="TF1PLUS",SOUS LE SOLEIL [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/sous-le-soleil.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-ris-police-scientifique-16db49-4d02b0-0@3x.png" tvg-country="FR" group-title="TF1PLUS",RIS POLICE SCIENTIFIQUE TV [720p-tf1.fr]
@@ -312,8 +310,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boruto
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/palmashow.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-mamans-et-celebres-b0e78f-a3c532-0@3x.png" tvg-country="FR" group-title="TF1PLUS",MAMANS & CÉLÈBRES TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/mamans-and-celebres.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-bc533b-f33ff6-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LA VILLA DES CŒURS BRISÉS TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-villa-des-coeurs-brises.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-labatailled-2f6385-d0cf91-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LA BATAILLE DES COUPLES TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-couples.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-cameras-cachees-de-francois-damiens-515de2-b7e46f-0@3x.png" tvg-country="FR" group-title="TF1PLUS",FRANÇOIS DAMIENS TV [720p-tf1.fr]
@@ -356,6 +352,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-mar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cry-babies-bff.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-cedric-ee871b-db9831-0@3x.png" tvg-country="FR" group-title="TF1PLUS",CÉDRIC  [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cedric.m3u8
+#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-mysteres-de-lamour-e63842-990843-0@3x.png" tvg-country="FR" group-title="TF1PLUS",LES MYSTÈRES DE L'AMOUR [720p-tf1.fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-mysteres-de-lamour.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tM9y14c.png" tvg-country="FR" group-title="EQUIDIA",LE GRAND DIRECT [1080p-equidia.fr]
