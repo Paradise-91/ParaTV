@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 21/05/2025 19:25:11 CEST+0200
+# Generated on: 25/05/2025 18:25:11 CEST+0200
 
-#FRANCE.TV (31)
+#FRANCE.TV (30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",100. France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
@@ -34,9 +34,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/5wuO2ZC.png" tvg-country="FR" group-title="FRANCE.TV",108. INA [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/ina.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="109" tvg-logo="https://i.imgur.com/5hD0HHg.png" tvg-country="FR" group-title="FRANCE.TV",109. TV du Festival de Cannes [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-de-cannes.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="503" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" tvg-country="FR" group-title="FRANCE.TV",503. ROLAND-GARROS [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg/rg.m3u8
