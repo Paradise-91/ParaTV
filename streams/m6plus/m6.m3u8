@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100" tvg-country="FR",M6 [OFFLINE]
-https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100" tvg-country="FR",M6 [FHD Kodi Online]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
 
-#Last refreshed on 02/07/2024 03:20:00 CET
+#Last refreshed on 01/06/2025 02:37:00 CET
