@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 21/05/2025 06:22:37 CEST+0200
+# Generated on: 05/06/2025 06:22:43 CEST+0200
 #TOTAL: 127
 
 #뉴스 (7)
@@ -18,7 +18,7 @@ https://jmp2.uk/sam-KRBB500044GP.m3u8
 #EXTINF:-1 tvg-chno="1327" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20250402T010038SQUARE.png" tvg-country="KR" group-title="뉴스",1327. 글로벌 뉴스 by LeadStory
 https://jmp2.uk/sam-KRBD3100006X4.m3u8
 
-#드라마 (23)
+#드라마 (22)
 #EXTINF:-1 tvg-chno="1328" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20250514T082401SQUARE.png" tvg-country="KR" group-title="드라마",1328. SBS 야인시대
 https://jmp2.uk/sam-KRBB42000061Z.m3u8
 #EXTINF:-1 tvg-chno="1329" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20250514T082310SQUARE.png" tvg-country="KR" group-title="드라마",1329. SBS 올인
@@ -37,8 +37,6 @@ https://jmp2.uk/sam-KRBC3200018FU.m3u8
 https://jmp2.uk/sam-KRBC320002200.m3u8
 #EXTINF:-1 tvg-chno="1337" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20250514T082426SQUARE.png" tvg-country="KR" group-title="드라마",1337. KBS 태종 이방원
 https://jmp2.uk/sam-KR7000023Z.m3u8
-#EXTINF:-1 tvg-chno="1338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20250514T082330SQUARE.png" tvg-country="KR" group-title="드라마",1338. Animax 요리왕 비룡 더 마스터
-https://jmp2.uk/sam-KRBC3200001VC.m3u8
 #EXTINF:-1 tvg-chno="1339" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20250514T082312SQUARE.png" tvg-country="KR" group-title="드라마",1339. SBS 피고인
 https://jmp2.uk/sam-KRBB420000180.m3u8
 #EXTINF:-1 tvg-chno="1340" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20250514T082413SQUARE.png" tvg-country="KR" group-title="드라마",1340. JTBC 라이프
@@ -122,7 +120,9 @@ https://jmp2.uk/sam-KRBB420000769.m3u8
 #EXTINF:-1 tvg-chno="1369" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20250402T010517SQUARE.png" tvg-country="KR" group-title="시사/교양",1369. TED
 https://jmp2.uk/sam-KRBD370000134.m3u8
 
-#어린이 (9)
+#어린이 (10)
+#EXTINF:-1 tvg-chno="1338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20250604T010127SQUARE.png" tvg-country="KR" group-title="어린이",1338. Animax 요리왕 비룡 더 마스터
+https://jmp2.uk/sam-KRBC3200001VC.m3u8
 #EXTINF:-1 tvg-chno="1370" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20250402T010131SQUARE.png" tvg-country="KR" group-title="어린이",1370. 투니버스 명탐정 코난 (자막)
 https://jmp2.uk/sam-KRBC32000200B.m3u8
 #EXTINF:-1 tvg-chno="1372" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20250514T082325SQUARE.png" tvg-country="KR" group-title="어린이",1372. 포켓몬
