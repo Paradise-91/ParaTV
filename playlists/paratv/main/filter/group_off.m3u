@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 06/06/2025 15:53:14 CEST+0200
+# Generated on: 07/06/2025 01:25:11 CEST+0200
 
 #FRANCE (32)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p-tf1.fr]
@@ -234,7 +234,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 #EXTINF:-1 tvg-chno="174" epg-s="1943" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg?h=100",174. France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
-#TF1PLUS (64)
+#TF1PLUS (63)
 #EXTINF:-1 tvg-chno="200" epg-s="192" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png",200. TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-chno="201" epg-s="195" tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png",201. TMC [720p-tf1.fr]
@@ -287,81 +287,79 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/joseph
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/famille-daccueil.m3u8
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_lbr-0a833f-37c3e7-0@3x.png",225. LES BRACELETS ROUGES [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-bracelets-rouges.m3u8
-#EXTINF:-1 tvg-chno="226" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_sam-5664dd-7a4b43-0@3x.png",226. SAM [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/sam.m3u8
-#EXTINF:-1 tvg-chno="227" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-je-te-promets-246c34-760664-0@3x.png",227. JE TE PROMETS [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="226" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-je-te-promets-246c34-760664-0@3x.png",226. JE TE PROMETS [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/je-te-promets.m3u8
-#EXTINF:-1 tvg-chno="228" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-profilage-af3bcc-7fdef7-0@3x.png",228. PROFILAGE [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="227" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-profilage-af3bcc-7fdef7-0@3x.png",227. PROFILAGE [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/profilage.m3u8
-#EXTINF:-1 tvg-chno="229" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-leo-mattei-e7a386-c50487-0@3x.png",229. LÉO MATTÉÏ  [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="228" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-leo-mattei-e7a386-c50487-0@3x.png",228. LÉO MATTÉÏ  [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/leo-mattei.m3u8
-#EXTINF:-1 tvg-chno="230" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-balthazar-eed798-6480da-0@3x.png",230. BALTHAZAR [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="229" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-balthazar-eed798-6480da-0@3x.png",229. BALTHAZAR [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/balthazar.m3u8
-#EXTINF:-1 tvg-chno="231" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-section-de-recherches-1a364c-5bb6da-0@3x.png",231. SECTION DE RECHERCHES [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="230" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-section-de-recherches-1a364c-5bb6da-0@3x.png",230. SECTION DE RECHERCHES [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/section-de-recherches.m3u8
-#EXTINF:-1 tvg-chno="232" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-alice-nevers-0451f1-686ee2-0@3x.png",232. ALICE NEVERS [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-alice-nevers-0451f1-686ee2-0@3x.png",231. ALICE NEVERS [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/alice-nevers.m3u8
-#EXTINF:-1 tvg-chno="233" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-0459fa-580b38-0@3x.png",233. LE DESTIN DE LISA TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="232" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-0459fa-580b38-0@3x.png",232. LE DESTIN DE LISA TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-destin-de-lisa.m3u8
-#EXTINF:-1 tvg-chno="234" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream-naruto-4dda81-03df71-0@3x.png",234. NARUTO TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="233" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream-naruto-4dda81-03df71-0@3x.png",233. NARUTO TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/naruto.m3u8
-#EXTINF:-1 tvg-chno="235" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream-inazuma-eleven-b7d76c-91d3d0-0@3x.png",235. INAZUMA ELEVEN TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="234" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream-inazuma-eleven-b7d76c-91d3d0-0@3x.png",234. INAZUMA ELEVEN TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/inazuma-eleven.m3u8
-#EXTINF:-1 tvg-chno="236" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-boruto-44610c-3dd03d-0@3x.png",236. BORUTO: NARUTO NEXT GEN TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="235" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-boruto-44610c-3dd03d-0@3x.png",235. BORUTO: NARUTO NEXT GEN TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boruto-naruto-next-generatio.m3u8
-#EXTINF:-1 tvg-chno="237" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-bac96b-1b1dc5-0@3x.png",237. PALMASHOW TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-bac96b-1b1dc5-0@3x.png",236. PALMASHOW TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/palmashow.m3u8
-#EXTINF:-1 tvg-chno="238" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-mamans-et-celebres-b0e78f-a3c532-0@3x.png",238. MAMANS & CÉLÈBRES TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="237" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-mamans-et-celebres-b0e78f-a3c532-0@3x.png",237. MAMANS & CÉLÈBRES TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/mamans-and-celebres.m3u8
-#EXTINF:-1 tvg-chno="239" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-99432b-475c46-0@3x.png",239. STAR ACADEMY TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="238" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-99432b-475c46-0@3x.png",238. STAR ACADEMY TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/star-academy.m3u8
-#EXTINF:-1 tvg-chno="240" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-bc533b-f33ff6-0@3x.png",240. LA VILLA DES CŒURS BRISÉS TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-bc533b-f33ff6-0@3x.png",239. LA VILLA DES CŒURS BRISÉS TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-villa-des-coeurs-brises.m3u8
-#EXTINF:-1 tvg-chno="241" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-labatailled-2f6385-d0cf91-0@3x.png",241. LA BATAILLE DES COUPLES TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="240" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-labatailled-2f6385-d0cf91-0@3x.png",240. LA BATAILLE DES COUPLES TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-couples.m3u8
-#EXTINF:-1 tvg-chno="242" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-cameras-cachees-de-francois-damiens-515de2-b7e46f-0@3x.png",242. FRANÇOIS DAMIENS TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="241" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-cameras-cachees-de-francois-damiens-515de2-b7e46f-0@3x.png",241. FRANÇOIS DAMIENS TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/francois-lembrouille.m3u8
-#EXTINF:-1 tvg-chno="243" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-inconnus-78e128-170478-0@3x.png",243. LES INCONNUS TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="242" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-inconnus-78e128-170478-0@3x.png",242. LES INCONNUS TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-inconnus.m3u8
-#EXTINF:-1 tvg-chno="244" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream_dals-cef0f9-cb74d2-0@3x.png",244. DANSE AVEC LES STARS TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream_dals-cef0f9-cb74d2-0@3x.png",243. DANSE AVEC LES STARS TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/danse-avec-les-stars.m3u8
-#EXTINF:-1 tvg-chno="245" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-la-bataille-des-clans-789f56-de9c38-0@3x.png",245. LA BATAILLE DES CLANS TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="244" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-la-bataille-des-clans-789f56-de9c38-0@3x.png",244. LA BATAILLE DES CLANS TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-clans.m3u8
-#EXTINF:-1 tvg-chno="246" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-165684-6d3792-0@3x.png",246. LOLYWOOD TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="245" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-165684-6d3792-0@3x.png",245. LOLYWOOD TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lolywood.m3u8
-#EXTINF:-1 tvg-chno="247" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-4d1f7c-ec88f2-0@3x.png",247. USHUAIA FOR CHANGE [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="246" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-4d1f7c-ec88f2-0@3x.png",246. USHUAIA FOR CHANGE [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
-#EXTINF:-1 tvg-chno="248" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-secret-story-3935ed-01c0f2-0@3x.png",248. SECRET STORY  [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-secret-story-3935ed-01c0f2-0@3x.png",247. SECRET STORY  [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/garder-son-secret-a-tout-prix.m3u8
-#EXTINF:-1 tvg-chno="249" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-mask-singer-57b73b-404787-0@3x.png",249. MASK SINGER [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-mask-singer-57b73b-404787-0@3x.png",248. MASK SINGER [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/revivez-lintegral-mask-singer.m3u8
-#EXTINF:-1 tvg-chno="250" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-super-nanny-86e3c9-bb2632-0@3x.png",250. SUPER NANNY [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="249" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-super-nanny-86e3c9-bb2632-0@3x.png",249. SUPER NANNY [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/super-nanny.m3u8
-#EXTINF:-1 tvg-chno="251" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-babyboom-ddea8c-95510d-0@3x.png",251. BABY BOOM [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="250" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-babyboom-ddea8c-95510d-0@3x.png",250. BABY BOOM [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/baby-boom.m3u8
-#EXTINF:-1 tvg-chno="252" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-b6b3e2-34c903-0@3x.png",252. LES ENFOIRÉS  [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="251" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-b6b3e2-34c903-0@3x.png",251. LES ENFOIRÉS  [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-enfoires.m3u8
-#EXTINF:-1 tvg-chno="253" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-08064c-779091-0@3x.png",253. LES RESTOS DU CŒUR [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="252" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-08064c-779091-0@3x.png",252. LES RESTOS DU CŒUR [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-restos-du-coeur.m3u8
-#EXTINF:-1 tvg-chno="254" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-boule-et-bill-a7e70a-68f2cc-0@3x.png",254. BOULE ET BILL TV [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-boule-et-bill-a7e70a-68f2cc-0@3x.png",253. BOULE ET BILL TV [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boule-et-bill.m3u8
-#EXTINF:-1 tvg-chno="255" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-pyjamasque-6af50e-cf5c18-0@3x.png",255. PYJAMASQUES [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="254" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-pyjamasque-6af50e-cf5c18-0@3x.png",254. PYJAMASQUES [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-pyjamasques.m3u8
-#EXTINF:-1 tvg-chno="256" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-robocar-e4bb28-3f1b6b-0@3x.png",256. MIGHTY EXPRESS [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="255" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-robocar-e4bb28-3f1b6b-0@3x.png",255. MIGHTY EXPRESS [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/mighty-express.m3u8
-#EXTINF:-1 tvg-chno="257" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-robocar-66f013-737b21-0@3x.png",257. ROBOCARPOLI [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="256" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-robocar-66f013-737b21-0@3x.png",256. ROBOCARPOLI [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/robocarpoli.m3u8
-#EXTINF:-1 tvg-chno="258" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-milo-88cf4f-b2ee4f-0@3x.png",258. MILO [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="257" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-milo-88cf4f-b2ee4f-0@3x.png",257. MILO [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/milo.m3u8
-#EXTINF:-1 tvg-chno="259" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-schtroumpfs-vintage-8d444d-124c67-0@3x.png",259. LES SCHTROUMPFS  [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="258" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-schtroumpfs-vintage-8d444d-124c67-0@3x.png",258. LES SCHTROUMPFS  [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-schtroumpfs.m3u8
-#EXTINF:-1 tvg-chno="260" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-marsupilami-4e1bdb-b9623e-0@3x.png",260. LE MARSUPILAMI [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="259" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-marsupilami-4e1bdb-b9623e-0@3x.png",259. LE MARSUPILAMI [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-marsupilami.m3u8
-#EXTINF:-1 tvg-chno="261" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-cry-babies-bff-b985e5-908f56-0@3x.png",261. CRY BABIES BFF [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="260" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-cry-babies-bff-b985e5-908f56-0@3x.png",260. CRY BABIES BFF [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cry-babies-bff.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-cedric-ee871b-db9831-0@3x.png",262. CÉDRIC  [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="261" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-cedric-ee871b-db9831-0@3x.png",261. CÉDRIC  [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cedric.m3u8
-#EXTINF:-1 tvg-chno="263" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-mysteres-de-lamour-e63842-990843-0@3x.png",263. LES MYSTÈRES DE L'AMOUR [720p-tf1.fr]
+#EXTINF:-1 tvg-chno="262" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-mysteres-de-lamour-e63842-990843-0@3x.png",262. LES MYSTÈRES DE L'AMOUR [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-mysteres-de-lamour.m3u8
 
 #EQUIDIA (28)

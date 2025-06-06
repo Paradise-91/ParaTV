@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 06/06/2025 15:53:14 CEST+0200
+# Generated on: 07/06/2025 01:25:11 CEST+0200
 
 #FRANCE (32)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -234,7 +234,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regio
 #EXTINF:-1 group-title="FRANCE3-REGIONS",France 3 Provence-Alpes [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
 
-#TF1PLUS (64)
+#TF1PLUS (63)
 #EXTINF:-1 group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -287,8 +287,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/joseph
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/famille-daccueil.m3u8
 #EXTINF:-1 group-title="TF1PLUS",LES BRACELETS ROUGES [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-bracelets-rouges.m3u8
-#EXTINF:-1 group-title="TF1PLUS",SAM [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/sam.m3u8
 #EXTINF:-1 group-title="TF1PLUS",JE TE PROMETS [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/je-te-promets.m3u8
 #EXTINF:-1 group-title="TF1PLUS",PROFILAGE [720p-tf1.fr]
