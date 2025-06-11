@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 11/06/2025 06:23:37 CEST+0200
+# Generated on: 11/06/2025 19:25:11 CEST+0200
 
 #FRANCE (33)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p-tf1.fr]
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="8" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100",8. LCP [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcpps.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="LCP100.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100",51. LCP-AN [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="51" tvg-id="LCP100.fr" tvg-logo="https://i.imgur.com/WK7fvqD.png",51. LCP-AN [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="PublicSenat2424.fr" epg-s="2013" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100",43. Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
