@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 11/06/2025 06:23:27 CEST+0200
-#TOTAL: 179
+# Generated on: 12/06/2025 06:22:43 CEST+0200
+#TOTAL: 178
 
-#Crime (8)
+#Crime (9)
 #EXTINF:-1 tvg-chno="851" tvg-id="GBBD3700001AB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3700001AB_20250211T013910SQUARE.png" tvg-country="GB" group-title="Crime",851. DATELINE 24/7
 https://jmp2.uk/sam-GBBD3700001AB.m3u8
 #EXTINF:-1 tvg-chno="852" tvg-id="GBBA3300038UZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300038UZ_20250107T030700SQUARE.png" tvg-country="GB" group-title="Crime",852. Homicide Hunter
@@ -19,8 +19,10 @@ https://jmp2.uk/sam-GBBD260000189.m3u8
 https://jmp2.uk/sam-GBAK3504516A.m3u8
 #EXTINF:-1 tvg-chno="858" tvg-id="GBAK3504518A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504518A_20250107T022641SQUARE.png" tvg-country="GB" group-title="Crime",858. Pluto TV Inside
 https://jmp2.uk/sam-GBAK3504518A.m3u8
+#EXTINF:-1 tvg-chno="875" tvg-id="GBBD4100006KV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20250610T011248SQUARE.png" tvg-country="GB" group-title="Crime",875. Born to Kill
+https://jmp2.uk/sam-GBBD4100006KV.m3u8
 
-#Documentaries (30)
+#Documentaries (29)
 #EXTINF:-1 tvg-chno="859" tvg-id="GBAK3504500A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20250107T022508SQUARE.png" tvg-country="GB" group-title="Documentaries",859. 5 Cops
 https://jmp2.uk/sam-GBAK3504500A.m3u8
 #EXTINF:-1 tvg-chno="860" tvg-id="GBAK3504501A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504501A_20250107T022511SQUARE.png" tvg-country="GB" group-title="Documentaries",860. 5 Exploring Britain
@@ -49,8 +51,6 @@ https://jmp2.uk/sam-GB500001HY.m3u8
 https://jmp2.uk/sam-GB1200002ON.m3u8
 #EXTINF:-1 tvg-chno="873" tvg-id="GB27000089Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB27000089Z_20250107T030702SQUARE.png" tvg-country="GB" group-title="Documentaries",873. I Survived
 https://jmp2.uk/sam-GB27000089Z.m3u8
-#EXTINF:-1 tvg-chno="875" tvg-id="GBBD4100006KV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20250610T011248SQUARE.png" tvg-country="GB" group-title="Documentaries",875. Autopsy
-https://jmp2.uk/sam-GBBD4100006KV.m3u8
 #EXTINF:-1 tvg-chno="876" tvg-id="GBBD3100001A8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100001A8_20250107T030825SQUARE.png" tvg-country="GB" group-title="Documentaries",876. U&Transport
 https://jmp2.uk/sam-GBBD3100001A8.m3u8
 #EXTINF:-1 tvg-chno="877" tvg-id="GBBD3100004OI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100004OI_20250107T030822SQUARE.png" tvg-country="GB" group-title="Documentaries",877. U&The Past
@@ -142,7 +142,7 @@ https://jmp2.uk/sam-GBAJ49000197P.m3u8
 #EXTINF:-1 tvg-chno="918" tvg-id="GB400003BM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB400003BM_20250107T030705SQUARE.png" tvg-country="GB" group-title="Food & Travel",918. INTRAVEL
 https://jmp2.uk/sam-GB400003BM.m3u8
 
-#Kids (20)
+#Kids (19)
 #EXTINF:-1 tvg-chno="919" tvg-id="GBBD3200003T6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png" tvg-country="GB" group-title="Kids",919. Tiny POP
 https://jmp2.uk/sam-GBBD3200003T6.m3u8
 #EXTINF:-1 tvg-chno="920" tvg-id="GB430000144" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB430000144_20250107T031148SQUARE.png" tvg-country="GB" group-title="Kids",920. LooLoo Kids
@@ -167,8 +167,6 @@ https://jmp2.uk/sam-GBBC4300005AL.m3u8
 https://jmp2.uk/sam-GBBD1300001WA.m3u8
 #EXTINF:-1 tvg-chno="931" tvg-id="GBBD230000420" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD230000420_20250107T030737SQUARE.png" tvg-country="GB" group-title="Kids",931. Rabbids Invasion
 https://jmp2.uk/sam-GBBD230000420.m3u8
-#EXTINF:-1 tvg-chno="932" tvg-id="GBBA330002536" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330002536_20250107T022525SQUARE.png" tvg-country="GB" group-title="Kids",932. Beano TV
-https://jmp2.uk/sam-GBBA330002536.m3u8
 #EXTINF:-1 tvg-chno="933" tvg-id="GBBD1100011V3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100011V3_20250107T030631SQUARE.png" tvg-country="GB" group-title="Kids",933. Dennis and Gnasher
 https://jmp2.uk/sam-GBBD1100011V3.m3u8
 #EXTINF:-1 tvg-chno="934" tvg-id="GB370000369" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB370000369_20250107T031224SQUARE.png" tvg-country="GB" group-title="Kids",934. Sonic The Hedgehog
@@ -177,12 +175,12 @@ https://jmp2.uk/sam-GB370000369.m3u8
 https://jmp2.uk/sam-GB3400001ND.m3u8
 #EXTINF:-1 tvg-chno="936" tvg-id="GB900003KR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png" tvg-country="GB" group-title="Kids",936. Mr Bean Animated
 https://jmp2.uk/sam-GB900003KR.m3u8
-#EXTINF:-1 tvg-chno="937" tvg-id="GBBD1100010UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20250610T011242SQUARE.png" tvg-country="GB" group-title="Kids",937. Super Anime
-https://jmp2.uk/sam-GBBD1100010UB.m3u8
 #EXTINF:-1 tvg-chno="939" tvg-id="GB2600017PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20250107T031119SQUARE.png" tvg-country="GB" group-title="Kids",939. Family - Rakuten TV
 https://jmp2.uk/sam-GB2600017PX.m3u8
 #EXTINF:-1 tvg-chno="2066" tvg-id="GB170000351" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB170000351_20250527T014758SQUARE.png" tvg-country="GB" group-title="Kids",2066. POP Up
 https://jmp2.uk/sam-GB170000351.m3u8
+#EXTINF:-1 tvg-chno="2069" tvg-id="GBBD23000021U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD23000021U_20250107T025826SQUARE.png" tvg-country="GB" group-title="Kids",2069. Transformers
+https://jmp2.uk/sam-GBBD23000021U.m3u8
 
 #Lifestyle (1)
 #EXTINF:-1 tvg-chno="2040" tvg-id="GB500006EX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20250513T005726SQUARE.png" tvg-country="GB" group-title="Lifestyle",2040. Escape to the Country
