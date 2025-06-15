@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 12/06/2025 06:22:53 CEST+0200
+# Generated on: 16/06/2025 01:07:00 CEST+0200
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -162,6 +162,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 group-title="CANALPLUS",C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+
+#TV5MONDE (2)
+#EXTINF:-1 group-title="TV5MONDE",TV5MONDE France Belgique Suisse Monaco [1080p-tv5monde.com]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #FRANCE3-REGIONS (25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36

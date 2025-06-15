@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 12/06/2025 06:22:53 CEST+0200
+# Generated on: 16/06/2025 01:07:00 CEST+0200
 
 #FRANCE (33)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -162,6 +162,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-chno="124" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="CANALPLUS",124. C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+
+#TV5MONDE (2)
+#EXTINF:-1 tvg-chno="130" tvg-id="TV5Monde.fr" epg-s="205" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV5_Monde_color.png?h=100" tvg-country="FR" group-title="TV5MONDE",130. TV5MONDE France Belgique Suisse Monaco [1080p-tv5monde.com]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-chno="131" tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/hDscsNi.png" tvg-country="FR" group-title="TV5MONDE",131. TV5MONDE Info [1080p-tv5monde.com]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #FRANCE3-REGIONS (25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36

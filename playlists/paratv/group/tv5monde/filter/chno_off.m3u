@@ -1,0 +1,8 @@
+#EXTM3U
+# Generated on: 16/06/2025 01:07:00 CEST+0200
+
+#TV5MONDE (2)
+#EXTINF:-1 tvg-id="TV5Monde.fr" epg-s="205" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV5_Monde_color.png?h=100" tvg-country="FR" group-title="TV5MONDE",TV5MONDE France Belgique Suisse Monaco [1080p-tv5monde.com]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/hDscsNi.png" tvg-country="FR" group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
