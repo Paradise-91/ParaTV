@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PublicSenat2424.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR",Public Sénat
-https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.ts
-#^BACKUP LINK^#
+#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
+https://live.eu-north-1a.cf.dmcdn.net/sec2(1Vbo8_eahQmnhJaAAHQGZ64PBd5dC8S1Qj1EWW7YCZf17yTfLS8Ci6ek-I0Dz_3_gMF6SirQ9j6-115kBk6O1biqHPT0fPD3NlWjLb2C-V2tY44T1tXUQeM_kXLlS8Ec)/dm/3/xkxbzc/d/live-380.m3u8#cell=lcf-eu-north-1a
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://live.eu-north-1a.cf.dmcdn.net/sec2(1Vbo8_eahQmnhJaAAHQGZ64PBd5dC8S1Qj1EWW7YCZf17yTfLS8Ci6ek-I0Dz_3_gMF6SirQ9j6-115kBk6O1biqHPT0fPD3NlWjLb2C-V2tY44T1tXUQeM_kXLlS8Ec)/dm/3/xkxbzc/d/live-240.m3u8#cell=lcf-eu-north-1a
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
+https://live.eu-north-1a.cf.dmcdn.net/sec2(1Vbo8_eahQmnhJaAAHQGZ64PBd5dC8S1Qj1EWW7YCZf17yTfLS8Ci6ek-I0Dz_3_gMF6SirQ9j6-115kBk6O1biqHPT0fPD3NlWjLb2C-V2tY44T1tXUQeM_kXLlS8Ec)/dm/3/xkxbzc/d/live-480.m3u8#cell=lcf-eu-north-1a
 
-#Last refreshed on 16/06/2025 09:21:03 CEST.
+#Last refreshed on 16/06/2025 12:20:41 CEST.
