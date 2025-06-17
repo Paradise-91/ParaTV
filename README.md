@@ -386,4 +386,12 @@
 
 ## Usage
 
-Feel free to use any links or resources you find in this repository. If you find them helpful or use them in your projects, I'd appreciate credit.
+You are free to use the links and resources in this repository.
+
+Please note that all links point to publicly available streams and are provided as-is, without any guarantee of availability or legality in your region.
+
+## Disclaimer
+
+This repository does **not host or store** any video or audio content. It only contains publicly available, non‑DRM stream links.
+
+If you are a copyright holder and would like a link removed, please [open an issue](https://github.com/Paradise-91/ParaTV/issues).
