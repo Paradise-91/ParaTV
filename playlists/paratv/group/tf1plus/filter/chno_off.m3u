@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 19/06/2025 19:25:11 CEST+0200
+# Generated on: 19/06/2025 23:25:12 CEST+0200
 
-#TF1PLUS (64)
+#TF1PLUS (63)
 #EXTINF:-1 epg-s="192" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 epg-s="195" tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -18,8 +18,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equi
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-figaro.m3u8
 #EXTINF:-1 epg-s="111" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" tvg-country="FR" group-title="TF1PLUS",ARTE [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-f1aad7-7c6a00-0@3x.png" tvg-country="FR" group-title="TF1PLUS",EUROBASKET FÉMININ 2025
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/sport-2.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_dna-3ab0c5-97c3f1-0@3x.png" tvg-country="FR" group-title="TF1PLUS",DEMAIN NOUS APPARTIENT [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/demain-nous-appartient.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_itc-c597ea-344cde-0@3x.png" tvg-country="FR" group-title="TF1PLUS",ICI TOUT COMMENCE [720p-tf1.fr]
