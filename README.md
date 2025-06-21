@@ -84,21 +84,6 @@
 </details>
 
 <details>
-<summary>france3-regions</summary>
-
-| File                                      | Short URL                                 |
-| :-----------------------------------------| :-----------------------------------------|
-| [france3-regions.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/france3-regions/france3-regions.m3u) | [https://paratv.duckdns.org/fr3r](https://paratv.duckdns.org/fr3r) |
-| [france3-regions_chno_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/france3-regions/filter/chno_off.m3u) | [https://paratv.duckdns.org/fr3r0](https://paratv.duckdns.org/fr3r0) |
-| [france3-regions_id_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/france3-regions/filter/id_off.m3u) | [https://paratv.duckdns.org/fr3r1](https://paratv.duckdns.org/fr3r1) |
-| [france3-regions_group_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/france3-regions/filter/group_off.m3u) | [https://paratv.duckdns.org/fr3r2](https://paratv.duckdns.org/fr3r2) |
-| [france3-regions_raw.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/france3-regions/filter/raw.m3u) | [https://paratv.duckdns.org/fr3r3](https://paratv.duckdns.org/fr3r3) |
-| [france3-regions_group_only.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/france3-regions/filter/group_only.m3u) | [https://paratv.duckdns.org/fr3r4](https://paratv.duckdns.org/fr3r4) |
-| [france3-regions_logo_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/france3-regions/filter/logo_off.m3u) | [https://paratv.duckdns.org/fr3r5](https://paratv.duckdns.org/fr3r5) |
-
-</details>
-
-<details>
 <summary>lequipe.fr</summary>
 
 | File                                      | Short URL                                 |
