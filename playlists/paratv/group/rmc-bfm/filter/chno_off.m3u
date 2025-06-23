@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 28/03/2025 17:34:44 CET+0100
+# Generated on: 24/06/2025 00:25:11 CEST+0200
 
-#RMC-BFM (25)
+#RMC-BFM (24)
 #EXTINF:-1 tvg-id="BFMTV.fr" epg-s="481" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 epg-s="4092" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFM2100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM2 [1080p-rmcbfmplay.com]
@@ -30,8 +30,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?star
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 #EXTINF:-1 epg-s="3946" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkSport100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",RMC Talk Sport [1080p-rmcbfmplay.com]
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
-#EXTINF:-1 tvg-id="BFMParis.fr" epg-s="1077" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMPARISIDF100x100COULEURAVECCONTOUR.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM PARIS ILE-DE-FRANCE [1080p-rmcbfmplay.com]
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="TeleLyonMetropole.fr" epg-s="116" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Lyon_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Lyon [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMGrandLille.fr" epg-s="930" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlille-100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM Grand Lille [1080p-rmcbfmplay.com]

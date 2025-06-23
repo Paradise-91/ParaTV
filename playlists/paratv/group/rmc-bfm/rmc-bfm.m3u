@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 28/03/2025 17:34:44 CET+0100
+# Generated on: 24/06/2025 00:25:11 CEST+0200
 
-#RMC-BFM (25)
+#RMC-BFM (24)
 #EXTINF:-1 tvg-chno="350" tvg-id="BFMTV.fr" epg-s="481" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",350. BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="351" epg-s="4092" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFM2100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",351. BFM2 [1080p-rmcbfmplay.com]
@@ -30,25 +30,23 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?star
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 #EXTINF:-1 tvg-chno="363" epg-s="3946" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkSport100x100couleur.png?h=100" tvg-country="FR" group-title="RMC-BFM",363. RMC Talk Sport [1080p-rmcbfmplay.com]
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
-#EXTINF:-1 tvg-chno="364" tvg-id="BFMParis.fr" epg-s="1077" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMPARISIDF100x100COULEURAVECCONTOUR.png?h=100" tvg-country="FR" group-title="RMC-BFM",364. BFM PARIS ILE-DE-FRANCE [1080p-rmcbfmplay.com]
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="365" tvg-id="TeleLyonMetropole.fr" epg-s="116" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Lyon_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",365. BFM Lyon [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-chno="364" tvg-id="TeleLyonMetropole.fr" epg-s="116" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Lyon_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",364. BFM Lyon [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="366" tvg-id="BFMGrandLille.fr" epg-s="930" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlille-100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",366. BFM Grand Lille [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-chno="365" tvg-id="BFMGrandLille.fr" epg-s="930" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlille-100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",365. BFM Grand Lille [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="367" tvg-id="BFMGrandLittoral.fr" epg-s="2317" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlittoral-100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",367. BFM Grand Littoral [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-chno="366" tvg-id="BFMGrandLittoral.fr" epg-s="2317" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlittoral-100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",366. BFM Grand Littoral [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="368" tvg-id="ProvenceAzur.fr" epg-s="3289" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMMARSEILLEPROV100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",368. BFM MARSEILLE PROVENCE [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-chno="367" tvg-id="ProvenceAzur.fr" epg-s="3289" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMMARSEILLEPROV100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",367. BFM MARSEILLE PROVENCE [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="369" tvg-id="AzurTV.fr" epg-s="3291" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",369. BFM NICE COTE D'AZUR [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-chno="368" tvg-id="AzurTV.fr" epg-s="3291" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",368. BFM NICE COTE D'AZUR [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="370" tvg-id="VarAzur.fr" epg-s="3290" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMTOULONVAR100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",370. BFM TOULON VAR [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-chno="369" tvg-id="VarAzur.fr" epg-s="3290" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMTOULONVAR100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",369. BFM TOULON VAR [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="371" tvg-id="DiciTvAlpes.fr" epg-s="3165" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMDICIALPESDUSUD100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",371. BFM DICI ALPES DU SUD [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-chno="370" tvg-id="DiciTvAlpes.fr" epg-s="3165" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMDICIALPESDUSUD100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",370. BFM DICI ALPES DU SUD [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="372" tvg-id="DiciTvProvence.fr" epg-s="3164" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMDICIHAUTEPROVENCE100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",372. BFM DICI HAUTE-PROVENCE [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-chno="371" tvg-id="DiciTvProvence.fr" epg-s="3164" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMDICIHAUTEPROVENCE100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",371. BFM DICI HAUTE-PROVENCE [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="373" tvg-id="Alsace20.fr" epg-s="3460" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMALSACE100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",373. BFM ALSACE [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-chno="372" tvg-id="Alsace20.fr" epg-s="3460" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMALSACE100x100.png?h=100" tvg-country="FR" group-title="RMC-BFM",372. BFM ALSACE [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="374" tvg-id="LaChaineNormande.fr" epg-s="3557" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMNORMANDIE100x100COULEUR.png?h=100" tvg-country="FR" group-title="RMC-BFM",374. BFM NORMANDIE [1080p-rmcbfmplay.com]
+#EXTINF:-1 tvg-chno="373" tvg-id="LaChaineNormande.fr" epg-s="3557" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMNORMANDIE100x100COULEUR.png?h=100" tvg-country="FR" group-title="RMC-BFM",373. BFM NORMANDIE [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
