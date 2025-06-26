@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 05/06/2025 06:22:43 CEST+0200
-#TOTAL: 115
+# Generated on: 26/06/2025 06:23:11 CEST+0200
+#TOTAL: 116
 
 #Anime (4)
 #EXTINF:-1 tvg-chno="1" tvg-id="ATBD390000167" tvg-country="AT" group-title="Anime",1. Aniverse TV
@@ -16,11 +16,13 @@ https://jmp2.uk/sam-AT70000595.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="ATBD2600009FE" tvg-country="AT" group-title="Auto & Motor",5. More than Sports TV
 https://jmp2.uk/sam-ATBD2600009FE.m3u8
 
-#Crime (3)
+#Crime (4)
 #EXTINF:-1 tvg-chno="6" tvg-id="AT260000634" tvg-country="AT" group-title="Crime",6. Crime Serien - Rakuten TV
 https://jmp2.uk/sam-AT260000634.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="ATBA33000270C" tvg-country="AT" group-title="Crime",7. Top Serien
 https://jmp2.uk/sam-ATBA33000270C.m3u8
+#EXTINF:-1 tvg-chno="1889" tvg-id="AT4500001S1" tvg-country="AT" group-title="Crime",1889. Crime Time
+https://jmp2.uk/sam-AT4500001S1.m3u8
 #EXTINF:-1 tvg-chno="2015" tvg-id="AT15000015I" tvg-country="AT" group-title="Crime",2015. KultKrimi
 https://jmp2.uk/sam-AT15000015I.m3u8
 
@@ -58,7 +60,7 @@ https://jmp2.uk/sam-AT4600002H5.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="ATAK3504500A" tvg-country="AT" group-title="Dokus & Wissen",23. Pluto TV Animals
 https://jmp2.uk/sam-ATAK3504500A.m3u8
 
-#Entertainment (18)
+#Entertainment (17)
 #EXTINF:-1 tvg-chno="25" tvg-id="ATBD2600001QK" tvg-country="AT" group-title="Entertainment",25. Hell's Kitchen
 https://jmp2.uk/sam-ATBD2600001QK.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="ATAJ7000105F" tvg-country="AT" group-title="Entertainment",26. MTV Teen Mom
@@ -89,8 +91,6 @@ https://jmp2.uk/sam-ATBD1500001X4.m3u8
 https://jmp2.uk/sam-ATBA10000075C.m3u8
 #EXTINF:-1 tvg-chno="1841" tvg-id="AT26000086D" tvg-country="AT" group-title="Entertainment",1841. Freitag Nacht News
 https://jmp2.uk/sam-AT26000086D.m3u8
-#EXTINF:-1 tvg-chno="1889" tvg-id="AT4500001S1" tvg-country="AT" group-title="Entertainment",1889. Crime Time
-https://jmp2.uk/sam-AT4500001S1.m3u8
 #EXTINF:-1 tvg-chno="1963" tvg-id="AT80000194" tvg-country="AT" group-title="Entertainment",1963. H2O & Friends
 https://jmp2.uk/sam-AT80000194.m3u8
 #EXTINF:-1 tvg-chno="2016" tvg-id="AT48000012I" tvg-country="AT" group-title="Entertainment",2016. Hochzeit auf den ersten Blick
@@ -192,7 +192,7 @@ https://jmp2.uk/sam-ATAJ0500451A.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-id="ATAJ0500413A" tvg-country="AT" group-title="Musik",84. Deluxe Lounge HD
 https://jmp2.uk/sam-ATAJ0500413A.m3u8
 
-#News (7)
+#News (8)
 #EXTINF:-1 tvg-chno="86" tvg-id="ATBD800001VA" tvg-country="AT" group-title="News",86. CNN
 https://jmp2.uk/sam-ATBD800001VA.m3u8
 #EXTINF:-1 tvg-chno="87" tvg-id="ATBD190000101" tvg-country="AT" group-title="News",87. CNN Headlines
@@ -207,6 +207,8 @@ https://jmp2.uk/sam-ATBA3300018K1.m3u8
 https://jmp2.uk/sam-AT2600002KW.m3u8
 #EXTINF:-1 tvg-chno="1936" tvg-id="ATAJ0500445A" tvg-country="AT" group-title="News",1936. SPIEGEL TV
 https://jmp2.uk/sam-ATAJ0500445A.m3u8
+#EXTINF:-1 tvg-chno="2072" tvg-id="AT1100004SR" tvg-country="AT" group-title="News",2072. Sky News International
+https://jmp2.uk/sam-AT1100004SR.m3u8
 
 #Serien (12)
 #EXTINF:-1 tvg-chno="92" tvg-id="ATBD2600008HN" tvg-country="AT" group-title="Serien",92. Baywatch

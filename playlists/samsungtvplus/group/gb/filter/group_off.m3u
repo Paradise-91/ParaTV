@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 25/06/2025 06:22:54 CEST+0200
-#TOTAL: 176
+# Generated on: 26/06/2025 06:23:11 CEST+0200
+#TOTAL: 178
 
 #Crime (9)
 #EXTINF:-1 tvg-chno="851" tvg-id="GBBD3700001AB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3700001AB_20250211T013910SQUARE.png",851. DATELINE 24/7
@@ -49,6 +49,8 @@ https://jmp2.uk/sam-GB2700009R7.m3u8
 https://jmp2.uk/sam-GB500001HY.m3u8
 #EXTINF:-1 tvg-chno="871" tvg-id="GB1200002ON" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200002ON_20250107T030658SQUARE.png",871. History Hunters
 https://jmp2.uk/sam-GB1200002ON.m3u8
+#EXTINF:-1 tvg-chno="872" tvg-id="GB12000037Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000037Y_20250624T021656SQUARE.png",872. Deal Masters
+https://jmp2.uk/sam-GB12000037Y.m3u8
 #EXTINF:-1 tvg-chno="873" tvg-id="GB27000089Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB27000089Z_20250107T030702SQUARE.png",873. I Survived
 https://jmp2.uk/sam-GB27000089Z.m3u8
 #EXTINF:-1 tvg-chno="876" tvg-id="GBBD3100001A8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100001A8_20250107T030825SQUARE.png",876. U&Transport
@@ -79,8 +81,6 @@ https://jmp2.uk/sam-GB2700002F7.m3u8
 https://jmp2.uk/sam-GB3700005QK.m3u8
 #EXTINF:-1 tvg-chno="1016" tvg-id="GB2700013Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700013Y7_20250603T102749SQUARE.png",1016. Sky Sports Stories
 https://jmp2.uk/sam-GB2700013Y7.m3u8
-#EXTINF:-1 tvg-chno="1980" tvg-id="GB3000387J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000387J_20250624T021653SQUARE.png",1980. Antiques Road Trip
-https://jmp2.uk/sam-GB3000387J.m3u8
 
 #Entertainment (21)
 #EXTINF:-1 tvg-chno="891" tvg-id="GBBD3100003J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20250107T030818SQUARE.png",891. U&Laughs
@@ -303,8 +303,6 @@ https://jmp2.uk/sam-GB2600016U8.m3u8
 https://jmp2.uk/sam-GB1200006IV.m3u8
 
 #Reality (16)
-#EXTINF:-1 tvg-chno="872" tvg-id="GB12000037Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000037Y_20250624T021656SQUARE.png",872. Deal Masters
-https://jmp2.uk/sam-GB12000037Y.m3u8
 #EXTINF:-1 tvg-chno="874" tvg-id="GBBD1100009M9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100009M9_20250131T145255SQUARE.png",874. So…Real
 https://jmp2.uk/sam-GBBD1100009M9.m3u8
 #EXTINF:-1 tvg-chno="997" tvg-id="GBBB4600001IK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20250107T030734SQUARE.png",997. Project Runway
@@ -333,10 +331,12 @@ https://jmp2.uk/sam-GB3900003W4.m3u8
 https://jmp2.uk/sam-GB2600021LP.m3u8
 #EXTINF:-1 tvg-chno="1012" tvg-id="GBBA330003941" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330003941_20250107T022822SQUARE.png",1012. Catfish
 https://jmp2.uk/sam-GBBA330003941.m3u8
+#EXTINF:-1 tvg-chno="1980" tvg-id="GB3000387J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000387J_20250624T021653SQUARE.png",1980. Antiques Road Trip
+https://jmp2.uk/sam-GB3000387J.m3u8
 #EXTINF:-1 tvg-chno="2040" tvg-id="GB500006EX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20250617T031618SQUARE.png",2040. Escape to the Country
 https://jmp2.uk/sam-GB500006EX.m3u8
 
-#Sport (12)
+#Sport (14)
 #EXTINF:-1 tvg-chno="1014" tvg-id="GBBA33000529G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20250624T020546SQUARE.png",1014. Tennis Channel International
 https://jmp2.uk/sam-GBBA33000529G.m3u8
 #EXTINF:-1 tvg-chno="1015" tvg-id="GBBD2300003IK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20250107T030739SQUARE.png",1015. Red Bull TV
@@ -361,6 +361,10 @@ https://jmp2.uk/sam-GB30003577.m3u8
 https://jmp2.uk/sam-GB300036IM.m3u8
 #EXTINF:-1 tvg-chno="1948" tvg-id="GB400015HN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB400015HN_20250326T013451SQUARE.png",1948. SquashTV
 https://jmp2.uk/sam-GB400015HN.m3u8
+#EXTINF:-1 tvg-chno="2079" tvg-id="GB2000010ML" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2000010ML_20250624T021705SQUARE.png",2079. Tennis+
+https://jmp2.uk/sam-GB2000010ML.m3u8
+#EXTINF:-1 tvg-chno="2080" tvg-id="GB330000144" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB330000144_20250624T020553SQUARE.png",2080. RugbyPass TV
+https://jmp2.uk/sam-GB330000144.m3u8
 
 #TV Series (7)
 #EXTINF:-1 tvg-chno="1025" tvg-id="GBAK3504525A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504525A_20250107T022629SQUARE.png",1025. Pluto TV Classic TV

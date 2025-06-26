@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 05/06/2025 06:22:43 CEST+0200
-#TOTAL: 146
+# Generated on: 26/06/2025 06:23:11 CEST+0200
+#TOTAL: 147
 
 #Anime (4)
 #EXTINF:-1 tvg-chno="441" tvg-id="DEBD390000181" tvg-country="DE" group-title="Anime",441. Aniverse TV
@@ -16,13 +16,17 @@ https://jmp2.uk/sam-DE7000038K.m3u8
 #EXTINF:-1 tvg-chno="445" tvg-id="DEBD26000034M" tvg-country="DE" group-title="Auto & Motor",445. More than Sports TV
 https://jmp2.uk/sam-DEBD26000034M.m3u8
 
-#Crime (4)
+#Crime (6)
 #EXTINF:-1 tvg-chno="446" tvg-id="DE2600004U3" tvg-country="DE" group-title="Crime",446. Crime Serien - Rakuten TV
 https://jmp2.uk/sam-DE2600004U3.m3u8
 #EXTINF:-1 tvg-chno="447" tvg-id="DEBD1900002CB" tvg-country="DE" group-title="Crime",447. Crime Time
 https://jmp2.uk/sam-DEBD1900002CB.m3u8
+#EXTINF:-1 tvg-chno="568" tvg-id="DE4300001HK" tvg-country="DE" group-title="Crime",568. ARD Plus Krimi
+https://jmp2.uk/sam-DE4300001HK.m3u8
 #EXTINF:-1 tvg-chno="2021" tvg-id="DE1400003DP" tvg-country="DE" group-title="Crime",2021. Spiegel TV action+crime
 https://jmp2.uk/sam-DE1400003DP.m3u8
+#EXTINF:-1 tvg-chno="2025" tvg-id="DE400012YD" tvg-country="DE" group-title="Crime",2025. KultKrimi
+https://jmp2.uk/sam-DE400012YD.m3u8
 #EXTINF:-1 tvg-chno="2054" tvg-id="DE1600005LU" tvg-country="DE" group-title="Crime",2054. Crimify
 https://jmp2.uk/sam-DE1600005LU.m3u8
 
@@ -240,7 +244,7 @@ https://jmp2.uk/sam-DEAH3904006A.m3u8
 #EXTINF:-1 tvg-chno="2023" tvg-id="DE1300001XL" tvg-country="DE" group-title="Musik",2023. XITE R&B Classic Jams
 https://jmp2.uk/sam-DE1300001XL.m3u8
 
-#News (8)
+#News (9)
 #EXTINF:-1 tvg-chno="550" tvg-id="DEBD800001S4" tvg-country="DE" group-title="News",550. CNN
 https://jmp2.uk/sam-DEBD800001S4.m3u8
 #EXTINF:-1 tvg-chno="551" tvg-id="DEBD19000012M" tvg-country="DE" group-title="News",551. CNN Headlines
@@ -257,8 +261,10 @@ https://jmp2.uk/sam-DEBD4900001QV.m3u8
 https://jmp2.uk/sam-DE2600003TR.m3u8
 #EXTINF:-1 tvg-chno="1938" tvg-id="DEAK0500441A" tvg-country="DE" group-title="News",1938. SPIEGEL TV
 https://jmp2.uk/sam-DEAK0500441A.m3u8
+#EXTINF:-1 tvg-chno="2076" tvg-id="DE3400001N1" tvg-country="DE" group-title="News",2076. Sky News International
+https://jmp2.uk/sam-DE3400001N1.m3u8
 
-#Serien (16)
+#Serien (14)
 #EXTINF:-1 tvg-chno="557" tvg-id="DEBD26000020X" tvg-country="DE" group-title="Serien",557. Baywatch
 https://jmp2.uk/sam-DEBD26000020X.m3u8
 #EXTINF:-1 tvg-chno="558" tvg-id="DE3700004DM" tvg-country="DE" group-title="Serien",558. Heartland
@@ -279,8 +285,6 @@ https://jmp2.uk/sam-DEAK3504508A.m3u8
 https://jmp2.uk/sam-DE33000013J.m3u8
 #EXTINF:-1 tvg-chno="567" tvg-id="DEBA3300038NO" tvg-country="DE" group-title="Serien",567. Top Serien
 https://jmp2.uk/sam-DEBA3300038NO.m3u8
-#EXTINF:-1 tvg-chno="568" tvg-id="DE4300001HK" tvg-country="DE" group-title="Serien",568. ARD Plus Krimi
-https://jmp2.uk/sam-DE4300001HK.m3u8
 #EXTINF:-1 tvg-chno="1858" tvg-id="DE4600001CD" tvg-country="DE" group-title="Serien",1858. Nashville
 https://jmp2.uk/sam-DE4600001CD.m3u8
 #EXTINF:-1 tvg-chno="1921" tvg-id="DE4800002GM" tvg-country="DE" group-title="Serien",1921. Hudson & Rex
@@ -289,8 +293,6 @@ https://jmp2.uk/sam-DE4800002GM.m3u8
 https://jmp2.uk/sam-DE1000001CT.m3u8
 #EXTINF:-1 tvg-chno="2024" tvg-id="DE400011F2" tvg-country="DE" group-title="Serien",2024. Telenovela ZDF
 https://jmp2.uk/sam-DE400011F2.m3u8
-#EXTINF:-1 tvg-chno="2025" tvg-id="DE400012YD" tvg-country="DE" group-title="Serien",2025. KultKrimi
-https://jmp2.uk/sam-DE400012YD.m3u8
 
 #Sport (13)
 #EXTINF:-1 tvg-chno="569" tvg-id="DEBA2200008NL" tvg-country="DE" group-title="Sport",569. Tennis Channel Deutschland
