@@ -1,68 +1,68 @@
 #EXTM3U
-# Generated on: 28/06/2025 19:25:11 CEST+0200
+# Generated on: 28/06/2025 18:25:11 CEST+0200
 
 #FRANCE (33)
 #EXTINF:-1,TF1 [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/tf1-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,France 2 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france2-highest.m3u8
 #EXTINF:-1,France 2 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,France 3 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france3-highest.m3u8
 #EXTINF:-1,France 3 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,France 4 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-4-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,France 5 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france5.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france5-highest.m3u8
 #EXTINF:-1,France 5 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-5-highest.m3u8
 #EXTINF:-1,Arte [720p-arte.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/res/arte-highest.m3u8
 #EXTINF:-1,ARTE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/arte-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,Arte [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/arte-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,LCP [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
 #EXTINF:-1,LCP-AN [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/res/lcp-dm-highest.m3u8
 #EXTINF:-1,Public Sénat [480p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
 #EXTINF:-1,TMC [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/tmc-highest.m3u8
 #EXTINF:-1,TFX [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/tfx-highest.m3u8
 #EXTINF:-1,Gulli [576p-gulli.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/res/gulli-highest.m3u8
 #EXTINF:-1,BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1,C NEWS [1080p-canalplus.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
 #EXTINF:-1,C NEWS [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
 #EXTINF:-1,LCI [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/lci-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,France Info [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
 #EXTINF:-1,CStar [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cstar-dm-highest.m3u8
 #EXTINF:-1,T18 [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1,TF1 Séries Films [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/tf1-series-films-highest.m3u8
 #EXTINF:-1,LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTINF:-1,LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/l-equipe-highest.m3u8
 #EXTINF:-1,RMC STORY [1080p-rmcbfmplay.com]
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1,RMC Découverte [1080p-rmcbfmplay.com]
@@ -70,21 +70,21 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,CHERIE 25 [1080p-nrj-play.fr]
 https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1751203225~acl=/*~hmac=bdeaa0fefc37931b3df09bb354dd6faea906bbd56fb9512c29efe5b4c9c29020
 #EXTINF:-1,LE FIGARO TV [720p-lefigaro.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-highest.m3u8
 #EXTINF:-1,LE FIGARO TV [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-figaro.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/le-figaro-highest.m3u8
 #EXTINF:-1,CANAL+ EN CLAIR [1080p-canalplus.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/canalplusclair-hd-highest.m3u8
 
 #CANALPLUS (4)
 #EXTINF:-1,CANAL+ EN CLAIR [1080p-canalplus.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/canalplusclair-hd-highest.m3u8
 #EXTINF:-1,C NEWS [1080p-canalplus.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
 #EXTINF:-1,CStar [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cstar-dm-highest.m3u8
 #EXTINF:-1,C NEWS [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
 
 #TV5MONDE (2)
 #EXTINF:-1,TV5MONDE France Belgique Suisse Monaco [1080p-tv5monde.com]
@@ -94,341 +94,344 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (20)
 #EXTINF:-1,Journal du Golf TV [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/journal-du-golf-tv-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/journal-du-golf-tv-dm-highest.m3u8
 #EXTINF:-1,Journal du Golf TV [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=SDh6SvX68It6wcanLQwWiSWRjhObImDkKcT9-wyOvCzjSX8jdjdNocjZzJk1zwoGoix0qL1SOk_7bAVgatx1gSoOYOHeUKGNDFAFmtbv-qA
+https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Wd50pVUTL97VVX5VLLQonDKnvkb3zPQRmsmqfA6kwBFO3KxHYrOMURowjsVuD1YYaYGSM0v2CuZxy-wzXLZU7tAimuzJc3weflmdieDkI-4
 #EXTINF:-1,LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTINF:-1,LA CHAÎNE L'ÉQUIPE [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=FHIcLjkK_baBjsUan6-iu_xuYQsLCi1lNbERngv1q3iOHPxndJwbH2UybjesCirXtivDpgw5lMkEElHlRXlBh6Xyn9M7lcJFlfqauW-2Gj8
+https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Vk9aQhQPYrqVgJbLub2DPQ8fBsapsZ8O-evzp2fB2acuhcQCiDmb5_WOTbk8oVBo8Y_vWW0AohHT-EVy-ZwTJlgOtMP7QzSV8We9cy0Xor0
 #EXTINF:-1,L'Équipe live foot [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-foot-dm-highest.m3u8
 #EXTINF:-1,L'Équipe live foot [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=nkQCy8i2BUaBgGWG4Pl2izZevRIJ3-_SSb2F4E3DiIxksoyAy5rZbh6j1KXYbq2OxW2rtq7JAwIaQi2aATH60yqiiEAj1Em9oQws9hZHxEc
+https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=xrk5xXzuSwOW-q7tIeaa497yaCwiWYu_EnE454jYNwJ779-8HowDoraIbFsnu9yP2wDq_tuo425vGV-upQ9oux6sYCGRg7T55BquRIB58Cc
 #EXTINF:-1,L'Équipe live 1 [1080p-dailymotion.com][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-1-dm-highest.m3u8
 #EXTINF:-1,L'Équipe live 1 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=eBVN9irhqOxe1U4VAIKi7y97rL7ZYegEJviXPvGyOjhyC1t-1oi0kQYnc4kYMhV5HLtewXqTJT9LCKgvgGynRX6l2QNe7RYK8yteWT578_k
+https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=aOCApufsjkEbNcDxJG3NYR2LXM8NM8M19MsMtxFj9c6Oc7PUNWO-Mlm1ybwjI98u_izwWfxuXLkJnbpwJnD_NzcWXHuCbUBmvHZbTotxSKs
 #EXTINF:-1,L'Équipe live 2 [1080p-dailymotion.com][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-2-dm-highest.m3u8
 #EXTINF:-1,L'Équipe live 2 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=6rHdQRecFACt29bkB8sw8YZ4bP5fZvwrbGyijY1yXzd_d2pO5Vxo_jmicBphyId4EJXn048P4OM_1cfvtA3w6YppU9y7b1eLOD_OebAXClY
+https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=ygCNazs2eR19fqBvdUsCtblLnzeO56oavM7fczkVGT-jYng6rZQLl5l846BR-z0fKn460rDfrBruF_NVADvjXCQQZIjh8PbKEjD4S5QbJ0E
 #EXTINF:-1,L'Équipe live 3 [1080p-dailymotion.com][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-3-dm-highest.m3u8
 #EXTINF:-1,L'Équipe live 3 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://www.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=ihtL8B_NR35wNItznDEqTrqxD-jmqQLgJgzxvd1ILLC7plql9ci-URq7-Sbqh7ah8ZZJpKDCiVw5qvCRxy6kVZ42ti00sdACyn6k1RjvrPU
 #EXTINF:-1,L'Équipe live 4 [1080p-dailymotion.com][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-4-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-4-dm-highest.m3u8
 #EXTINF:-1,L'Équipe live 4 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-4-dm.m3u8
 #EXTINF:-1,L'Équipe live 5 [1080p-dailymotion.com][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-5-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-5-dm-highest.m3u8
 #EXTINF:-1,L'Équipe live 5 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-5-dm.m3u8
 #EXTINF:-1,L'Équipe live 6 [1080p-dailymotion.com][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-6-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-6-dm-highest.m3u8
 #EXTINF:-1,L'Équipe live 6 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-6-dm.m3u8
 #EXTINF:-1,L'Équipe live 7 [1080p-dailymotion.com][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-7-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-7-dm-highest.m3u8
 #EXTINF:-1,L'Équipe live 7 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-7-dm.m3u8
 
-#FRANCE.TV (36)
+#FRANCE.TV (37)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 2 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 4 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-4-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 5 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-5-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCEINFO [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE TV DOCS [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/documentaire-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE TV SÉRIES [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/serie.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/serie-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,ARTE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/arte-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,INA [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ina.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/ina-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,LCP PUBLIC SENAT [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,ROLAND GARROS [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/roland-garros.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/roland-garros-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 ALPES [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alpes.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-alpes-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 ALSACE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alsace.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-alsace-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 AQUITAINE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-aquitaine.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-aquitaine-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 AUVERGNE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-auvergne.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-auvergne-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-basse-normandie.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-basse-normandie-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 BOURGOGNE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bourgogne.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-bourgogne-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 BRETAGNE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bretagne.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-bretagne-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-centre-val-de-loire.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-centre-val-de-loire-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-champagne-ardenne.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-champagne-ardenne-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 CORSE VIASTELLA [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-corse-via-stella.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-corse-via-stella-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 CÔTE D'AZUR [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-cote-d-azur-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-franche-comte.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-franche-comte-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-haute-normandie.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-haute-normandie-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-languedoc-roussillon.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-languedoc-roussillon-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 LIMOUSIN [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-limousin.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-limousin-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 LORRAINE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-lorraine.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-lorraine-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 MIDI-PYRENÉES [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-midi-pyrenees.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-midi-pyrenees-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 NOA [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-noa.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-noa-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 NORD-PAS-DE-CALAIS [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-nord-pas-de-calais.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-nord-pas-de-calais-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 PARIS ÎLE-DE-FRANCE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-paris-ile-de-france.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-paris-ile-de-france-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-pays-de-la-loire.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-pays-de-la-loire-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 PICARDIE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-picardie.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-picardie-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 POITOU-CHARENTES [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-poitou-charentes.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-poitou-charentes-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 PROVENCE-ALPES [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-provence-alpes.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-provence-alpes-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-rhone-alpes-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1,MAYOTTE LA 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8
 
 #TF1PLUS (63)
 #EXTINF:-1,TF1 [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/tf1-highest.m3u8
 #EXTINF:-1,TMC [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/tmc-highest.m3u8
 #EXTINF:-1,TFX [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/tfx-highest.m3u8
 #EXTINF:-1,TF1 SÉRIES FILMS [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/tf1-series-films-highest.m3u8
 #EXTINF:-1,LCI [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/lci-highest.m3u8
 #EXTINF:-1,LA CHAÎNE L'EQUIPE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/l-equipe-highest.m3u8
 #EXTINF:-1,LE FIGARO TV [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-figaro.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/le-figaro-highest.m3u8
 #EXTINF:-1,ARTE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/arte-highest.m3u8
 #EXTINF:-1,DEMAIN NOUS APPARTIENT [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/demain-nous-appartient.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/demain-nous-appartient-highest.m3u8
 #EXTINF:-1,ICI TOUT COMMENCE [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ici-tout-commence.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/ici-tout-commence-highest.m3u8
 #EXTINF:-1,PLUS BELLE LA VIE [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/plus-belle-la-vie.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/plus-belle-la-vie-highest.m3u8
 #EXTINF:-1,POLAR FICTION TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/police-fiction.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/police-fiction-highest.m3u8
 #EXTINF:-1,COMÉDIE FICTION [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/comedie-fiction.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/comedie-fiction-highest.m3u8
 #EXTINF:-1,SAGA DE L'ÉTÉ TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/saga-de-lete.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/saga-de-lete-highest.m3u8
 #EXTINF:-1,SECONDE CHANCE [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/seconde-chance.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/seconde-chance-highest.m3u8
 #EXTINF:-1,PAS DE SECRET ENTRE NOUS [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/pas-de-ca-entre-nous.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/pas-de-ca-entre-nous-highest.m3u8
 #EXTINF:-1,CHANTE ! [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/chante.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/chante-highest.m3u8
 #EXTINF:-1,SOUS LE SOLEIL [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/sous-le-soleil.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/sous-le-soleil-highest.m3u8
 #EXTINF:-1,RIS POLICE SCIENTIFIQUE TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ris-police-scientifique.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/ris-police-scientifique-highest.m3u8
 #EXTINF:-1,FOUDRE [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/foudre.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/foudre-highest.m3u8
 #EXTINF:-1,CAMPING PARADIS [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/camping-paradis.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/camping-paradis-highest.m3u8
 #EXTINF:-1,NOS CHERS VOISINS [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/nos-chers-voisins.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/nos-chers-voisins-highest.m3u8
 #EXTINF:-1,UNE FAMILLE FORMIDABLE [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/une-famille-formidable.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/une-famille-formidable-highest.m3u8
 #EXTINF:-1,JOSÉPHINE, ANGE GARDIEN [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/josephine-ange-gardien.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/josephine-ange-gardien-highest.m3u8
 #EXTINF:-1,FAMILLE D'ACCUEIL [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/famille-daccueil.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/famille-daccueil-highest.m3u8
 #EXTINF:-1,LES BRACELETS ROUGES [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-bracelets-rouges.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/les-bracelets-rouges-highest.m3u8
 #EXTINF:-1,JE TE PROMETS [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/je-te-promets.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/je-te-promets-highest.m3u8
 #EXTINF:-1,PROFILAGE [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/profilage.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/profilage-highest.m3u8
 #EXTINF:-1,LÉO MATTÉÏ  [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/leo-mattei.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/leo-mattei-highest.m3u8
 #EXTINF:-1,BALTHAZAR [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/balthazar.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/balthazar-highest.m3u8
 #EXTINF:-1,SECTION DE RECHERCHES [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/section-de-recherches.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/section-de-recherches-highest.m3u8
 #EXTINF:-1,ALICE NEVERS [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/alice-nevers.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/alice-nevers-highest.m3u8
 #EXTINF:-1,LE DESTIN DE LISA TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-destin-de-lisa.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/le-destin-de-lisa-highest.m3u8
 #EXTINF:-1,NARUTO TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/naruto.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/naruto-highest.m3u8
 #EXTINF:-1,INAZUMA ELEVEN TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/inazuma-eleven.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/inazuma-eleven-highest.m3u8
 #EXTINF:-1,BORUTO: NARUTO NEXT GEN TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boruto-naruto-next-generatio.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/boruto-naruto-next-generatio-highest.m3u8
 #EXTINF:-1,PALMASHOW TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/palmashow.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/palmashow-highest.m3u8
 #EXTINF:-1,MAMANS & CÉLÈBRES TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/mamans-and-celebres.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/mamans-and-celebres-highest.m3u8
 #EXTINF:-1,STAR ACADEMY TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/star-academy.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/star-academy-highest.m3u8
 #EXTINF:-1,LA VILLA DES CŒURS BRISÉS TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-villa-des-coeurs-brises.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/la-villa-des-coeurs-brises-highest.m3u8
 #EXTINF:-1,LA BATAILLE DES COUPLES TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-couples.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/la-bataille-des-couples-highest.m3u8
 #EXTINF:-1,FRANÇOIS DAMIENS TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/francois-lembrouille.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/francois-lembrouille-highest.m3u8
 #EXTINF:-1,LES INCONNUS TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-inconnus.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/les-inconnus-highest.m3u8
 #EXTINF:-1,DANSE AVEC LES STARS TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/danse-avec-les-stars.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/danse-avec-les-stars-highest.m3u8
 #EXTINF:-1,LA BATAILLE DES CLANS TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/la-bataille-des-clans.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/la-bataille-des-clans-highest.m3u8
 #EXTINF:-1,LOLYWOOD TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lolywood.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/lolywood-highest.m3u8
 #EXTINF:-1,USHUAIA FOR CHANGE [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/ushuaia-for-change-highest.m3u8
 #EXTINF:-1,SECRET STORY  [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/garder-son-secret-a-tout-prix.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/garder-son-secret-a-tout-prix-highest.m3u8
 #EXTINF:-1,MASK SINGER [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/revivez-lintegral-mask-singer.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/revivez-lintegral-mask-singer-highest.m3u8
 #EXTINF:-1,SUPER NANNY [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/super-nanny.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/super-nanny-highest.m3u8
 #EXTINF:-1,BABY BOOM [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/baby-boom.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/baby-boom-highest.m3u8
 #EXTINF:-1,LES ENFOIRÉS  [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-enfoires.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/les-enfoires-highest.m3u8
 #EXTINF:-1,LES RESTOS DU CŒUR [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-restos-du-coeur.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/les-restos-du-coeur-highest.m3u8
 #EXTINF:-1,BOULE ET BILL TV [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/boule-et-bill.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/boule-et-bill-highest.m3u8
 #EXTINF:-1,PYJAMASQUES [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-pyjamasques.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/les-pyjamasques-highest.m3u8
 #EXTINF:-1,MIGHTY EXPRESS [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/mighty-express.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/mighty-express-highest.m3u8
 #EXTINF:-1,ROBOCARPOLI [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/robocarpoli.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/robocarpoli-highest.m3u8
 #EXTINF:-1,MILO [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/milo.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/milo-highest.m3u8
 #EXTINF:-1,LES SCHTROUMPFS  [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-schtroumpfs.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/les-schtroumpfs-highest.m3u8
 #EXTINF:-1,LE MARSUPILAMI [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-marsupilami.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/le-marsupilami-highest.m3u8
 #EXTINF:-1,CRY BABIES BFF [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cry-babies-bff.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/cry-babies-bff-highest.m3u8
 #EXTINF:-1,CÉDRIC  [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/cedric.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/cedric-highest.m3u8
 #EXTINF:-1,LES MYSTÈRES DE L'AMOUR [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-mysteres-de-lamour.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/res/les-mysteres-de-lamour-highest.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1,LE GRAND DIRECT [1080p-equidia.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/live2-highest.m3u8
 #EXTINF:-1,RACING GALOP [1080p-equidia.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racinggalop.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racinggalop-highest.m3u8
 #EXTINF:-1,RACING MAG [1080p-equidia.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racingmag-highest.m3u8
 #EXTINF:-1,RACING TROT [1080p-equidia.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingtrot.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racingtrot-highest.m3u8
 #EXTINF:-1,RACING 1 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racing1-highest.m3u8
 #EXTINF:-1,RACING 2 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing2.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racing2-highest.m3u8
 #EXTINF:-1,RACING 3 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing3.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racing3-highest.m3u8
 #EXTINF:-1,RACING 4 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing4.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racing4-highest.m3u8
 #EXTINF:-1,RACING 5 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing5.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racing5-highest.m3u8
 #EXTINF:-1,RACING 6 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing6.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racing6-highest.m3u8
 #EXTINF:-1,RACING 7 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing7.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racing7-highest.m3u8
 #EXTINF:-1,RACING 8 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing8.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/racing8-highest.m3u8
 #EXTINF:-1,REGION 1 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region01.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region01-highest.m3u8
 #EXTINF:-1,REGION 2 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region02.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region02-highest.m3u8
 #EXTINF:-1,REGION 3 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region03.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region03-highest.m3u8
 #EXTINF:-1,REGION 4 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region04.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region04-highest.m3u8
 #EXTINF:-1,REGION 5 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region05.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region05-highest.m3u8
 #EXTINF:-1,REGION 6 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region06.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region06-highest.m3u8
 #EXTINF:-1,REGION 7 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region07.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region07-highest.m3u8
 #EXTINF:-1,REGION 8 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region08.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region08-highest.m3u8
 #EXTINF:-1,REGION 9 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region09.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region09-highest.m3u8
 #EXTINF:-1,REGION 10 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region10.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region10-highest.m3u8
 #EXTINF:-1,REGION 11 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region11.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region11-highest.m3u8
 #EXTINF:-1,REGION 12 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region12.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region12-highest.m3u8
 #EXTINF:-1,REGION 13 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region13.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region13-highest.m3u8
 #EXTINF:-1,REGION 14 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region14.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region14-highest.m3u8
 #EXTINF:-1,REGION 15 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region15.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region15-highest.m3u8
 #EXTINF:-1,REGION 16 [1080p-equidia.fr][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region16.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region16-highest.m3u8
 
 #NRJ (1)
 #EXTINF:-1,CHERIE 25 [1080p-nrj-play.fr]
@@ -486,11 +489,11 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&
 
 #BELGIQUE (3)
 #EXTINF:-1,RTL tvi [1080p-rtlplay.be][NOT 24/7]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/res/rtltvi-highest.m3u8
 #EXTINF:-1,bel RTL [1080p-rtlplay.be]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/res/belrtl-highest.m3u8
 #EXTINF:-1,Radio Contact [1080p-rtlplay.be]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/contact.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/res/contact-highest.m3u8
 
 #SWITZERLAND (4)
 #EXTINF:-1,carac1 [1080p-carac.tv]
