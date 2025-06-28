@@ -18,6 +18,17 @@
 | [paratv_group_only.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/filter/group_only.m3u) | [https://paratv.duckdns.org/paratv4](https://paratv.duckdns.org/paratv4) |
 | [paratv_logo_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/filter/logo_off.m3u) | [https://paratv.duckdns.org/paratv5](https://paratv.duckdns.org/paratv5) |
 
+| Highest resolution ONLY                   |                                           |
+| :-----------------------------------------| :-----------------------------------------|
+| <strong>File</strong>                     | <strong>Short URL</strong>                |
+| [paratv-highest.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/paratv-highest.m3u) | [https://paratv.duckdns.org/paratv?res=highest](https://paratv.duckdns.org/paratv?res=highest) |
+| [paratv_chno_off-highest.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/filter/chno_off-highest.m3u) | [https://paratv.duckdns.org/paratv0?res=highest](https://paratv.duckdns.org/paratv0?res=highest) |
+| [paratv_id_off-highest.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/filter/id_off-highest.m3u) | [https://paratv.duckdns.org/paratv1?res=highest](https://paratv.duckdns.org/paratv1?res=highest) |
+| [paratv_group_off-highest.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/filter/group_off-highest.m3u) | [https://paratv.duckdns.org/paratv2?res=highest](https://paratv.duckdns.org/paratv2?res=highest) |
+| [paratv_raw-highest.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/filter/raw-highest.m3u) | [https://paratv.duckdns.org/paratv3?res=highest](https://paratv.duckdns.org/paratv3?res=highest) |
+| [paratv_group_only-highest.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/filter/group_only-highest.m3u) | [https://paratv.duckdns.org/paratv4?res=highest](https://paratv.duckdns.org/paratv4?res=highest) |
+| [paratv_logo_off-highest.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/main/filter/logo_off-highest.m3u) | [https://paratv.duckdns.org/paratv5?res=highest](https://paratv.duckdns.org/paratv5?res=highest) |
+
 </details>
 
 <details>
