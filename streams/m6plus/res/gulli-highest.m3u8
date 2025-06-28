@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:6
+## Bedrock rewrited
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=2907102,AVERAGE-BANDWIDTH=2087002,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index_1.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="LV",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index_4_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="OV",LANGUAGE="qaa",DEFAULT=NO,AUTOSELECT=NO,URI="https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index_5_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="AD",LANGUAGE="qad",CHARACTERISTICS="public.accessibility.describes-video",DEFAULT=NO,AUTOSELECT=NO,URI="https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index_6_0.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="fra",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="fra",URI="https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index_7_0.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="fra_hoh",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog,public.accessibility.describes-music-and-sound",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="fra",URI="https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index_8_0.m3u8"
+
+#Last refreshed on 09/08/2024 00:08:02 CEST.

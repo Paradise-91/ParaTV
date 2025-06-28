@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:4
+## Created with Unified Streaming Platform (version=1.11.14-26090)
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aach-96",LANGUAGE="fr",NAME="French",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=4193000,AVERAGE-BANDWIDTH=3812000,CODECS="mp4a.40.5,avc1.64002A",RESOLUTION=1280x720,FRAME-RATE=25,AUDIO="audio-aach-96",CLOSED-CAPTIONS=NONE
+https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-video=3500000.m3u8
+# keyframes
+
+#Last refreshed on 21/07/2024 23:00:00 CEST.
