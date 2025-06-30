@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 30/06/2025 01:25:11 CEST+0200
+# Generated on: 01/07/2025 01:25:12 CEST+0200
 
-#TF1PLUS (57)
+#TF1PLUS (56)
 #EXTINF:-1 epg-s="192" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 epg-s="195" tvg-logo="https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-b5323c-0@3x.png" tvg-country="FR" group-title="TF1PLUS",TMC [720p-tf1.fr]
@@ -38,8 +38,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/foudre
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/camping-paradis.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_ncv-e03213-3aceba-0@3x.png" tvg-country="FR" group-title="TF1PLUS",NOS CHERS VOISINS [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/nos-chers-voisins.m3u8
-#EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-une-famille-formidable-9c8489-17b308-0@3x.png" tvg-country="FR" group-title="TF1PLUS",UNE FAMILLE FORMIDABLE [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/une-famille-formidable.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-josephine-ange-gardien-f155fd-5d0b6d-0@3x.png" tvg-country="FR" group-title="TF1PLUS",JOSÉPHINE, ANGE GARDIEN [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/josephine-ange-gardien.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-famille-daccueil-a68a46-595b34-0@3x.png" tvg-country="FR" group-title="TF1PLUS",FAMILLE D'ACCUEIL [720p-tf1.fr]
