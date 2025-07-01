@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 01/07/2025 10:25:13 CEST+0200
+# Generated on: 01/07/2025 11:25:12 CEST+0200
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -134,7 +134,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-
 #EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live 7 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-7-dm.m3u8
 
-#FRANCE.TV (38)
+#FRANCE.TV (37)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -244,11 +244,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-rhone-alpes-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",NOUVELLE-CALÉDONIE LA 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",RÉUNION LA 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/reunion-1ere-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
 
 #TF1PLUS (56)
 #EXTINF:-1 group-title="TF1PLUS",TF1 [720p-tf1.fr]
