@@ -1,11 +1,11 @@
 #EXTM3U
-# Generated on: 01/07/2025 19:25:11 CEST+0200
+# Generated on: 02/07/2025 03:25:11 CEST+0200
 
 #TV5MONDE (3)
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV5_Monde_color.png?h=100" tvg-country="FR" group-title="TV5MONDE",70. TV5MONDE France Belgique Suisse Monaco [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://i.imgur.com/hDscsNi.png" tvg-country="FR" group-title="TV5MONDE",71. TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV5_Monde_color.png?h=100" tvg-country="FR" group-title="TV5MONDE",72. TV5MONDE France Belgique Suisse Monaco [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/tv5-monde.m3u8
