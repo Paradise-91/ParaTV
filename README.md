@@ -170,21 +170,6 @@
 </details>
 
 <details>
-<summary>netplus.tv</summary>
-
-| File                                      | Short URL                                 |
-| :-----------------------------------------| :-----------------------------------------|
-| [netplus.tv.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/netplus.tv/netplus.tv.m3u) | [https://paratv.duckdns.org/net](https://paratv.duckdns.org/net) |
-| [netplus.tv_chno_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/netplus.tv/filter/chno_off.m3u) | [https://paratv.duckdns.org/net0](https://paratv.duckdns.org/net0) |
-| [netplus.tv_id_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/netplus.tv/filter/id_off.m3u) | [https://paratv.duckdns.org/net1](https://paratv.duckdns.org/net1) |
-| [netplus.tv_group_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/netplus.tv/filter/group_off.m3u) | [https://paratv.duckdns.org/net2](https://paratv.duckdns.org/net2) |
-| [netplus.tv_raw.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/netplus.tv/filter/raw.m3u) | [https://paratv.duckdns.org/net3](https://paratv.duckdns.org/net3) |
-| [netplus.tv_group_only.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/netplus.tv/filter/group_only.m3u) | [https://paratv.duckdns.org/net4](https://paratv.duckdns.org/net4) |
-| [netplus.tv_logo_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/netplus.tv/filter/logo_off.m3u) | [https://paratv.duckdns.org/net5](https://paratv.duckdns.org/net5) |
-
-</details>
-
-<details>
 <summary>belgique</summary>
 
 | File                                      | Short URL                                 |
