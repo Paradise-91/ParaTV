@@ -49,7 +49,7 @@
 
 </details>
 
-<details>
+<!-- <details>
 <summary>tf1plus</summary>
 
 | File                                      | Short URL                                 |
@@ -62,7 +62,7 @@
 | [tf1plus_group_only.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/tf1plus/filter/group_only.m3u) | [https://paratv.duckdns.org/tf14](https://paratv.duckdns.org/tf14) |
 | [tf1plus_logo_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/tf1plus/filter/logo_off.m3u) | [https://paratv.duckdns.org/tf15](https://paratv.duckdns.org/tf15) |
 
-</details>
+</details> -->
 
 <details>
 <summary>canalplus</summary>
