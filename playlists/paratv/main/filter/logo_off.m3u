@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 05/07/2025 13:25:11 CEST+0200
+# Generated on: 05/07/2025 15:25:11 CEST+0200
 
 #FRANCE (25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
@@ -54,7 +54,7 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" epg-s="1400" tvg-country="FR" group-title="FRANCE",24. RMC Découverte [1080p-rmcbfmplay.com]
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" epg-s="1399" tvg-country="FR" group-title="FRANCE",25. CHERIE 25 [1080p-nrj-play.fr]
-https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1751764811~acl=/*~hmac=65459d770e1f840f3339b699d3def9440419ab8f66391271cb5306fa4c564208
+https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1751808025~acl=/*~hmac=09644aee8e5e5e02c9a80a95077d5132e652db8a58ef7ef9c43b00e8718ec678
 #EXTINF:-1 tvg-chno="34" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-country="FR" group-title="FRANCE",34. LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="CanalPlus.fr" epg-s="34" tvg-country="FR" group-title="FRANCE",40. CANAL+ EN CLAIR [1080p-canalplus.com]
@@ -83,23 +83,23 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backu
 #EXTINF:-1 tvg-chno="78" epg-s="3629" tvg-country="FR" group-title="LEQUIPE.FR",78. Journal du Golf TV [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/journal-du-golf-tv-dm.m3u8
 #EXTINF:-1 tvg-chno="90" epg-s="3629" tvg-country="FR" group-title="LEQUIPE.FR",90. Journal du Golf TV [BACKUP][1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=pyJex7JarlAQ2CAjp6wCrEMrGL8YvoATWdEAbOT-U1fyGKESmFdmA_mr2IiYxC35vEFzZYn9BvPdD2Z2MaWLA7zFUNrPoYplln61rjAKoQM
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=K85e8hEtY8g2B4Egw4ZIQwwgg-Xb147r0ZirJTPE4EJLvGB53D4nP3Y6cwN6HtD6PvzHk6OZRe7h2byrbVt-KoNfFQvobxumKIA1QInvcC8
 #EXTINF:-1 tvg-chno="79" epg-s="1401" tvg-country="FR" group-title="LEQUIPE.FR",79. LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTINF:-1 tvg-chno="89" epg-s="1401" tvg-country="FR" group-title="LEQUIPE.FR",89. LA CHAÎNE L'ÉQUIPE [BACKUP][1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=JDxJdU2TjDfLd2npgNO3mz2dTRSGW1g0Z2hsH5jUattordtBL8p5Ir2Gev8BOushxOZRBmFUxkeHcPbqRuqV3bvbdqigUmEMM2D62L7KgBE
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=6cyFuRTIuKWEvbTUM5YN6fSwwCU47Fu0DFkhqmE0e7YiCAiVuhFNFOsZl0rJysAINckCMgFvXBS7USRvmgLy3GVE8GTUasogUC3f9fhr36E
 #EXTINF:-1 tvg-chno="80" tvg-country="FR" group-title="LEQUIPE.FR",80. L'Équipe live foot [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot-dm.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-country="FR" group-title="LEQUIPE.FR",91. L'Équipe live foot [BACKUP][1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=B6eJfHcksi_N-nw3DzSjg9p2I_hfPA32m-NcJmHbKCUTqLu0_oZs2vv1coASq3WYMQPwaU7Uz4VplNg1a0VrsgWe9lOe9inAVN8U1y8pLhU
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=ePLZHmUc_qNyVQLS4oWxFzTFJ91ttjHs6lHLuFYJ5ecefIcbcGUtG6juOAHiBpFbi2FINQQXl_nRK5pfLCpnPXPzC2znoXk8RHU98GJsBy8
 #EXTINF:-1 tvg-chno="81" tvg-country="FR" group-title="LEQUIPE.FR",81. L'Équipe live 1 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1-dm.m3u8
 #EXTINF:-1 tvg-chno="92" tvg-country="FR" group-title="LEQUIPE.FR",92. L'Équipe live 1 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=qcr8921159Q-CwWVVSRWm2t_UDQ7PnxFoT2FA9-RHroqaRZjBM0RR6JAXiKXY4Tkz2XRnSd75ioOEGuNahW-jMwNI5CamWGwBRDhFB6hN9w
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=eGurRa66rGUeoDdGq1DFdZpDjpMUkTe3DPDkICb_1fO9HlsI2_tn2EyLWM3QbrRBu86Y_10CqI5louYHluPgLnf12FwEoATXlHPkpcg1CAA
 #EXTINF:-1 tvg-chno="82" tvg-country="FR" group-title="LEQUIPE.FR",82. L'Équipe live 2 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8
 #EXTINF:-1 tvg-chno="93" tvg-country="FR" group-title="LEQUIPE.FR",93. L'Équipe live 2 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=bUfF25KiX9Gk0guNKoPQWmreChaYgUOcy2vIvpU0dZ8cA5stkna77tFU74XbuuxCvQkizOADLVG4qseFEXOamd2poD-d4rY3yYenxvyuOGI
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=KJ6XTrCwAPNxXIu_qczCfS6dloaUa-tinde_KKu7raYqMP950z6RA-MjHGVOshGwkkv2Ia8JQnqrz4UpDf4sX-YW7vxu1vyQq3Vmuz83-TM
 #EXTINF:-1 tvg-chno="83" tvg-country="FR" group-title="LEQUIPE.FR",83. L'Équipe live 3 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3-dm.m3u8
 #EXTINF:-1 tvg-chno="94" tvg-country="FR" group-title="LEQUIPE.FR",94. L'Équipe live 3 [BACKUP][1080p-dailymotion.com][NOT 24/7]
@@ -294,7 +294,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region
 
 #NRJ (1)
 #EXTINF:-1 tvg-chno="341" tvg-id="Cherie25.fr" epg-s="1399" tvg-country="FR" group-title="NRJ",341. CHERIE 25 [1080p-nrj-play.fr]
-https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1751764811~acl=/*~hmac=65459d770e1f840f3339b699d3def9440419ab8f66391271cb5306fa4c564208
+https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1751808025~acl=/*~hmac=09644aee8e5e5e02c9a80a95077d5132e652db8a58ef7ef9c43b00e8718ec678
 
 #RMC-BFM (24)
 #EXTINF:-1 tvg-chno="350" tvg-id="BFMTV.fr" epg-s="481" tvg-country="FR" group-title="RMC-BFM",350. BFM TV [1080p-rmcbfmplay.com]
