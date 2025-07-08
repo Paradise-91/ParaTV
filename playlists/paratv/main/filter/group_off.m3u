@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 08/07/2025 10:25:13 CEST+0200
+# Generated on: 08/07/2025 11:25:11 CEST+0200
 
 #FRANCE (33)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p-tf1.fr]
@@ -137,7 +137,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equi
 #EXTINF:-1 tvg-chno="98",98. L'Équipe live 7 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-7-dm.m3u8
 
-#FRANCE.TV (40)
+#FRANCE.TV (39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="110" tvg-id="France2.fr" epg-s="4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100",110. FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -172,91 +172,88 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ina.m
 #EXTINF:-1 tvg-chno="120" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100",120. LCP PUBLIC SENAT [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="121" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png",121. ROLAND GARROS [SSAI][1080p-france.tv]
+#EXTINF:-1 tvg-chno="121",121. TV5 MONDE [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv5-monde.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="122" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png",122. ROLAND GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/roland-garros.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="122" epg-s="1921" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Alpes-Color.jpg?h=100",122. FRANCE 3 ALPES [1080p-france.tv]
+#EXTINF:-1 tvg-chno="123" epg-s="1921" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Alpes-Color.jpg?h=100",123. FRANCE 3 ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alpes.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="123" epg-s="1922" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Alsace-Color.jpg?h=100",123. FRANCE 3 ALSACE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="124" epg-s="1922" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Alsace-Color.jpg?h=100",124. FRANCE 3 ALSACE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alsace.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="124" epg-s="1923" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Aquitaine-Color.jpg?h=100",124. FRANCE 3 AQUITAINE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="125" epg-s="1923" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Aquitaine-Color.jpg?h=100",125. FRANCE 3 AQUITAINE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-aquitaine.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="125" epg-s="1924" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Auvergne-Color.jpg?h=100",125. FRANCE 3 AUVERGNE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="126" epg-s="1924" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Auvergne-Color.jpg?h=100",126. FRANCE 3 AUVERGNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-auvergne.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="126" epg-s="1925" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Normandie-Color.jpg?h=100",126. FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="127" epg-s="1925" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Normandie-Color.jpg?h=100",127. FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-basse-normandie.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="127" epg-s="1926" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Bourgogne-Color.jpg?h=100",127. FRANCE 3 BOURGOGNE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="128" epg-s="1926" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Bourgogne-Color.jpg?h=100",128. FRANCE 3 BOURGOGNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bourgogne.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="128" epg-s="1927" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Bretagne-Color.jpg?h=100",128. FRANCE 3 BRETAGNE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="129" epg-s="1927" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Bretagne-Color.jpg?h=100",129. FRANCE 3 BRETAGNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bretagne.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="129" epg-s="1928" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/France3CenCouleur.jpg?h=100",129. FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="130" epg-s="1928" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/France3CenCouleur.jpg?h=100",130. FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-centre-val-de-loire.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="130" epg-s="1929" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Champagne-Ardenne-Color.jpg?h=100",130. FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="131" epg-s="1929" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Champagne-Ardenne-Color.jpg?h=100",131. FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-champagne-ardenne.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="131" epg-s="1930" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Corse-Color.jpg?h=100",131. FRANCE 3 CORSE VIASTELLA [1080p-france.tv]
+#EXTINF:-1 tvg-chno="132" epg-s="1930" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Corse-Color.jpg?h=100",132. FRANCE 3 CORSE VIASTELLA [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-corse-via-stella.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="132" epg-s="1931" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Cote-Azur-Color.jpg?h=100",132. FRANCE 3 CÔTE D'AZUR [1080p-france.tv]
+#EXTINF:-1 tvg-chno="133" epg-s="1931" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Cote-Azur-Color.jpg?h=100",133. FRANCE 3 CÔTE D'AZUR [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="133" epg-s="1932" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Franche-Comte-Color.jpg?h=100",133. FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]
+#EXTINF:-1 tvg-chno="134" epg-s="1932" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Franche-Comte-Color.jpg?h=100",134. FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-franche-comte.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="134" epg-s="1933" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Normandie-Color.jpg?h=100",134. FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="135" epg-s="1933" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Normandie-Color.jpg?h=100",135. FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-haute-normandie.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="135" epg-s="1934" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Languedoc-Roussillon-Color.jpg?h=100",135. FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]
+#EXTINF:-1 tvg-chno="136" epg-s="1934" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Languedoc-Roussillon-Color.jpg?h=100",136. FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-languedoc-roussillon.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="136" epg-s="1935" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Limousin-Color.jpg?h=100",136. FRANCE 3 LIMOUSIN [1080p-france.tv]
+#EXTINF:-1 tvg-chno="137" epg-s="1935" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Limousin-Color.jpg?h=100",137. FRANCE 3 LIMOUSIN [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-limousin.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="137" epg-s="1936" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Lorraine-Color.jpg?h=100",137. FRANCE 3 LORRAINE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="138" epg-s="1936" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Lorraine-Color.jpg?h=100",138. FRANCE 3 LORRAINE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-lorraine.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="138" epg-s="1937" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Midi-Pyrenees-Color.jpg?h=100",138. FRANCE 3 MIDI-PYRENÉES [1080p-france.tv]
+#EXTINF:-1 tvg-chno="139" epg-s="1937" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Midi-Pyrenees-Color.jpg?h=100",139. FRANCE 3 MIDI-PYRENÉES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-midi-pyrenees.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="139" epg-s="2730" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Nouvelle-Aquitaine-Color.jpg?h=100",139. FRANCE 3 NOA [1080p-france.tv]
+#EXTINF:-1 tvg-chno="140" epg-s="2730" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Nouvelle-Aquitaine-Color.jpg?h=100",140. FRANCE 3 NOA [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-noa.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="140" epg-s="1938" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Nord-pas-de-Calais-Color.jpg?h=100",140. FRANCE 3 NORD-PAS-DE-CALAIS [1080p-france.tv]
+#EXTINF:-1 tvg-chno="141" epg-s="1938" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Nord-pas-de-Calais-Color.jpg?h=100",141. FRANCE 3 NORD-PAS-DE-CALAIS [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-nord-pas-de-calais.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="141" epg-s="1939" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Paris-IdF-Color.jpg?h=100",141. FRANCE 3 PARIS ÎLE-DE-FRANCE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="142" epg-s="1939" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Paris-IdF-Color.jpg?h=100",142. FRANCE 3 PARIS ÎLE-DE-FRANCE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-paris-ile-de-france.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="142" epg-s="1940" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Pyas-de-la-Loire-Color.jpg?h=100",142. FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="143" epg-s="1940" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Pyas-de-la-Loire-Color.jpg?h=100",143. FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-pays-de-la-loire.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="143" epg-s="1941" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Picardie-Color.jpg?h=100",143. FRANCE 3 PICARDIE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="144" epg-s="1941" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Picardie-Color.jpg?h=100",144. FRANCE 3 PICARDIE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-picardie.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="144" epg-s="1942" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Poitou-Charentes-Color.jpg?h=100",144. FRANCE 3 POITOU-CHARENTES [1080p-france.tv]
+#EXTINF:-1 tvg-chno="145" epg-s="1942" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Poitou-Charentes-Color.jpg?h=100",145. FRANCE 3 POITOU-CHARENTES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-poitou-charentes.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="145" epg-s="1943" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg?h=100",145. FRANCE 3 PROVENCE-ALPES [1080p-france.tv]
+#EXTINF:-1 tvg-chno="146" epg-s="1943" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg?h=100",146. FRANCE 3 PROVENCE-ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-provence-alpes.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="146" epg-s="1944" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Rhone-Alpes-Color.jpg?h=100",146. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
+#EXTINF:-1 tvg-chno="147" epg-s="1944" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Rhone-Alpes-Color.jpg?h=100",147. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="147",147. NOUVELLE-CALÉDONIE LA 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="148",148. POLYNÉSIE LA 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/polynesie-1ere.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="149",149. RÉUNION LA 1ÈRE [NOT 24/7][1080p-france.tv]
+#EXTINF:-1 tvg-chno="148",148. RÉUNION LA 1ÈRE [NOT 24/7][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
 
 #EQUIDIA (28)
