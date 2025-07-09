@@ -1,9 +1,9 @@
 #EXTM3U
-# Generated on: 09/07/2025 05:25:11 CEST+0200
+# Generated on: 09/07/2025 06:22:46 CEST+0200
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/res/MDF3LvVAZUBcyJXx-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/MDF3LvVAZUBcyJXx.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="France2.fr" epg-s="4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france2-highest.m3u8
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-id="Arte.fr" epg-s="111" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" tvg-country="FR" group-title="FRANCE",Arte [720p-arte.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/res/arte-highest.m3u8
 #EXTINF:-1 epg-s="111" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" tvg-country="FR" group-title="FRANCE",ARTE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/res/YC9P4xPQGA0q43dg-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/YC9P4xPQGA0q43dg.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Arte.fr" epg-s="111" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" tvg-country="FR" group-title="FRANCE",Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/arte-highest.m3u8
@@ -37,9 +37,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/res/lcp-dm
 #EXTINF:-1 tvg-id="PublicSenat2424.fr" epg-s="2013" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="FRANCE",Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" epg-s="195" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="FRANCE",TMC [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/res/5iZai2pDH7O9MbM-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/5iZai2pDH7O9MbM.m3u8
 #EXTINF:-1 tvg-id="NT1.fr" epg-s="446" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="FRANCE",TFX [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/res/Ig00JVxfiq3IIc20-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/Ig00JVxfiq3IIc20.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" epg-s="482" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Gulli100x100Couleur.png?h=100" tvg-country="FR" group-title="FRANCE",Gulli [576p-gulli.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/res/gulli-highest.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" epg-s="481" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="FRANCE",BFM TV [1080p-rmcbfmplay.com]
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/
 #EXTINF:-1 tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" epg-s="112" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCI [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/res/Vfshmj48sXztkChU-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/Vfshmj48sXztkChU.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="FranceInfo.fr" epg-s="2111" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png?h=100" tvg-country="FR" group-title="FRANCE",France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
@@ -58,11 +58,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/
 #EXTINF:-1 tvg-id="T18.fr" epg-s="4139" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" tvg-country="FR" group-title="FRANCE",T18 [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" epg-s="1404" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 Séries Films [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/res/86BWnBz4UvhOr6u-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/86BWnBz4UvhOr6u.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/res/9wFmpiAjsQm4yJoE-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/9wFmpiAjsQm4yJoE.m3u8
 #EXTINF:-1 tvg-id="Numero23.fr" epg-s="1402" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC STORY [1080p-rmcbfmplay.com]
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" epg-s="1400" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Découverte [1080p-rmcbfmplay.com]
@@ -72,7 +72,7 @@ https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1752
 #EXTINF:-1 tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-highest.m3u8
 #EXTINF:-1 tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/res/3tcghF4YgcU6qFuU-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gfHjH8eD4m/3tcghF4YgcU6qFuU.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="FRANCE",CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/canalplusclair-hd-highest.m3u8
 
@@ -99,23 +99,23 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backu
 #EXTINF:-1 epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/journal-du-golf-tv-dm-highest.m3u8
 #EXTINF:-1 epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [BACKUP][1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=3qyQt6Kze-mg3MnMnH5Cu4yFfREytKukhofjho54DQnhQZMRQ8ipsJW8h2JFSS07wSQR1auR3DOTmFx565AqRyjdHtxfqSp_xpYvD4dSnoM
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Ds-P9EsLtEQOhj_fz5drc_zF8-u6RJH1qxozV3w-b306RD66sXHBMTHEjGguL1OvjJgIjl3Pfmm7iQco3SLcgwHX0Xxo9ohL2MhYTTSPJAU
 #EXTINF:-1 epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTINF:-1 epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",LA CHAÎNE L'ÉQUIPE [BACKUP][1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=mAOwQzljzIBLS_qa-2Uq8T3_nZYCvzgrmfzrGi2wgNTBIaCC2fEUKo9GCyqVY9F0Kod7KW3pdyg7gZQHuZOesp24fmdWHmhDshd4q-aIWfM
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=_tDJJa_4QIFJY7haNRlGzTCVEu_9UajvKv6EiEb2J94QLZB-JOs_VhR8OMrCH6EKhJQdmnvinf59WKwVPikyXWsE97ChkSMG5NTmO6PdSPM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7UiaCG.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live foot [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-foot-dm-highest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7UiaCG.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live foot [BACKUP][1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=-NeTM9_ARta1eCsxFC1EdO_9t5M9bmOSjmleetzO2TipFvKuvPQbRreUS6Y5WA6lEwpD2-BJ17esHYzIp2JUtgp7abLtNOGb9KEk2VBH_QY
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=s4z33vpBdUbF5vfHr8GkrZtf2EDFcje0QraUaEIw4EeSv_h9SmKBKVtKFcci0_GOci1lggxR5MJlq3X0hevvXMQ0NKKaIS_dY7i_01jrpuk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gfaW8a.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 1 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-1-dm-highest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gfaW8a.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 1 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=n2WOAUKabUJVUREs4QXJk6eDQc7HGpaEJf1fGo9m2IKpkUSdjWALlaS6cXV0ikNYNQ0lGpaIpB0V0P6aW7HsFhREooHM9njzZm9GOcTWCJw
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=XF5IuDbqZ_mUt0jPGNDoczEQ6HbE_vYepgFhrV4_DtUGNgDZ8Bl66NF1Yh7ZyvRIS90_enLLBsqFsVxsUqag2QqxVWdfcvtjlj9UWtyct04
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmXOZME.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 2 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-2-dm-highest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmXOZME.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 2 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=UcWqfXrnQuJ5A6NM6McajbIohVoqeiTUnLW2c3i-AkHHr6aAV88rpcZSVmLfHVG9hBHRpSnfI7u7hnvlLJBoyO_htthtbRzCfeq25SzGUyI
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=s8PNfehS_dZEd9NJdGfnVEgDcv2ZaQZBqz218T1PCqP8VQpRVjhZhTxx8K3Julmf9TTuAfBkYSG8UKfajBXt71MOUOenyrWMOBH-4WDfees
 #EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 3 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-3-dm-highest.m3u8
 #EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 3 [BACKUP][1080p-dailymotion.com][NOT 24/7]
@@ -406,7 +406,7 @@ https://jmp2.uk/sam-FRBD490000195.m3u8
 https://jmp2.uk/sam-FRBD5100001ZA.m3u8
 #EXTINF:-1 tvg-id="FR1400001VU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400001VU_20241015T040223SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Beyblade [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR1400001VU.m3u8
-#EXTINF:-1 tvg-id="FRBD41000051L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000051L_20250624T021414SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Wasabi [1080p-samsungtvplus]
+#EXTINF:-1 tvg-id="FRBD41000051L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000051L_20250708T031704SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Wasabi [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBD41000051L.m3u8
 #EXTINF:-1 tvg-id="FR2600007CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Top Films - Rakuten TV [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR2600007CB.m3u8
@@ -438,7 +438,7 @@ https://jmp2.uk/sam-FRBB340000115.m3u8
 https://jmp2.uk/sam-FRBB50000016B.m3u8
 #EXTINF:-1 tvg-id="FR26000068C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000068C_20241022T044043SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Comédies - Rakuten TV [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR26000068C.m3u8
-#EXTINF:-1 tvg-id="FRBD19000095S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20250624T021406SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Ciné Western [1080p-samsungtvplus]
+#EXTINF:-1 tvg-id="FRBD19000095S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20250708T031656SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Ciné Western [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBD19000095S.m3u8
 #EXTINF:-1 tvg-id="FRBB4600002K5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20241015T042823SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Scream'IN [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBB4600002K5.m3u8
@@ -446,7 +446,7 @@ https://jmp2.uk/sam-FRBB4600002K5.m3u8
 https://jmp2.uk/sam-FR3700003N4.m3u8
 #EXTINF:-1 tvg-id="FR1800003VF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800003VF_20241210T052746SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Shadowz [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR1800003VF.m3u8
-#EXTINF:-1 tvg-id="FR370000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20250624T020530SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Box Office Action [1080p-samsungtvplus]
+#EXTINF:-1 tvg-id="FR370000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20250708T031653SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Box Office Action [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR370000288.m3u8
 #EXTINF:-1 tvg-id="FR2600005LH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20241015T040143SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Drames - Rakuten TV [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR2600005LH.m3u8
@@ -504,7 +504,7 @@ https://jmp2.uk/sam-FRAJ4500020YA.m3u8
 https://jmp2.uk/sam-FRBD1500001BN.m3u8
 #EXTINF:-1 tvg-id="FRBC3900003ZH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20250422T045312SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",MGG FAST [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBC3900003ZH.m3u8
-#EXTINF:-1 tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20250121T012927SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Destination Nature [1080p-samsungtvplus]
+#EXTINF:-1 tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20250708T031659SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Destination Nature [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBC4000001IO.m3u8
 #EXTINF:-1 tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20250218T040019SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",RMC Story [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBD41000097I.m3u8
@@ -542,7 +542,7 @@ https://jmp2.uk/sam-FRBC3900004DS.m3u8
 https://jmp2.uk/sam-FR700001VJ.m3u8
 #EXTINF:-1 tvg-id="FRBB4600001MQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20250307T151932SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Garfield [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBB4600001MQ.m3u8
-#EXTINF:-1 tvg-id="FR1800002C4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800002C4_20241210T052800SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Wonderland Kids TV [1080p-samsungtvplus]
+#EXTINF:-1 tvg-id="FR1800002C4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800002C4_20250708T031706SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Wonderland Kids TV [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR1800002C4.m3u8
 #EXTINF:-1 tvg-id="FRBA3300018I9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20241112T093119SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Xilam TV [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBA3300018I9.m3u8
@@ -660,7 +660,7 @@ https://jmp2.uk/sam-FR4800002NE.m3u8
 https://jmp2.uk/sam-FR5000002SW.m3u8
 #EXTINF:-1 tvg-id="FR300032ZK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300032ZK_20250304T015622SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",IntoCrime [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR300032ZK.m3u8
-#EXTINF:-1 tvg-id="FR600002ZR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20250408T021840SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Immersion - Crime & Justice [1080p-samsungtvplus]
+#EXTINF:-1 tvg-id="FR600002ZR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20250708T031701SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Immersion - Crime & Justice [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR600002ZR.m3u8
 #EXTINF:-1 tvg-id="FR700002UP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20250408T021842SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Real Life [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR700002UP.m3u8
