@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 15/07/2025 13:25:11 CEST+0200
+# Generated on: 15/07/2025 15:25:12 CEST+0200
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -68,7 +68,7 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" epg-s="1400" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Découverte [1080p-rmcbfmplay.com]
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" epg-s="1399" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" tvg-country="FR" group-title="FRANCE",CHERIE 25 [1080p-nrj-play.fr]
-https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1752628811~acl=/*~hmac=f840b07cd8bd45954b0512c8c5b23fcf4c85afeabfc31f67dec85b7374d6bb61
+https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1752672088~acl=/*~hmac=c9b495c60cfe703ebb4c9e1876b3baf04dd8bcb1f08103427415abb8b995f1e4
 #EXTINF:-1 tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 #EXTINF:-1 tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [1080p-tf1.fr]
@@ -96,23 +96,23 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/journal-du-golf-tv-dm.m3u8
 #EXTINF:-1 epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=_OXP4Pq_dEMu0T4YEQUutOsznQfSG_V1a51fuMemuAofO8ymS_LPVdsUQPASD7PQI2vALKSEbuKUr_9JHSfpqOELzSo23wjplp9btwL25II
+https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=fANsnIpASEDkLA4hQ2WNXKbkOu5sfInWHsDhphBlYpwU8skVL_Wz7cdpNhHxE3KQamNlauG_EDth9t6g0UNdC_VikaJRR5PKqJ2oxPBkJU0
 #EXTINF:-1 epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTINF:-1 epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",LA CHAÎNE L'ÉQUIPE [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=np7BosfyHjzGOCPV8VMBn0aT6H5OBLrNU7A30SqesvBUfeoB52nTAUCavBZGPHTMJQ4gxOm7mHOQdITuGhHpCO9yFKkQrbKCXQWFPxNQE8g
+https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=9tgADTuyKBX9LiyMDX57f1mWR7wYi79vmKDhOoHId0CInD4M_rafC8XxXWwzofMaHR4PulNft69WptJWQcJR1KA7nY5r_qEchTRRuDo3bnM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7UiaCG.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live foot [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7UiaCG.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live foot [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=qwj-vOjxQNS4bqhIRKBHCV3kH2jzaSCqJjwaxyi5W0lnJb36EPRrnfcuvFzwuGOr0yoE8uaK9azkkw64Gu63zmAxNX7w8hKHW4rTJBIonGQ
+https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=KCXTr4OkGsJh6v_N1z3NI5yIzXvtxn0mXhqvv1Ulnz6eq6Wngx4eqUEJjL7XRelvI1Qj0K6xM0SJawrvTttR5mAx-gZqYDiP2_mz0-rJUhg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gfaW8a.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 1 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gfaW8a.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 1 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=nec09iEEiS3e_KsYlpl8wbsbE-BBUYpWS5IgNAznwQ3Z8dW9fYSzKAsgaB-ok0o88INJ4ULKBikh0QcEulzfoi5Mw1RkA2D2Ve0Wm1-xXiI
+https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=PA_DEVu26Z6R3ZX3CNB_kae3cO-hL74hEj9XlbtsOE8vYLsFb8Sn24SKXCbIjLH2MOYg4CpIpZCTUExaRWPf-YZtkVgi6hdqgiGjr8Wx6sg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmXOZME.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 2 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmXOZME.png" tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 2 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=2mlsRBtdcxsTiBwymruD1wqjluzwLXoqxp0LZ5qBjSl6Zt4TRJueO5kIhH38g2sAA1RCnBdzrxuIttN6oWwYNKtz8wjL0kZWZHjQOp-CUOk
+https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=6RbCUbUL2oBUHBXUlPfoF0pZIApis8aJEEleVEh16YYQ-5ObyyFpXFveKrFpYZ2VVSWFpwPmn6O_lMfBDHZOk8xXN9foC3bvcECpIe-qvLk
 #EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 3 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3-dm.m3u8
 #EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 3 [BACKUP][1080p-dailymotion.com][NOT 24/7]
@@ -310,7 +310,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region
 
 #NRJ (1)
 #EXTINF:-1 tvg-id="Cherie25.fr" epg-s="1399" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" tvg-country="FR" group-title="NRJ",CHERIE 25 [1080p-nrj-play.fr]
-https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1752628811~acl=/*~hmac=f840b07cd8bd45954b0512c8c5b23fcf4c85afeabfc31f67dec85b7374d6bb61
+https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1752672088~acl=/*~hmac=c9b495c60cfe703ebb4c9e1876b3baf04dd8bcb1f08103427415abb8b995f1e4
 
 #RMC-BFM (24)
 #EXTINF:-1 tvg-id="BFMTV.fr" epg-s="481" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="RMC-BFM",BFM TV [1080p-rmcbfmplay.com]
