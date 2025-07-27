@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 27/07/2025 13:25:32 CEST+0200
+# Generated on: 27/07/2025 15:25:32 CEST+0200
 
 #FRANCE (33)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -68,7 +68,7 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" epg-s="1400" tvg-country="FR" group-title="FRANCE",24. RMC Découverte [1080p-rmcbfmplay.com]
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" epg-s="1399" tvg-country="FR" group-title="FRANCE",25. CHERIE 25 [1080p-nrj-play.fr]
-https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1753665684~acl=/*~hmac=08c763e292eef06a9c4e339fd053f7931696c672e159177a0331c5b55f0e2399
+https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1753708935~acl=/*~hmac=6901212deb3b200d18f0ab804407d733b78dd77e8188ec5df165877e0cdc3b97
 #EXTINF:-1 tvg-chno="34" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-country="FR" group-title="FRANCE",34. LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-country="FR" group-title="FRANCE",35. LE FIGARO TV [1080p-tf1.fr]
