@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 30/07/2025 06:22:36 CEST+0200
-#TOTAL: 137
+# Generated on: 31/07/2025 06:23:38 CEST+0200
+#TOTAL: 139
 
 #Cine (25)
 #EXTINF:-1 tvg-chno="581" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20250211T014052SQUARE.png" tvg-country="ES" group-title="Cine",581. Runtime Familia
@@ -88,7 +88,7 @@ https://jmp2.uk/sam-ES33000079W.m3u8
 #EXTINF:-1 tvg-chno="2061" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250527T014638SQUARE.png" tvg-country="ES" group-title="Crimen",2061. Todo Crimen
 https://jmp2.uk/sam-ES1600004JV.m3u8
 
-#Deporte (11)
+#Deporte (13)
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20250513T005437SQUARE.png" tvg-country="ES" group-title="Deporte",616. FIFA+
 https://jmp2.uk/sam-ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250708T030948SQUARE.png" tvg-country="ES" group-title="Deporte",617. Tennis Channel
@@ -111,8 +111,12 @@ https://jmp2.uk/sam-ESBC1700002IM.m3u8
 https://jmp2.uk/sam-ES3400002PY.m3u8
 #EXTINF:-1 tvg-chno="1972" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250513T005456SQUARE.png" tvg-country="ES" group-title="Deporte",1972. Top Gear
 https://jmp2.uk/sam-ES2700002YP.m3u8
+#EXTINF:-1 tvg-chno="2109" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES20000065W_20250729T045108SQUARE.png" tvg-country="ES" group-title="Deporte",2109. Tennis+
+https://jmp2.uk/sam-ES20000065W.m3u8
+#EXTINF:-1 tvg-chno="2110" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600005T1_20250729T045105SQUARE.png" tvg-country="ES" group-title="Deporte",2110. Rally.TV FAST+
+https://jmp2.uk/sam-ES1600005T1.m3u8
 
-#Documentales (11)
+#Documentales (12)
 #EXTINF:-1 tvg-chno="626" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20250715T004327SQUARE.png" tvg-country="ES" group-title="Documentales",626. Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
 #EXTINF:-1 tvg-chno="627" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png" tvg-country="ES" group-title="Documentales",627. Royalworld - Nobleza y Dinastias
@@ -135,6 +139,8 @@ https://jmp2.uk/sam-ES1600002QL.m3u8
 https://jmp2.uk/sam-ES1400002CJ.m3u8
 #EXTINF:-1 tvg-chno="2064" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20250527T014628SQUARE.png" tvg-country="ES" group-title="Documentales",2064. Naturaleza
 https://jmp2.uk/sam-ES1600003FF.m3u8
+#EXTINF:-1 tvg-chno="2111" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20250729T045102SQUARE.png" tvg-country="ES" group-title="Documentales",2111. Ice Pilots
+https://jmp2.uk/sam-ES24000028L.m3u8
 
 #Entretenimiento (20)
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" tvg-country="ES" group-title="Entretenimiento",633. Estilo y Vida – Rakuten TV
@@ -163,8 +169,6 @@ https://jmp2.uk/sam-ESBD1300004IG.m3u8
 https://jmp2.uk/sam-ESBA3300033PL.m3u8
 #EXTINF:-1 tvg-chno="648" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241106T142207SQUARE.png" tvg-country="ES" group-title="Entretenimiento",648. Teen Vee
 https://jmp2.uk/sam-ESBC4700003RJ.m3u8
-#EXTINF:-1 tvg-chno="649" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20250729T045056SQUARE.png" tvg-country="ES" group-title="Entretenimiento",649. Hoguera
-https://jmp2.uk/sam-ESBD1500001SD.m3u8
 #EXTINF:-1 tvg-chno="1922" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20250218T035951SQUARE.png" tvg-country="ES" group-title="Entretenimiento",1922. 2M
 https://jmp2.uk/sam-ES4700001VS.m3u8
 #EXTINF:-1 tvg-chno="1940" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" tvg-country="ES" group-title="Entretenimiento",1940. Anime Visión
@@ -177,6 +181,8 @@ https://jmp2.uk/sam-ES3300004P0.m3u8
 https://jmp2.uk/sam-ES7000056Z.m3u8
 #EXTINF:-1 tvg-chno="1976" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500002NY_20250408T021758SQUARE.png" tvg-country="ES" group-title="Entretenimiento",1976. H2O & Friends
 https://jmp2.uk/sam-ES500002NY.m3u8
+#EXTINF:-1 tvg-chno="2112" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png" tvg-country="ES" group-title="Entretenimiento",2112. Fireplace Vibes
+https://jmp2.uk/sam-ES2200001SF.m3u8
 
 #Música (10)
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png" tvg-country="ES" group-title="Música",650. Vevo Latino
@@ -266,7 +272,7 @@ https://jmp2.uk/sam-ES300034BT.m3u8
 #EXTINF:-1 tvg-chno="2077" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400004SS_20250624T020505SQUARE.png" tvg-country="ES" group-title="Noticias",2077. Sky News International
 https://jmp2.uk/sam-ES3400004SS.m3u8
 
-#Serie (9)
+#Serie (8)
 #EXTINF:-1 tvg-chno="693" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20250513T005442SQUARE.png" tvg-country="ES" group-title="Serie",693. Cuéntame cómo pasó
 https://jmp2.uk/sam-ES400002P5.m3u8
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20250624T022312SQUARE.png" tvg-country="ES" group-title="Serie",695. Baywatch – Los Vigilantes de la Playa
@@ -275,8 +281,6 @@ https://jmp2.uk/sam-ESBD1300001EP.m3u8
 https://jmp2.uk/sam-ESBA3300039ZX.m3u8
 #EXTINF:-1 tvg-chno="698" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png" tvg-country="ES" group-title="Serie",698. Corazón
 https://jmp2.uk/sam-ESBD1300003VN.m3u8
-#EXTINF:-1 tvg-chno="699" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700001G5_20250729T045053SQUARE.png" tvg-country="ES" group-title="Serie",699. Doctor Who
-https://jmp2.uk/sam-ES2700001G5.m3u8
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20241106T142333SQUARE.png" tvg-country="ES" group-title="Serie",700. BBC Drama
 https://jmp2.uk/sam-ES2900001DQ.m3u8
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20241022T051151SQUARE.png" tvg-country="ES" group-title="Serie",701. Vive Kanal D Drama

@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 30/07/2025 06:22:36 CEST+0200
-#TOTAL: 145
+# Generated on: 31/07/2025 06:23:38 CEST+0200
+#TOTAL: 147
 
 #Anime (4)
 #EXTINF:-1 tvg-id="DEBD390000181" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD390000181_20250527T015732SQUARE.png" tvg-country="DE" group-title="Anime",Aniverse TV
@@ -101,8 +101,6 @@ https://jmp2.uk/sam-DEBC2200003Z3.m3u8
 https://jmp2.uk/sam-DEBD2400001PC.m3u8
 #EXTINF:-1 tvg-id="DE1100001CQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100001CQ_20250107T024855SQUARE.png" tvg-country="DE" group-title="Entertainment",Landlust TV
 https://jmp2.uk/sam-DE1100001CQ.m3u8
-#EXTINF:-1 tvg-id="DEBD1500001VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1500001VJ_20250729T044920SQUARE.png" tvg-country="DE" group-title="Entertainment",Lagerfeuer
-https://jmp2.uk/sam-DEBD1500001VJ.m3u8
 #EXTINF:-1 tvg-id="DEBA3300022IF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300022IF_20250107T023902SQUARE.png" tvg-country="DE" group-title="Entertainment",Fashion TV
 https://jmp2.uk/sam-DEBA3300022IF.m3u8
 #EXTINF:-1 tvg-id="DE2600002DK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600002DK_20250120T075835SQUARE.png" tvg-country="DE" group-title="Entertainment",Freitag Nacht News
@@ -111,6 +109,8 @@ https://jmp2.uk/sam-DE2600002DK.m3u8
 https://jmp2.uk/sam-DE500002LD.m3u8
 #EXTINF:-1 tvg-id="DE4800003M6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20250422T045252SQUARE.png" tvg-country="DE" group-title="Entertainment",Hochzeit auf den ersten Blick
 https://jmp2.uk/sam-DE4800003M6.m3u8
+#EXTINF:-1 tvg-id="DE22000012Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE22000012Y_20250729T044923SQUARE.png" tvg-country="DE" group-title="Entertainment",Fireplace Vibes
+https://jmp2.uk/sam-DE22000012Y.m3u8
 
 #Filme (25)
 #EXTINF:-1 tvg-id="DEBA3300040CR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20250120T075816SQUARE.png" tvg-country="DE" group-title="Filme",Moviedome Family
@@ -290,7 +290,7 @@ https://jmp2.uk/sam-DE1000001CT.m3u8
 #EXTINF:-1 tvg-id="DE400011F2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400011F2_20250422T045301SQUARE.png" tvg-country="DE" group-title="Serien",Telenovela ZDF
 https://jmp2.uk/sam-DE400011F2.m3u8
 
-#Sport (13)
+#Sport (15)
 #EXTINF:-1 tvg-id="DEBA2200008NL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20250107T024021SQUARE.png" tvg-country="DE" group-title="Sport",Tennis Channel Deutschland
 https://jmp2.uk/sam-DEBA2200008NL.m3u8
 #EXTINF:-1 tvg-id="DEBC2300001EU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20250708T031558SQUARE.png" tvg-country="DE" group-title="Sport",Red Bull TV
@@ -317,3 +317,7 @@ https://jmp2.uk/sam-DEAJ0500428A.m3u8
 https://jmp2.uk/sam-DEBD29000013S.m3u8
 #EXTINF:-1 tvg-id="DE400010IF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400010IF_20250708T031556SQUARE.png" tvg-country="DE" group-title="Sport",DF1
 https://jmp2.uk/sam-DE400010IF.m3u8
+#EXTINF:-1 tvg-id="DE2000007B5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000007B5_20250729T044929SQUARE.png" tvg-country="DE" group-title="Sport",Tennis+
+https://jmp2.uk/sam-DE2000007B5.m3u8
+#EXTINF:-1 tvg-id="DE1600007AQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1600007AQ_20250729T044926SQUARE.png" tvg-country="DE" group-title="Sport",Rally.TV FAST+
+https://jmp2.uk/sam-DE1600007AQ.m3u8
