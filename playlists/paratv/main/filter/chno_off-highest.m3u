@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 10/08/2025 01:25:33 CEST+0200
+# Generated on: 10/08/2025 02:25:34 CEST+0200
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/res/gul
 #EXTINF:-1 tvg-id="BFMTV.fr" epg-s="481" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="FRANCE",BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-canalplus.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" epg-s="112" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCI [720p-tf1.fr]
@@ -74,13 +74,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-
 #EXTINF:-1 tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/CM2bLK56hr1C/res/06nuAE1oJBkJzoq-highest.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="FRANCE",CANAL+ EN CLAIR [1080p-canalplus.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/canalplusclair-hd-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 
 #CANALPLUS (4)
 #EXTINF:-1 epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="CANALPLUS",CANAL+ EN CLAIR [1080p-canalplus.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/canalplusclair-hd-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="CANALPLUS",C NEWS [1080p-canalplus.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
 #EXTINF:-1 epg-s="458" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" tvg-country="FR" group-title="CANALPLUS",CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cstar-dm-highest.m3u8
 #EXTINF:-1 epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="CANALPLUS",C NEWS [1080p-dailymotion.com]
@@ -134,7 +134,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-
 #EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 7 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-7-dm.m3u8
 
-#FRANCE.TV (41)
+#FRANCE.TV (39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="France2.fr" epg-s="4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -250,14 +250,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 epg-s="1944" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Rhone-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE.TV",FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-rhone-alpes-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",GUADELOUPE LA 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guadeloupe-1ere.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",MARTINIQUE LA 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/martinique-1ere.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",NOUVELLE-CALÉDONIE LA 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/nouvelle-caledonie-1ere-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tM9y14c.png" tvg-country="FR" group-title="EQUIDIA",LE GRAND DIRECT [1080p-equidia.fr]
