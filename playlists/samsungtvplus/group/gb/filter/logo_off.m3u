@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 31/07/2025 06:23:38 CEST+0200
-#TOTAL: 179
+# Generated on: 14/08/2025 06:23:08 CEST+0200
+#TOTAL: 189
 
-#Crime (9)
+#Crime (10)
 #EXTINF:-1 tvg-chno="851" tvg-id="GBBD3700001AB" tvg-country="GB" group-title="Crime",851. DATELINE 24/7
 https://jmp2.uk/sam-GBBD3700001AB.m3u8
 #EXTINF:-1 tvg-chno="852" tvg-id="GBBA3300038UZ" tvg-country="GB" group-title="Crime",852. Homicide Hunter
@@ -21,8 +21,10 @@ https://jmp2.uk/sam-GBAK3504516A.m3u8
 https://jmp2.uk/sam-GBAK3504518A.m3u8
 #EXTINF:-1 tvg-chno="875" tvg-id="GBBD4100006KV" tvg-country="GB" group-title="Crime",875. Born to Kill
 https://jmp2.uk/sam-GBBD4100006KV.m3u8
+#EXTINF:-1 tvg-chno="2138" tvg-id="GB4900001NW" tvg-country="GB" group-title="Crime",2138. Deadly Women: powered by Banijay
+https://jmp2.uk/sam-GB4900001NW.m3u8
 
-#Documentaries (29)
+#Documentaries (32)
 #EXTINF:-1 tvg-chno="859" tvg-id="GBAK3504500A" tvg-country="GB" group-title="Documentaries",859. 5 Cops
 https://jmp2.uk/sam-GBAK3504500A.m3u8
 #EXTINF:-1 tvg-chno="860" tvg-id="GBAK3504501A" tvg-country="GB" group-title="Documentaries",860. 5 Exploring Britain
@@ -81,6 +83,12 @@ https://jmp2.uk/sam-GB2700002F7.m3u8
 https://jmp2.uk/sam-GB3700005QK.m3u8
 #EXTINF:-1 tvg-chno="1016" tvg-id="GB2700013Y7" tvg-country="GB" group-title="Documentaries",1016. Sky Sports Stories
 https://jmp2.uk/sam-GB2700013Y7.m3u8
+#EXTINF:-1 tvg-chno="2139" tvg-id="GB200000940" tvg-country="GB" group-title="Documentaries",2139. The Hotel Inspector
+https://jmp2.uk/sam-GB200000940.m3u8
+#EXTINF:-1 tvg-chno="2140" tvg-id="GB28000063B" tvg-country="GB" group-title="Documentaries",2140. Mayday: Air Disaster
+https://jmp2.uk/sam-GB28000063B.m3u8
+#EXTINF:-1 tvg-chno="2141" tvg-id="GB2000008XP" tvg-country="GB" group-title="Documentaries",2141. Ghost Hunters
+https://jmp2.uk/sam-GB2000008XP.m3u8
 
 #Entertainment (21)
 #EXTINF:-1 tvg-chno="891" tvg-id="GBBD3100003J5" tvg-country="GB" group-title="Entertainment",891. U&Laughs
@@ -180,7 +188,7 @@ https://jmp2.uk/sam-GB2600017PX.m3u8
 #EXTINF:-1 tvg-chno="2066" tvg-id="GB170000351" tvg-country="GB" group-title="Kids",2066. POP Up
 https://jmp2.uk/sam-GB170000351.m3u8
 
-#Movies (21)
+#Movies (22)
 #EXTINF:-1 tvg-chno="940" tvg-id="GB2600020OP" tvg-country="GB" group-title="Movies",940. Comedy Movies - Rakuten TV
 https://jmp2.uk/sam-GB2600020OP.m3u8
 #EXTINF:-1 tvg-chno="941" tvg-id="GBBC900007Q5" tvg-country="GB" group-title="Movies",941. Great! Movies
@@ -223,6 +231,8 @@ https://jmp2.uk/sam-GB2600015OS.m3u8
 https://jmp2.uk/sam-GB2600013BO.m3u8
 #EXTINF:-1 tvg-chno="2067" tvg-id="GB3000370X" tvg-country="GB" group-title="Movies",2067. GREAT! Mystery
 https://jmp2.uk/sam-GB3000370X.m3u8
+#EXTINF:-1 tvg-chno="2142" tvg-id="GB21000038X" tvg-country="GB" group-title="Movies",2142. Genie K-Movie
+https://jmp2.uk/sam-GB21000038X.m3u8
 
 #Music (13)
 #EXTINF:-1 tvg-chno="961" tvg-id="GBBC19000017V" tvg-country="GB" group-title="Music",961. Vevo Pop
@@ -252,7 +262,7 @@ https://jmp2.uk/sam-GB300032DX.m3u8
 #EXTINF:-1 tvg-chno="1928" tvg-id="GB300033HI" tvg-country="GB" group-title="Music",1928. Now 90's & 00's
 https://jmp2.uk/sam-GB300033HI.m3u8
 
-#Nature (10)
+#Nature (11)
 #EXTINF:-1 tvg-chno="975" tvg-id="GBBB5000002PL" tvg-country="GB" group-title="Nature",975. Wild Planet
 https://jmp2.uk/sam-GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-chno="976" tvg-id="GBBC900015D3" tvg-country="GB" group-title="Nature",976. Adventure Earth
@@ -273,6 +283,8 @@ https://jmp2.uk/sam-GBBC300003UQ.m3u8
 https://jmp2.uk/sam-GBBD500001F5.m3u8
 #EXTINF:-1 tvg-chno="1947" tvg-id="GB700006X7" tvg-country="GB" group-title="Nature",1947. Terra Mater WILD
 https://jmp2.uk/sam-GB700006X7.m3u8
+#EXTINF:-1 tvg-chno="2143" tvg-id="GB2100006GK" tvg-country="GB" group-title="Nature",2143. River Monsters
+https://jmp2.uk/sam-GB2100006GK.m3u8
 
 #News (13)
 #EXTINF:-1 tvg-chno="985" tvg-id="GBBD8000016N" tvg-country="GB" group-title="News",985. CNN
@@ -338,7 +350,7 @@ https://jmp2.uk/sam-GB500006EX.m3u8
 #EXTINF:-1 tvg-chno="2115" tvg-id="GB2000007ID" tvg-country="GB" group-title="Reality",2115. LADbible
 https://jmp2.uk/sam-GB2000007ID.m3u8
 
-#Sport (14)
+#Sport (15)
 #EXTINF:-1 tvg-chno="1014" tvg-id="GBBA33000529G" tvg-country="GB" group-title="Sport",1014. Tennis Channel
 https://jmp2.uk/sam-GBBA33000529G.m3u8
 #EXTINF:-1 tvg-chno="1015" tvg-id="GBBD2300003IK" tvg-country="GB" group-title="Sport",1015. Red Bull TV
@@ -367,8 +379,10 @@ https://jmp2.uk/sam-GB2000010ML.m3u8
 https://jmp2.uk/sam-GB330000144.m3u8
 #EXTINF:-1 tvg-chno="2116" tvg-id="GB1600007CB" tvg-country="GB" group-title="Sport",2116. Rally.TV FAST+
 https://jmp2.uk/sam-GB1600007CB.m3u8
+#EXTINF:-1 tvg-chno="2144" tvg-id="GB2200002CC" tvg-country="GB" group-title="Sport",2144. GFN Soccer TV
+https://jmp2.uk/sam-GB2200002CC.m3u8
 
-#TV Series (7)
+#TV Series (10)
 #EXTINF:-1 tvg-chno="1025" tvg-id="GBAK3504525A" tvg-country="GB" group-title="TV Series",1025. Pluto TV Classic TV
 https://jmp2.uk/sam-GBAK3504525A.m3u8
 #EXTINF:-1 tvg-chno="1026" tvg-id="GB37000041H" tvg-country="GB" group-title="TV Series",1026. Nashville
@@ -383,3 +397,9 @@ https://jmp2.uk/sam-GB3700007OZ.m3u8
 https://jmp2.uk/sam-GB5100001EW.m3u8
 #EXTINF:-1 tvg-chno="1982" tvg-id="GB900005KI" tvg-country="GB" group-title="TV Series",1982. Demand Drama
 https://jmp2.uk/sam-GB900005KI.m3u8
+#EXTINF:-1 tvg-chno="2145" tvg-id="GB280000829" tvg-country="GB" group-title="TV Series",2145. Poldark
+https://jmp2.uk/sam-GB280000829.m3u8
+#EXTINF:-1 tvg-chno="2146" tvg-id="GB2100005YU" tvg-country="GB" group-title="TV Series",2146. Rookie Blue
+https://jmp2.uk/sam-GB2100005YU.m3u8
+#EXTINF:-1 tvg-chno="2147" tvg-id="GB2100002R7" tvg-country="GB" group-title="TV Series",2147. Genie K-Drama
+https://jmp2.uk/sam-GB2100002R7.m3u8
