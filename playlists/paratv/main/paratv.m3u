@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 19/08/2025 13:25:32 CEST+0200
+# Generated on: 19/08/2025 14:25:32 CEST+0200
 
 #FRANCE (32)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equi
 #EXTINF:-1 tvg-chno="98" tvg-country="FR" group-title="LEQUIPE.FR",98. L'Équipe live 7 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-7-dm.m3u8
 
-#FRANCE.TV (38)
+#FRANCE.TV (39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="110" tvg-id="France2.fr" epg-s="4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE.TV",110. FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -247,6 +247,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="147" epg-s="1944" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Rhone-Alpes-Color.jpg?h=100" tvg-country="FR" group-title="FRANCE.TV",147. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="148" tvg-country="FR" group-title="FRANCE.TV",148. GUYANE LA 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guyane-1ere.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://i.imgur.com/tM9y14c.png" tvg-country="FR" group-title="EQUIDIA",300. LE GRAND DIRECT [1080p-equidia.fr]
