@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 21/06/2025 18:25:10 CEST+0200
+# Generated on: 07/09/2025 04:25:32 CEST+0200
 
-#SWITZERLAND (4)
+#SWITZERLAND (5)
 #EXTINF:-1 tvg-chno="511" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac1-ch.png" tvg-country="CH" group-title="SWITZERLAND",511. carac1 [1080p-carac.tv]
 https://rougetv.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac2-ch.png" tvg-country="CH" group-title="SWITZERLAND",512. carac2 [1080p-carac.tv]
@@ -10,3 +10,5 @@ https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 https://lfmmd.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac4-ch.png" tvg-country="CH" group-title="SWITZERLAND",514. carac4 [1080p-carac.tv]
 https://lfmmd.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+#EXTINF:-1 tvg-chno="515" tvg-country="CH" group-title="SWITZERLAND",515. carac5 [1080p-carac.tv]
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
