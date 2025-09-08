@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 07/09/2025 22:25:32 CEST+0200
+# Generated on: 08/09/2025 10:25:33 CEST+0200
 
 #FRANCE.TV (38)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-chno="112" tvg-id="France4.fr" epg-s="78" tvg-country="FR" group-title="FRANCE.TV",112. FRANCE 4 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="113" tvg-id="France5.fr" epg-s="47" tvg-country="FR" group-title="FRANCE.TV",113. FRANCE 5 [1080p-france.tv]
+#EXTINF:-1 tvg-chno="113" tvg-id="France5.fr" epg-s="47" tvg-country="FR" group-title="FRANCE.TV",113. FRANCE 5 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="114" tvg-id="FranceInfo.fr" epg-s="2111" tvg-country="FR" group-title="FRANCE.TV",114. FRANCEINFO [1080p-france.tv]
