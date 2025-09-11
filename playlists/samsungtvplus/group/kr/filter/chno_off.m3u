@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 04/09/2025 06:24:28 CEST+0200
-#TOTAL: 148
+# Generated on: 11/09/2025 06:23:49 CEST+0200
+#TOTAL: 152
 
-#뉴스 (8)
+#뉴스 (9)
 #EXTINF:-1 tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-country="KR" group-title="뉴스",연합뉴스TV
 https://jmp2.uk/stvp-KRBD1400001ED
 #EXTINF:-1 tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20250811T061417SQUARE.png" tvg-country="KR" group-title="뉴스",YTN
@@ -17,8 +17,10 @@ https://jmp2.uk/stvp-KRBB500039Y5
 https://jmp2.uk/stvp-KRBB500044GP
 #EXTINF:-1 tvg-id="KRBD3100006X4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20250402T010038SQUARE.png" tvg-country="KR" group-title="뉴스",글로벌 뉴스 by LeadStory
 https://jmp2.uk/stvp-KRBD3100006X4
-#EXTINF:-1 tvg-id="KRBC4000003J2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20250903T063707SQUARE.png" tvg-country="KR" group-title="뉴스",MBN 뉴스
+#EXTINF:-1 tvg-id="KRBC4000003J2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20250910T023907SQUARE.png" tvg-country="KR" group-title="뉴스",MBN 뉴스
 https://jmp2.uk/stvp-KRBC4000003J2
+#EXTINF:-1 tvg-id="KR2200005YM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200005YM_20250910T005024SQUARE.png" tvg-country="KR" group-title="뉴스",연합뉴스경제TV
+https://jmp2.uk/stvp-KR2200005YM
 
 #드라마 (30)
 #EXTINF:-1 tvg-id="KRBB42000061Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20250827T010114SQUARE.png" tvg-country="KR" group-title="드라마",SBS 야인시대
@@ -142,7 +144,13 @@ https://jmp2.uk/stvp-KRBB420000769
 #EXTINF:-1 tvg-id="KRBD370000134" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20250402T010517SQUARE.png" tvg-country="KR" group-title="시사/교양",TED
 https://jmp2.uk/stvp-KRBD370000134
 
-#어린이 (10)
+#실시간 (2)
+#EXTINF:-1 tvg-id="KR2200003VB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200003VB_20250910T005019SQUARE.png" tvg-country="KR" group-title="실시간",JTBC
+https://jmp2.uk/stvp-KR2200003VB
+#EXTINF:-1 tvg-id="KR22000066Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR22000066Q_20250910T005021SQUARE.png" tvg-country="KR" group-title="실시간",MBN
+https://jmp2.uk/stvp-KR22000066Q
+
+#어린이 (11)
 #EXTINF:-1 tvg-id="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20250604T010127SQUARE.png" tvg-country="KR" group-title="어린이",Animax 요리왕 비룡 더 마스터
 https://jmp2.uk/stvp-KRBC3200001VC
 #EXTINF:-1 tvg-id="KRBC32000200B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20250402T010131SQUARE.png" tvg-country="KR" group-title="어린이",투니버스 명탐정 코난 (자막)
@@ -163,6 +171,8 @@ https://jmp2.uk/stvp-KRBC3500013VH
 https://jmp2.uk/stvp-KR700007M0
 #EXTINF:-1 tvg-id="KR10000017U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000017U_20250402T010134SQUARE.png" tvg-country="KR" group-title="어린이",투니버스 짱구는 못말려
 https://jmp2.uk/stvp-KR10000017U
+#EXTINF:-1 tvg-id="KR2200004C1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200004C1_20250910T005026SQUARE.png" tvg-country="KR" group-title="어린이",캐리TV
+https://jmp2.uk/stvp-KR2200004C1
 
 #영화 (5)
 #EXTINF:-1 tvg-id="KRBC32000191N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20250402T010148SQUARE.png" tvg-country="KR" group-title="영화",CJ ENM MOVIE
@@ -173,7 +183,7 @@ https://jmp2.uk/stvp-KRBD26000011V
 https://jmp2.uk/stvp-KR12000017G
 #EXTINF:-1 tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20250402T010410SQUARE.png" tvg-country="KR" group-title="영화",PLAYGRAM MOVIES
 https://jmp2.uk/stvp-KRBC3200004D1
-#EXTINF:-1 tvg-id="KR2000012AI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20250827T005932SQUARE.png" tvg-country="KR" group-title="영화",Genie 액션특선
+#EXTINF:-1 tvg-id="KR2000012AI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20250910T005016SQUARE.png" tvg-country="KR" group-title="영화",Genie 추석 특집
 https://jmp2.uk/stvp-KR2000012AI
 
 #예능 (65)
@@ -213,7 +223,7 @@ https://jmp2.uk/stvp-KRBD27000069Q
 https://jmp2.uk/stvp-KRBB5000069BS
 #EXTINF:-1 tvg-id="KRBD2700001QR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20250827T010134SQUARE.png" tvg-country="KR" group-title="예능",TV조선 생존왕
 https://jmp2.uk/stvp-KRBD2700001QR
-#EXTINF:-1 tvg-id="KRBD2700002IV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20250827T010129SQUARE.png" tvg-country="KR" group-title="예능",TV조선 미스터로또
+#EXTINF:-1 tvg-id="KRBD2700002IV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20250910T005011SQUARE.png" tvg-country="KR" group-title="예능",TV조선 미스터로또
 https://jmp2.uk/stvp-KRBD2700002IV
 #EXTINF:-1 tvg-id="KRBD4300003MW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300003MW_20250827T005957SQUARE.png" tvg-country="KR" group-title="예능",JTBC 크라임씬3
 https://jmp2.uk/stvp-KRBD4300003MW
@@ -291,7 +301,7 @@ https://jmp2.uk/stvp-KR700006WZ
 https://jmp2.uk/stvp-KRBC3200032ZM
 #EXTINF:-1 tvg-id="KRBC3200014XZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250827T010140SQUARE.png" tvg-country="KR" group-title="예능",tvN STORY
 https://jmp2.uk/stvp-KRBC3200014XZ
-#EXTINF:-1 tvg-id="KRBC8000144F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000144F_20250827T010157SQUARE.png" tvg-country="KR" group-title="예능",tvN 알쓸범잡 1~2
+#EXTINF:-1 tvg-id="KRBC8000144F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000144F_20250910T005014SQUARE.png" tvg-country="KR" group-title="예능",tvN 알쓸범잡 1~2
 https://jmp2.uk/stvp-KRBC8000144F
 #EXTINF:-1 tvg-id="KRBC3200030BO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200030BO_20250827T010322SQUARE.png" tvg-country="KR" group-title="예능",tvN 삼시세끼 고창편
 https://jmp2.uk/stvp-KRBC3200030BO

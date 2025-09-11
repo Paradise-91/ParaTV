@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 04/09/2025 06:24:28 CEST+0200
-#TOTAL: 148
+# Generated on: 11/09/2025 06:23:49 CEST+0200
+#TOTAL: 152
 
-#뉴스 (8)
+#뉴스 (9)
 #EXTINF:-1 tvg-chno="1321" tvg-id="KRBD1400001ED" tvg-country="KR" group-title="뉴스",1321. 연합뉴스TV
 https://jmp2.uk/stvp-KRBD1400001ED
 #EXTINF:-1 tvg-chno="1322" tvg-id="KRBD2400001XD" tvg-country="KR" group-title="뉴스",1322. YTN
@@ -19,6 +19,8 @@ https://jmp2.uk/stvp-KRBB500044GP
 https://jmp2.uk/stvp-KRBD3100006X4
 #EXTINF:-1 tvg-chno="1341" tvg-id="KRBC4000003J2" tvg-country="KR" group-title="뉴스",1341. MBN 뉴스
 https://jmp2.uk/stvp-KRBC4000003J2
+#EXTINF:-1 tvg-chno="2218" tvg-id="KR2200005YM" tvg-country="KR" group-title="뉴스",2218. 연합뉴스경제TV
+https://jmp2.uk/stvp-KR2200005YM
 
 #드라마 (30)
 #EXTINF:-1 tvg-chno="1328" tvg-id="KRBB42000061Z" tvg-country="KR" group-title="드라마",1328. SBS 야인시대
@@ -142,7 +144,13 @@ https://jmp2.uk/stvp-KRBB420000769
 #EXTINF:-1 tvg-chno="1369" tvg-id="KRBD370000134" tvg-country="KR" group-title="시사/교양",1369. TED
 https://jmp2.uk/stvp-KRBD370000134
 
-#어린이 (10)
+#실시간 (2)
+#EXTINF:-1 tvg-chno="2219" tvg-id="KR2200003VB" tvg-country="KR" group-title="실시간",2219. JTBC
+https://jmp2.uk/stvp-KR2200003VB
+#EXTINF:-1 tvg-chno="2220" tvg-id="KR22000066Q" tvg-country="KR" group-title="실시간",2220. MBN
+https://jmp2.uk/stvp-KR22000066Q
+
+#어린이 (11)
 #EXTINF:-1 tvg-chno="1338" tvg-id="KRBC3200001VC" tvg-country="KR" group-title="어린이",1338. Animax 요리왕 비룡 더 마스터
 https://jmp2.uk/stvp-KRBC3200001VC
 #EXTINF:-1 tvg-chno="1370" tvg-id="KRBC32000200B" tvg-country="KR" group-title="어린이",1370. 투니버스 명탐정 코난 (자막)
@@ -163,6 +171,8 @@ https://jmp2.uk/stvp-KRBC3500013VH
 https://jmp2.uk/stvp-KR700007M0
 #EXTINF:-1 tvg-chno="2089" tvg-id="KR10000017U" tvg-country="KR" group-title="어린이",2089. 투니버스 짱구는 못말려
 https://jmp2.uk/stvp-KR10000017U
+#EXTINF:-1 tvg-chno="2221" tvg-id="KR2200004C1" tvg-country="KR" group-title="어린이",2221. 캐리TV
+https://jmp2.uk/stvp-KR2200004C1
 
 #영화 (5)
 #EXTINF:-1 tvg-chno="1379" tvg-id="KRBC32000191N" tvg-country="KR" group-title="영화",1379. CJ ENM MOVIE
@@ -173,7 +183,7 @@ https://jmp2.uk/stvp-KRBD26000011V
 https://jmp2.uk/stvp-KR12000017G
 #EXTINF:-1 tvg-chno="1383" tvg-id="KRBC3200004D1" tvg-country="KR" group-title="영화",1383. PLAYGRAM MOVIES
 https://jmp2.uk/stvp-KRBC3200004D1
-#EXTINF:-1 tvg-chno="2171" tvg-id="KR2000012AI" tvg-country="KR" group-title="영화",2171. Genie 액션특선
+#EXTINF:-1 tvg-chno="2171" tvg-id="KR2000012AI" tvg-country="KR" group-title="영화",2171. Genie 추석 특집
 https://jmp2.uk/stvp-KR2000012AI
 
 #예능 (65)

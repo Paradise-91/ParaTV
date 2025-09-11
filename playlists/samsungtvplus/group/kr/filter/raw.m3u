@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 04/09/2025 06:24:28 CEST+0200
-#TOTAL: 148
+# Generated on: 11/09/2025 06:23:49 CEST+0200
+#TOTAL: 152
 
-#뉴스 (8)
+#뉴스 (9)
 #EXTINF:-1,연합뉴스TV
 https://jmp2.uk/stvp-KRBD1400001ED
 #EXTINF:-1,YTN
@@ -19,6 +19,8 @@ https://jmp2.uk/stvp-KRBB500044GP
 https://jmp2.uk/stvp-KRBD3100006X4
 #EXTINF:-1,MBN 뉴스
 https://jmp2.uk/stvp-KRBC4000003J2
+#EXTINF:-1,연합뉴스경제TV
+https://jmp2.uk/stvp-KR2200005YM
 
 #드라마 (30)
 #EXTINF:-1,SBS 야인시대
@@ -142,7 +144,13 @@ https://jmp2.uk/stvp-KRBB420000769
 #EXTINF:-1,TED
 https://jmp2.uk/stvp-KRBD370000134
 
-#어린이 (10)
+#실시간 (2)
+#EXTINF:-1,JTBC
+https://jmp2.uk/stvp-KR2200003VB
+#EXTINF:-1,MBN
+https://jmp2.uk/stvp-KR22000066Q
+
+#어린이 (11)
 #EXTINF:-1,Animax 요리왕 비룡 더 마스터
 https://jmp2.uk/stvp-KRBC3200001VC
 #EXTINF:-1,투니버스 명탐정 코난 (자막)
@@ -163,6 +171,8 @@ https://jmp2.uk/stvp-KRBC3500013VH
 https://jmp2.uk/stvp-KR700007M0
 #EXTINF:-1,투니버스 짱구는 못말려
 https://jmp2.uk/stvp-KR10000017U
+#EXTINF:-1,캐리TV
+https://jmp2.uk/stvp-KR2200004C1
 
 #영화 (5)
 #EXTINF:-1,CJ ENM MOVIE
@@ -173,7 +183,7 @@ https://jmp2.uk/stvp-KRBD26000011V
 https://jmp2.uk/stvp-KR12000017G
 #EXTINF:-1,PLAYGRAM MOVIES
 https://jmp2.uk/stvp-KRBC3200004D1
-#EXTINF:-1,Genie 액션특선
+#EXTINF:-1,Genie 추석 특집
 https://jmp2.uk/stvp-KR2000012AI
 
 #예능 (65)
