@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 20/09/2025 01:25:33 CEST+0200
+# Generated on: 20/09/2025 02:25:33 CEST+0200
 
 #FRANCE (32)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-
 #EXTINF:-1 tvg-chno="98" tvg-country="FR" group-title="LEQUIPE.FR",98. L'Équipe live 7 [BACKUP][1080p-dailymotion.com][NOT 24/7]
 https://www.dailymotion.com/cdn/live/video/x6qdj2v.m3u8?sec=Q8ANQrCr04shZ1laYKX0SgEw8P4x1TQUM0CTA3yc84MUO7Xz-12xSbWePm5zrH4xEre67QnSvsQ-kChQ6saHD9sG6zM1JQ_iclF8JPDkbDU
 
-#FRANCE.TV (41)
+#FRANCE.TV (39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="110" tvg-id="France2.fr" epg-s="4" tvg-logo="https://i.imgur.com/EbEL7U8.png" tvg-country="FR" group-title="FRANCE.TV",110. FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -146,13 +146,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="113" tvg-id="France5.fr" epg-s="47" tvg-logo="https://i.imgur.com/h0TcqHE.png" tvg-country="FR" group-title="FRANCE.TV",113. FRANCE 5 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-5-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="114" tvg-id="FranceInfo.fr" epg-s="2111" tvg-logo="https://i.imgur.com/hwaz7xG.png" tvg-country="FR" group-title="FRANCE.TV",114. FRANCEINFO: [1080p-france.tv]
+#EXTINF:-1 tvg-chno="114" tvg-id="FranceInfo.fr" epg-s="2111" tvg-logo="https://i.imgur.com/hwaz7xG.png" tvg-country="FR" group-title="FRANCE.TV",114. FRANCEINFO [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="115" tvg-logo="https://i.imgur.com/8NOG1vA.png" tvg-country="FR" group-title="FRANCE.TV",115. FRANCE TV DOCUMENTAIRE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="115" tvg-logo="https://i.imgur.com/8NOG1vA.png" tvg-country="FR" group-title="FRANCE.TV",115. DOCUMENTAIRE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/documentaire-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="116" tvg-logo="https://i.imgur.com/AqRKGQa.png" tvg-country="FR" group-title="FRANCE.TV",116. FRANCE TV SERIE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="116" tvg-logo="https://i.imgur.com/AqRKGQa.png" tvg-country="FR" group-title="FRANCE.TV",116. SERIE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/serie-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="117" tvg-id="Arte.fr" epg-s="11" tvg-logo="https://i.imgur.com/GqWBPJY.png" tvg-country="FR" group-title="FRANCE.TV",117. ARTE [1080p-france.tv]
@@ -164,13 +164,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="119" tvg-logo="https://i.imgur.com/HsnD2Fe.png" tvg-country="FR" group-title="FRANCE.TV",119. INA [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/ina-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="120" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://i.imgur.com/LYbxpxZ.png" tvg-country="FR" group-title="FRANCE.TV",120. LCP - PUBLIC SÉNAT [1080p-france.tv]
+#EXTINF:-1 tvg-chno="120" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://i.imgur.com/LYbxpxZ.png" tvg-country="FR" group-title="FRANCE.TV",120. LCP PUBLIC SENAT [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="121" tvg-logo="https://i.imgur.com/9xwgFc6.png" tvg-country="FR" group-title="FRANCE.TV",121. TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/tv5-monde-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="122" tvg-logo="https://i.imgur.com/84gdvCg.png" tvg-country="FR" group-title="FRANCE.TV",122. CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]
+#EXTINF:-1 tvg-chno="122" tvg-logo="https://i.imgur.com/84gdvCg.png" tvg-country="FR" group-title="FRANCE.TV",122. ROLAND GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/roland-garros-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="123" epg-s="1921" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",123. FRANCE 3 ALPES [1080p-france.tv]
@@ -185,7 +185,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="126" epg-s="1924" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",126. FRANCE 3 AUVERGNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-auvergne-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="127" epg-s="1925" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",127. FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="127" epg-s="1925" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",127. FRANCE 3 BASSE NORMANDIE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-basse-normandie-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="128" epg-s="1926" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",128. FRANCE 3 BOURGOGNE [1080p-france.tv]
@@ -194,25 +194,25 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="129" epg-s="1927" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",129. FRANCE 3 BRETAGNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-bretagne-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="130" epg-s="1928" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",130. FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="130" epg-s="1928" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",130. FRANCE 3 CENTRE VAL DE LOIRE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-centre-val-de-loire-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="131" epg-s="1929" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",131. FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="131" epg-s="1929" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",131. FRANCE 3 CHAMPAGNE ARDENNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-champagne-ardenne-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="132" epg-s="1930" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",132. FRANCE 3 CORSE VIA STELLA [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-corse-via-stella-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="133" epg-s="1931" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",133. FRANCE 3 CÔTE D'AZUR [1080p-france.tv]
+#EXTINF:-1 tvg-chno="133" epg-s="1931" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",133. FRANCE 3 COTE D AZUR [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-cote-d-azur-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="134" epg-s="1932" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",134. FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]
+#EXTINF:-1 tvg-chno="134" epg-s="1932" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",134. FRANCE 3 FRANCHE COMTE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-franche-comte-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="135" epg-s="1933" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",135. FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="135" epg-s="1933" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",135. FRANCE 3 HAUTE NORMANDIE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-haute-normandie-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="136" epg-s="1934" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",136. FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]
+#EXTINF:-1 tvg-chno="136" epg-s="1934" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",136. FRANCE 3 LANGUEDOC ROUSSILLON [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-languedoc-roussillon-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="137" epg-s="1935" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",137. FRANCE 3 LIMOUSIN [1080p-france.tv]
@@ -221,16 +221,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="138" epg-s="1936" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",138. FRANCE 3 LORRAINE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-lorraine-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="139" epg-s="1937" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",139. FRANCE 3 MIDI-PYRÉNÉES [1080p-france.tv]
+#EXTINF:-1 tvg-chno="139" epg-s="1937" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",139. FRANCE 3 MIDI PYRENEES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-midi-pyrenees-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="140" epg-s="2730" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",140. NOA [1080p-france.tv]
+#EXTINF:-1 tvg-chno="140" epg-s="2730" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",140. FRANCE 3 NOA [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-noa-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="141" epg-s="1938" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",141. FRANCE 3 NORD PAS-DE-CALAIS [1080p-france.tv]
+#EXTINF:-1 tvg-chno="141" epg-s="1938" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",141. FRANCE 3 NORD PAS DE CALAIS [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-nord-pas-de-calais-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="142" epg-s="1939" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",142. FRANCE 3 PARIS ILE-DE-FRANCE [1080p-france.tv]
+#EXTINF:-1 tvg-chno="142" epg-s="1939" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",142. FRANCE 3 PARIS ILE DE FRANCE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-paris-ile-de-france-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="143" epg-s="1940" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",143. FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]
@@ -239,22 +239,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="144" epg-s="1941" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",144. FRANCE 3 PICARDIE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-picardie-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="145" epg-s="1942" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",145. FRANCE 3 POITOU-CHARENTES [1080p-france.tv]
+#EXTINF:-1 tvg-chno="145" epg-s="1942" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",145. FRANCE 3 POITOU CHARENTES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-poitou-charentes-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="146" epg-s="1943" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",146. FRANCE 3 PROVENCE ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-provence-alpes-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="147" epg-s="1944" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",147. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
+#EXTINF:-1 tvg-chno="147" epg-s="1944" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE.TV",147. FRANCE 3 RHONE ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-rhone-alpes-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="148" tvg-logo="https://i.imgur.com/8vBQ37F.png" tvg-country="FR" group-title="FRANCE.TV",148. GUADELOUPE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/guadeloupe-1ere-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="149" tvg-logo="https://i.imgur.com/8vBQ37F.png" tvg-country="FR" group-title="FRANCE.TV",149. MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/martinique-1ere-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="150" tvg-logo="https://i.imgur.com/8vBQ37F.png" tvg-country="FR" group-title="FRANCE.TV",150. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
+#EXTINF:-1 tvg-chno="148" tvg-logo="https://i.imgur.com/8vBQ37F.png" tvg-country="FR" group-title="FRANCE.TV",148. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/nouvelle-caledonie-1ere-highest.m3u8
 
 #EQUIDIA (28)
