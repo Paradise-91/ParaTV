@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 18/09/2025 06:24:51 CEST+0200
+# Generated on: 24/09/2025 06:23:02 CEST+0200
 #TOTAL: 142
 
 #Cine (27)
@@ -118,7 +118,7 @@ https://jmp2.uk/stvp-ES20000065W
 #EXTINF:-1 tvg-chno="2110" tvg-id="ES1600005T1" tvg-country="ES" group-title="Deporte",2110. Rally.TV FAST+
 https://jmp2.uk/stvp-ES1600005T1
 
-#Documentales (14)
+#Documentales (13)
 #EXTINF:-1 tvg-chno="626" tvg-id="ES12000024R" tvg-country="ES" group-title="Documentales",626. Historia y Vida
 https://jmp2.uk/stvp-ES12000024R
 #EXTINF:-1 tvg-chno="627" tvg-id="ESBD1400003QN" tvg-country="ES" group-title="Documentales",627. Royalworld - Nobleza y Dinastias
@@ -145,8 +145,6 @@ https://jmp2.uk/stvp-ES1400002CJ
 https://jmp2.uk/stvp-ES1600003FF
 #EXTINF:-1 tvg-chno="2111" tvg-id="ES24000028L" tvg-country="ES" group-title="Documentales",2111. Ice Pilots
 https://jmp2.uk/stvp-ES24000028L
-#EXTINF:-1 tvg-chno="2190" tvg-id="ES2900002JG" tvg-country="ES" group-title="Documentales",2190. Los Gipsy Kings - Rakuten TV
-https://jmp2.uk/stvp-ES2900002JG
 
 #Entretenimiento (20)
 #EXTINF:-1 tvg-chno="633" tvg-id="ES26000068D" tvg-country="ES" group-title="Entretenimiento",633. Estilo y Vida – Rakuten TV
@@ -212,7 +210,7 @@ https://jmp2.uk/stvp-ES3900001QG
 #EXTINF:-1 tvg-chno="661" tvg-id="ESBA1500001C4" tvg-country="ES" group-title="Música",661. Deluxe Lounge HD
 https://jmp2.uk/stvp-ESBA1500001C4
 
-#Niños (17)
+#Niños (16)
 #EXTINF:-1 tvg-chno="662" tvg-id="ESBC4100003WE" tvg-country="ES" group-title="Niños",662. Clan
 https://jmp2.uk/stvp-ESBC4100003WE
 #EXTINF:-1 tvg-chno="663" tvg-id="ESBD130000205" tvg-country="ES" group-title="Niños",663. Pitufo TV
@@ -223,8 +221,6 @@ https://jmp2.uk/stvp-ESBC3900004ED
 https://jmp2.uk/stvp-ESBC4700001GR
 #EXTINF:-1 tvg-chno="667" tvg-id="ESBD5100001G0" tvg-country="ES" group-title="Niños",667. SuperToons TV
 https://jmp2.uk/stvp-ESBD5100001G0
-#EXTINF:-1 tvg-chno="669" tvg-id="ES900001SH" tvg-country="ES" group-title="Niños",669. Mr Bean Animated
-https://jmp2.uk/stvp-ES900001SH
 #EXTINF:-1 tvg-chno="670" tvg-id="ESBD3200002V5" tvg-country="ES" group-title="Niños",670. La Abeja Maya
 https://jmp2.uk/stvp-ESBD3200002V5
 #EXTINF:-1 tvg-chno="671" tvg-id="ES340000152" tvg-country="ES" group-title="Niños",671. Video Game Heroes
@@ -278,7 +274,9 @@ https://jmp2.uk/stvp-ES300034BT
 #EXTINF:-1 tvg-chno="2077" tvg-id="ES3400004SS" tvg-country="ES" group-title="Noticias",2077. Sky News International
 https://jmp2.uk/stvp-ES3400004SS
 
-#Serie (8)
+#Serie (10)
+#EXTINF:-1 tvg-chno="669" tvg-id="ES900001SH" tvg-country="ES" group-title="Serie",669. Mr Bean Animated
+https://jmp2.uk/stvp-ES900001SH
 #EXTINF:-1 tvg-chno="693" tvg-id="ES400002P5" tvg-country="ES" group-title="Serie",693. Cuéntame cómo pasó
 https://jmp2.uk/stvp-ES400002P5
 #EXTINF:-1 tvg-chno="695" tvg-id="ESBD1300001EP" tvg-country="ES" group-title="Serie",695. Baywatch – Los Vigilantes de la Playa
@@ -295,6 +293,8 @@ https://jmp2.uk/stvp-ESBC1700001QI
 https://jmp2.uk/stvp-ES500005BP
 #EXTINF:-1 tvg-chno="1977" tvg-id="ES3300006QL" tvg-country="ES" group-title="Serie",1977. RTVE Época
 https://jmp2.uk/stvp-ES3300006QL
+#EXTINF:-1 tvg-chno="2190" tvg-id="ES2900002JG" tvg-country="ES" group-title="Serie",2190. Los Gipsy Kings - Rakuten TV
+https://jmp2.uk/stvp-ES2900002JG
 
 #Telenovela (2)
 #EXTINF:-1 tvg-chno="702" tvg-id="ESBA140000504" tvg-country="ES" group-title="Telenovela",702. Stormcast Novelas
