@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 25/09/2025 13:25:33 CEST+0200
+# Generated on: 25/09/2025 15:25:33 CEST+0200
 
 #FRANCE (32)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -66,7 +66,7 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" epg-s="1400" tvg-country="FR" group-title="FRANCE",24. RMC Découverte [1080p-rmcbfmplay.com]
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" epg-s="1399" tvg-country="FR" group-title="FRANCE",25. CHERIE 25 [1080p-nrj-play.fr]
-https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1758849724~acl=/*~hmac=7b466db59245ddb5f4fbaf2e04ed324afc55f220f808c8e229bb39789b655eba
+https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1758892828~acl=/*~hmac=c2ff7e958d4f0a82d5d39883992117b3def4cc90d59b40d49947e79fb8ef0bbe
 #EXTINF:-1 tvg-chno="34" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-country="FR" group-title="FRANCE",34. LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-highest.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-country="FR" group-title="FRANCE",35. LE FIGARO TV [1080p-tf1.fr]
@@ -94,23 +94,23 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-chno="78" epg-s="3629" tvg-country="FR" group-title="LEQUIPE.FR",78. Journal du Golf TV [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/journal-du-golf-tv-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="90" epg-s="3629" tvg-country="FR" group-title="LEQUIPE.FR",90. Journal du Golf TV [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=KMAlTM6lDbUxREkggYNGQZdxwpUsetcdM69coI7UaRgMl7rXJ2LFBlRFO5Pfn222ipzZoK36GfSC54czbAgbqFUq9jzcWxCCPLlTsNe03G4
+https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=VA6BTsSUI1Btjj4-jU8TE6MrGZ8ZNUi1NoEzgIexP3__80F-3tlbQsfSIMI3nYP4n0e294f3ukYxYeUeudHC99HXvLO2tj-6UoFMNErVDuw
 #EXTINF:-1 tvg-chno="79" epg-s="1401" tvg-country="FR" group-title="LEQUIPE.FR",79. LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="89" epg-s="1401" tvg-country="FR" group-title="LEQUIPE.FR",89. LA CHAÎNE L'ÉQUIPE [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=LJ6lmZpleTIFvEUxhE_G4F1H9m-aPVnF4FXRtOl23bH99O9IC0wSCfpYHDj838SsSFxN4bSaRYfNdTWBl-nOIpXNzF9lvMUVgHUvpk5A4yQ
+https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=fZMF1svB1d3SUdvPAMPrFRXx3fg11TgChPXmy_8QwESivD--doZoWTbpb3ReyAkJ-61Vzp7tjyRG125e7Rtf1wrWb4lqUJC5vWx-vgWkdmo
 #EXTINF:-1 tvg-chno="80" tvg-country="FR" group-title="LEQUIPE.FR",80. L'Équipe live foot [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-foot-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-country="FR" group-title="LEQUIPE.FR",91. L'Équipe live foot [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=QWBUyKE-7D6dzzFEUQmat7elQoA9Z0SlPOJF3jfTFB9u-jIC34QSFKQfzJg7u94pQah_miJEC0JujL4JAv3RMM8iDViwkyuf98E6_3X2Szs
+https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=KhK74FA5ZWjU8sePFPIpMolOPlD4ia8CaJrqJaf1EiHYxR6IFgij-_Z9QOF866x1NFxu37RWpD3_1uBAawBrit2DHZTABD-NSREmKfPaNn0
 #EXTINF:-1 tvg-chno="81" tvg-country="FR" group-title="LEQUIPE.FR",81. L'Équipe live 1 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-1-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="92" tvg-country="FR" group-title="LEQUIPE.FR",92. L'Équipe live 1 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=I7pJePuunrsMmSOQ8-WUKIA_m3ExxI1prigjuGL7D6_jG_MnlrmsOK4bJ83OyCEpHa-WzvvVBiM9qFQHDq3CMj7eJqoePWpYq424OoirYj4
+https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=0UeEQYNTaiWtOP1IlyIzIWU7VqyXZo13Knw5XM4C5M6RWuqM2J6HpbuNcitZbndpiSHHQrqrvb2EbjsAG84x7ldsj-mg76qaGkIWGp-4i-E
 #EXTINF:-1 tvg-chno="82" tvg-country="FR" group-title="LEQUIPE.FR",82. L'Équipe live 2 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-2-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="93" tvg-country="FR" group-title="LEQUIPE.FR",93. L'Équipe live 2 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=BJMBDp1KaGua2o9eIibvcsAFKL-Vmctd67q-10u4d2pNJ6O5C6MV9GpSUuLV33bT1nDd-5Yz_oODIcgvA_r8nhRpRQ_wWOX5kQ8ZIRTHz0c
+https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=0xSIUcSoKmCATAmuOP3Vdy1k6Sa7KXM1XH8av8sc9j3KT3dH8BZIn5ZkYtQCLBFAA1CFdv1sYKFsSjEfJ0QVXHODaEjfpDv3jNzfqGU07cQ
 #EXTINF:-1 tvg-chno="83" tvg-country="FR" group-title="LEQUIPE.FR",83. L'Équipe live 3 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/l-equipe-live-3-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="94" tvg-country="FR" group-title="LEQUIPE.FR",94. L'Équipe live 3 [BACKUP][1080p-dailymotion.com][NOT 24/7]
@@ -308,7 +308,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/re
 
 #NRJ (1)
 #EXTINF:-1 tvg-chno="341" tvg-id="Cherie25.fr" epg-s="1399" tvg-country="FR" group-title="NRJ",341. CHERIE 25 [1080p-nrj-play.fr]
-https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1758849724~acl=/*~hmac=7b466db59245ddb5f4fbaf2e04ed324afc55f220f808c8e229bb39789b655eba
+https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1758892828~acl=/*~hmac=c2ff7e958d4f0a82d5d39883992117b3def4cc90d59b40d49947e79fb8ef0bbe
 
 #RMC-BFM (24)
 #EXTINF:-1 tvg-chno="350" tvg-id="BFMTV.fr" epg-s="481" tvg-country="FR" group-title="RMC-BFM",350. BFM TV [1080p-rmcbfmplay.com]
