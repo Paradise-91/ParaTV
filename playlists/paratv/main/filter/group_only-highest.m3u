@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 01/10/2025 16:25:33 CEST+0200
+# Generated on: 01/10/2025 17:32:02 CEST+0200
 
-#FRANCE (32)
+#FRANCE (31)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/BSGsHWZdO1Z/res/uBgI60UNLQTvyR-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -65,8 +65,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/BSGsHWZdO1Z/re
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 group-title="FRANCE",RMC Découverte [1080p-rmcbfmplay.com]
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 group-title="FRANCE",CHERIE 25 [1080p-nrj-play.fr]
-https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1759324812~acl=/*~hmac=96049ef0fc2e0bfe96b72214b4760f515ddb14a7383d5232cb62579853f3d4ee
 #EXTINF:-1 group-title="FRANCE",LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-highest.m3u8
 #EXTINF:-1 group-title="FRANCE",LE FIGARO TV [1080p-tf1.fr]
@@ -308,10 +306,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/re
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region15-highest.m3u8
 #EXTINF:-1 group-title="EQUIDIA",REGION 16 [1080p-equidia.fr][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/res/region16-highest.m3u8
-
-#NRJ (1)
-#EXTINF:-1 group-title="NRJ",CHERIE 25 [1080p-nrj-play.fr]
-https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1759324812~acl=/*~hmac=96049ef0fc2e0bfe96b72214b4760f515ddb14a7383d5232cb62579853f3d4ee
 
 #RMC-BFM (24)
 #EXTINF:-1 group-title="RMC-BFM",BFM TV [1080p-rmcbfmplay.com]
