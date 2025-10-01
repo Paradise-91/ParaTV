@@ -124,7 +124,7 @@
 
 </details>
 
-<details>
+<!-- <details>
 <summary>nrj</summary>
 
 | File                                      | Short URL                                 |
@@ -137,7 +137,7 @@
 | [nrj_group_only.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/nrj/filter/group_only.m3u) | [https://url.prds.cc/nrj4](https://url.prds.cc/nrj4) |
 | [nrj_logo_off.m3u](https://github.com/paradise-91/paratv/blob/main/playlists/paratv/group/nrj/filter/logo_off.m3u) | [https://url.prds.cc/nrj5](https://url.prds.cc/nrj5) |
 
-</details>
+</details> -->
 
 <details>
 <summary>rmc-bfm</summary>
