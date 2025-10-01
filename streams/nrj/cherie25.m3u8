@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" tvg-country="FR",Chérie 25
-https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1759324812~acl=/*~hmac=96049ef0fc2e0bfe96b72214b4760f515ddb14a7383d5232cb62579853f3d4ee
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" tvg-country="FR",Chérie 25 [OFFLINE]
+https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.ts
+#^BACKUP LINK^#
 
-#Last refreshed on 30/09/2025 15:20:12 CEST.
+#Last refreshed on 01/10/2025 03:20:27 CEST.
