@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 24/09/2025 06:23:02 CEST+0200
-#TOTAL: 126
+# Generated on: 15/10/2025 06:24:59 CEST+0200
+#TOTAL: 128
 
 #Anime (5)
 #EXTINF:-1 tvg-chno="318" tvg-id="CHBD39000015L" tvg-country="CH" group-title="Anime",318. Aniverse TV
@@ -64,7 +64,9 @@ https://jmp2.uk/stvp-CHBC4000006ZD
 #EXTINF:-1 tvg-chno="344" tvg-id="CHBC80000437" tvg-country="CH" group-title="Dokus & Wissen",344. NatureTime [FR]
 https://jmp2.uk/stvp-CHBC80000437
 
-#Entertainment (18)
+#Entertainment (19)
+#EXTINF:-1 tvg-chno="345" tvg-id="CHBD3700001XS" tvg-country="CH" group-title="Entertainment",345. X-MAS Mix
+https://jmp2.uk/stvp-CHBD3700001XS
 #EXTINF:-1 tvg-chno="346" tvg-id="CH500002H2" tvg-country="CH" group-title="Entertainment",346. RMC Story
 https://jmp2.uk/stvp-CH500002H2
 #EXTINF:-1 tvg-chno="347" tvg-id="CH500003EH" tvg-country="CH" group-title="Entertainment",347. RMC Découverte
@@ -87,8 +89,6 @@ https://jmp2.uk/stvp-CHBA1000004IU
 https://jmp2.uk/stvp-CHAJ3200003RF
 #EXTINF:-1 tvg-chno="356" tvg-id="CHAJ32000026J" tvg-country="CH" group-title="Entertainment",356. FailArmy
 https://jmp2.uk/stvp-CHAJ32000026J
-#EXTINF:-1 tvg-chno="358" tvg-id="CHBB49000054U" tvg-country="CH" group-title="Entertainment",358. Stars in Gefahr
-https://jmp2.uk/stvp-CHBB49000054U
 #EXTINF:-1 tvg-chno="359" tvg-id="CHBD2500001SY" tvg-country="CH" group-title="Entertainment",359. Out TV
 https://jmp2.uk/stvp-CHBD2500001SY
 #EXTINF:-1 tvg-chno="1965" tvg-id="CH800001RT" tvg-country="CH" group-title="Entertainment",1965. H2O & Friends
@@ -101,6 +101,8 @@ https://jmp2.uk/stvp-CH220000164
 https://jmp2.uk/stvp-CH3200009XW
 #EXTINF:-1 tvg-chno="2234" tvg-id="CH28000014U" tvg-country="CH" group-title="Entertainment",2234. Big Brother Classics
 https://jmp2.uk/stvp-CH28000014U
+#EXTINF:-1 tvg-chno="2248" tvg-id="CH3400003TP" tvg-country="CH" group-title="Entertainment",2248. Stars in Gefahr
+https://jmp2.uk/stvp-CH3400003TP
 
 #Filme (26)
 #EXTINF:-1 tvg-chno="362" tvg-id="CHBA3300030AJ" tvg-country="CH" group-title="Filme",362. Moviedome Family
@@ -190,7 +192,7 @@ https://jmp2.uk/stvp-CHAJ700003CV
 #EXTINF:-1 tvg-chno="1852" tvg-id="CH500000481" tvg-country="CH" group-title="Kids",1852. Teletubbies
 https://jmp2.uk/stvp-CH500000481
 
-#Musik (5)
+#Musik (6)
 #EXTINF:-1 tvg-chno="404" tvg-id="CHBD38000019N" tvg-country="CH" group-title="Musik",404. DELUXE RAP
 https://jmp2.uk/stvp-CHBD38000019N
 #EXTINF:-1 tvg-chno="405" tvg-id="CHBA1500029TL" tvg-country="CH" group-title="Musik",405. Deluxe Deutschpop
@@ -201,6 +203,8 @@ https://jmp2.uk/stvp-CH2300001O9
 https://jmp2.uk/stvp-CHBC800003LH
 #EXTINF:-1 tvg-chno="408" tvg-id="CHAJ0500413A" tvg-country="CH" group-title="Musik",408. Deluxe Lounge HD
 https://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:-1 tvg-chno="2249" tvg-id="CH3400005S4" tvg-country="CH" group-title="Musik",2249. Deluxe Wintertime
+https://jmp2.uk/stvp-CH3400005S4
 
 #News (9)
 #EXTINF:-1 tvg-chno="410" tvg-id="CHBD800001D0" tvg-country="CH" group-title="News",410. CNN
@@ -235,8 +239,6 @@ https://jmp2.uk/stvp-CHAJ700007XE
 https://jmp2.uk/stvp-CHBD3700002F2
 #EXTINF:-1 tvg-chno="424" tvg-id="CHBD2000023S" tvg-country="CH" group-title="Serien",424. Alerte à Malibu [FR]
 https://jmp2.uk/stvp-CHBD2000023S
-#EXTINF:-1 tvg-chno="425" tvg-id="CHBB4900004VT" tvg-country="CH" group-title="Serien",425. Comedy & Shows
-https://jmp2.uk/stvp-CHBB4900004VT
 #EXTINF:-1 tvg-chno="426" tvg-id="CHAK3504505A" tvg-country="CH" group-title="Serien",426. Pluto TV Sitcoms
 https://jmp2.uk/stvp-CHAK3504505A
 #EXTINF:-1 tvg-chno="427" tvg-id="CHBD200003G1" tvg-country="CH" group-title="Serien",427. Génération Sitcoms [FR]
@@ -255,6 +257,8 @@ https://jmp2.uk/stvp-CH48000025D
 https://jmp2.uk/stvp-CH3200010F6
 #EXTINF:-1 tvg-chno="2226" tvg-id="CH3200011YH" tvg-country="CH" group-title="Serien",2226. Stromberg
 https://jmp2.uk/stvp-CH3200011YH
+#EXTINF:-1 tvg-chno="2250" tvg-id="CH340000286" tvg-country="CH" group-title="Serien",2250. Comedy & Shows
+https://jmp2.uk/stvp-CH340000286
 
 #Sport (11)
 #EXTINF:-1 tvg-chno="431" tvg-id="CHBA22000080G" tvg-country="CH" group-title="Sport",431. Tennis Channel

@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 24/09/2025 06:23:02 CEST+0200
-#TOTAL: 142
+# Generated on: 15/10/2025 06:24:59 CEST+0200
+#TOTAL: 148
 
-#Cine (27)
+#Cine (28)
 #EXTINF:-1 tvg-chno="581" tvg-id="ES700004C8" tvg-country="ES" group-title="Cine",581. Runtime Familia
 https://jmp2.uk/stvp-ES700004C8
 #EXTINF:-1 tvg-chno="582" tvg-id="ESBC1700004PX" tvg-country="ES" group-title="Cine",582. Trailers
@@ -57,6 +57,8 @@ https://jmp2.uk/stvp-ES900002ZD
 https://jmp2.uk/stvp-ES2300005G7
 #EXTINF:-1 tvg-chno="2229" tvg-id="ES2200003DA" tvg-country="ES" group-title="Cine",2229. Runtime Clásicos
 https://jmp2.uk/stvp-ES2200003DA
+#EXTINF:-1 tvg-chno="2257" tvg-id="ES170000433" tvg-country="ES" group-title="Cine",2257. NEW K-MOVIES
+https://jmp2.uk/stvp-ES170000433
 
 #Comedia (6)
 #EXTINF:-1 tvg-chno="603" tvg-id="ESAJ3800005C5" tvg-country="ES" group-title="Comedia",603. Comedia Made in Spain
@@ -118,7 +120,7 @@ https://jmp2.uk/stvp-ES20000065W
 #EXTINF:-1 tvg-chno="2110" tvg-id="ES1600005T1" tvg-country="ES" group-title="Deporte",2110. Rally.TV FAST+
 https://jmp2.uk/stvp-ES1600005T1
 
-#Documentales (13)
+#Documentales (14)
 #EXTINF:-1 tvg-chno="626" tvg-id="ES12000024R" tvg-country="ES" group-title="Documentales",626. Historia y Vida
 https://jmp2.uk/stvp-ES12000024R
 #EXTINF:-1 tvg-chno="627" tvg-id="ESBD1400003QN" tvg-country="ES" group-title="Documentales",627. Royalworld - Nobleza y Dinastias
@@ -145,6 +147,8 @@ https://jmp2.uk/stvp-ES1400002CJ
 https://jmp2.uk/stvp-ES1600003FF
 #EXTINF:-1 tvg-chno="2111" tvg-id="ES24000028L" tvg-country="ES" group-title="Documentales",2111. Ice Pilots
 https://jmp2.uk/stvp-ES24000028L
+#EXTINF:-1 tvg-chno="2258" tvg-id="ES2800002MM" tvg-country="ES" group-title="Documentales",2258. Mayday: Catástrofe Aérea
+https://jmp2.uk/stvp-ES2800002MM
 
 #Entretenimiento (20)
 #EXTINF:-1 tvg-chno="633" tvg-id="ES26000068D" tvg-country="ES" group-title="Entretenimiento",633. Estilo y Vida – Rakuten TV
@@ -188,7 +192,7 @@ https://jmp2.uk/stvp-ES2200001SF
 #EXTINF:-1 tvg-chno="2191" tvg-id="ES1700003C6" tvg-country="ES" group-title="Entretenimiento",2191. Coreano by CJ ENM
 https://jmp2.uk/stvp-ES1700003C6
 
-#Música (10)
+#Música (11)
 #EXTINF:-1 tvg-chno="650" tvg-id="ESBC2100002LV" tvg-country="ES" group-title="Música",650. Vevo Latino
 https://jmp2.uk/stvp-ESBC2100002LV
 #EXTINF:-1 tvg-chno="651" tvg-id="ESBD230000289" tvg-country="ES" group-title="Música",651. Vevo Retro
@@ -209,8 +213,10 @@ https://jmp2.uk/stvp-ES32000027M
 https://jmp2.uk/stvp-ES3900001QG
 #EXTINF:-1 tvg-chno="661" tvg-id="ESBA1500001C4" tvg-country="ES" group-title="Música",661. Deluxe Lounge HD
 https://jmp2.uk/stvp-ESBA1500001C4
+#EXTINF:-1 tvg-chno="2259" tvg-id="ES1700005ME" tvg-country="ES" group-title="Música",2259. NEW KPOP
+https://jmp2.uk/stvp-ES1700005ME
 
-#Niños (16)
+#Niños (17)
 #EXTINF:-1 tvg-chno="662" tvg-id="ESBC4100003WE" tvg-country="ES" group-title="Niños",662. Clan
 https://jmp2.uk/stvp-ESBC4100003WE
 #EXTINF:-1 tvg-chno="663" tvg-id="ESBD130000205" tvg-country="ES" group-title="Niños",663. Pitufo TV
@@ -243,6 +249,8 @@ https://jmp2.uk/stvp-ES260001081
 https://jmp2.uk/stvp-ES4800002OZ
 #EXTINF:-1 tvg-chno="1923" tvg-id="ES5000001CS" tvg-country="ES" group-title="Niños",1923. LooLoo Kids
 https://jmp2.uk/stvp-ES5000001CS
+#EXTINF:-1 tvg-chno="2260" tvg-id="ES17000065P" tvg-country="ES" group-title="Niños",2260. BABY SHARK TV
+https://jmp2.uk/stvp-ES17000065P
 
 #Noticias (14)
 #EXTINF:-1 tvg-chno="681" tvg-id="ESBC4100004J1" tvg-country="ES" group-title="Noticias",681. 24H
@@ -274,7 +282,7 @@ https://jmp2.uk/stvp-ES300034BT
 #EXTINF:-1 tvg-chno="2077" tvg-id="ES3400004SS" tvg-country="ES" group-title="Noticias",2077. Sky News International
 https://jmp2.uk/stvp-ES3400004SS
 
-#Serie (10)
+#Serie (11)
 #EXTINF:-1 tvg-chno="669" tvg-id="ES900001SH" tvg-country="ES" group-title="Serie",669. Mr Bean Animated
 https://jmp2.uk/stvp-ES900001SH
 #EXTINF:-1 tvg-chno="693" tvg-id="ES400002P5" tvg-country="ES" group-title="Serie",693. Cuéntame cómo pasó
@@ -285,7 +293,7 @@ https://jmp2.uk/stvp-ESBD1300001EP
 https://jmp2.uk/stvp-ESBA3300039ZX
 #EXTINF:-1 tvg-chno="698" tvg-id="ESBD1300003VN" tvg-country="ES" group-title="Serie",698. Corazón
 https://jmp2.uk/stvp-ESBD1300003VN
-#EXTINF:-1 tvg-chno="700" tvg-id="ES2900001DQ" tvg-country="ES" group-title="Serie",700. BBC Drama
+#EXTINF:-1 tvg-chno="700" tvg-id="ES2900001DQ" tvg-country="ES" group-title="Serie",700. BBC Series
 https://jmp2.uk/stvp-ES2900001DQ
 #EXTINF:-1 tvg-chno="701" tvg-id="ESBC1700001QI" tvg-country="ES" group-title="Serie",701. Vive Kanal D Drama
 https://jmp2.uk/stvp-ESBC1700001QI
@@ -295,12 +303,16 @@ https://jmp2.uk/stvp-ES500005BP
 https://jmp2.uk/stvp-ES3300006QL
 #EXTINF:-1 tvg-chno="2190" tvg-id="ES2900002JG" tvg-country="ES" group-title="Serie",2190. Los Gipsy Kings - Rakuten TV
 https://jmp2.uk/stvp-ES2900002JG
+#EXTINF:-1 tvg-chno="2261" tvg-id="ESBD4100001DU" tvg-country="ES" group-title="Serie",2261. K-Drama+
+https://jmp2.uk/stvp-ESBD4100001DU
 
-#Telenovela (2)
+#Telenovela (3)
 #EXTINF:-1 tvg-chno="702" tvg-id="ESBA140000504" tvg-country="ES" group-title="Telenovela",702. Stormcast Novelas
 https://jmp2.uk/stvp-ESBA140000504
 #EXTINF:-1 tvg-chno="703" tvg-id="ESBC43000013T" tvg-country="ES" group-title="Telenovela",703. Todo Novelas
 https://jmp2.uk/stvp-ESBC43000013T
+#EXTINF:-1 tvg-chno="2262" tvg-id="ES3600001Y7" tvg-country="ES" group-title="Telenovela",2262. Rebelde
+https://jmp2.uk/stvp-ES3600001Y7
 
 #Viajes y Cocina (3)
 #EXTINF:-1 tvg-chno="704" tvg-id="ESAJ3800007PC" tvg-country="ES" group-title="Viajes y Cocina",704. Pluto TV Cocina
