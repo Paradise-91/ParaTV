@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 24/09/2025 06:23:02 CEST+0200
-#TOTAL: 152
+# Generated on: 16/10/2025 06:24:30 CEST+0200
+#TOTAL: 162
 
-#뉴스 (9)
+#뉴스 (12)
 #EXTINF:-1 tvg-chno="1321" tvg-id="KRBD1400001ED" tvg-country="KR" group-title="뉴스",1321. 연합뉴스TV
 https://jmp2.uk/stvp-KRBD1400001ED
 #EXTINF:-1 tvg-chno="1322" tvg-id="KRBD2400001XD" tvg-country="KR" group-title="뉴스",1322. YTN
@@ -21,6 +21,12 @@ https://jmp2.uk/stvp-KRBD3100006X4
 https://jmp2.uk/stvp-KRBC4000003J2
 #EXTINF:-1 tvg-chno="2218" tvg-id="KR2200005YM" tvg-country="KR" group-title="뉴스",2218. 연합뉴스경제TV
 https://jmp2.uk/stvp-KR2200005YM
+#EXTINF:-1 tvg-chno="2288" tvg-id="KR3500001UU" tvg-country="KR" group-title="뉴스",2288. 매일경제TV
+https://jmp2.uk/stvp-KR3500001UU
+#EXTINF:-1 tvg-chno="2289" tvg-id="KR3500002AE" tvg-country="KR" group-title="뉴스",2289. MTN 머니투데이방송
+https://jmp2.uk/stvp-KR3500002AE
+#EXTINF:-1 tvg-chno="2290" tvg-id="KR3600003JU" tvg-country="KR" group-title="뉴스",2290. 한국경제TV
+https://jmp2.uk/stvp-KR3600003JU
 
 #드라마 (30)
 #EXTINF:-1 tvg-chno="1328" tvg-id="KRBB42000061Z" tvg-country="KR" group-title="드라마",1328. SBS 야인시대
@@ -98,7 +104,7 @@ https://jmp2.uk/stvp-KRAH1801500A
 #EXTINF:-1 tvg-chno="1350" tvg-id="KRAH4602000A" tvg-country="KR" group-title="쇼핑",1350. 현대홈쇼핑+Shop
 https://jmp2.uk/stvp-KRAH4602000A
 
-#스포츠 (11)
+#스포츠 (13)
 #EXTINF:-1 tvg-chno="1320" tvg-id="KRBC3200005SH" tvg-country="KR" group-title="스포츠",1320. OGN 스타리그
 https://jmp2.uk/stvp-KRBC3200005SH
 #EXTINF:-1 tvg-chno="1351" tvg-id="KRBC3200011N3" tvg-country="KR" group-title="스포츠",1351. World Billiards TV
@@ -121,8 +127,12 @@ https://jmp2.uk/stvp-KRBD5200002XY
 https://jmp2.uk/stvp-KR400005KB
 #EXTINF:-1 tvg-chno="2095" tvg-id="KR260000274" tvg-country="KR" group-title="스포츠",2095. 힙으뜸
 https://jmp2.uk/stvp-KR260000274
+#EXTINF:-1 tvg-chno="2291" tvg-id="KR39000030H" tvg-country="KR" group-title="스포츠",2291. 요가소년
+https://jmp2.uk/stvp-KR39000030H
+#EXTINF:-1 tvg-chno="2292" tvg-id="KR36000056R" tvg-country="KR" group-title="스포츠",2292. K바둑
+https://jmp2.uk/stvp-KR36000056R
 
-#시사/교양 (10)
+#시사/교양 (11)
 #EXTINF:-1 tvg-chno="1360" tvg-id="KRBC5000020AF" tvg-country="KR" group-title="시사/교양",1360. JTBC 한문철의 블랙박스리뷰
 https://jmp2.uk/stvp-KRBC5000020AF
 #EXTINF:-1 tvg-chno="1361" tvg-id="KRBB4200016TZ" tvg-country="KR" group-title="시사/교양",1361. SBS 궁금한 이야기 Y
@@ -143,12 +153,20 @@ https://jmp2.uk/stvp-KRBC3500018J9
 https://jmp2.uk/stvp-KRBB420000769
 #EXTINF:-1 tvg-chno="1369" tvg-id="KRBD370000134" tvg-country="KR" group-title="시사/교양",1369. TED
 https://jmp2.uk/stvp-KRBD370000134
+#EXTINF:-1 tvg-chno="2293" tvg-id="KR3600006FN" tvg-country="KR" group-title="시사/교양",2293. 아리랑TV
+https://jmp2.uk/stvp-KR3600006FN
 
-#실시간 (2)
+#실시간 (5)
 #EXTINF:-1 tvg-chno="2219" tvg-id="KR2200003VB" tvg-country="KR" group-title="실시간",2219. JTBC
 https://jmp2.uk/stvp-KR2200003VB
 #EXTINF:-1 tvg-chno="2220" tvg-id="KR22000066Q" tvg-country="KR" group-title="실시간",2220. MBN
 https://jmp2.uk/stvp-KR22000066Q
+#EXTINF:-1 tvg-chno="2294" tvg-id="KR3600001J9" tvg-country="KR" group-title="실시간",2294. JTBC2
+https://jmp2.uk/stvp-KR3600001J9
+#EXTINF:-1 tvg-chno="2295" tvg-id="KR3600002ZY" tvg-country="KR" group-title="실시간",2295. JTBC4
+https://jmp2.uk/stvp-KR3600002ZY
+#EXTINF:-1 tvg-chno="2296" tvg-id="KR3700002JT" tvg-country="KR" group-title="실시간",2296. TV조선
+https://jmp2.uk/stvp-KR3700002JT
 
 #어린이 (11)
 #EXTINF:-1 tvg-chno="1338" tvg-id="KRBC3200001VC" tvg-country="KR" group-title="어린이",1338. Animax 요리왕 비룡 더 마스터
@@ -183,10 +201,10 @@ https://jmp2.uk/stvp-KRBD26000011V
 https://jmp2.uk/stvp-KR12000017G
 #EXTINF:-1 tvg-chno="1383" tvg-id="KRBC3200004D1" tvg-country="KR" group-title="영화",1383. PLAYGRAM MOVIES
 https://jmp2.uk/stvp-KRBC3200004D1
-#EXTINF:-1 tvg-chno="2171" tvg-id="KR2000012AI" tvg-country="KR" group-title="영화",2171. Genie 추석 특집
+#EXTINF:-1 tvg-chno="2171" tvg-id="KR2000012AI" tvg-country="KR" group-title="영화",2171. Genie 어워드 특집
 https://jmp2.uk/stvp-KR2000012AI
 
-#예능 (65)
+#예능 (66)
 #EXTINF:-1 tvg-chno="1334" tvg-id="KRBC3200029C4" tvg-country="KR" group-title="예능",1334. tvN 무쇠소녀단 1~2 이어보기
 https://jmp2.uk/stvp-KRBC3200029C4
 #EXTINF:-1 tvg-chno="1336" tvg-id="KRBC320002200" tvg-country="KR" group-title="예능",1336. tvN 꽃보다 청춘 시리즈 모아보기
@@ -317,6 +335,8 @@ https://jmp2.uk/stvp-KRBC8000128W
 https://jmp2.uk/stvp-KR140000508
 #EXTINF:-1 tvg-chno="2097" tvg-id="KR1800002Q7" tvg-country="KR" group-title="예능",2097. 비보티비
 https://jmp2.uk/stvp-KR1800002Q7
+#EXTINF:-1 tvg-chno="2297" tvg-id="KR36000040X" tvg-country="KR" group-title="예능",2297. 더라이프2
+https://jmp2.uk/stvp-KR36000040X
 
 #음악 (4)
 #EXTINF:-1 tvg-chno="1435" tvg-id="KRBD43000023M" tvg-country="KR" group-title="음악",1435. JTBC 비긴어게인 - 오픈마이크

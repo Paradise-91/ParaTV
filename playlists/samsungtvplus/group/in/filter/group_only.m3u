@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 24/09/2025 06:23:02 CEST+0200
-#TOTAL: 152
+# Generated on: 16/10/2025 06:24:30 CEST+0200
+#TOTAL: 155
 
 #Devotional (3)
 #EXTINF:-1 group-title="Devotional",Divya
@@ -83,8 +83,6 @@ https://jmp2.uk/stvp-INBC2800002WJ
 https://jmp2.uk/stvp-INBA490002119
 #EXTINF:-1 group-title="Hindi News",News24
 https://jmp2.uk/stvp-IN3900001YE
-#EXTINF:-1 group-title="Hindi News",ABP News
-https://jmp2.uk/stvp-INBD400006H0
 #EXTINF:-1 group-title="Hindi News",News18 India
 https://jmp2.uk/stvp-INBD1300010WP
 #EXTINF:-1 group-title="Hindi News",Times Now Navbharat
@@ -97,14 +95,16 @@ https://jmp2.uk/stvp-IN26000183G
 https://jmp2.uk/stvp-IN17000129W
 #EXTINF:-1 group-title="Hindi News",India TV Speed News
 https://jmp2.uk/stvp-IN26000190S
-#EXTINF:-1 group-title="Hindi News",Aaj Tak
-https://jmp2.uk/stvp-INBC2800003RQ
 #EXTINF:-1 group-title="Hindi News",CNBC AWAAZ
 https://jmp2.uk/stvp-INBD1300007ST
 #EXTINF:-1 group-title="Hindi News",Zee Business
 https://jmp2.uk/stvp-INBD400004NS
 #EXTINF:-1 group-title="Hindi News",Zee News
 https://jmp2.uk/stvp-INBC4300010Z6
+#EXTINF:-1 group-title="Hindi News",AajTak
+https://jmp2.uk/stvp-IN3800004BF
+#EXTINF:-1 group-title="Hindi News",ABP News
+https://jmp2.uk/stvp-IN4600012BD
 
 #Infotainment (13)
 #EXTINF:-1 group-title="Infotainment",HISTORY TV18 - Hindi
@@ -134,7 +134,7 @@ https://jmp2.uk/stvp-IN2400002A3
 #EXTINF:-1 group-title="Infotainment",Pulse
 https://jmp2.uk/stvp-IN800006BS
 
-#Kids (8)
+#Kids (9)
 #EXTINF:-1 group-title="Kids",The Jungle Book
 https://jmp2.uk/stvp-IN25000020M
 #EXTINF:-1 group-title="Kids",Powerkids Kartoon Channel
@@ -151,6 +151,8 @@ https://jmp2.uk/stvp-IN4600008T4
 https://jmp2.uk/stvp-IN4600009F9
 #EXTINF:-1 group-title="Kids",Mr. Bean
 https://jmp2.uk/stvp-IN3000010V5
+#EXTINF:-1 group-title="Kids",BABY SHARK TV
+https://jmp2.uk/stvp-IN4900012F9
 
 #Lifestyle (17)
 #EXTINF:-1 group-title="Lifestyle",Travelxp HD
@@ -208,7 +210,7 @@ https://jmp2.uk/stvp-IN3900016WI
 #EXTINF:-1 group-title="Movies",B4U Kadak
 https://jmp2.uk/stvp-IN39000187Z
 
-#Music (20)
+#Music (21)
 #EXTINF:-1 group-title="Music",K-POP by CJ ENM
 https://jmp2.uk/stvp-IN3800006RD
 #EXTINF:-1 group-title="Music",9XM
@@ -249,8 +251,10 @@ https://jmp2.uk/stvp-IN800005S8
 https://jmp2.uk/stvp-IN800007SR
 #EXTINF:-1 group-title="Music",NOW 90s00s
 https://jmp2.uk/stvp-IN800004YV
+#EXTINF:-1 group-title="Music",@K-MUSIC
+https://jmp2.uk/stvp-IN4900011OU
 
-#Regional News (29)
+#Regional News (30)
 #EXTINF:-1 group-title="Regional News",TV9 Marathi
 https://jmp2.uk/stvp-INBD2500006OC
 #EXTINF:-1 group-title="Regional News",ABP Majha
@@ -309,6 +313,8 @@ https://jmp2.uk/stvp-IN8000106W
 https://jmp2.uk/stvp-IN800012RO
 #EXTINF:-1 group-title="Regional News",ETV News
 https://jmp2.uk/stvp-IN4900001AQ
+#EXTINF:-1 group-title="Regional News",News24 MP CG
+https://jmp2.uk/stvp-IN2100008VF
 
 #Sports (8)
 #EXTINF:-1 group-title="Sports",Cricket Gold

@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 24/09/2025 06:23:02 CEST+0200
-#TOTAL: 152
+# Generated on: 16/10/2025 06:24:30 CEST+0200
+#TOTAL: 155
 
 #Devotional (3)
 #EXTINF:-1 tvg-chno="1030" tvg-id="INBD13000053R" tvg-country="IN" group-title="Devotional",1030. Divya
@@ -83,8 +83,6 @@ https://jmp2.uk/stvp-INBC2800002WJ
 https://jmp2.uk/stvp-INBA490002119
 #EXTINF:-1 tvg-chno="1065" tvg-id="IN3900001YE" tvg-country="IN" group-title="Hindi News",1065. News24
 https://jmp2.uk/stvp-IN3900001YE
-#EXTINF:-1 tvg-chno="1066" tvg-id="INBD400006H0" tvg-country="IN" group-title="Hindi News",1066. ABP News
-https://jmp2.uk/stvp-INBD400006H0
 #EXTINF:-1 tvg-chno="1067" tvg-id="INBD1300010WP" tvg-country="IN" group-title="Hindi News",1067. News18 India
 https://jmp2.uk/stvp-INBD1300010WP
 #EXTINF:-1 tvg-chno="1068" tvg-id="INBD1300003OW" tvg-country="IN" group-title="Hindi News",1068. Times Now Navbharat
@@ -97,14 +95,16 @@ https://jmp2.uk/stvp-IN26000183G
 https://jmp2.uk/stvp-IN17000129W
 #EXTINF:-1 tvg-chno="1072" tvg-id="IN26000190S" tvg-country="IN" group-title="Hindi News",1072. India TV Speed News
 https://jmp2.uk/stvp-IN26000190S
-#EXTINF:-1 tvg-chno="1073" tvg-id="INBC2800003RQ" tvg-country="IN" group-title="Hindi News",1073. Aaj Tak
-https://jmp2.uk/stvp-INBC2800003RQ
 #EXTINF:-1 tvg-chno="1074" tvg-id="INBD1300007ST" tvg-country="IN" group-title="Hindi News",1074. CNBC AWAAZ
 https://jmp2.uk/stvp-INBD1300007ST
 #EXTINF:-1 tvg-chno="1075" tvg-id="INBD400004NS" tvg-country="IN" group-title="Hindi News",1075. Zee Business
 https://jmp2.uk/stvp-INBD400004NS
 #EXTINF:-1 tvg-chno="1076" tvg-id="INBC4300010Z6" tvg-country="IN" group-title="Hindi News",1076. Zee News
 https://jmp2.uk/stvp-INBC4300010Z6
+#EXTINF:-1 tvg-chno="2283" tvg-id="IN3800004BF" tvg-country="IN" group-title="Hindi News",2283. AajTak
+https://jmp2.uk/stvp-IN3800004BF
+#EXTINF:-1 tvg-chno="2284" tvg-id="IN4600012BD" tvg-country="IN" group-title="Hindi News",2284. ABP News
+https://jmp2.uk/stvp-IN4600012BD
 
 #Infotainment (13)
 #EXTINF:-1 tvg-chno="1077" tvg-id="IN1600009NL" tvg-country="IN" group-title="Infotainment",1077. HISTORY TV18 - Hindi
@@ -134,7 +134,7 @@ https://jmp2.uk/stvp-IN2400002A3
 #EXTINF:-1 tvg-chno="2210" tvg-id="IN800006BS" tvg-country="IN" group-title="Infotainment",2210. Pulse
 https://jmp2.uk/stvp-IN800006BS
 
-#Kids (8)
+#Kids (9)
 #EXTINF:-1 tvg-chno="1086" tvg-id="IN25000020M" tvg-country="IN" group-title="Kids",1086. The Jungle Book
 https://jmp2.uk/stvp-IN25000020M
 #EXTINF:-1 tvg-chno="1088" tvg-id="IN2500003JW" tvg-country="IN" group-title="Kids",1088. Powerkids Kartoon Channel
@@ -151,6 +151,8 @@ https://jmp2.uk/stvp-IN4600008T4
 https://jmp2.uk/stvp-IN4600009F9
 #EXTINF:-1 tvg-chno="2153" tvg-id="IN3000010V5" tvg-country="IN" group-title="Kids",2153. Mr. Bean
 https://jmp2.uk/stvp-IN3000010V5
+#EXTINF:-1 tvg-chno="2285" tvg-id="IN4900012F9" tvg-country="IN" group-title="Kids",2285. BABY SHARK TV
+https://jmp2.uk/stvp-IN4900012F9
 
 #Lifestyle (17)
 #EXTINF:-1 tvg-chno="1096" tvg-id="IN300000210" tvg-country="IN" group-title="Lifestyle",1096. Travelxp HD
@@ -208,7 +210,7 @@ https://jmp2.uk/stvp-IN3900016WI
 #EXTINF:-1 tvg-chno="2057" tvg-id="IN39000187Z" tvg-country="IN" group-title="Movies",2057. B4U Kadak
 https://jmp2.uk/stvp-IN39000187Z
 
-#Music (20)
+#Music (21)
 #EXTINF:-1 tvg-chno="1122" tvg-id="IN3800006RD" tvg-country="IN" group-title="Music",1122. K-POP by CJ ENM
 https://jmp2.uk/stvp-IN3800006RD
 #EXTINF:-1 tvg-chno="1126" tvg-id="IN38000050P" tvg-country="IN" group-title="Music",1126. 9XM
@@ -249,8 +251,10 @@ https://jmp2.uk/stvp-IN800005S8
 https://jmp2.uk/stvp-IN800007SR
 #EXTINF:-1 tvg-chno="2216" tvg-id="IN800004YV" tvg-country="IN" group-title="Music",2216. NOW 90s00s
 https://jmp2.uk/stvp-IN800004YV
+#EXTINF:-1 tvg-chno="2286" tvg-id="IN4900011OU" tvg-country="IN" group-title="Music",2286. @K-MUSIC
+https://jmp2.uk/stvp-IN4900011OU
 
-#Regional News (29)
+#Regional News (30)
 #EXTINF:-1 tvg-chno="1137" tvg-id="INBD2500006OC" tvg-country="IN" group-title="Regional News",1137. TV9 Marathi
 https://jmp2.uk/stvp-INBD2500006OC
 #EXTINF:-1 tvg-chno="1138" tvg-id="INBD400008VR" tvg-country="IN" group-title="Regional News",1138. ABP Majha
@@ -309,6 +313,8 @@ https://jmp2.uk/stvp-IN8000106W
 https://jmp2.uk/stvp-IN800012RO
 #EXTINF:-1 tvg-chno="2157" tvg-id="IN4900001AQ" tvg-country="IN" group-title="Regional News",2157. ETV News
 https://jmp2.uk/stvp-IN4900001AQ
+#EXTINF:-1 tvg-chno="2287" tvg-id="IN2100008VF" tvg-country="IN" group-title="Regional News",2287. News24 MP CG
+https://jmp2.uk/stvp-IN2100008VF
 
 #Sports (8)
 #EXTINF:-1 tvg-chno="1162" tvg-id="IN1300001NN" tvg-country="IN" group-title="Sports",1162. Cricket Gold
