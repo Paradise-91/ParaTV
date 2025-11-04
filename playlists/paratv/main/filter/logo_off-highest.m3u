@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 04/11/2025 04:25:33 CET+0100
+# Generated on: 04/11/2025 05:25:32 CET+0100
 
 #FRANCE (31)
 
@@ -130,7 +130,7 @@ https://cdndirector.dailymotion.com/cdn/live/video/x9s4wpg.m3u8?sec=QPkSvObvv0ao
 #EXTINF:-1 tvg-chno="89" tvg-country="FR" group-title="LEQUIPE.FR",89. ERS360-6 [1080p-dailymotion.com]
 https://cdndirector.dailymotion.com/cdn/live/video/x9s4wsi.m3u8?sec=L8XzTPPS7dCy6O8Fq-wl8WsHBuexRK2HahGbk4lyI4aJ97Kb8a6uIDLM6xjffeD8tq6nFC0dThKvSO50T13r2T07fPwT-ruA-9a4ki4JjxI
 
-#FRANCE.TV (41)
+#FRANCE.TV (40)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="110" tvg-id="France2.fr" epg-s="4" tvg-country="FR" group-title="FRANCE.TV",110. FRANCE 2 [SSAI][1080p-france.tv]
@@ -252,9 +252,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="149" tvg-country="FR" group-title="FRANCE.TV",149. PLAYOUT OUTRE MER
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/playout-outre-mer-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="150" tvg-country="FR" group-title="FRANCE.TV",150. RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/reunion-1ere-highest.m3u8
 
 #EQUIDIA (28)
 
