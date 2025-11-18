@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://simulcast-p.ftven.fr/ZXhwPTE3NjM1MTUxNjh+YWNsPSUyZip+aG1hYz02NWIwMDMyMDc3ZmY4ODFjNjA3NzNkMjE0ODZkMzAzZTFlNTE2OTI2YjZlY2Y0MzljM2E2YWY0NTFiNWQyMTNk/simulcast/France_Info/hls_monde_frinfo/France_Info-mp4a_96000_fra=1.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="fr",NAME="Francais",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://simulcast-p.ftven.fr/ZXhwPTE3NjM1MTUxNjh+YWNsPSUyZip+aG1hYz02NWIwMDMyMDc3ZmY4ODFjNjA3NzNkMjE0ODZkMzAzZTFlNTE2OTI2YjZlY2Y0MzljM2E2YWY0NTFiNWQyMTNk/simulcast/France_Info/hls_monde_frinfo/France_Info-dfxp_10000_qsa_SUBT=8.m3u8",GROUP-ID="text",LANGUAGE="qsa",NAME="Reserved for local use",DEFAULT=YES,AUTOSELECT=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://simulcast-p.ftven.fr/ZXhwPTE3NjM1MTUxNjh+YWNsPSUyZip+aG1hYz02NWIwMDMyMDc3ZmY4ODFjNjA3NzNkMjE0ODZkMzAzZTFlNTE2OTI2YjZlY2Y0MzljM2E2YWY0NTFiNWQyMTNk/simulcast/France_Info/hls_monde_frinfo/France_Info-dfxp_10000_qsm_CAPT=9.m3u8",GROUP-ID="text",LANGUAGE="qsm",NAME="Reserved for local use-9",AUTOSELECT=YES,CHARACTERISTICS="public.accessibility.describes-music-and-sound"
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://simulcast-p.ftven.fr/ZXhwPTE3NjM1MjU5Njh+YWNsPSUyZip+aG1hYz0wNjIyNGUwNDY2NmRlYThmYWRkYTAxMDgyNTQ5YzBiMGVhN2Q0OGU4MDU5YTgzYjI1OGYxNmEyMDVmMzU4MTI5/simulcast/France_Info/hls_monde_frinfo/France_Info-mp4a_96000_fra=1.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="fr",NAME="Francais",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://simulcast-p.ftven.fr/ZXhwPTE3NjM1MjU5Njh+YWNsPSUyZip+aG1hYz0wNjIyNGUwNDY2NmRlYThmYWRkYTAxMDgyNTQ5YzBiMGVhN2Q0OGU4MDU5YTgzYjI1OGYxNmEyMDVmMzU4MTI5/simulcast/France_Info/hls_monde_frinfo/France_Info-dfxp_10000_qsa_SUBT=8.m3u8",GROUP-ID="text",LANGUAGE="qsa",NAME="Reserved for local use",DEFAULT=YES,AUTOSELECT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://simulcast-p.ftven.fr/ZXhwPTE3NjM1MjU5Njh+YWNsPSUyZip+aG1hYz0wNjIyNGUwNDY2NmRlYThmYWRkYTAxMDgyNTQ5YzBiMGVhN2Q0OGU4MDU5YTgzYjI1OGYxNmEyMDVmMzU4MTI5/simulcast/France_Info/hls_monde_frinfo/France_Info-dfxp_10000_qsm_CAPT=9.m3u8",GROUP-ID="text",LANGUAGE="qsm",NAME="Reserved for local use-9",AUTOSELECT=YES,CHARACTERISTICS="public.accessibility.describes-music-and-sound"
 #EXT-X-STREAM-INF:BANDWIDTH=5947655,AVERAGE-BANDWIDTH=5406959,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"
-https://simulcast-p.ftven.fr/ZXhwPTE3NjM1MTUxNjh+YWNsPSUyZip+aG1hYz02NWIwMDMyMDc3ZmY4ODFjNjA3NzNkMjE0ODZkMzAzZTFlNTE2OTI2YjZlY2Y0MzljM2E2YWY0NTFiNWQyMTNk/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_5000000=2.m3u8
+https://simulcast-p.ftven.fr/ZXhwPTE3NjM1MjU5Njh+YWNsPSUyZip+aG1hYz0wNjIyNGUwNDY2NmRlYThmYWRkYTAxMDgyNTQ5YzBiMGVhN2Q0OGU4MDU5YTgzYjI1OGYxNmEyMDVmMzU4MTI5/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_5000000=2.m3u8
 
-#Last refreshed on 18/11/2025 20:19:28 CET.
+#Last refreshed on 18/11/2025 23:19:28 CET.
