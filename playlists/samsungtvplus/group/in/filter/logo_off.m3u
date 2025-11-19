@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 12/11/2025 06:25:26 CET+0100
-#TOTAL: 162
+# Generated on: 19/11/2025 06:24:33 CET+0100
+#TOTAL: 163
 
 #Devotional (3)
 #EXTINF:-1 tvg-chno="1030" tvg-id="INBD13000053R" tvg-country="IN" group-title="Devotional",1030. Divya
@@ -204,7 +204,7 @@ https://jmp2.uk/stvp-IN39000216A
 #EXTINF:-1 tvg-chno="2383" tvg-id="IN39000260R" tvg-country="IN" group-title="Lifestyle",2383. TheSorryGirls TV
 https://jmp2.uk/stvp-IN39000260R
 
-#Movies (9)
+#Movies (10)
 #EXTINF:-1 tvg-chno="1114" tvg-id="IN38000072R" tvg-country="IN" group-title="Movies",1114. The Movie Club
 https://jmp2.uk/stvp-IN38000072R
 #EXTINF:-1 tvg-chno="1117" tvg-id="IN1600011DE" tvg-country="IN" group-title="Movies",1117. KCM
@@ -223,6 +223,8 @@ https://jmp2.uk/stvp-IN46000140Q
 https://jmp2.uk/stvp-IN3900016WI
 #EXTINF:-1 tvg-chno="2057" tvg-id="IN39000187Z" tvg-country="IN" group-title="Movies",2057. B4U Kadak
 https://jmp2.uk/stvp-IN39000187Z
+#EXTINF:-1 tvg-chno="2400" tvg-id="IN40000100Y" tvg-country="IN" group-title="Movies",2400. The Movie Club+2
+https://jmp2.uk/stvp-IN40000100Y
 
 #Music (21)
 #EXTINF:-1 tvg-chno="1122" tvg-id="IN3800006RD" tvg-country="IN" group-title="Music",1122. K-POP by CJ ENM
@@ -269,8 +271,6 @@ https://jmp2.uk/stvp-IN800004YV
 https://jmp2.uk/stvp-IN4900011OU
 
 #Regional News (30)
-#EXTINF:-1 tvg-chno="1137" tvg-id="INBD2500006OC" tvg-country="IN" group-title="Regional News",1137. TV9 Marathi
-https://jmp2.uk/stvp-INBD2500006OC
 #EXTINF:-1 tvg-chno="1138" tvg-id="INBD400008VR" tvg-country="IN" group-title="Regional News",1138. ABP Majha
 https://jmp2.uk/stvp-INBD400008VR
 #EXTINF:-1 tvg-chno="1139" tvg-id="INBD400001CP" tvg-country="IN" group-title="Regional News",1139. Zee 24 Taas
@@ -301,8 +301,6 @@ https://jmp2.uk/stvp-INBD4000027E
 https://jmp2.uk/stvp-INBD2500013ID
 #EXTINF:-1 tvg-chno="1152" tvg-id="INBD25000148M" tvg-country="IN" group-title="Regional News",1152. News18 Tamil Nadu
 https://jmp2.uk/stvp-INBD25000148M
-#EXTINF:-1 tvg-chno="1153" tvg-id="INBD2500004Y0" tvg-country="IN" group-title="Regional News",1153. TV9 Telugu
-https://jmp2.uk/stvp-INBD2500004Y0
 #EXTINF:-1 tvg-chno="1154" tvg-id="INBD2500003XT" tvg-country="IN" group-title="Regional News",1154. TV9 Kannada
 https://jmp2.uk/stvp-INBD2500003XT
 #EXTINF:-1 tvg-chno="1155" tvg-id="INBD2500012V1" tvg-country="IN" group-title="Regional News",1155. News18 Kannada
@@ -329,6 +327,10 @@ https://jmp2.uk/stvp-IN800012RO
 https://jmp2.uk/stvp-IN4900001AQ
 #EXTINF:-1 tvg-chno="2287" tvg-id="IN2100008VF" tvg-country="IN" group-title="Regional News",2287. News24 MP CG
 https://jmp2.uk/stvp-IN2100008VF
+#EXTINF:-1 tvg-chno="2401" tvg-id="IN4000003V7" tvg-country="IN" group-title="Regional News",2401. TV9 Marathi
+https://jmp2.uk/stvp-IN4000003V7
+#EXTINF:-1 tvg-chno="2402" tvg-id="IN40000048N" tvg-country="IN" group-title="Regional News",2402. TV9 Telugu
+https://jmp2.uk/stvp-IN40000048N
 
 #Sports (8)
 #EXTINF:-1 tvg-chno="1162" tvg-id="IN1300001NN" tvg-country="IN" group-title="Sports",1162. Cricket Gold
