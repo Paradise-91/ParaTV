@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 19/11/2025 06:24:33 CET+0100
-#TOTAL: 213
+# Generated on: 26/11/2025 06:24:10 CET+0100
+#TOTAL: 214
 
 #Crime (12)
 #EXTINF:-1 tvg-chno="851" tvg-id="GBBD3700001AB" tvg-country="GB" group-title="Crime",851. DATELINE 24/7
@@ -43,8 +43,6 @@ https://jmp2.uk/stvp-GB200005LI
 https://jmp2.uk/stvp-GB2700007YH
 #EXTINF:-1 tvg-chno="865" tvg-id="GBBC900004G9" tvg-country="GB" group-title="Documentaries",865. The Wicked Tuna Channel
 https://jmp2.uk/stvp-GBBC900004G9
-#EXTINF:-1 tvg-chno="866" tvg-id="GB2700004BC" tvg-country="GB" group-title="Documentaries",866. Duck Dynasty
-https://jmp2.uk/stvp-GB2700004BC
 #EXTINF:-1 tvg-chno="867" tvg-id="GB2700011DR" tvg-country="GB" group-title="Documentaries",867. Ax Men
 https://jmp2.uk/stvp-GB2700011DR
 #EXTINF:-1 tvg-chno="868" tvg-id="GB27000069E" tvg-country="GB" group-title="Documentaries",868. Dog The Bounty Hunter
@@ -97,6 +95,8 @@ https://jmp2.uk/stvp-GB3700008XB
 https://jmp2.uk/stvp-GB3700009AO
 #EXTINF:-1 tvg-chno="2267" tvg-id="GB3200005SO" tvg-country="GB" group-title="Documentaries",2267. Autentic History
 https://jmp2.uk/stvp-GB3200005SO
+#EXTINF:-1 tvg-chno="2422" tvg-id="GB4300003ZT" tvg-country="GB" group-title="Documentaries",2422. Most Haunted
+https://jmp2.uk/stvp-GB4300003ZT
 
 #Entertainment (24)
 #EXTINF:-1 tvg-chno="890" tvg-id="GBBC400000345" tvg-country="GB" group-title="Entertainment",890. Festive Hub
@@ -340,7 +340,9 @@ https://jmp2.uk/stvp-GB1200006IV
 #EXTINF:-1 tvg-chno="2373" tvg-id="GB2300005ML" tvg-country="GB" group-title="News",2373. Al Jazeera
 https://jmp2.uk/stvp-GB2300005ML
 
-#Reality (21)
+#Reality (22)
+#EXTINF:-1 tvg-chno="866" tvg-id="GB2700004BC" tvg-country="GB" group-title="Reality",866. Duck Dynasty
+https://jmp2.uk/stvp-GB2700004BC
 #EXTINF:-1 tvg-chno="872" tvg-id="GB12000037Y" tvg-country="GB" group-title="Reality",872. Deal Masters
 https://jmp2.uk/stvp-GB12000037Y
 #EXTINF:-1 tvg-chno="874" tvg-id="GBBD1100009M9" tvg-country="GB" group-title="Reality",874. So…Real
