@@ -1,26 +1,20 @@
 #EXTM3U
-# Generated on: 27/11/2025 15:24:34 CET+0100
+# Generated on: 27/11/2025 16:24:35 CET+0100
 
-#LEQUIPE.FR (7)
+#LEQUIPE.FR (5)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=HRWa9dIlGoP6Znr3VftUyACw4PAR3HLPxZdpvb8co8F7z57UiShqw23wTdibJjouVfUkvstxUvEWtiMC8RXjSgK_uFDoIP3puC9cEHcmLJQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 3 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=_hAlrwD3IdNNF1xw_ZW6kRdTYJBbvrms0mZWVTc_nyAsUXJcv0bdOhQvj12vhPfVaYb4LWZFDXLiZwDliPuCZdoecFbjyUEe4foBYEi6o84
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",Eurosport 360 - 1 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9n0016.m3u8?sec=0k29o_o-rSEwczt5NmFOg9wMpBzwnFOEXNIasUA4UGGckkTMUvWGA2NijUO5kEVWE8cXjjlRb7BzNQR1CT18tVJKEh1VzMNwP_QGJz6WFiw
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=2dZIqktN72S0JICVTD46YtycbZDu54nl5eobDT1DSx4gYkrakPscDWAiYtEw-CNvjaA9htS9tBJyia8baZAv4zZoUK4Runzc-eY2bh5pwPg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-country="FR" group-title="LEQUIPE.FR",Eurosport 2 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9lx0e4.m3u8?sec=IrFxyYgBvXuEezrXa3SqJXwdtdvA2tW3ZKlzWaUfbFwN2KGdNjXsd2XTqGWbvWaay7ZxIEA4cAv-UtpaHe2QQ9R9SJLB8imEPWAUv10yOI8
+https://cdndirector.dailymotion.com/cdn/live/video/x9lx0e4.m3u8?sec=8BrJ6x3gt6thvUsX8Sl5rkeOA29zS_PaocPYcAa4im7C1EyhKzmQ9JihCyABInSO1pls7ZFKix1Vnw4yb14VKhKO0mhU7mISeI-5tsCsBuc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=xnqEMSmrmtUzZXNAE9aSR5swscwJnIC8tbF_sKbuOIWYHVeK2cYG_JapFBM4d3a9avb16XV8I3ZZUITXHwOIvBhdb-GDS_Dl9fIytfksLQs
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=rZqxLtHWHWxqd3JDWjyUoith3g8L9KK5PND1mn1nrGIXTEHiE4ZpV2glzkcOsWjwQ_ugDy4QBB3uWwite7RRiZ7CCV9PRfzmpujTO3s6nj8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf TV [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=mMDdhciRGws2ZM867cWuXkZMlV21E__OQ6R2qvTxlpk38txHQPnuriYh72SviR2tGPRYyQKj8S_wnxVNBpuQWloFVpSMKVeBiyhAejbm2oU
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=vXwo7YO3tuNGofJsEpVeIFvnq-0s7nzP4XqtT4jQNXpacFspAd8PzYQAM64CipGk3NV0uNTYWUNQAOcA2pkpIj7oMwYKk0okZrie7teTiBE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-country="FR" group-title="LEQUIPE.FR",Eurosport 1 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9lx07s.m3u8?sec=xc7W9JGRNsmkDcBB20sWwqQbU2C4K6xWF7mTPfB1dMsiHlqcVu5n_FWYZsLPFDKrOg3DlE6fAboVs4kz3TP8qyrCdJ0StktJJj8t149j344
+https://cdndirector.dailymotion.com/cdn/live/video/x9lx07s.m3u8?sec=2uPdPFeLgisOeFwRwrw71LOqLJqsF5EODV-nCoKjDKQixK0G0KeOFHGrR9cbJwhbLXhkuPSFAjVlJLd95KwC9NEdVujT0RHN_R37CCc9WqQ
