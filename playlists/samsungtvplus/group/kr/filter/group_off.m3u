@@ -1,11 +1,11 @@
 #EXTM3U
-# Generated on: 03/12/2025 06:24:14 CET+0100
-#TOTAL: 162
+# Generated on: 10/12/2025 06:24:25 CET+0100
+#TOTAL: 165
 
 #뉴스 (12)
-#EXTINF:-1 tvg-chno="1321" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png",1321. 연합뉴스TV
+#EXTINF:-1 tvg-chno="1321" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20251210T003613SQUARE.png",1321. 연합뉴스TV
 https://jmp2.uk/stvp-KRBD1400001ED
-#EXTINF:-1 tvg-chno="1322" tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20250811T061417SQUARE.png",1322. YTN
+#EXTINF:-1 tvg-chno="1322" tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20251210T003611SQUARE.png",1322. YTN
 https://jmp2.uk/stvp-KRBD2400001XD
 #EXTINF:-1 tvg-chno="1323" tvg-id="KR7000044K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000044K_20250402T010059SQUARE.png",1323. 서울경제TV
 https://jmp2.uk/stvp-KR7000044K
@@ -28,7 +28,7 @@ https://jmp2.uk/stvp-KR3500002AE
 #EXTINF:-1 tvg-chno="2290" tvg-id="KR3600003JU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600003JU_20251029T003224SQUARE.png",2290. 한국경제TV
 https://jmp2.uk/stvp-KR3600003JU
 
-#드라마 (30)
+#드라마 (33)
 #EXTINF:-1 tvg-chno="1328" tvg-id="KRBB42000061Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20251001T005242SQUARE.png",1328. SBS 야인시대
 https://jmp2.uk/stvp-KRBB42000061Z
 #EXTINF:-1 tvg-chno="1329" tvg-id="KRBB420001572" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20251001T005247SQUARE.png",1329. SBS 올인
@@ -89,6 +89,12 @@ https://jmp2.uk/stvp-KR2000008LX
 https://jmp2.uk/stvp-KR2000009EC
 #EXTINF:-1 tvg-chno="2170" tvg-id="KR2000011GA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000011GA_20250827T010221SQUARE.png",2170. 나미브
 https://jmp2.uk/stvp-KR2000011GA
+#EXTINF:-1 tvg-chno="2451" tvg-id="KR4300001XB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4300001XB_20251210T003617SQUARE.png",2451. KBS 가을동화 (Remastered)
+https://jmp2.uk/stvp-KR4300001XB
+#EXTINF:-1 tvg-chno="2452" tvg-id="KR43000024B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR43000024B_20251210T003547SQUARE.png",2452. MBC 다모 (Remastered)
+https://jmp2.uk/stvp-KR43000024B
+#EXTINF:-1 tvg-chno="2453" tvg-id="KR43000032C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR43000032C_20251210T003554SQUARE.png",2453. SBS 명랑소녀 성공기 (Remastered)
+https://jmp2.uk/stvp-KR43000032C
 
 #라이프스타일 (3)
 #EXTINF:-1 tvg-chno="1347" tvg-id="KRBD2200001QD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20250402T010110SQUARE.png",1347. 우리의식탁
