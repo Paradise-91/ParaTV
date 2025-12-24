@@ -1,8 +1,10 @@
 #EXTM3U
-# Generated on: 23/12/2025 06:25:27 CET+0100
-#TOTAL: 162
+# Generated on: 24/12/2025 06:24:32 CET+0100
+#TOTAL: 172
 
-#뉴스 (11)
+#뉴스 (12)
+#EXTINF:-1 group-title="뉴스",연합뉴스TV
+https://jmp2.uk/stvp-KRBD1400001ED
 #EXTINF:-1 group-title="뉴스",YTN
 https://jmp2.uk/stvp-KRBD2400001XD
 #EXTINF:-1 group-title="뉴스",서울경제TV
@@ -26,7 +28,7 @@ https://jmp2.uk/stvp-KR3500002AE
 #EXTINF:-1 group-title="뉴스",한국경제TV
 https://jmp2.uk/stvp-KR3600003JU
 
-#드라마 (31)
+#드라마 (36)
 #EXTINF:-1 group-title="드라마",SBS 야인시대
 https://jmp2.uk/stvp-KRBB42000061Z
 #EXTINF:-1 group-title="드라마",SBS 올인
@@ -89,6 +91,16 @@ https://jmp2.uk/stvp-KR2000009EC
 https://jmp2.uk/stvp-KR2000011GA
 #EXTINF:-1 group-title="드라마",KBS 태조 왕건
 https://jmp2.uk/stvp-KR4600012CR
+#EXTINF:-1 group-title="드라마",KBS 가을동화 (Remastered)
+https://jmp2.uk/stvp-KR4400003ER
+#EXTINF:-1 group-title="드라마",MBC 다모 (Remastered)
+https://jmp2.uk/stvp-KR4400004NB
+#EXTINF:-1 group-title="드라마",SBS 명랑소녀 성공기 (Remastered)
+https://jmp2.uk/stvp-KR44000056U
+#EXTINF:-1 group-title="드라마",SBS HOT CLIP 드라마
+https://jmp2.uk/stvp-KR4500003V9
+#EXTINF:-1 group-title="드라마",MBC HOT CLIP 드라마
+https://jmp2.uk/stvp-KR4500001KZ
 
 #라이프스타일 (3)
 #EXTINF:-1 group-title="라이프스타일",우리의식탁
@@ -204,7 +216,7 @@ https://jmp2.uk/stvp-KRBC3200004D1
 #EXTINF:-1 group-title="영화",Genie 크리스마스 특집
 https://jmp2.uk/stvp-KR2000012AI
 
-#예능 (66)
+#예능 (69)
 #EXTINF:-1 group-title="예능",tvN 무쇠소녀단 1~2 이어보기
 https://jmp2.uk/stvp-KRBC3200029C4
 #EXTINF:-1 group-title="예능",tvN 꽃보다 청춘 시리즈 모아보기
@@ -337,8 +349,14 @@ https://jmp2.uk/stvp-KR140000508
 https://jmp2.uk/stvp-KR1800002Q7
 #EXTINF:-1 group-title="예능",더라이프2
 https://jmp2.uk/stvp-KR36000040X
+#EXTINF:-1 group-title="예능",MBC HOT CLIP 예능
+https://jmp2.uk/stvp-KR4500002GS
+#EXTINF:-1 group-title="예능",SBS HOT CLIP 예능
+https://jmp2.uk/stvp-KR4500004XC
+#EXTINF:-1 group-title="예능",KBS HOT CLIP 예능
+https://jmp2.uk/stvp-KR45000060I
 
-#음악 (4)
+#음악 (5)
 #EXTINF:-1 group-title="음악",JTBC 비긴어게인 - 오픈마이크
 https://jmp2.uk/stvp-KRBD43000023M
 #EXTINF:-1 group-title="음악",essential; by Bugs
@@ -347,3 +365,5 @@ https://jmp2.uk/stvp-KR410000247
 https://jmp2.uk/stvp-KRBC3200023BG
 #EXTINF:-1 group-title="음악",K-ASMR
 https://jmp2.uk/stvp-KRBC41000021C
+#EXTINF:-1 group-title="음악",KBS HOT CLIP 음악
+https://jmp2.uk/stvp-KR45000052W
