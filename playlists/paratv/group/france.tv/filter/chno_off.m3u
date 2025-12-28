@@ -1,11 +1,32 @@
 #EXTM3U
-# Generated on: 28/12/2025 19:24:36 CET+0100
+# Generated on: 28/12/2025 23:09:30 CET+0100
 
 #FRANCE.TV (40)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",FRANCE 3 [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",FRANCE 4 [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",FRANCE 5 [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 epg-s="2111" tvg-country="FR" group-title="FRANCE.TV",FRANCEINFO [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",ARTE [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NOG1vA.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE TV DOCS [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",MIEUX [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mieux.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqRKGQa.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE TV SÉRIES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/serie.m3u8
@@ -102,24 +123,3 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8vBQ37F.png" tvg-country="FR" group-title="FRANCE.TV",OUTRE-MER EN CONTINU
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",ARTE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 epg-s="4" tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 epg-s="80" tvg-country="FR" group-title="FRANCE.TV",FRANCE 3 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 epg-s="78" tvg-country="FR" group-title="FRANCE.TV",FRANCE 4 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 epg-s="47" tvg-country="FR" group-title="FRANCE.TV",FRANCE 5 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 epg-s="2111" tvg-country="FR" group-title="FRANCE.TV",FRANCEINFO [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",MIEUX [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mieux.m3u8
