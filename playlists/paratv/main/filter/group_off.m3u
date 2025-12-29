@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 29/12/2025 14:24:34 CET+0100
+# Generated on: 29/12/2025 15:24:35 CET+0100
 
 #FRANCE (32)
 
@@ -114,23 +114,26 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/hDscsNi.png",71. TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (5)
+#LEQUIPE.FR (6)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="78" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",78. la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Rs3TioJsTteCua3cr5VXsuCPcUEVlb2GFYR2H1rDbVGTxnR47tdRIuQkVDVODtDVzYE1AnFvWzGGfHqOd3cKpMU48heuPyMoamZAG8Et0dU
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=tPF4werDsFLXE_eBpQLT0Bj-jjyQiEY4GwT2iB4nwRGU8-kjMK_dtiuqtepmTfzWpuMJ-D-KzWoSDU0DYydPuXeMfSCUDZ4zkVdJGP6ui6c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="79",79. Eurosport 360 - 2 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s4jzk.m3u8?sec=4-rWqDg5iCiaV4C4EugeDkHG6z53ZeCEMhrKKPP8bII-AzCakKjnKxwtu5tEu8SHLlG2J_BYfwF_79vwh4cvDqb237dr3oOm7OaTAwKtcOc
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4jzk.m3u8?sec=kwE7YQPEEacAIbBdzmNAFOXsHDDr0gURDB9lj8HwQ-G2d-Z9ep_GX15Q2g2mbTBM8yii7JYL9fzWFsQB9NPn-rTnm3kd2rP3QkqjrYxxc94
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="80" tvg-id="Eurosport1.fr",80. Eurosport 1 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9lx07s.m3u8?sec=uSbcPB97WNxPVxcA8ImrpMtTbPym5aUYn-ykUrX9eQA8gIQJv84jFqghq9ORpgoy0NQnic49ZMfrmeIyVUjIw1TYUgLIj392t6Yor2EHUQM
+https://cdndirector.dailymotion.com/cdn/live/video/x9lx07s.m3u8?sec=S4ghcJ9CjubGRr3GGTHLWGxByCnoaQbvXvzsan7Diwb4NpU9sON5TKws6Izx0zrtF8sKyhlwVWA27YBNH3QAhj01OSqUs4NUljCTmiwGXpE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="81" tvg-id="Eurosport2.fr",81. Eurosport 2 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9lx0e4.m3u8?sec=yBQ-Mwx8a4QjLE1gkK-xWUwEjNbwjv-3rtsF7wnwECcuqpBvjWHSkaB9yucjYF02hRUGkfk81ijfmGKJM-AVMeqBqNtrQ-xUO5WicAknXsk
+https://cdndirector.dailymotion.com/cdn/live/video/x9lx0e4.m3u8?sec=ZHxEaDL6Z0UU2vGAzi5ZkqyH84uATkvWsUhgh3lRnfDAva_H6SLbJmOPLmrYS6BkBUAm5h8ihiZyonDeCT31jr5p2_XcciOr37RLfMdKeZQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="82",82. Eurosport 360 - 1 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9n0016.m3u8?sec=_7KBaT1HF_KXmTaB5fBaUdHG_U-0Y-WAgLNXM4nQGnsRIVyysRKCxDTgvPtocEeXtv0Kft5FqZRdkDh6nuMBIDO3xqpdutF70NGwSeG4ti0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100",85. Journal du Golf TV [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=_IgaHdWXZR8Fi6-f_g7nRMYg45fcAKcp4tDY_m8M1YOTC7td2yAsjtR4lhC6kbBZEWQlorZsc3TDfR_-i58WCPLxVNQ1_3ekMBG66yM0Xu8
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=bZ9X1zNx7Xnd39N-bdpQhCSKHfTmVBMllKfQKo7y1ih2vO4f3LljPoOtbfkekOhKrB1aNGRGjUV7R3MQ6jpHEM0faP-SZRT67WZV2z1wETQ
 
 #FRANCE.TV (41)
 
