@@ -1,14 +1,14 @@
 #EXTM3U
-# Generated on: 02/12/2025 02:24:36 CET+0100
+# Generated on: 02/01/2026 02:24:35 CET+0100
 
 #RADIO (3)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="600" tvg-country="FR" group-title="RADIO",600. Europe 1 [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/europe-1-dm.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="601" tvg-country="FR" group-title="RADIO",601. France Inter [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/france-inter-dm.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="602" tvg-country="FR" group-title="RADIO",602. Sud Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8

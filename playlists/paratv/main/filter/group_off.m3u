@@ -1,24 +1,24 @@
 #EXTM3U
-# Generated on: 02/01/2026 01:24:34 CET+0100
+# Generated on: 02/01/2026 02:24:34 CET+0100
 
 #FRANCE (32)
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/rsYZjuQGsBOEtTp6.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" epg-s="4" tvg-logo="https://i.imgur.com/EbEL7U8.png",2. France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="France2.fr" epg-s="4" tvg-logo="https://i.imgur.com/EbEL7U8.png",48. France 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" epg-s="80" tvg-logo="https://i.imgur.com/PWbIICf.png",3. France 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-id="France3.fr" epg-s="80" tvg-logo="https://i.imgur.com/PWbIICf.png",49. France 3 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="4" tvg-id="France4.fr" epg-s="78" tvg-logo="https://i.imgur.com/9GibmAI.png",4. France 4 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" epg-s="47" tvg-logo="https://i.imgur.com/h0TcqHE.png",5. France 5 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france5.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-id="France5.fr" epg-s="47" tvg-logo="https://i.imgur.com/h0TcqHE.png",50. France 5 [SSAI][1080p-france.tv]
@@ -27,10 +27,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 tvg-chno="46" epg-s="111" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png",46. ARTE [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/FuTc0DwXjQke8HOw.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="47" tvg-id="Arte.fr" epg-s="111" tvg-logo="https://i.imgur.com/GqWBPJY.png",47. Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="8" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LCP100x100.png?h=100",8. LCP [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-id="LCP100.fr" tvg-logo="https://i.imgur.com/WK7fvqD.png",51. LCP-AN [1080p-dailymotion.com]
@@ -43,18 +43,18 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/d
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/R0GS0ATrD96tOTvD.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="BFMTV.fr" epg-s="481" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100",13. BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="14" tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100",14. C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="45" tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100",45. C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="LCI.fr" epg-s="112" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100",15. LCI [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/nwMuI6nYQ7oIKfsO.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="16" tvg-id="FranceInfo.fr" epg-s="2111" tvg-logo="https://i.imgur.com/hwaz7xG.png",16. France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" epg-s="458" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100",17. CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="T18.fr" epg-s="4139" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100",18. T18 [1080p-dailymotion.com]
@@ -73,37 +73,37 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100",35. LE FIGARO TV [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/B2mvgjUcq2dsvlr.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="40" tvg-id="CanalPlus.fr" epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100",40. CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="41" tvg-id="CanalPlus.fr" epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100",41. CANAL+ EN CLAIR [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplus-dm.m3u8
 
 #CANALPLUS (8)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="60" tvg-id="CanalPlus.fr" epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100",60. CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="61" tvg-id="CanalPlus.fr" epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100",61. CANAL+ EN CLAIR [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplus-dm.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="62" epg-s="458" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100",62. CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="63" tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100",63. C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="64" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100",64. CNEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="65" epg-s="226" tvg-logo="https://i.imgur.com/viR1wZh.png",65. CNEWS PRIME [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnewsprime-clair-hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="66" epg-s="226" tvg-logo="https://i.imgur.com/viR1wZh.png",66. CNEWS PRIME [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="67" tvg-logo="https://s2.dmcdn.net/u/1W-uR1f7ntIfZU4bn/60x60",67. Europe 1 [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/europe1tv-clair-hd.m3u8
 
@@ -116,153 +116,147 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (5)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="78" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",78. la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=gJkScUkrTljWcVlLpaE8driyVGnbnLTd03uKuSsjyImUZ6aat0Pkkfd3Z1QkbYkzO0YYdU3yvCQ92nOz8fkBsSgvmG04ABqTy1Rsnubsx1o
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=6_F2_0Wu4oxvFldxXP3VWA0ZXSjBz6lGWFGPxih660fIGjmteWlRkM_cw6Jla_WloaOZgjQTdoNW_45CqAOrxQEIwlxcSBn0C4ypt05NWiM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="79",79. Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=kPbEZoqS10X4jN0-xJLZzy4S87CfIZTpffRUCps74iEqTNGECfmpAaWpx8lpv6EYjaRUhYSlbkDjWYTkG54vawbHt_AukHkWF7_XS8_42gk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=xXkoPUL5pVhHHE8yKnokmeUzwKRYCj3pSqDob-yIKTAdPLMJvoBhosVwhH2It6IytMnRZfKY5N8nwEwxy2lb0qjHdMHVcbHSys840FQpVuQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="80" tvg-id="Eurosport1.fr",80. Eurosport 1 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9lx07s.m3u8?sec=Vd4DPjgo_q3nTbqZws4Qmo-pTFlI_noYaZd6qsi79qtuiLK-AJSxcp6mTC_PrphuUtaN9cewGVxE13biIqlBFOZSan-R21HN8-gPS2D8Fo0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://cdndirector.dailymotion.com/cdn/live/video/x9lx07s.m3u8?sec=AcZdVpxdGFBMaOLKyv8-s5EILWJ0jK5uI3GgHp0b7EcJjvRYILy_4-0NQU1Q7FHBcR8aWfd7fdwWKv49AU8jSMphmZ74OcVhuu2KPaO6o1s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="81" tvg-id="Eurosport2.fr",81. Eurosport 2 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9lx0e4.m3u8?sec=5wyzapJh_KGz87VNSUCN9WAr51C8yBUj8cDWZ1WR_5eREbzjFU-ppK4ueCHKr2DaKqDTJtEwGCttOyxYovCqQsu-dzweIZwQmhNIWerDFoM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://cdndirector.dailymotion.com/cdn/live/video/x9lx0e4.m3u8?sec=GdaorvZnaiGmIBzIH3L_lenOd1FJrIATDewbIwViDbeBEYJT3wSHn4HTt8VX08ZUx_dWvZJgXVa5RQi73yxeIrVCtuJ7wJQOqboVnsXveGg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100",85. Journal du Golf TV [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=h1Nzmf7uYV1qmfoI_ZCiBtTNjyG3AkIeUtAEms_e0z7JxUxk_UhVf4kigGLz2gc3Y5admlkMxQHEjNeCEiEGoaaO9uQHmZnfBhOq13Sl4Dc
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=GztG-QDo_-b0eBACHjkmPDq2npzBTnw2ntr6DO_tA2MIKCb-7KPU1ytcxH9kRpuCfrLPHHCLWp3xd4al0oJ86o12rQ-8R30xTGUzdwGyGsc
 
-#FRANCE.TV (43)
+#FRANCE.TV (41)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://i.imgur.com/8vBQ37F.png",110. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://i.imgur.com/EbEL7U8.png",110. FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="111" tvg-logo="https://i.imgur.com/PWbIICf.png",111. FRANCE 3 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="112" tvg-logo="https://i.imgur.com/9GibmAI.png",112. FRANCE 4 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="113" tvg-logo="https://i.imgur.com/h0TcqHE.png",113. FRANCE 5 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="114" epg-s="2111" tvg-logo="https://i.imgur.com/hwaz7xG.png",114. FRANCEINFO [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="115" tvg-logo="https://i.imgur.com/GqWBPJY.png",115. ARTE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="116" tvg-logo="https://i.imgur.com/8NOG1vA.png",116. FRANCE TV DOCS [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="117" tvg-logo="https://i.imgur.com/jQCBYTE.png",117. MIEUX [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mieux.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="118" tvg-logo="https://i.imgur.com/AqRKGQa.png",118. FRANCE TV SÉRIES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/serie.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="119" tvg-id="France24.fr" epg-s="529" tvg-logo="https://i.imgur.com/f0MLlVT.png",119. FRANCE 24 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="120" tvg-logo="https://i.imgur.com/HsnD2Fe.png",120. INA [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ina.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="121" tvg-id="LaChaineParlementaire.fr" tvg-logo="https://i.imgur.com/LYbxpxZ.png",121. LCP - PUBLIC SÉNAT [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="122" tvg-logo="https://i.imgur.com/9xwgFc6.png",122. TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv5-monde.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="123" tvg-logo="https://i.imgur.com/84gdvCg.png",123. CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/roland-garros.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="124" tvg-logo="https://i.imgur.com/PWbIICf.png",124. FRANCE 3 ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alpes.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="125" tvg-logo="https://i.imgur.com/PWbIICf.png",125. FRANCE 3 ALSACE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alsace.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="126" tvg-logo="https://i.imgur.com/PWbIICf.png",126. FRANCE 3 AQUITAINE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-aquitaine.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="127" tvg-logo="https://i.imgur.com/PWbIICf.png",127. FRANCE 3 AUVERGNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-auvergne.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="128" tvg-logo="https://i.imgur.com/PWbIICf.png",128. FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-basse-normandie.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="129" tvg-logo="https://i.imgur.com/PWbIICf.png",129. FRANCE 3 BOURGOGNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bourgogne.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="130" tvg-logo="https://i.imgur.com/PWbIICf.png",130. FRANCE 3 BRETAGNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bretagne.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="131" tvg-logo="https://i.imgur.com/PWbIICf.png",131. FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-centre-val-de-loire.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="132" tvg-logo="https://i.imgur.com/PWbIICf.png",132. FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-champagne-ardenne.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="133" tvg-logo="https://i.imgur.com/PWbIICf.png",133. FRANCE 3 CORSE VIA STELLA [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-corse-via-stella.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="134" tvg-logo="https://i.imgur.com/PWbIICf.png",134. FRANCE 3 CÔTE D'AZUR [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="135" tvg-logo="https://i.imgur.com/PWbIICf.png",135. FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-franche-comte.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="136" tvg-logo="https://i.imgur.com/PWbIICf.png",136. FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-haute-normandie.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="137" tvg-logo="https://i.imgur.com/PWbIICf.png",137. FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-languedoc-roussillon.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="138" tvg-logo="https://i.imgur.com/PWbIICf.png",138. FRANCE 3 LIMOUSIN [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-limousin.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="139" tvg-logo="https://i.imgur.com/PWbIICf.png",139. FRANCE 3 LORRAINE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-lorraine.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="140" tvg-logo="https://i.imgur.com/PWbIICf.png",140. FRANCE 3 MIDI-PYRÉNÉES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-midi-pyrenees.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="141" tvg-logo="https://i.imgur.com/PWbIICf.png",141. NOA [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-noa.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="142" tvg-logo="https://i.imgur.com/PWbIICf.png",142. FRANCE 3 NORD PAS-DE-CALAIS [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-nord-pas-de-calais.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="143" tvg-logo="https://i.imgur.com/PWbIICf.png",143. FRANCE 3 PARIS ILE-DE-FRANCE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-paris-ile-de-france.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="144" tvg-logo="https://i.imgur.com/PWbIICf.png",144. FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-pays-de-la-loire.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="145" tvg-logo="https://i.imgur.com/PWbIICf.png",145. FRANCE 3 PICARDIE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-picardie.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="146" tvg-logo="https://i.imgur.com/PWbIICf.png",146. FRANCE 3 POITOU-CHARENTES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-poitou-charentes.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="147" tvg-logo="https://i.imgur.com/PWbIICf.png",147. FRANCE 3 PROVENCE ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-provence-alpes.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="148" tvg-logo="https://i.imgur.com/PWbIICf.png",148. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="149" tvg-logo="https://i.imgur.com/8vBQ37F.png",149. OUTRE-MER EN CONTINU
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="150" tvg-logo="https://i.imgur.com/8vBQ37F.png",150. GUADELOUPE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guadeloupe-1ere.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="151" tvg-logo="https://i.imgur.com/8vBQ37F.png",151. MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/martinique-1ere.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="152" tvg-logo="https://i.imgur.com/8vBQ37F.png",152. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
 
 #EQUIDIA (28)
 
@@ -398,13 +392,13 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 
 #RADIO (3)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://s2.dmcdn.net/u/1W-uR1f7ntIfZU4bn/60x60",600. Europe 1 [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/europe-1-dm.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://s2.dmcdn.net/u/HT2x1f7nt3DClNfe/60x60",601. France Inter [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/france-inter-dm.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://s1.dmcdn.net/u/1ERZ11f7ntdWn7Xle/60x60",602. Sud Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8
 
@@ -723,348 +717,348 @@ https://jmp2.uk/stvp-FR38000024W
 
 #NETPLUS.TV (115)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1600" tvg-logo="https://picserve.netplus.ch/channels/3sathd.png",1600. 3SAT HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1601" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png",1601. BLUE ZOOM DE [DE]
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1602" tvg-logo="https://picserve.netplus.ch/channels/bralpha.png",1602. BR ALPHA [DE]
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1603" tvg-logo="https://picserve.netplus.ch/channels/brhdsud.png",1603. BR HD SUD [DE]
 https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1604" tvg-logo="https://picserve.netplus.ch/channels/daserstehd.png",1604. DAS ERSTE HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1605" tvg-logo="https://picserve.netplus.ch/channels/disneychannelde.png",1605. DISNEY CHANNEL DE [DE]
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1606" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png",1606. EUROSPORT DE [DE]
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1607" tvg-logo="https://picserve.netplus.ch/channels/hr.png",1607. HR [DE]
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1608" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png",1608. KANAL 9 [DE]
 https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1609" tvg-logo="https://picserve.netplus.ch/channels/kikahd.png",1609. KIKA HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1610" tvg-logo="https://picserve.netplus.ch/channels/mdr.png",1610. MDR [DE]
 https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1611" tvg-logo="https://picserve.netplus.ch/channels/ndr.png",1611. NDR [DE]
 https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1612" tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png",1612. NICK [DE]
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1613" tvg-logo="https://picserve.netplus.ch/channels/ntv.png",1613. N TV [DE]
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1614" tvg-logo="https://picserve.netplus.ch/channels/orf1.png",1614. ORF 1 [DE]
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1615" tvg-logo="https://picserve.netplus.ch/channels/orf2.png",1615. ORF 2 [DE]
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1616" tvg-logo="https://picserve.netplus.ch/channels/phoenixhd.png",1616. PHOENIX HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1617" tvg-logo="https://picserve.netplus.ch/channels/rtl.png",1617. RTL [DE]
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1618" tvg-logo="https://picserve.netplus.ch/channels/rtl2.png",1618. RTL 2 [DE]
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1619" tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png",1619. RTL NITRO [DE]
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1620" tvg-logo="https://picserve.netplus.ch/channels/sport1.png",1620. SPORT 1 [DE]
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1621" tvg-logo="https://picserve.netplus.ch/channels/srf1hd.png",1621. SRF 1 HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1622" tvg-logo="https://picserve.netplus.ch/channels/srf2hd.png",1622. SRF 2 HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1623" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png",1623. SRF INFO [DE]
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1624" tvg-logo="https://picserve.netplus.ch/channels/superrtl.png",1624. SUPER RTL [DE]
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1625" tvg-logo="https://picserve.netplus.ch/channels/swrbw.png",1625. SWR BW [DE]
 https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1626" tvg-logo="https://picserve.netplus.ch/channels/tele5.png",1626. TELE 5 [DE]
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1627" tvg-logo="https://picserve.netplus.ch/channels/telebaern.png",1627. TELE BAERN [DE]
 https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1628" tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png",1628. TELEBIELINGUE [DE]
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1629" tvg-logo="https://picserve.netplus.ch/channels/tv24.png",1629. TV24 [DE]
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1630" tvg-logo="https://picserve.netplus.ch/channels/vox.png",1630. VOX [DE]
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1631" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png",1631. WDR HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1632" tvg-logo="https://picserve.netplus.ch/channels/n24.png",1632. WELT [DE]
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1633" tvg-logo="https://picserve.netplus.ch/channels/zdfhd.png",1633. ZDF HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1634" tvg-logo="https://picserve.netplus.ch/channels/zdfinfohd.png",1634. ZDF INFO HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1635" tvg-logo="https://picserve.netplus.ch/channels/zdfneohd.png",1635. ZDF NEO HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1636" tvg-logo="https://picserve.netplus.ch/channels/bvn.png",1636. BVN [DU]
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1637" tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png",1637. AL JAZEERA [EN]
 https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1638" tvg-logo="https://picserve.netplus.ch/channels/bbc2.png",1638. BBC 2 [EN]
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1639" tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png",1639. BBC 3 CBBC [EN]
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1640" tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png",1640. BBC 4 CBEEBIES [EN]
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1641" tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png",1641. BBC WORLD [EN]
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1642" tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png",1642. BLOOMBERG [EN]
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1643" tvg-logo="https://picserve.netplus.ch/channels/channel4.png",1643. CHANNEL 4 [EN]
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1644" tvg-logo="https://picserve.netplus.ch/channels/channel5.png",1644. CHANNEL 5 [EN]
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1645" tvg-logo="https://picserve.netplus.ch/channels/cnbc.png",1645. CNBC [EN]
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1646" tvg-logo="https://picserve.netplus.ch/channels/cnn.png",1646. CNN [EN]
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1647" tvg-logo="https://picserve.netplus.ch/channels/fashiontv.png",1647. FASHION TV [EN]
 https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1648" tvg-logo="https://picserve.netplus.ch/channels/film4.png",1648. FILM 4 [EN]
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1649" tvg-logo="https://picserve.netplus.ch/channels/itv2.png",1649. ITV 2 [EN]
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1650" tvg-logo="https://picserve.netplus.ch/channels/itv3.png",1650. ITV 3 [EN]
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1651" tvg-logo="https://picserve.netplus.ch/channels/itv4.png",1651. ITV 4 [EN]
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1652" tvg-logo="https://picserve.netplus.ch/channels/skynews.png",1652. SKY NEWS [EN]
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1653" tvg-logo="https://picserve.netplus.ch/channels/tveinternacional.png",1653. TVE INTERNACIONAL [ES]
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1654" tvg-logo="https://picserve.netplus.ch/channels/6ter.png",1654. 6TER [FR]
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1655" tvg-logo="https://picserve.netplus.ch/channels/artehd.png",1655. ARTE HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1656" tvg-logo="https://picserve.netplus.ch/channels/bfmbusiness.png",1656. BFM BUSINESS [FR]
 https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1657" tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png",1657. BFM TV [FR]
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1658" tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png",1658. BLUE ZOOM FR [FR]
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1659" tvg-logo="https://picserve.netplus.ch/channels/canal9.png",1659. CANAL 9 [FR]
 https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1660" tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png",1660. CANAL ALPHA JU [FR]
 https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1661" tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png",1661. CANAL ALPHA NE [FR]
 https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1662" tvg-logo="https://picserve.netplus.ch/channels/itele.png",1662. CANALNEWS [FR]
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1663" tvg-logo="https://picserve.netplus.ch/channels/rougetv.png",1663. CARAC 1 [FR]
 https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1664" tvg-logo="https://picserve.netplus.ch/channels/onetv.png",1664. CARAC 2 [FR]
 https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1665" tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png",1665. CARAC 3 [FR]
 https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1666" tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png",1666. CARAC 4 [FR]
 https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1667" tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png",1667. CARAC 5 [FR]
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1668" tvg-logo="https://picserve.netplus.ch/channels/cherie25.png",1668. CHERIE 25 [FR]
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1669" tvg-logo="https://picserve.netplus.ch/channels/d17.png",1669. CSTAR [FR]
 https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1670" tvg-logo="https://picserve.netplus.ch/channels/euronews.png",1670. EURONEWS [FR]
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1671" tvg-logo="https://picserve.netplus.ch/channels/france24.png",1671. FRANCE 24 [FR]
 https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1672" tvg-logo="https://picserve.netplus.ch/channels/france2hd.png",1672. FRANCE 2 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1673" tvg-logo="https://picserve.netplus.ch/channels/france3hd.png",1673. FRANCE 3 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1674" tvg-logo="https://picserve.netplus.ch/channels/france4hd.png",1674. FRANCE 4 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1675" tvg-logo="https://picserve.netplus.ch/channels/france5hd.png",1675. FRANCE 5 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1676" tvg-logo="https://picserve.netplus.ch/channels/franceinfo.png",1676. FRANCE INFO [FR]
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1677" tvg-logo="https://picserve.netplus.ch/channels/gulli.png",1677. GULLI [FR]
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1678" tvg-logo="https://picserve.netplus.ch/channels/kto.png",1678. KTO [FR]
 https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1679" tvg-logo="https://picserve.netplus.ch/channels/latele.png",1679. LA TELE [FR]
 https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1680" tvg-logo="https://picserve.netplus.ch/channels/lci.png",1680. LCI [FR]
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1681" tvg-logo="https://picserve.netplus.ch/channels/lcp.png",1681. LCP [FR]
 https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1682" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png",1682. LEMAN BLEU [FR]
 https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1683" tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png",1683. L EQUIPE [FR]
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1684" tvg-logo="https://picserve.netplus.ch/channels/m6hd.png",1684. M6 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1685" tvg-logo="https://picserve.netplus.ch/channels/maxtv.png",1685. MAX TV [FR]
 https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1686",1686. NOVO 19 [FR]
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1687" tvg-logo="https://picserve.netplus.ch/channels/nrtv.png",1687. NRTV [FR]
 https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1688" tvg-logo="https://picserve.netplus.ch/channels/rmcdecouverte.png",1688. RMC DECOUVERTE [FR]
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1689" tvg-logo="https://picserve.netplus.ch/channels/numero23.png",1689. RMC STORY [FR]
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1690" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png",1690. RTS 1 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1691" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png",1691. RTS 2 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1692",1692. T18 [FR]
 https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1693" tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png",1693. TF1 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1694" tvg-logo="https://picserve.netplus.ch/channels/hd1.png",1694. TF1 SERIES [FR]
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1695" tvg-logo="https://picserve.netplus.ch/channels/nt1.png",1695. TFX [FR]
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1696" tvg-logo="https://picserve.netplus.ch/channels/tmc.png",1696. TMC [FR]
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1697" tvg-logo="https://picserve.netplus.ch/channels/tv5mondefbs.png",1697. TV5 MONDE FBS [FR]
 https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1698" tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png",1698. TV8 MONT BLANC [FR]
 https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1699" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png",1699. TVM3 [FR]
 https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1700" tvg-logo="https://picserve.netplus.ch/channels/valtv.png",1700. VAL TV [FR]
 https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1701" tvg-logo="https://picserve.netplus.ch/channels/w9.png",1701. W9 [FR]
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1702" tvg-logo="https://picserve.netplus.ch/channels/canale5.png",1702. CANALE 5 [IT]
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1703" tvg-logo="https://picserve.netplus.ch/channels/italia1.png",1703. ITALIA 1 [IT]
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1704" tvg-logo="https://picserve.netplus.ch/channels/la7.png",1704. LA 7 [IT]
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1705" tvg-logo="https://picserve.netplus.ch/channels/la7d.png",1705. LA7D [IT]
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1706" tvg-logo="https://picserve.netplus.ch/channels/rai1.png",1706. RAI 1 [IT]
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1707" tvg-logo="https://picserve.netplus.ch/channels/rai2.png",1707. RAI 2 [IT]
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1708" tvg-logo="https://picserve.netplus.ch/channels/rai3.png",1708. RAI 3 [IT]
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1709" tvg-logo="https://picserve.netplus.ch/channels/raigulp.png",1709. RAI GULP [IT]
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1710" tvg-logo="https://picserve.netplus.ch/channels/rete4.png",1710. RETE 4 [IT]
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1711" tvg-logo="https://picserve.netplus.ch/channels/rsila1hd.png",1711. RSI LA 1 HD [IT]
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1712" tvg-logo="https://picserve.netplus.ch/channels/rsila2hd.png",1712. RSI LA 2 HD [IT]
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1713" tvg-logo="https://picserve.netplus.ch/channels/rederecordinternacional.png",1713. REDE RECORD INTERNACIONAL [POR]
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1714" tvg-logo="https://picserve.netplus.ch/channels/rtpi.png",1714. RTPI [POR]
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8

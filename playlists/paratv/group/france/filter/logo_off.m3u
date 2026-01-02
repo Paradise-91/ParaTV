@@ -1,24 +1,24 @@
 #EXTM3U
-# Generated on: 02/01/2026 01:24:34 CET+0100
+# Generated on: 02/01/2026 02:24:35 CET+0100
 
 #FRANCE (32)
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/rsYZjuQGsBOEtTp6.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" epg-s="4" tvg-country="FR" group-title="FRANCE",2. France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="France2.fr" epg-s="4" tvg-country="FR" group-title="FRANCE",48. France 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" epg-s="80" tvg-country="FR" group-title="FRANCE",3. France 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-id="France3.fr" epg-s="80" tvg-country="FR" group-title="FRANCE",49. France 3 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="4" tvg-id="France4.fr" epg-s="78" tvg-country="FR" group-title="FRANCE",4. France 4 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" epg-s="47" tvg-country="FR" group-title="FRANCE",5. France 5 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france5.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-id="France5.fr" epg-s="47" tvg-country="FR" group-title="FRANCE",50. France 5 [SSAI][1080p-france.tv]
@@ -27,10 +27,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 tvg-chno="46" epg-s="111" tvg-country="FR" group-title="FRANCE",46. ARTE [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/FuTc0DwXjQke8HOw.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="47" tvg-id="Arte.fr" epg-s="111" tvg-country="FR" group-title="FRANCE",47. Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="8" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-country="FR" group-title="FRANCE",8. LCP [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-id="LCP100.fr" tvg-country="FR" group-title="FRANCE",51. LCP-AN [1080p-dailymotion.com]
@@ -43,18 +43,18 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/d
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/R0GS0ATrD96tOTvD.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="BFMTV.fr" epg-s="481" tvg-country="FR" group-title="FRANCE",13. BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="14" tvg-id="CNews.fr" epg-s="226" tvg-country="FR" group-title="FRANCE",14. C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="45" tvg-id="CNews.fr" epg-s="226" tvg-country="FR" group-title="FRANCE",45. C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="LCI.fr" epg-s="112" tvg-country="FR" group-title="FRANCE",15. LCI [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/nwMuI6nYQ7oIKfsO.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="16" tvg-id="FranceInfo.fr" epg-s="2111" tvg-country="FR" group-title="FRANCE",16. France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" epg-s="458" tvg-country="FR" group-title="FRANCE",17. CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="T18.fr" epg-s="4139" tvg-country="FR" group-title="FRANCE",18. T18 [1080p-dailymotion.com]
@@ -73,9 +73,9 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-country="FR" group-title="FRANCE",35. LE FIGARO TV [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3d94xen73I1Z/B2mvgjUcq2dsvlr.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="40" tvg-id="CanalPlus.fr" epg-s="34" tvg-country="FR" group-title="FRANCE",40. CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="41" tvg-id="CanalPlus.fr" epg-s="34" tvg-country="FR" group-title="FRANCE",41. CANAL+ EN CLAIR [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplus-dm.m3u8
