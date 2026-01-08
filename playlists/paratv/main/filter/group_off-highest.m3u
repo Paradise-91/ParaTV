@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 08/01/2026 18:24:36 CET+0100
+# Generated on: 08/01/2026 19:24:36 CET+0100
 
 #FRANCE (32)
 
@@ -114,29 +114,32 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/hDscsNi.png",71. TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (7)
+#LEQUIPE.FR (8)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="78" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",78. la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=-Xwg-MQ6t8ZAU_-zRKI4kLsez9nxpF3nYbZr5LxDFcgwTyNbKtg6jPkcTRpdwZaStT7rfWfq3Qh2uRDBy9SqCn5YeKDxoX7n4sPwuzeiwQ0
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Bk88qILu_od4dvBLdtvPubYEn9IVfFLadGnf1B6D-K6S36jNA8E-SBJ5lMmhIAQR8tYik1oOGVuvuL8np-nQLx0bdL0X1oU1U8upBQZIkbE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="79",79. Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=LmCbhy8TjfNNUTzYuyqn0lzxYquuhPm9QAXjLunWspGgPl8FtHdrBUXR1dwcu4XrOxj5y9ifHG4fDfHzkIbIs6App7UMo51dJsv_KTERqlA
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=d6yb41VdKoql8C538yRdkGWGTWS8kA6TvdgxjlUMX5YzvmuS6F_QijXu0E5JYhIpvW9-dclGm9Qil0pbnSocOstPWEm5G5plK-m8ievBPkU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="80" tvg-id="Eurosport1.fr",80. Eurosport 1 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9lx07s.m3u8?sec=yvvCEIHtgDIsvJTl8xgx8b-x0qVKpHkgVunfu6DIABdO6GCtGIE4wPl6xsQNMbEnbAw7D3OsKyU3H7nw1w-sFGrp5oedPVNx_NO6ch0Z1d4
+https://cdndirector.dailymotion.com/cdn/live/video/x9lx07s.m3u8?sec=vXjVByht08OYy7xtxGo1YWqbAcT4mUcj3FWneN8DKdayW2-Y05F7Q14zjiY1MdGnNI6eSUC8loiB0Uf36UNK4oISTSOeHX_u4qjVOikSKGM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="81" tvg-id="Eurosport2.fr",81. Eurosport 2 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9lx0e4.m3u8?sec=_rYN1NzqtU8gz5OjKkt1v91Aq75y5C_TrguaEbjBdzqozzkobFvvflcwVu2PFAzMfPDpPKhWKV7VmAEH9Y_70a3IsZPuofONaPpsr94c5cg
+https://cdndirector.dailymotion.com/cdn/live/video/x9lx0e4.m3u8?sec=BdAnh4lQk30vFrUSljDoUcFbL93zjFskEG9cvjsfFDK7HrG5dJWBzhGvg8ds69MbbUoUadUvRnZNalGtW7MG1Othan1g_RqDTf7VmxhftwM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="82" tvg-id="LEquipeLive1.fr" tvg-logo="https://i.imgur.com/3gfaW8a.png",82. L'Équipe live 1 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=1HW-vpTI9kIL5NTmxdjmVPXj4hvkfRFW8SW6w4VO-hc2h5rvj6yjRi5mGv6OzXQA4d5l-WyOx90zI4yfmIzeVR7sZsA4JV9UB6baaPGaD9A
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=6cVsSr0Elx5W83KFlCFLFh_IXLiRID1UTnySykBRsksQm_nFr9Kddk6Mu4YotFBfAxijrk48XhGg90C2PPPochFLarN4mSowjZQlvCeZlxg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="83",83. Eurosport 360 - 1 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9n0016.m3u8?sec=VSwmgGgB2AG_lyoW-k7bqPqzIQYIQFKUs3SyExp5L_Rcw53FgmfomuDvKWPeWUKe_pA3KJOqTN1dDPIeOA3GVNpXg441BxzFXOk5oEQA1Kc
+https://cdndirector.dailymotion.com/cdn/live/video/x9n0016.m3u8?sec=Txw-r0gGhrh8Ae7Gyilb_o5FCuefCYOWRjB3VNkfhUxfdv86S8YB-A45yIQjrY4DS8hYYSFZgHZ8SFAPzLkOwgLmm7E91tIc-iU78jPg0Pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="84" tvg-id="LEquipeLive2.fr" tvg-logo="https://i.imgur.com/bmXOZME.png",84. L'Équipe live 2 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=0N5wVbPIU12_BaYU_P_xGTi68lya4V5Uj1RnHEh3zJ2G7BuTaRbplPsddPRmFwLrn_uqNEEYvd_SX93DUcxRuc5JfZIvpYjdn5oYoobDgos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100",85. Journal du Golf TV [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=K-c6GO8R_OF_PCkIN_soPlF0ktoRIRhsfual_8_OM0xuOS2POGKp6GInPmJWM0-5tz2CLrLNNWbtEAjogQT-tU1hzOJDBvEIxI6n1r7y4Y0
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Nuh3nW6NRGOZMcmL-9HO9ao8zpwpw_pE2WD7jvF-EGRGNsEQfWdtzPWfItYyMG9MRQ3xWtYiLo7aAfEOeLZs0-eYS3eHXdSkiSRH2G5waik
 
 #FRANCE.TV (41)
 
@@ -261,8 +264,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="149" tvg-logo="https://i.imgur.com/8vBQ37F.png",149. OUTRE-MER EN CONTINU
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/playout-outre-mer-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="150" tvg-logo="https://i.imgur.com/8vBQ37F.png",150. MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/mayotte-1ere-highest.m3u8
+#EXTINF:-1 tvg-chno="150" tvg-logo="https://i.imgur.com/8vBQ37F.png",150. POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/polynesie-1ere-highest.m3u8
 
 #EQUIDIA (28)
 
