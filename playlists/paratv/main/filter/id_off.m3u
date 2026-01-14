@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 14/01/2026 05:24:35 CET+0100
+# Generated on: 14/01/2026 06:26:37 CET+0100
 
 #FRANCE (32)
 
@@ -114,53 +114,56 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://i.imgur.com/hDscsNi.png" tvg-country="FR" group-title="TV5MONDE",71. TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (15)
+#LEQUIPE.FR (16)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="78" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=L3Vo8Yn7zkaU7vDnT1JUgn6XvISHLnDhrmwSoAgtP5RrbucROf8lpU6ZzCAocY2wRa42E8QOc6XBKuE_g6tUYzc73uGEAF_-8zQ6KSb4DOs
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=ozsQ_bNTCTpP0DuIHrbHcBcoiD1EfqFhowxemezicZo-NNzcZ4ap3V-40O0XsJqJNw30fNsvY96IH_0k3iXHQDGflwWrsEuLwpZaYa2g8Ug
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="79" tvg-country="FR" group-title="LEQUIPE.FR",79. Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=Q3CQJ-44gYceWe4_BRBaQK82IgJe2DQBMhA15tdS6CMMbb4MXoyk8gaT84gw2CIKWxme7KSE16PJyn4RBVVk7NpDj5j-B-BBxv7okI5XQnA
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=r2Lq_LADFnv1oTZznq_0ZYtEFIjkPMiopzw_r_6LF8F9OtCezRP3oAV1uhULbSCqOZklcFk4QemS3r6Ip47Lu726zI8LCpS2zOZxcaWzfLY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="80" tvg-country="FR" group-title="LEQUIPE.FR",80. Eurosport 360 - 6 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s4wsi.m3u8?sec=DDaXdYWXO5bt9sj50jJK5a5BAYsr3pgKajaEJzlw3Fs-y3WwQiufv_JV_2UW7_jBcZU_-C7urjEj9xyPzVImH3L-glW3crUk_CznjnuOHUY
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4wsi.m3u8?sec=eXrr36p5tZwo5ypv7FkHH5cRpxq0cn4Xd15lV1FPAJyLqW9WHQIbhpogfTFa_9URpOQkW0DC9_VWNkXfUSGzFQopVxv0qDPNQF6xVvrnTT0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="81" tvg-country="FR" group-title="LEQUIPE.FR",81. Eurosport 360 - 7 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s4ww0.m3u8?sec=PZkXqC5RAQk1-2JE4HtwXPdlO0B6I-SWgGnLXxYpO6prujrSTkVjlQ6KhVDBTsIpqq93_4NGhgFJ9g7ThEEMQsKLbxBPrMBIu087sS4tBb4
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4ww0.m3u8?sec=OGXV1j2EVJcAL4kkNLZnC_ZoJsf0a_mSji-ez0Yvhd1zNcb9svlfOC0nYD6oga2Lut0EY-O5ahb_ocHqj-0NwuAXHHKYa4CjtsFvUak23WI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="82" tvg-country="FR" group-title="LEQUIPE.FR",82. Eurosport 360 - 8 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s4wzc.m3u8?sec=QxkckDXfYckPXY3hKQUMKs6w3cFnMrPVw62w8mhpYbycmwSAh2asFwF_2pjkTRa-j7-EF8NZuqtxWFuDxsMx34ZCA2u_O2o7gi_9RXLbECQ
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4wzc.m3u8?sec=Jwxs4ExPtqnZJGNFIN82BYuuw5gzWDbOUrQKKQ9MEZEQiMA1Y3mqVunizQTfympHS-7EjVQ1P52hQbCYHYefh5HUQzkfUxD4WOBAx-AKcWo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="83" tvg-country="FR" group-title="LEQUIPE.FR",83. Eurosport 360 - 9 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s4x8c.m3u8?sec=BARO2BEfzW7WBwSZTpSLjhcYo6SBZs3orJwwClSpG_9ffnHOFM6uz_ET1W-S7oJpcvvUMGDT4zJ-Xzh03r09kTT3jQIUPhLF5z4dKf8tbxM
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4x8c.m3u8?sec=knMNjNB0Z8ewCWX3B_jNOfIG_0NGRnMeXJjLf59DyPi7O2ACjxielzduUjwrPgd8Ky6vcpD_G0AfqA0Sz7o-OPFv6sP6rvdolquZzyYdOOM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="84" tvg-country="FR" group-title="LEQUIPE.FR",84. Eurosport 360 - 10 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s4xfm.m3u8?sec=jv6GXqPj_WBxXI7CwnVaUbagMSQSRlgFFUSzJzWNfxtGnIdK10tmkE545zTYQY6NtIrpNVX46irSk7J1h4cf63dsJWqS-brMe2mGN12Zm6M
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4xfm.m3u8?sec=Sj9-12Ecp1_dnaXm9FtxaXUtvRIDjTc5j_iVLQPxMRRF0DPXuzKvJZCu_GDgsq21oY38jCnEJ83xirpehTiqPdEOPPaiAnNSRHZpRoeYzG0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",85. Journal du Golf TV [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=q2DxDU31jX1P6dk3ESlskY35oWi423w2Vv0gvwog4Onj0_f31gXyWT-i1zrTSUDHVwmydPZc04uKeIMNQQUKsUqSb-XbGgBfphdpPHv2FYg
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=rY-LIcr9x6N0NGSU3HWdbWqExU8sIW5UcXQrNyQJ-qW-Gqv3MvUWOyg3a23ICgd8jKkbGpJCIsJbSeRGAJjWG0yrrRFnFtRLxu8Hvt8W68Q
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="86" tvg-country="FR" group-title="LEQUIPE.FR",86. Eurosport 360 - 11 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s5q6a.m3u8?sec=yIfZ1qYrQwMyVxJgVqxsYfFsPUXmtNUCE1iB0Z9pmXqUbVSxsw9dDmy3go20BlRmyg72UKG7-r7e4XW-cuwM6lwuA0BY6fD_y-GxFOXYid0
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5q6a.m3u8?sec=Bmmu-AZhb5ccTpNuqZZT92Hep-XDcL_wo4mEp3IWBkwMEgAD50VjcbqMUnI5h4W2CdonUX5CqaFLyE2jTvfo4rGKvFNETtPS1LappTUKB9M
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="87" tvg-country="FR" group-title="LEQUIPE.FR",87. Eurosport 360 - 12 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s5q7o.m3u8?sec=k8r9TT3JgEcMUO-GX06wXOGrLy5pbCVo7UiaYGrJzIWRqnByjzDYnT_nKFRwbZm1Wo7bCLAGx0j6yeI-yVvT6qbCH_vArKMKzbDRbkQwE40
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5q7o.m3u8?sec=xogy86EPp2wSJf0K00m0tWJhzKRCx701aGbiqfhLGfinUeEeSsZwS0NlLq2adDkOKFNilQ-i37wcXxHDVBm80HfJ_2WqXGqvHjJL__sJqy8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="88" tvg-country="FR" group-title="LEQUIPE.FR",88. Eurosport 360 - 13 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s5qay.m3u8?sec=gve_AZEhPXRLXw0WecgZDWn573u-ylvLkkdyFc9p7101AdGHxqd_NAsGbmv-1zD-_xzUcYcHxveQbyiaALRX4VMGPtS9etUVmWtxQE9b7Co
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5qay.m3u8?sec=F6UY9w8G_H8KPE4JHnDygExVG0Ig11Gi_R6_nWLq3blulrbXXcXGxfpmBQopiUfkn6iYLxdC3Cl5bNPCxsJ6pF-iTcLgnNTjUJeliPFS6Dc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="89" tvg-country="FR" group-title="LEQUIPE.FR",89. Eurosport 360 - 14 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s5qde.m3u8?sec=-2Jpv7cgCU6e9FyZT0LVK0-GF0FcxW9q5heYGzEA1_ZWuyYPlbzsM72F8wfHIZul7rDXKztIPjT_TLJaKwQ8Tb5wXS895ySjYWKoHKyxyrc
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5qde.m3u8?sec=jPZHuBR7a2xKplrlt1EW2ACy28rtS6efL5ShCtNuqgyv034IY6tegdGuSncevFreCbOiZruIPQZWtjfpktLff4egDzh-Oi5Pkv-kjGSB9AY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="90" tvg-country="FR" group-title="LEQUIPE.FR",90. Eurosport 360 - 16 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s5qgy.m3u8?sec=jzRKJgS0l8JQCVzZLRauVTiJqeGP1s0DetihVR_FnoOSFqZad6fKwuA_taDxnzMbBAuopbmSdRo36jT6zLuh2LLdsWfTwWv6VB0CF1ZEbAE
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5qgy.m3u8?sec=lQWjRzd6E2rTgKqP8Tr4P3FhHvxwX9axv-QMoGq-YHtgSsQzbXCsNlq-YAJxsM3qU7kvOhZI7YlQsEZgLKgV0eBGUmDtFiQJ1RHvTx9LMb4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="91" tvg-country="FR" group-title="LEQUIPE.FR",91. Eurosport 360 - 17 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s5qhu.m3u8?sec=FVwgEzzxPTyUOfINnhFaGbMjA-DAXzCrOiGgXK_ca-oaonSRoQPr3OLgdbLt5XpSppt1fVgAhcGA6RTu4RVuj7IAvJ7gnm717bGSY-o7vLU
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5qhu.m3u8?sec=1vh_XtHbMPXUB3S_Oyppm-WoMKpgDcm1uoxUNVfLUru04TeG20vb6kxXfi2HL-8oIsyer30XsnifgiSE0sCMd0bAdMTuY_qj2mWwLNKHpiY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="92" tvg-country="FR" group-title="LEQUIPE.FR",92. Eurosport 360 - 18 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9s5qim.m3u8?sec=nE3ursy5Tk8ksfHyI2MQaVy28hdXPZ5oms-Wd2WzqKWa0yx2VIY1ZxwKOO-VF-pIdKhixSx82J-DOcIeBPSQJz1gXihWJromjv9KNNn-wD8
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5qim.m3u8?sec=abIzcEulEIat10pXdnQjrDBaD3_iaf4oXVXIyF-CJTy9ybNZGmYzDNHl3aPgJL4YSfuZFz3kDG6bF6H8w0dZaVkM6zotDtyM_2Fs-Wng-vs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="93" tvg-logo="https://i.imgur.com/3gfaW8a.png" tvg-country="FR" group-title="LEQUIPE.FR",93. L'Équipe live 1 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=aH26gH6WmSN9-EzrEXVcHzIijA0GMOZBZjJruSdKCxbHOTiHF2Yq8d_owhcXF872lBrlYbeb-2uRmIUurFiFxTPgN5AeO8p9TPPz8OWTmnQ
 
 #FRANCE.TV (40)
 
@@ -491,7 +494,7 @@ https://jmp2.uk/stvp-FRBB4600002K5
 https://jmp2.uk/stvp-FR3700003N4
 #EXTINF:-1 tvg-chno="1032" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800003VF_20241210T052746SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1032. Shadowz [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR1800003VF
-#EXTINF:-1 tvg-chno="1033" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20251230T031037SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1033. Box Office Action [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1033" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20260113T032400SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1033. Box Office Action [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR370000288
 #EXTINF:-1 tvg-chno="1034" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20241015T040143SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1034. Drames - Rakuten TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR2600005LH
@@ -619,9 +622,9 @@ https://jmp2.uk/stvp-FRBD3600001BQ
 https://jmp2.uk/stvp-FRBD4100013LN
 #EXTINF:-1 tvg-chno="1116" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2900001M3_20241015T040416SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1116. World Poker Tour [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD2900001M3
-#EXTINF:-1 tvg-chno="1117" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20251230T031046SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1117. Plus belle la vie [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1117" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20260113T032405SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1117. Plus belle la vie [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD37000020Y
-#EXTINF:-1 tvg-chno="1118" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600001R1_20250624T020538SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1118. Un si grand soleil [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1118" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600001R1_20260113T032408SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1118. Un si grand soleil [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR3600001R1
 #EXTINF:-1 tvg-chno="1119" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2900001UF_20250916T003553SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1119. BBC Series [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR2900001UF
@@ -649,7 +652,7 @@ https://jmp2.uk/stvp-FRBA3300022OA
 https://jmp2.uk/stvp-FR1100001V1
 #EXTINF:-1 tvg-chno="1132" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20251013T054021SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1132. Zee One [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR360000680
-#EXTINF:-1 tvg-chno="1133" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100001DF_20251230T031043SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1133. Les Anges [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1133" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100001DF_20260113T032403SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1133. Les Anges [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD4100001DF
 #EXTINF:-1 tvg-chno="1135" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900005MB_20250805T005519SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1135. Le Meilleur de la TV Réalité [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD3900005MB
@@ -657,7 +660,7 @@ https://jmp2.uk/stvp-FRBD3900005MB
 https://jmp2.uk/stvp-FRAJ38000050Z
 #EXTINF:-1 tvg-chno="1137" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB3900001PZ_20241015T040912SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1137. Chefclub TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBB3900001PZ
-#EXTINF:-1 tvg-chno="1139" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR34000032F_20251013T054049SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1139. Ça Chauffe en Cuisine [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1139" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR34000032F_20260113T032855SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1139. Ça Chauffe en Cuisine [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR34000032F
 #EXTINF:-1 tvg-chno="1140" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300044VR_20241015T042753SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1140. Pluto TV Cuisine [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBA3300044VR
@@ -715,7 +718,7 @@ https://jmp2.uk/stvp-FR1300003HM
 https://jmp2.uk/stvp-FR1700002OZ
 #EXTINF:-1 tvg-chno="1168" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000124S_20251013T054031SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1168. K-Drama+ [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD41000124S
-#EXTINF:-1 tvg-chno="1169" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3500001PK_20251028T011429SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1169. Vevo Noël [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1169" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3500001PK_20260113T032355SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1169. Vevo Noël [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR3500001PK
 #EXTINF:-1 tvg-chno="1170" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR23000013B_20251118T015405SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1170. Al Jazeera [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR23000013B
@@ -735,7 +738,7 @@ https://jmp2.uk/stvp-FR4000003O1
 https://jmp2.uk/stvp-FR4000001TX
 #EXTINF:-1 tvg-chno="1178" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR42000023H_20251209T004507SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1178. Moviesphere [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR42000023H
-#EXTINF:-1 tvg-chno="1179" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600003DS_20251209T004448SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1179. 100% Comedy [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1179" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600003DS_20260113T032357SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1179. 100% Comedy [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR3600003DS
 #EXTINF:-1 tvg-chno="1180" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR400000413_20251209T004503SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1180. Mayday: Catastrophe Aérienne [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR400000413
