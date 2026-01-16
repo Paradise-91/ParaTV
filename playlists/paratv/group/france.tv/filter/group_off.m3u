@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 16/01/2026 20:24:36 CET+0100
+# Generated on: 16/01/2026 21:24:40 CET+0100
 
 #FRANCE.TV (40)
 
@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-chno="112" tvg-logo="https://i.imgur.com/9GibmAI.png",112. FRANCE 4 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="113" tvg-logo="https://i.imgur.com/h0TcqHE.png",113. FRANCE 5 [1080p-france.tv]
+#EXTINF:-1 tvg-chno="113" tvg-logo="https://i.imgur.com/h0TcqHE.png",113. FRANCE 5 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="114" epg-s="2111" tvg-logo="https://i.imgur.com/hwaz7xG.png",114. FRANCEINFO [1080p-france.tv]
