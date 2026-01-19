@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 19/01/2026 01:24:35 CET+0100
+# Generated on: 19/01/2026 02:24:36 CET+0100
 
 #FRANCE (32)
 
@@ -114,19 +114,22 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (3)
+#LEQUIPE.FR (4)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=B_RyAYW-itUeYhYgKN71A-OE1oN5JmVB8ppOwYN2L5G4YSUyuJf8qn20Jc1X-K6hfTp43d3xWWTIavKSK0OJlBvjjgxJd6qDNxWOqdWyR78
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=XJ-8mKwcAKI98rZkpb7FIl4RKcVXG_tVBtGyiLoUsLBwZgV-o7CuBf9nSqiZRbtTUBpjttTS8YQFabSF9FYnZ2IRiZdG-gSBkYZUc21iVRM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=tzv_QepFAm4XT8XFUG9PRRVjlgP8Y7wR39ezx6J6qpjioSoq7jg8Jee5HsWZc01-aHXcCpZP7ltAwHHSy9rWmEpq1FxXnOuD2KJotpfHX_A
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=ei-PReDcL414qeIiU_wFwt_adzWuQApGqnrwsw1NR39mnhZU1eceqQS-3Hn4qRfHYXgy02SdJZRBoaH18odUQknGK4Ke7-9hqcRNV00Z5ow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live 1 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=5JFWyXfEiFZRxrhEPz7DVm8BRR4mBz784iiEOpqH5S3qXznQ3rIzR8V9cXj2qTIMtvFDEVM2_CfWUqYSzD0OMuiApxKLSRpX8pW_ublSlek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",Journal du Golf TV [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=uaFoHu04Fjk_3QBDXpoP78A6prFZynT6D66Jay_0uZL-ZyfKcdcgKD-ErOPaRD5XKXwZV5C9-JSjs3UZLw6yCSZurq0WV5ooaEdbEIhg2t4
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=qFHSgUDAcpGLXXg2CCP5r_CRWYsI_DnUUdoICibrnhnW9k4iZLrd7ntHoZPAy--xoPGEqf78xpNSVFubCGUseSkI7sZ7ygX6m3M2on-Jmzc
 
-#FRANCE.TV (43)
+#FRANCE.TV (41)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
@@ -248,12 +251,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",OUTRE-MER EN CONTINU
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/playout-outre-mer-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",GUADELOUPE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/guadeloupe-1ere-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/martinique-1ere-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/nouvelle-caledonie-1ere-highest.m3u8
