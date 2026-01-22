@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 22/01/2026 18:24:36 CET+0100
+# Generated on: 22/01/2026 19:24:36 CET+0100
 
 #FRANCE (32)
 
@@ -114,17 +114,20 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1,TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (3)
+#LEQUIPE.FR (4)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1,la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=PUV28TAtq6xzZADxhixTj4064wA9dXZPpbePNorZZh8XM2CkfjX_HANgMQ5yxH8-HTmLhqpukg0vOLcWU3otkX5NPuJwFbiKrsd2izT2aZo
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=6gCtRwNSAEhfdEeC9u84ikKOC8ahaaBgzrhG89WZETbownD4cmEnHUG_ByI80aAs9C3oikSbxnzB_Vm0hfjrRh1Sccm_JOIjT_K55OByOr4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1,Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=qtsR-RCFLSksMzjfmX_DcNw_cxDgHTgfR4E_Ia3I1IDBuRmC3mh2cdfzv9TgnroTBOCvAe3A3QRAWAxLB8xHgk7nj9fzphSICGP8N_I0LOw
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=4q5d5gXzXiyNFwRPbjZXPsIqMzvv0Hvi-dlrhZs6egzqS_9Sdwr3b3eKfDBlaKe-cebUuY9wcr77BC-cV5iEHwJAPUSAbG0-_bdnUtYnzM8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1,L'Équipe live 2 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=VRgcTbi_4LYVoK61Nx9boiBXezBw_6rP1ac4esaU294mqrQigM9P4CroBgDh1LdjgiKoP1XmGmL6gFmvlSQnQf5yq2bVw2gqQ45H0Y8Fke0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1,Journal du Golf TV [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=dUsx3QT3YXmD2EY4rS1JlTrILqX1rtx9xkT0hFNAg8RlSMIP9cu2VUM71qqs4MNj8cT_rOpMO0Hgflx8BCdV7Ooag8vNPsJs9BvrX7G1Veg
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=P0BtiFj3l3LzIprFsXQJ4hyR4fdaxRrOAEEHT0e8x3tkDPEsQ8pKAL1Fvf-xJuDdTXnLMKmFU0zHAbtJ3BkwbtSZu6LpgQesdXbE0a2dW74
 
 #FRANCE.TV (41)
 
@@ -249,8 +252,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1,OUTRE-MER EN CONTINU
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1,MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8
+#EXTINF:-1,POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/polynesie-1ere.m3u8
 
 #EQUIDIA (28)
 
