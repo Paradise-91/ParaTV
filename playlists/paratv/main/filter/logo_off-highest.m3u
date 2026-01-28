@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 28/01/2026 08:24:36 CET+0100
+# Generated on: 28/01/2026 09:24:36 CET+0100
 
 #FRANCE (32)
 
@@ -118,15 +118,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="78" tvg-id="LEquipe21.fr" epg-s="1401" tvg-country="FR" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=KavAJNfhkarT_Vq9s8ZyuDYpJv_DTRrgFCcIixz-Pri4QGWOT6fU8FTI_U7H0ECSn0GmPaIV2E9TgskCdlsueC6dzjxQjedSAjAM_8HbgF0
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=WTCzIebQZgbS_20WA0tkIuHvZAzngBlAVoOaHoUSXuhoVy9sCpUJmHkmFrltRrJWKQz3GwZAltK7P9CNCSZAGwF8jCZ-J5M6dkIpPzbLl4Y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="79" tvg-country="FR" group-title="LEQUIPE.FR",79. Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=5ciawv1w2PeHlwJ-OVD7xyuPdb-c4InTKajItyOUOdQtfGS6y1NuLiBcS3_Dnb0pbmpDrWSy2GPcGaKJSOnAWkuo2rJ8A87Z1bRmK-UthGY
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=Olth2wZY5YUvcx_D2iCQfLubZtIybyusrrNLnZRSN5lUj3c3xNfHnJDQiN0Eg1U6mAdCpyhDThhqfGueGwq8iPNINLNwIiTTC41PuNItxW4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" epg-s="3629" tvg-country="FR" group-title="LEQUIPE.FR",85. Journal du Golf TV [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=AsTLj9o8VjfQx-VigDdbJeMztQ2B00mmM8fH3B7WUAYjOs6Erx7yqVZwn-fynbdun6SxXtszKTqK1mT-FGx-MUsPrugjzvrVHFpstKGJBus
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=p1sEmDImOSX9NJAJmNDS3tRvyhVae7wNJ5Vq9X3RCBzO5EDwY6QfjMMPtxS55oKa7ityQQho3onBF906htYdimIz3EW-fX7dobpyg5kj8is
 
-#FRANCE.TV (41)
+#FRANCE.TV (42)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="110" tvg-country="FR" group-title="FRANCE.TV",110. FRANCE 2 [SSAI][1080p-france.tv]
@@ -249,8 +249,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="149" tvg-country="FR" group-title="FRANCE.TV",149. OUTRE-MER EN CONTINU
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/playout-outre-mer-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="150" tvg-country="FR" group-title="FRANCE.TV",150. POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/polynesie-1ere-highest.m3u8
+#EXTINF:-1 tvg-chno="151" tvg-country="FR" group-title="FRANCE.TV",151. RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/reunion-1ere-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="152" tvg-country="FR" group-title="FRANCE.TV",152. WALLIS ET FUTUNA 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/wallis-et-futuna-1ere-highest.m3u8
 
 #EQUIDIA (28)
 
