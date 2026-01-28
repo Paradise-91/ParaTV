@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 24/12/2025 06:24:32 CET+0100
-#TOTAL: 172
+# Generated on: 28/01/2026 06:25:14 CET+0100
+#TOTAL: 176
 
-#뉴스 (12)
+#뉴스 (14)
 #EXTINF:-1 group-title="뉴스",연합뉴스TV
 https://jmp2.uk/stvp-KRBD1400001ED
 #EXTINF:-1 group-title="뉴스",YTN
@@ -27,6 +27,10 @@ https://jmp2.uk/stvp-KR3500001UU
 https://jmp2.uk/stvp-KR3500002AE
 #EXTINF:-1 group-title="뉴스",한국경제TV
 https://jmp2.uk/stvp-KR3600003JU
+#EXTINF:-1 group-title="뉴스",KBS 뉴스24
+https://jmp2.uk/stvp-KR5100001TH
+#EXTINF:-1 group-title="뉴스",SBS No.1 뉴스라이브
+https://jmp2.uk/stvp-KR4500008DI
 
 #드라마 (36)
 #EXTINF:-1 group-title="드라마",SBS 야인시대
@@ -65,7 +69,7 @@ https://jmp2.uk/stvp-KRBC35000169K
 https://jmp2.uk/stvp-KRBC4500003W6
 #EXTINF:-1 group-title="드라마",tvN 손해 보기 싫어서
 https://jmp2.uk/stvp-KRBC3200016H1
-#EXTINF:-1 group-title="드라마",tvN 검색어를 입력하세요 WWW
+#EXTINF:-1 group-title="드라마",tvN 사랑은 외나무다리에서
 https://jmp2.uk/stvp-KRBC4500002Q4
 #EXTINF:-1 group-title="드라마",tvN 환혼 4K
 https://jmp2.uk/stvp-KRBC4500001A5
@@ -213,13 +217,13 @@ https://jmp2.uk/stvp-KRBD26000011V
 https://jmp2.uk/stvp-KR12000017G
 #EXTINF:-1 group-title="영화",PLAYGRAM MOVIES
 https://jmp2.uk/stvp-KRBC3200004D1
-#EXTINF:-1 group-title="영화",Genie 크리스마스 특집
+#EXTINF:-1 group-title="영화",Genie 새해웃음특집
 https://jmp2.uk/stvp-KR2000012AI
 
-#예능 (69)
-#EXTINF:-1 group-title="예능",tvN 무쇠소녀단 1~2 이어보기
+#예능 (71)
+#EXTINF:-1 group-title="예능",tvN 헬스파머
 https://jmp2.uk/stvp-KRBC3200029C4
-#EXTINF:-1 group-title="예능",tvN 꽃보다 청춘 시리즈 모아보기
+#EXTINF:-1 group-title="예능",tvN STORY 김창옥쇼 3
 https://jmp2.uk/stvp-KRBC320002200
 #EXTINF:-1 group-title="예능",용감한 형사들
 https://jmp2.uk/stvp-KRBC3500015BN
@@ -325,7 +329,7 @@ https://jmp2.uk/stvp-KR2400001TI
 https://jmp2.uk/stvp-KR3200003RR
 #EXTINF:-1 group-title="예능",할명수
 https://jmp2.uk/stvp-KR480000234
-#EXTINF:-1 group-title="예능",tvN 언니네 산지직송 1~2 이어보기
+#EXTINF:-1 group-title="예능",Olive 한식대첩 3
 https://jmp2.uk/stvp-KR700006WZ
 #EXTINF:-1 group-title="예능",tvN 뿅뿅 지구오락실 전 시즌 모아보기
 https://jmp2.uk/stvp-KRBC3200032ZM
@@ -355,6 +359,10 @@ https://jmp2.uk/stvp-KR4500002GS
 https://jmp2.uk/stvp-KR4500004XC
 #EXTINF:-1 group-title="예능",KBS HOT CLIP 예능
 https://jmp2.uk/stvp-KR45000060I
+#EXTINF:-1 group-title="예능",MBC 구해줘홈즈
+https://jmp2.uk/stvp-KR4800003H0
+#EXTINF:-1 group-title="예능",MBC 라디오스타
+https://jmp2.uk/stvp-KR48000047I
 
 #음악 (5)
 #EXTINF:-1 group-title="음악",JTBC 비긴어게인 - 오픈마이크

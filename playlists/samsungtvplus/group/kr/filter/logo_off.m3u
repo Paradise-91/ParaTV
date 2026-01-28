@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 24/12/2025 06:24:32 CET+0100
-#TOTAL: 172
+# Generated on: 28/01/2026 06:25:14 CET+0100
+#TOTAL: 176
 
-#뉴스 (12)
+#뉴스 (14)
 #EXTINF:-1 tvg-chno="1321" tvg-id="KRBD1400001ED" tvg-country="KR" group-title="뉴스",1321. 연합뉴스TV
 https://jmp2.uk/stvp-KRBD1400001ED
 #EXTINF:-1 tvg-chno="1322" tvg-id="KRBD2400001XD" tvg-country="KR" group-title="뉴스",1322. YTN
@@ -27,6 +27,10 @@ https://jmp2.uk/stvp-KR3500001UU
 https://jmp2.uk/stvp-KR3500002AE
 #EXTINF:-1 tvg-chno="2290" tvg-id="KR3600003JU" tvg-country="KR" group-title="뉴스",2290. 한국경제TV
 https://jmp2.uk/stvp-KR3600003JU
+#EXTINF:-1 tvg-chno="2528" tvg-id="KR5100001TH" tvg-country="KR" group-title="뉴스",2528. KBS 뉴스24
+https://jmp2.uk/stvp-KR5100001TH
+#EXTINF:-1 tvg-chno="2529" tvg-id="KR4500008DI" tvg-country="KR" group-title="뉴스",2529. SBS No.1 뉴스라이브
+https://jmp2.uk/stvp-KR4500008DI
 
 #드라마 (36)
 #EXTINF:-1 tvg-chno="1328" tvg-id="KRBB42000061Z" tvg-country="KR" group-title="드라마",1328. SBS 야인시대
@@ -65,7 +69,7 @@ https://jmp2.uk/stvp-KRBC35000169K
 https://jmp2.uk/stvp-KRBC4500003W6
 #EXTINF:-1 tvg-chno="2046" tvg-id="KRBC3200016H1" tvg-country="KR" group-title="드라마",2046. tvN 손해 보기 싫어서
 https://jmp2.uk/stvp-KRBC3200016H1
-#EXTINF:-1 tvg-chno="2047" tvg-id="KRBC4500002Q4" tvg-country="KR" group-title="드라마",2047. tvN 검색어를 입력하세요 WWW
+#EXTINF:-1 tvg-chno="2047" tvg-id="KRBC4500002Q4" tvg-country="KR" group-title="드라마",2047. tvN 사랑은 외나무다리에서
 https://jmp2.uk/stvp-KRBC4500002Q4
 #EXTINF:-1 tvg-chno="2048" tvg-id="KRBC4500001A5" tvg-country="KR" group-title="드라마",2048. tvN 환혼 4K
 https://jmp2.uk/stvp-KRBC4500001A5
@@ -213,13 +217,13 @@ https://jmp2.uk/stvp-KRBD26000011V
 https://jmp2.uk/stvp-KR12000017G
 #EXTINF:-1 tvg-chno="1383" tvg-id="KRBC3200004D1" tvg-country="KR" group-title="영화",1383. PLAYGRAM MOVIES
 https://jmp2.uk/stvp-KRBC3200004D1
-#EXTINF:-1 tvg-chno="2171" tvg-id="KR2000012AI" tvg-country="KR" group-title="영화",2171. Genie 크리스마스 특집
+#EXTINF:-1 tvg-chno="2171" tvg-id="KR2000012AI" tvg-country="KR" group-title="영화",2171. Genie 새해웃음특집
 https://jmp2.uk/stvp-KR2000012AI
 
-#예능 (69)
-#EXTINF:-1 tvg-chno="1334" tvg-id="KRBC3200029C4" tvg-country="KR" group-title="예능",1334. tvN 무쇠소녀단 1~2 이어보기
+#예능 (71)
+#EXTINF:-1 tvg-chno="1334" tvg-id="KRBC3200029C4" tvg-country="KR" group-title="예능",1334. tvN 헬스파머
 https://jmp2.uk/stvp-KRBC3200029C4
-#EXTINF:-1 tvg-chno="1336" tvg-id="KRBC320002200" tvg-country="KR" group-title="예능",1336. tvN 꽃보다 청춘 시리즈 모아보기
+#EXTINF:-1 tvg-chno="1336" tvg-id="KRBC320002200" tvg-country="KR" group-title="예능",1336. tvN STORY 김창옥쇼 3
 https://jmp2.uk/stvp-KRBC320002200
 #EXTINF:-1 tvg-chno="1343" tvg-id="KRBC3500015BN" tvg-country="KR" group-title="예능",1343. 용감한 형사들
 https://jmp2.uk/stvp-KRBC3500015BN
@@ -325,7 +329,7 @@ https://jmp2.uk/stvp-KR2400001TI
 https://jmp2.uk/stvp-KR3200003RR
 #EXTINF:-1 tvg-chno="1881" tvg-id="KR480000234" tvg-country="KR" group-title="예능",1881. 할명수
 https://jmp2.uk/stvp-KR480000234
-#EXTINF:-1 tvg-chno="2010" tvg-id="KR700006WZ" tvg-country="KR" group-title="예능",2010. tvN 언니네 산지직송 1~2 이어보기
+#EXTINF:-1 tvg-chno="2010" tvg-id="KR700006WZ" tvg-country="KR" group-title="예능",2010. Olive 한식대첩 3
 https://jmp2.uk/stvp-KR700006WZ
 #EXTINF:-1 tvg-chno="2049" tvg-id="KRBC3200032ZM" tvg-country="KR" group-title="예능",2049. tvN 뿅뿅 지구오락실 전 시즌 모아보기
 https://jmp2.uk/stvp-KRBC3200032ZM
@@ -355,6 +359,10 @@ https://jmp2.uk/stvp-KR4500002GS
 https://jmp2.uk/stvp-KR4500004XC
 #EXTINF:-1 tvg-chno="2502" tvg-id="KR45000060I" tvg-country="KR" group-title="예능",2502. KBS HOT CLIP 예능
 https://jmp2.uk/stvp-KR45000060I
+#EXTINF:-1 tvg-chno="2530" tvg-id="KR4800003H0" tvg-country="KR" group-title="예능",2530. MBC 구해줘홈즈
+https://jmp2.uk/stvp-KR4800003H0
+#EXTINF:-1 tvg-chno="2531" tvg-id="KR48000047I" tvg-country="KR" group-title="예능",2531. MBC 라디오스타
+https://jmp2.uk/stvp-KR48000047I
 
 #음악 (5)
 #EXTINF:-1 tvg-chno="1435" tvg-id="KRBD43000023M" tvg-country="KR" group-title="음악",1435. JTBC 비긴어게인 - 오픈마이크
