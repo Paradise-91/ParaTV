@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 29/01/2026 05:24:36 CET+0100
+# Generated on: 29/01/2026 06:26:37 CET+0100
 
 #FRANCE (32)
 
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="78" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=glzhXjY_ummGxlDpaiEVWcPNUYXzK-uZd4CPGhzLSGDXXURrVwGZxJ_p5e0GneNnV5-cFMtwhXJvXu-VNLMP04uhINSbO8BujZrMCCLZ6xQ
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=PRgsTZtP1JTD6I49llkOFgkQ1_uDz880TwuupV1Y87T4TVOoDDFsUcH7Bji6sF8XKBKtTO-XFFhLgw-EkkYDLcbIfJuW1-tfRWji_fAiOsk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="79" tvg-country="FR" group-title="LEQUIPE.FR",79. Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=WlBX_PdvDQ1BjaWF1KWu8ua8od_7khJx6MgeuKp60MDxG0btpiwP3HctGrrU8PWuEjezPgC8pbOuNVKeSBwzw91Djep4PHE5WbbUvbp7KgQ
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=RrUoV644uBGpB-xv6n_xh3_Dmyc-4ULZnRSxg_VACEveDI4HRXGNJDrCuVb87meBHjiIYB5-g-AZzEroALcWf3tOipoHvcSjDUSDwVQPsdU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",85. Journal du Golf TV [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=v3GbDJv9lCUYaU_1LCVy_EbaHZY0G8zFVkqPD6TAO2m-ggeSu7F-W7RYXcHTU6cd2c0AmIGT6LT71lHNSOSz3cH4VJf38mcOgGfv6ko65js
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=42QoZBsb9-MnXt58Tyf77WI2-DXsp-tLq458OWofSRoY4CN781jvOKUhHPn57DWqRH8ju6j2sUeLXaaa0YLxIm-SxqKemUtJVqT857bSJY8
 
 #FRANCE.TV (40)
 
@@ -393,7 +393,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://s1.dmcdn.net/u/1ERZ11f7ntdWn7Xle/60x60" tvg-country="FR" group-title="RADIO",602. Sud Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8
 
-#SAMSUNGTVPLUSFR (154)
+#SAMSUNGTVPLUSFR (153)
 
 #EXTINF:-1 tvg-chno="1000" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1000. BFM TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD410000783
@@ -539,8 +539,6 @@ https://jmp2.uk/stvp-FRBB4900002D4
 https://jmp2.uk/stvp-FRBC3900004DS
 #EXTINF:-1 tvg-chno="1084" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20251111T012101SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1084. Pocoyo [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR700001VJ
-#EXTINF:-1 tvg-chno="1086" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800002C4_20260127T040229SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1086. Wonderland Kids TV [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FR1800002C4
 #EXTINF:-1 tvg-chno="1088" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20251209T004459SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1088. Les Lapins Crétins [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD2300002CM
 #EXTINF:-1 tvg-chno="1089" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20251028T011422SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1089. Mr Bean Animated [1080p-samsungtvplus]
