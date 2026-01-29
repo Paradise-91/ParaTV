@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 29/01/2026 20:24:38 CET+0100
+# Generated on: 29/01/2026 21:24:41 CET+0100
 
 #FRANCE (32)
 
@@ -114,17 +114,23 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/hDscsNi.png" tvg-country="FR" group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (3)
+#LEQUIPE.FR (5)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=q4MNpbDx1bmjyW3uqYQ_Y11or50vG_ZDXk1cWwd7uvuKCSzHurOVSNhs3BEiige3b8Nqt_-gFej4S4t-6XVXfhR4A2xqMCR9_-KIsVQW7Qc
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=9rLFxr1g6RMg-4QpI2Zk6gl0PpMnYXlJtioKXX1-ZVGhGmzpJoW8LlQIYSgSYYYSazBLM5bCxW4z-HJlJMojo_FTvGmau-eVkibFzPoT4_Y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=tWmwdYXzshVCLQq04y2F3J0fCi0R6vS5IE3X__SWQg2JCZQvBx46h7FU9-Gi23AIZkpMmJVli4h_DDkX7cL3zksoeXD1kOyJgnuEfHHPuFs
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=ekAmN5oJDpJf5YSQaxoGg4GM3kFkVyZat3iiosiZfXhcmX6EbCh96j780WZrh3ut1z68jBPb9FTCueujXKnWEcsP7UnP3Ie4n-hVKI3YJkQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live 3 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=mS3egbyZ1d9GhQSCr__6FSmlOljenkKY22K61taa9Zp0kAoaoQ_dEWsypFeCpqiap3bXYuYIPpmV5PfWwnasj9AwTr_6qKxtRJJgzXCTVXk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",L'Équipe live  4 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd06p.m3u8?sec=3s9OV_mgDOD1vFRaskFWoDI8AAyZcq5Y8729mkNgwFmAcA4nuGPIsvpyvo0BHEIZNSjbilzNjwb7ss362eOEM9IPdZsGvQmwM7fxnk1McV0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=w2xqiGRTRNDuV2m7FlUePMJeHE5Wzhpfi27pe_T5ojs4w0DiWaUIRzyEaRF_sFwyTT-XXpsHRRc8DyNPgEeFOT6i4GvG60zsemwyRSp-2bE
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=CiQCT_s5SGJ0f8Bq66kLIxHHwaD7RU7s0fAeL3UlIWvLpEbdvHUOKjinGTZxwPsyBswqqw2ITer1AU5j3rSXM2LOZscJFhdSthFCZx9WDjU
 
 #FRANCE.TV (41)
 
