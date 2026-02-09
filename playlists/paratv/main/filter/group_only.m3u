@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 09/02/2026 16:24:38 CET+0100
+# Generated on: 09/02/2026 17:24:39 CET+0100
 # Total Channels: 418
 # Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (32), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (153), SWITZERLAND (5), TV5MONDE (2)
 
@@ -116,13 +116,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #LEQUIPE.FR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=eQgQa4U_fUMAWbqyOic1eSwPqyWnOyZoktmmzk6gOOnd3OwKNMeZrqFPtetzpmzGi2ovu_bkuYvoao_zN7uDSCo53uoOUgpTfbjpkP8-71E
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Gyy6o3I8OOUVxDux8ZcO0TrILNOl6M4Ynwwxk0eKeyjwIy2ibb0PPWRl8ZpqnfzdH1mVqTvdr2wjaSEtwIbztCXuIXCHyq1goq6ilBcxQa0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=Egmy97WuF5TW7ttmgHwG9-73anirQcnsEXhPsoAjYlQdm-WmhzzzbYRvWcDfOav9ythO9OZgEKRw31BaOm9atARXnw1VYynlAio1yvFHv5Y
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=38EeHM06Le92LFJyHlIB68_O2xjhMNUUz6xHoVhnIkvGmeeinONfReZDLPlFkIlQ49wPicZjHvFvvlgK2p8weEScjPGMfjKb0WEWXHrfoic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=QfQjbyjx1gXO8-IfGhRTFBmsHbDxBNYRepZkO4Wu70ZtoamPoQaRFNUeKs4kI9PzEf7sCoHUDlUJm5ny4Lll7nvrN5WUCmHUGS-tT_Bcfcs
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=HXANnWuHQY2e2NKIUQ_nfGzFyzp64KCqPGpO6tZxgFeLpDFrXFLYgked7jTYB068pZfozUS5GbUm3iUPhr1oNhChJDGgcNONIKD5NGk3CjU
 
 #FRANCE.TV (42)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -249,8 +249,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 group-title="FRANCE.TV",OUTRE-MER EN CONTINU
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
+#EXTINF:-1 group-title="FRANCE.TV",MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1 group-title="EQUIDIA",LE GRAND DIRECT [1080p-equidia.fr]
