@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 11/02/2026 05:24:36 CET+0100
-# Total Channels: 417
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (32), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (153), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 11/02/2026 06:26:36 CET+0100
+# Total Channels: 418
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (32), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (154), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (32)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p.tf1.fr]
@@ -116,13 +116,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #LEQUIPE.FR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="78" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",78. la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=XvErqS96AO9jLQNMi4hH_a6IhNN6B0epbx2pYWX2Wx6SZTeNMF2bwP0_3uJQLjPKq74IQwJbN3_33fkVtclNpwu2s-4zath4fCYXytEun5E
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=eOpK-i-F7tuJvQ11FU-Kv57gBWnRlQklAYqisIgjgFNkIB74InyF8YuZUgQ6MCG8DXgSTe17jnlSzMYCfSHxhoROzym-OzMgTEWwYMyzcSk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="79",79. Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=42w45Cr9EfK5_65UJ1drJRgO3mmcDLXzVGBiBCHu0FxXwlx4DPW2IhfKYXzXvVi_6TXs0BxMANSNdkRDqGMfGsqLWjnF-UU__DO9faAElxI
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=Dc0I2JmuW5U7_2Ubg4rEDh4e-EGa7ui_u0CcC29Pb0y3X07QpugMdmonuUdgSDUfz4YHYOIET3VBfLLjW4uefI4HnNcF-c8fWS3MI_E28jc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100",85. My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=X628QgRjD5gEPE_VO-LUqMxtlBFKySgjKIP7q9W79Bz3ryzv0GWA_K4OICoE3jvPAsnWDvw_FwbLwDt-8fE8148AP_JK2kMCilGI7X2Kg6s
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=UK9W_BApBZU-yKbz3I370w1YLFDgNnavy5_0g29DitK0f80z490fJ8HjNijbi02vHc4qRhryfsoCngT4dsd2VGlNcc94frkbclsTtDOGXck
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -388,7 +388,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://s1.dmcdn.net/u/1ERZ11f7ntdWn7Xle/60x60",602. Sud Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8
 
-#SAMSUNGTVPLUSFR (153)
+#SAMSUNGTVPLUSFR (154)
 #EXTINF:-1 tvg-chno="1000" tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png",1000. BFM TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1 tvg-chno="1002" tvg-id="FR1400003Y0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png",1002. BFM 2 [1080p-samsungtvplus]
@@ -441,7 +441,7 @@ https://jmp2.uk/stvp-FRBB340000115
 https://jmp2.uk/stvp-FRBB50000016B
 #EXTINF:-1 tvg-chno="1028" tvg-id="FR26000068C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000068C_20241022T044043SQUARE.png",1028. Comédies - Rakuten TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR26000068C
-#EXTINF:-1 tvg-chno="1029" tvg-id="FRBD19000095S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20260127T040235SQUARE.png",1029. Ciné Western [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1029" tvg-id="FRBD19000095S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20260210T035936SQUARE.png",1029. Ciné Western [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD19000095S
 #EXTINF:-1 tvg-chno="1030" tvg-id="FRBB4600002K5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20251111T011332SQUARE.png",1030. Scream'IN [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBB4600002K5
@@ -471,9 +471,9 @@ https://jmp2.uk/stvp-FR300001M1
 https://jmp2.uk/stvp-FR300006GF
 #EXTINF:-1 tvg-chno="1044" tvg-id="FR3600004UH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600004UH_20251125T101544SQUARE.png",1044. Le Meilleur des Jeux TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR3600004UH
-#EXTINF:-1 tvg-chno="1045" tvg-id="FRBD1900007PQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20260127T040241SQUARE.png",1045. Qui veut gagner des millions ? [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1045" tvg-id="FRBD1900007PQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20260210T035946SQUARE.png",1045. Qui veut gagner des millions ? [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD1900007PQ
-#EXTINF:-1 tvg-chno="1047" tvg-id="FRBD1900005BA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900005BA_20251013T054034SQUARE.png",1047. Les Z'amours [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1047" tvg-id="FRBD1900005BA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900005BA_20260210T035944SQUARE.png",1047. Les Z'amours [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD1900005BA
 #EXTINF:-1 tvg-chno="1048" tvg-id="FRBB490000412" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB490000412_20241015T042740SQUARE.png",1048. Motus [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBB490000412
@@ -489,7 +489,7 @@ https://jmp2.uk/stvp-FRBD300000170
 https://jmp2.uk/stvp-FRBD4100002R7
 #EXTINF:-1 tvg-chno="1055" tvg-id="FRBA3300035UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300035UK_20250923T010337SQUARE.png",1055. Juste Pour Rire [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBA3300035UK
-#EXTINF:-1 tvg-chno="1056" tvg-id="FRBA33000234L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000234L_20241015T035938SQUARE.png",1056. FailArmy [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1056" tvg-id="FRBA33000234L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000234L_20260210T035927SQUARE.png",1056. FailArmy [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBA33000234L
 #EXTINF:-1 tvg-chno="1057" tvg-id="FRBA10000029E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA10000029E_20241015T042540SQUARE.png",1057. People Are Awesome [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBA10000029E
@@ -501,7 +501,7 @@ https://jmp2.uk/stvp-FRAJ3800004CC
 https://jmp2.uk/stvp-FRBD110000181
 #EXTINF:-1 tvg-chno="1063" tvg-id="FRBC3900003ZH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20250422T045312SQUARE.png",1063. MGG FAST [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBC3900003ZH
-#EXTINF:-1 tvg-chno="1064" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20260127T040238SQUARE.png",1064. Destination Nature [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1064" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20260210T035938SQUARE.png",1064. Destination Nature [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBC4000001IO
 #EXTINF:-1 tvg-chno="1065" tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20251209T004435SQUARE.png",1065. RMC Story [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD41000097I
@@ -533,7 +533,7 @@ https://jmp2.uk/stvp-FRBB4900002D4
 https://jmp2.uk/stvp-FRBC3900004DS
 #EXTINF:-1 tvg-chno="1084" tvg-id="FR700001VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20251111T012101SQUARE.png",1084. Pocoyo [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR700001VJ
-#EXTINF:-1 tvg-chno="1088" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20251209T004459SQUARE.png",1088. Les Lapins Crétins [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1088" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20260210T035941SQUARE.png",1088. Les Lapins Crétins [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD2300002CM
 #EXTINF:-1 tvg-chno="1089" tvg-id="FR90000160" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20251028T011422SQUARE.png",1089. Mr Bean Animated [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR90000160
@@ -681,7 +681,7 @@ https://jmp2.uk/stvp-FR3100005MK
 https://jmp2.uk/stvp-FR4000002JN
 #EXTINF:-1 tvg-chno="1174" tvg-id="FR4100001D0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4100001D0_20251125T101552SQUARE.png",1174. Sci-Fi - Rakuten TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR4100001D0
-#EXTINF:-1 tvg-chno="1175" tvg-id="FR3400004L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20251230T031031SQUARE.png",1175. 100% Kidz [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1175" tvg-id="FR3400004L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20260210T035930SQUARE.png",1175. 100% Kidz [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR3400004L5
 #EXTINF:-1 tvg-chno="1176" tvg-id="FR4000003O1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000003O1_20251202T002645SQUARE.png",1176. RMC Life [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR4000003O1
@@ -695,6 +695,8 @@ https://jmp2.uk/stvp-FR3600003DS
 https://jmp2.uk/stvp-FR400000413
 #EXTINF:-1 tvg-chno="1181" tvg-id="FR38000024W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR38000024W_20260120T031404SQUARE.png",1181. Masha et Michka [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR38000024W
+#EXTINF:-1 tvg-chno="1182" tvg-id="FR3600007GW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600007GW_20260210T035933SQUARE.png",1182. Alerte Cobra [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR3600007GW
 
 #NETPLUS.TV (115)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
