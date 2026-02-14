@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 14/02/2026 08:24:35 CET+0100
-# Total Channels: 420
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (32), FRANCE.TV (42), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (154), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 14/02/2026 09:24:35 CET+0100
+# Total Channels: 422
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (32), FRANCE.TV (43), LEQUIPE.FR (5), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (154), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (32)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -113,20 +113,22 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/hDscsNi.png" tvg-country="FR" group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (4)
+#LEQUIPE.FR (5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=DbULzKxOUbjkifJxg9UlEG3c4msVRXb4TS9YEV1N1Vft8-SybhdBdNsH_P4H0au5_TMd0KHiz0qSZt6zzRkipxxyGB_E7TYDDI1Sv8POFXA
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=7uB1dHwWhk1T4imqPlSvB1_GYxX7631rbE2si9cY7mftsr3E3_SkS1w0cXmPfSYM1OmbmBgP1sAf6LG9pXqiB6mXogGcs7i2aWln9ZBcGZw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="LEQUIPE.FR",Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=aT6I1JWTnAVzdTCnP9ljZBhRnFAF7YjzCvp0ypx0fj03B9UolGyfbSMIj4_2Pg6qf2Avt3AVkvqAJTIG3_9oHHIqmjobP-36MGDnogphIYA
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=8XYoMhJ1zag3W-bQieVoi9x04OWKHPBasAkaSG4KSlhMcRcsIwmeSchTXMzvQbkqPrv1c584wXN9lxT-bhhzdRGXZHSL10co1iFZVjVE9Cg
 #EXTINF:-1 tvg-id="kXRfcKHV9HhcZuqwBYP" group-title="LEQUIPE.FR",L'Équipe live 3
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=q9aoJ0jbslDWTUCHAcUPllSCBGep-xYbdoT8BL5cqfBcQ0d9IDYi97OK5P_ZKyUQzVnMez-zVmz0NDtRkVNUyqtsBqrbl4N3s-DtDWvZOOw
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=tGt3Gh9yLLc7IoC2nzrGwvvPJtQovGWGWS7f2YZ9i_GTpmyJS4WhZKErlHgd8tgcEpwHTrFqLa2c8ddPlLxj_GKYlh3fSvuBE4t-xfPzXu8
+#EXTINF:-1 tvg-id="k6oih7JyuEmhrnqwBZT" group-title="LEQUIPE.FR",L'Équipe live  4
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd06p.m3u8?sec=4JP-LalIQAl0dXNo8GYmUSEss8zUPj7XBcUpSbgZ7wtmSlIiD9zzVbCj73vyuDPCFMaiXivtIExzS1WoWBEgrqIDeEwkJt6nIxWUQ44mNIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=UYpSDBYfU6jej89PuqrjKc-b8ib19Fr6ivDxE4ymHkQmHHhXnTcHQWdDaZskarQzksyWQHvrW3P7CkQf_XdYgFCL6rrLWlBRJ6ifm89MOR0
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=aeBCetMjFi6zoflJV_Rzqa4G9q-p69v9rhao-3ZxeVGRVeAKQEY2XFbpIg3dH9-9L-LzWYnGvNDgQWUaLdt8LHx9MYme4by5rRsbvnXjQRc
 
-#FRANCE.TV (42)
+#FRANCE.TV (43)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIDZWaa.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -251,8 +253,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4mQ8iG.png" tvg-country="FR" group-title="FRANCE.TV",OUTRE-MER EN CONTINU [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4mQ8iG.png" tvg-country="FR" group-title="FRANCE.TV",POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/polynesie-1ere.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4mQ8iG.png" tvg-country="FR" group-title="FRANCE.TV",RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4mQ8iG.png" tvg-country="FR" group-title="FRANCE.TV",WALLIS ET FUTUNA 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/wallis-et-futuna-1ere.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tM9y14c.png" tvg-country="FR" group-title="EQUIDIA",LE GRAND DIRECT [1080p-equidia.fr]
