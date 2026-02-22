@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 22/02/2026 07:24:35 CET+0100
-# Total Channels: 420
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (32), FRANCE.TV (42), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (154), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 22/02/2026 09:24:35 CET+0100
+# Total Channels: 421
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (32), FRANCE.TV (43), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (154), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (32)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -116,17 +116,17 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #LEQUIPE.FR (4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1,la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=nxBNVGy_S_PyQ5TFDEDn35kn4KkhmwJfYP10OHoFJ6myNcXuz3fK6O__2gjEPdbCv2DTB836EQNrUbm58vla4r3HZsPhN7OcSebNWz24H1k
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=P3wJyVlEnn_udXzxFfXaljv4bU5qvfsN9RiVZt2T5xkG1xoSxeP9Q3NErjngi86eOydYkzb6o7p7dwP_30QJ-GyHtPPZpA67k8xkj5MWxtM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1,Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=365r9dNRP4eXF0maGcL4aj9X3vXARWr7nOGlhdym0ptVcO8aVWh8cdkictmBYt3XCnh2TnE1yyf2M8BW2TRVk7-f-qQl-u1Q0G7m-BZRnE0
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=FcDALs2OzMt6MLH8MqJAZ4Cie9fK8uWXpu0Aq21Q0KRjDUZ5E3AzHSrk-Za8W4xQOA1CbiCTCbhDU2FLmn9BSC4ec4t61RaJVRcRYy0kQz0
 #EXTINF:-1,L'Équipe live 1
-https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=MIT7qc0Djnpwl8aOndPiTYsQCTYO4Lr5YyLXmbYEXxCL8obfwqlR-6cZpc7W2w0I9Wdi5nSFbfZuJiS6A_Mbbi3vsXUqRHeQBmt52i_UVxc
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=7oEvmrC_UkTpLl9nnZkoYbv97Bh2JkvT3BNcnQ9EjOTjQX4AFWh4Ti5js4Z2UC78xDpXfuaQwJoaZXWlWhjExPzdYe2qa5sNwL32pjFNR2Y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1,My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=1cUp76E8IP6HEOKfYtFUjYaEgrEZv0Du-XVv4uKgyMgEXnhbNXaUAqb6Z2iCbAWhg5ZBD-hMOqn7m-Z10kjeG763zCbwqmfcQeBIaBxFMEA
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=ULZN8zY5io2ecUO5pqBqXLBaDePwiePpary3twRPu0mbiNn59euq2IJgTDng4O7if336W0AGVd-12B4v1uDodgq6U7n7ymTkDod3DxxKOsw
 
-#FRANCE.TV (42)
+#FRANCE.TV (43)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -251,8 +251,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1,OUTRE-MER EN CONTINU [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1,POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/polynesie-1ere.m3u8
+#EXTINF:-1,RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1,WALLIS ET FUTUNA 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/wallis-et-futuna-1ere.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1,LE GRAND DIRECT [1080p-equidia.fr]
