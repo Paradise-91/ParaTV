@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 10/03/2026 16:24:54 CET+0100
+# Generated on: 10/03/2026 17:24:37 CET+0100
 # Total Channels: 419
 # Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (32), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (154), SWITZERLAND (5), TV5MONDE (2)
 
@@ -115,12 +115,12 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=ZV78SlG_M_catW7PBN-9RQzYy9TvEW74h82SBrAvpTDPRL0Byulxl6DvJpTzoyCWGDl7vqZ6UIJ-zPj10dI2TPEohTwWA4eKI2gyZvbPYlQ
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=u8fdEi3LwI2JsaHF3y5nt2KumFxa2o6TzWEquFy5_3VWb4WW3gLyCD3gy-iJebW8tIwfm1T_4gqkOqWu8SDkzY-yKa1kvF3foGf4PZrYwe8
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=xxpoFbAfmYEZkrhqVw0PTUzulGlJyuK29KDu8Dw_GkLcn6SnhMQCANO40iL53BqkclGBG-Dhok-klOYcWp3kdE5bUJ2a7PAFu3Dymf0-dfc
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=FFQ5ddy3fL38Bp1kTNBxsQELwqJr5ow9uqpHfqArnX34cFHAX0FLJsf0N_RPR3vrSjaQqQyl_or6rRpKLhXCQ-p5fS6UraQmJjqHPAiYOqU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1,My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=SO-mPqtE0SYFVoXqOWEgGzwB9ClNWKPKWPztlrCPAQxTWFsygU_1HPORorBkpIZTd7cfiL2H9gv2z5wChYlS22bt63FY9b_hz9U2TvLuchU
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=oLhY4QQXRNxZgI_NJvVzPpmKyU9Z0rIo8OJeQCJyTtcYG4XXq1-bPYVi39YJU7_NtQkb8gJG0CymQIWllqe3bn-i_X7L-Gk0fKkra_Iwtnc
 
 #FRANCE.TV (42)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -247,8 +247,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1,OUTRE-MER EN CONTINU [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
+#EXTINF:-1,MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1,LE GRAND DIRECT [1080p-equidia.fr]
