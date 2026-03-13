@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 13/03/2026 04:24:35 CET+0100
-# Total Channels: 422
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (32), FRANCE.TV (42), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 13/03/2026 05:24:35 CET+0100
+# Total Channels: 421
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (32), FRANCE.TV (41), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (32)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p-tf1.fr]
@@ -115,16 +115,16 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (4)
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=roNWihV78ag4j7pWJQBASmRe4VW1klQdjJRR04kkqM5vbOuyWHQf_m4YFBsg1cGjd4A36_U721VXy-C8XuR8BPjg-jWeSY_2RXUxNYGSaFQ
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=x2cOmWGG7Aeu_Vn0M4REDKyNmVoVtzPPqMiPFQdrOXDt0MxaYkPiwGuQXVAMk0aSiYzsE5jereTpiwp9EFMS5_Dn4dm-kROmH7hbM3w-BFg
 #EXTINF:-1 tvg-chno="79" tvg-id="k1kypsRZF9plQhqwBRS",79. L'Équipe live 1
-https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=gAWyUmyDlw6XRPPnomszq7H3EF00J0YUZ8jOTD0fmJ_JXW9xdRbKaj3gRcCqq1kB9TyNIoeDtoyNbzrd7hgFuP3pg0V8yz1iAcdsSZNtLIg
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=w7Oi15E_hDAsV8VwGB_SDCD9IOOgYLG5vki9tylU16zlCT6TMG_oif7u9PF53s3RVfLWaGyho28pBoFwkG8usYolFNd5YBes_FD07Payw_k
 #EXTINF:-1 tvg-chno="80" tvg-id="k6c3A07yUljlAzwkvtL",80. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=tsvAeBimkLz85N40qWr4xG2FQfIiFEG6mvOq5C63Q2EoC7mWMK2X_uACD5FDgye3eUhkX6Bh2WUq2bfYmIUS0ilCWfk7ICIoO0RJiZsPCIc
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=9kr7FjfvuGjoS45deed2UN8wxNuPAqV0wjRYIamnqZRzxQPiYO5lWSmktPpEDWYebv7hF_TJfp6Cj3ml9R0T763WHYUDC9_N6e03PnRbRF4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100",85. My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=LCanZtl5gnBnJEOmszEhv5D7-bb9wiSbKwPJr6Kj3w-PQ3xzwjRa91VEHDmCtwZ4m2yQAukA3TraYAL-0vrHz10VZF3lFkvNrgjQLtmd3hg
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=dcLb8CmEhls_jK46YQJg66bhd1Q0DHkHqZHY78kiJqUKQsiGNXBz1rjLrp3SCRgajPLpAnzqBVoI2imCWGDNpgDZymN3sn07EfZ6eKBCSHo
 
-#FRANCE.TV (42)
+#FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://i.imgur.com/YIDZWaa.png",110. FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -248,9 +248,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="150" tvg-logo="https://i.imgur.com/M4mQ8iG.png",150. OUTRE-MER EN CONTINU [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/playout-outre-mer-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="151" tvg-logo="https://i.imgur.com/M4mQ8iG.png",151. RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/reunion-1ere-highest.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://i.imgur.com/tM9y14c.png",300. LE GRAND DIRECT [1080p-equidia.fr]
