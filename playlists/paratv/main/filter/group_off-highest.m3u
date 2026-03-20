@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 20/03/2026 20:24:33 CET+0100
-# Total Channels: 422
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 20/03/2026 21:24:34 CET+0100
+# Total Channels: 421
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p-tf1.fr]
@@ -116,16 +116,14 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/hDscsNi.png",71. TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (4)
+#LEQUIPE.FR (3)
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=fJq5psSCg7vLfLFnT8dJlX4GRyq6_OiW53X1REHgg9fFm25lYjUpwckUq2qM7970NrQRbFqC8KHDtVy3X9__a9KXaRDszJ9rQTnYPiQG9RU
-#EXTINF:-1 tvg-chno="79" tvg-id="k5TgcOKBUTM2KnqwBWC",79. L'Équipe live 2
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=AMmilVtuCIdzBW3ayE72QMeK6sz5A716lpCFQoF1lcMD0Ha_bSBQnsKSmIoCBqJeslr6umV1pZEk1Ecqi87cntLr2isvIafqOP-r8c58fYk
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=GnWovEYVrTN-nauKL0E5iYdzvZzNipCadOAYfIlBf2dPpBXq9j4tzRLMvvGxdiIshzmrXWqppROGC45iaOZBMoH3fpL2nScwZO0v3oKl_C0
 #EXTINF:-1 tvg-chno="80" tvg-id="k6c3A07yUljlAzwkvtL",80. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=OmaLSB1FE12Z1Ih6Js7wYa_p1yJeZ2WuTikwHccQVz6xb1obLUKwfhiBlRAxrZiNM1cyYyFh__51J8rP7DbjNb2PV1YUogdc5gM5Z8qBqZs
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=5qnKuqGfEEvKXF96h9ebyyW3BhW8IoZLfVTDbl3jEs4UBunXO1zMpwq7CbgCXAqJM9y8mwSCDva-G41A_mgv3-mhGQZItdG31NQuEGIliwU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100",85. My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Imcanap4UPxdS2P1Q70JTLgIvpd7D8MICCutiyKaTtC5-MsHnGxO59M0UM43kSsfISs0I_bbzzoTkhCr1oF7R9WAaYzXhjco02TnTsw29Ao
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=bGvtgfHlVe_lEM5-rxNrEHkN2uaiJpZ2XGnHKD75BvL3_BmhjSP-xk8miLk5rfEJ11s1Xmn0UY6JFhgvtG8wMJ4RBIibIiffkTBZKl-YYy0
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
