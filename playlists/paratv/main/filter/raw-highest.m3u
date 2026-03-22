@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 22/03/2026 22:24:33 CET+0100
-# Total Channels: 438
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (58), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 22/03/2026 23:24:33 CET+0100
+# Total Channels: 425
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (45), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -118,14 +118,14 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=iHwBfiE_mgmjB03qrl5yZxT4S2KX3vS9r5kWEM0dBOvBReDFu6INpCr9Cm7-CG2AaVh2cowk8-vluyFX2ZwuXIdmFpDhy_DFIk-SIHGzKKk
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=HU6QaR3T9LUq6vU3-4LUS_KnbvAmRcdpsD-J6003xtcoc-Ys-FQcqFRDOpfPaSWnLwkXzqFBA1Hd545sEcPu9jCwPa1-PXgwO0cz_8PTFl0
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=rNGyw1PK7ReCLXzIzpY7T-FfAJW5GDbtsVPZlYePB-mzoM_xe7GfARhrY_HubDmViDYCbxfKIa-kmR2HjVV1oiSzI-1HpL-biyBpbHboXRA
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=nusX_zulZfo1_hHO-eT62qQ4N_T4wuCuxGavjxue985mGkOHbbSwVqV8_5vV6UV7yQjvpLSwH00DJUjVmzfY4_uV_2d1hefWU6Yr7WANQFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1,My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=x9C2qLKiZ-EqkHmhFLTPAoOCbyZXFUnlABsskVeIx70UZ6jilB_DpNybCs43-drAGr-1iYowO28lm8lARJNSgtu1XjRS9PT7QILs4wetk6k
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=v1zmYVg0-Ss1JUss1HLct0V0srvI1Y4vPZ-fWNqddQPmXM5wKJ4Bg6S-SuN1yGZu84058Xia9cZ2FXTnT31t-5tZ0KxwNho8M0Lm70e6U8U
 
-#FRANCE.TV (58)
+#FRANCE.TV (45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -169,56 +169,14 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/m
 #EXTINF:-1,TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/tv5-monde-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2E TOUR - LORRAINE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2e-tour-lorraine-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - ALPES [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-alpes-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - ALSACE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-alsace-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 – SOIRÉE ÉLECTORALE 2ND TOUR – AUVERGNE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-auvergne-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - BOURGOGNE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-bourgogne-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - BRETAGNE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-bretagne-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 – SOIRÉE ÉLECTORALE 2ND TOUR – CAEN [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-caen-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - CHAMPAGNE-ARDENNE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-champagne-ardenne-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - CORSE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-corse-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - FRANCHE-COMTÉ [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-franche-comté-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - LANGUEDOC-ROUSSILLON [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-languedoc-roussillon-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1,MUNICIPALES 2026 – SOIRÉE ÉLECTORALE 2ND TOUR – MIDI-PYRÉNÉES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-midi-pyrénées-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - NORD-PAS-DE-CALAIS [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-nord-pas-de-calais-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 -SOIRÉE ÉLECTORALE 2ND TOUR-PAYS DE LA LOIRE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-pays-de-la-loire-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - PROVENCE-ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-provence-alpes-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - RHÔNE-ALPES [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-rhône-alpes-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1,MUNICIPALES 2026 - SOIRÉE ÉLECTORALE 2ND TOUR - ROUEN [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/municipales-2026-soirée-électorale-2nd-tour-rouen-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1,CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/roland-garros-highest.m3u8
@@ -300,6 +258,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1,OUTRE-MER EN CONTINU [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/playout-outre-mer-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTINF:-1,GUYANE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/guyane-1ere-highest.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1,LE GRAND DIRECT [1080p-equidia.fr]
