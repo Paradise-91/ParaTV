@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 26/03/2026 05:24:33 CET+0100
+# Generated on: 26/03/2026 06:26:35 CET+0100
 # Total Channels: 421
 # Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
 
@@ -118,12 +118,12 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Acf6oTmfK-hTagzj3ezariUDpQsB12EhITQyoP_tvdoze7gDtMpSak2DWP9-iT7O-ZA1JAHyT4GdIhYtixm8o6eO8J4PsJgekWaSkGcw2dg
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Hg85v-qbopIxZTdbrBElHXnRaYuD3ZUwkCupDl8f83NABXti5o3mzbALNk-qiR3CLoWhghPc-N3LzVp_3dIrSi_VJPcquX7_IpUXWtelwH0
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=2-0HrQ6yaH0JT-JmCKbz8_8OdMqqUsoCBvyITdJeuIqYTTL5oy2xjAxkgp-iz7AD7HHqAr42CZUslLkS5ismfiw8lSHA670h4Msj4o0oMQI
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=ZZidpoDHd0AiZ5hepT4fTn6zuNznvmma9MUqGZi0WI6MnP9LAFuiJu0mWZgujMG-RHzrn0zjxkO9K8BpvuzF8Ia4s-O8iFCPP8rSubrDcpw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=x1eBdE-9IlBxM1xrZZJrMofgqSvtgyVE7IF4M7IIm8PpgEyzOu1dX-KRpjDDYnqYWWniaPztCtE2BuWP_8cFxS2nbFOS45SpqwD5CiA1xmY
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=UXdA881uyKrZmKYZNH-kJe00yQbeCGDzYX_XJQSGxP3iAy2feYzWfqNYpZK4IMKJ6dxH-Va4vRqMHFV3O75vyrOn1hPDWG-rbSUsi6YBxgA
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -396,8 +396,6 @@ https://jmp2.uk/stvp-FRBD410000783
 https://jmp2.uk/stvp-FR1400003Y0
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",RMC TALK INFO [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR300005WY
-#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Le Figaro TV [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBC1400002JN
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",TV5 Monde Info [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR1800005X0
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",BFM Business [1080p-samsungtvplus]
@@ -594,8 +592,6 @@ https://jmp2.uk/stvp-FRBC4700001XG
 https://jmp2.uk/stvp-FRBC800001X0
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Passion Novelas [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD15000024B
-#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Stormcast Novelas [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBA3300031ZC
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Tele.Novela [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBC14000010C
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Les riches pleurent aussi [1080p-samsungtvplus]
@@ -702,6 +698,10 @@ https://jmp2.uk/stvp-FR3900003Y7
 https://jmp2.uk/stvp-FR3900002FW
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Merhaba Amour [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR3800003N7
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Show ! Variété [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR3100003KZ
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",INTER 24/7 [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR3100002MQ
 
 #NETPLUS.TV (115)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36

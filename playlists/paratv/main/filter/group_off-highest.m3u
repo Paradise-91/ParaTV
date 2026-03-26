@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 26/03/2026 05:24:33 CET+0100
+# Generated on: 26/03/2026 06:26:35 CET+0100
 # Total Channels: 421
 # Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
 
@@ -118,12 +118,12 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Acf6oTmfK-hTagzj3ezariUDpQsB12EhITQyoP_tvdoze7gDtMpSak2DWP9-iT7O-ZA1JAHyT4GdIhYtixm8o6eO8J4PsJgekWaSkGcw2dg
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Hg85v-qbopIxZTdbrBElHXnRaYuD3ZUwkCupDl8f83NABXti5o3mzbALNk-qiR3CLoWhghPc-N3LzVp_3dIrSi_VJPcquX7_IpUXWtelwH0
 #EXTINF:-1 tvg-chno="80" tvg-id="k6c3A07yUljlAzwkvtL",80. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=2-0HrQ6yaH0JT-JmCKbz8_8OdMqqUsoCBvyITdJeuIqYTTL5oy2xjAxkgp-iz7AD7HHqAr42CZUslLkS5ismfiw8lSHA670h4Msj4o0oMQI
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=ZZidpoDHd0AiZ5hepT4fTn6zuNznvmma9MUqGZi0WI6MnP9LAFuiJu0mWZgujMG-RHzrn0zjxkO9K8BpvuzF8Ia4s-O8iFCPP8rSubrDcpw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100",85. My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=x1eBdE-9IlBxM1xrZZJrMofgqSvtgyVE7IF4M7IIm8PpgEyzOu1dX-KRpjDDYnqYWWniaPztCtE2BuWP_8cFxS2nbFOS45SpqwD5CiA1xmY
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=UXdA881uyKrZmKYZNH-kJe00yQbeCGDzYX_XJQSGxP3iAy2feYzWfqNYpZK4IMKJ6dxH-Va4vRqMHFV3O75vyrOn1hPDWG-rbSUsi6YBxgA
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -396,8 +396,6 @@ https://jmp2.uk/stvp-FRBD410000783
 https://jmp2.uk/stvp-FR1400003Y0
 #EXTINF:-1 tvg-chno="1003" tvg-id="FR300005WY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png",1003. RMC TALK INFO [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR300005WY
-#EXTINF:-1 tvg-chno="1004" tvg-id="FRBC1400002JN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC1400002JN_20260324T034925SQUARE.png",1004. Le Figaro TV [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBC1400002JN
 #EXTINF:-1 tvg-chno="1005" tvg-id="FR1800005X0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800005X0_20251013T054015SQUARE.png",1005. TV5 Monde Info [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR1800005X0
 #EXTINF:-1 tvg-chno="1006" tvg-id="FRBD4100006OC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100006OC_20241015T040218SQUARE.png",1006. BFM Business [1080p-samsungtvplus]
@@ -594,8 +592,6 @@ https://jmp2.uk/stvp-FRBC4700001XG
 https://jmp2.uk/stvp-FRBC800001X0
 #EXTINF:-1 tvg-chno="1127" tvg-id="FRBD15000024B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD15000024B_20241015T042751SQUARE.png",1127. Passion Novelas [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD15000024B
-#EXTINF:-1 tvg-chno="1128" tvg-id="FRBA3300031ZC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300031ZC_20241015T042657SQUARE.png",1128. Stormcast Novelas [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBA3300031ZC
 #EXTINF:-1 tvg-chno="1129" tvg-id="FRBC14000010C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC14000010C_20241015T042852SQUARE.png",1129. Tele.Novela [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBC14000010C
 #EXTINF:-1 tvg-chno="1130" tvg-id="FRBA3300022OA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20250819T032118SQUARE.png",1130. Les riches pleurent aussi [1080p-samsungtvplus]
@@ -702,6 +698,10 @@ https://jmp2.uk/stvp-FR3900003Y7
 https://jmp2.uk/stvp-FR3900002FW
 #EXTINF:-1 tvg-chno="1186" tvg-id="FR3800003N7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800003N7_20260310T031740SQUARE.png",1186. Merhaba Amour [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR3800003N7
+#EXTINF:-1 tvg-chno="1187" tvg-id="FR3100003KZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100003KZ_20260324T034952SQUARE.png",1187. Show ! Variété [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR3100003KZ
+#EXTINF:-1 tvg-chno="1188" tvg-id="FR3100002MQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100002MQ_20260324T034935SQUARE.png",1188. INTER 24/7 [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR3100002MQ
 
 #NETPLUS.TV (115)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36

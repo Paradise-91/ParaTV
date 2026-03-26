@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 11/03/2026 08:54:27 CET+0100
-#TOTAL: 140
+# Generated on: 26/03/2026 06:25:26 CET+0100
+#TOTAL: 143
 
 #Anime (5)
 #EXTINF:-1 tvg-chno="318" tvg-id="CHBD39000015L" tvg-country="CH" group-title="Anime",318. Aniverse TV
@@ -74,7 +74,7 @@ https://jmp2.uk/stvp-CHBC4000006ZD
 #EXTINF:-1 tvg-chno="344" tvg-id="CHBC80000437" tvg-country="CH" group-title="Dokus & Wissen",344. NatureTime [FR]
 https://jmp2.uk/stvp-CHBC80000437
 
-#Entertainment (22)
+#Entertainment (23)
 #EXTINF:-1 tvg-chno="346" tvg-id="CH500002H2" tvg-country="CH" group-title="Entertainment",346. RMC Story
 https://jmp2.uk/stvp-CH500002H2
 #EXTINF:-1 tvg-chno="347" tvg-id="CH500003EH" tvg-country="CH" group-title="Entertainment",347. RMC Découverte
@@ -119,6 +119,8 @@ https://jmp2.uk/stvp-CH3900001DB
 https://jmp2.uk/stvp-CH40000020D
 #EXTINF:-1 tvg-chno="2533" tvg-id="CH1400001FA" tvg-country="CH" group-title="Entertainment",2533. Zee TV HD DE
 https://jmp2.uk/stvp-CH1400001FA
+#EXTINF:-1 tvg-chno="2611" tvg-id="CH3000003NM" tvg-country="CH" group-title="Entertainment",2611. Dating hinter Gittern
+https://jmp2.uk/stvp-CH3000003NM
 
 #Filme (28)
 #EXTINF:-1 tvg-chno="362" tvg-id="CHBA3300030AJ" tvg-country="CH" group-title="Filme",362. Moviedome Family
@@ -190,13 +192,15 @@ https://jmp2.uk/stvp-CHBB3900006JN
 #EXTINF:-1 tvg-chno="393" tvg-id="CHBC40000027S" tvg-country="CH" group-title="Food & Travel",393. Echappées belles & co [FR]
 https://jmp2.uk/stvp-CHBC40000027S
 
-#Fußball (3)
+#Fußball (4)
 #EXTINF:-1 tvg-chno="394" tvg-id="CHBA3300010UC" tvg-country="CH" group-title="Fußball",394. FIFA+
 https://jmp2.uk/stvp-CHBA3300010UC
 #EXTINF:-1 tvg-chno="395" tvg-id="CHBD2600014C0" tvg-country="CH" group-title="Fußball",395. Scooore
 https://jmp2.uk/stvp-CHBD2600014C0
 #EXTINF:-1 tvg-chno="2555" tvg-id="CH1100002FH" tvg-country="CH" group-title="Fußball",2555. Top Barça
 https://jmp2.uk/stvp-CH1100002FH
+#EXTINF:-1 tvg-chno="2612" tvg-id="CH3100001XL" tvg-country="CH" group-title="Fußball",2612. INTER 24/7
+https://jmp2.uk/stvp-CH3100001XL
 
 #Kids (7)
 #EXTINF:-1 tvg-chno="397" tvg-id="CHBD4700001DY" tvg-country="CH" group-title="Kids",397. LooLoo Kids
@@ -239,14 +243,14 @@ https://jmp2.uk/stvp-CHBD1100003CW
 https://jmp2.uk/stvp-CHBA3300018TD
 #EXTINF:-1 tvg-chno="416" tvg-id="CH500001V2" tvg-country="CH" group-title="News",416. BFM TV
 https://jmp2.uk/stvp-CH500001V2
-#EXTINF:-1 tvg-chno="417" tvg-id="CHBC14000022X" tvg-country="CH" group-title="News",417. Le Figaro Live [FR]
-https://jmp2.uk/stvp-CHBC14000022X
 #EXTINF:-1 tvg-chno="1853" tvg-id="CH26000037F" tvg-country="CH" group-title="News",1853. Euronews LIVE
 https://jmp2.uk/stvp-CH26000037F
 #EXTINF:-1 tvg-chno="1937" tvg-id="CHAJ0500445A" tvg-country="CH" group-title="News",1937. SPIEGEL TV
 https://jmp2.uk/stvp-CHAJ0500445A
 #EXTINF:-1 tvg-chno="2075" tvg-id="CH34000014Q" tvg-country="CH" group-title="News",2075. Sky News International
 https://jmp2.uk/stvp-CH34000014Q
+#EXTINF:-1 tvg-chno="2613" tvg-id="CH2200006VD" tvg-country="CH" group-title="News",2613. Welt Television
+https://jmp2.uk/stvp-CH2200006VD
 
 #Serien (17)
 #EXTINF:-1 tvg-chno="421" tvg-id="CHBD27000011N" tvg-country="CH" group-title="Serien",421. Zee One
@@ -284,7 +288,7 @@ https://jmp2.uk/stvp-CH4400005U9
 #EXTINF:-1 tvg-chno="2470" tvg-id="CH4400004DK" tvg-country="CH" group-title="Serien",2470. Schlosshotel Orth
 https://jmp2.uk/stvp-CH4400004DK
 
-#Sport (11)
+#Sport (12)
 #EXTINF:-1 tvg-chno="431" tvg-id="CHBA22000080G" tvg-country="CH" group-title="Sport",431. Tennis Channel
 https://jmp2.uk/stvp-CHBA22000080G
 #EXTINF:-1 tvg-chno="432" tvg-id="CHAJ0500433A" tvg-country="CH" group-title="Sport",432. Sportdigital Free
@@ -307,3 +311,5 @@ https://jmp2.uk/stvp-CHBD5000001T0
 https://jmp2.uk/stvp-CHBD2900001LI
 #EXTINF:-1 tvg-chno="2511" tvg-id="CH5100001XI" tvg-country="CH" group-title="Sport",2511. Rally.TV FAST+
 https://jmp2.uk/stvp-CH5100001XI
+#EXTINF:-1 tvg-chno="2614" tvg-id="CH4700001E1" tvg-country="CH" group-title="Sport",2614. Redbull TV
+https://jmp2.uk/stvp-CH4700001E1
