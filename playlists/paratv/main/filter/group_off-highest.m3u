@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 27/03/2026 18:24:34 CET+0100
+# Generated on: 27/03/2026 19:24:34 CET+0100
 # Total Channels: 424
 # Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (43), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
 
@@ -118,14 +118,14 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (4)
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=1tf3wzMKt7vE-sxutrNNlkEPx88Uha-w7zxdC_6ziK2i4hI6y_1zRBIaDglXRHnpKUSksP7hFEue4q7-Lf2V--zT0Zf2GSa0AVcNvi0XZX8
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=j6_LgvzsABz08t6zgVWJebFoYC9xTad2FSH0t4kXSkD-uDZSFLJ8JolvQRaGWN7lvkSDmmLUOjWbLQibob8s9fXFoL_P4PIoCnuFDixquR8
 #EXTINF:-1 tvg-chno="79" tvg-id="k5TgcOKBUTM2KnqwBWC",79. L'Équipe live 2
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=yJTPGaAklwxQ9HlABUvy2_xfb_BfgTEjYN5_RODRGgT7PakHIsXi_oMveAIH9L_ZxKypzOSv7oYxv2fZyLX4RTi1FREbdpjNyemRjHN18q4
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=zoNtl1I5VhA78Q8fh_-efBt0YdFbvXk5nv_YUKxoAVtWoY8GLAH8FFLULdY1_Xw61dkGFhF0_P6tGM21G-Fr1iHhi5X2r397yHCoc_sVjI0
 #EXTINF:-1 tvg-chno="80" tvg-id="k6c3A07yUljlAzwkvtL",80. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=AsawKMblo8OqmihB1jgIb5ErPQFwI_SodplUI2tX9gPcV2ydkvHvO9pBPR9Z_Q6n9_kxj4GRz03KUpmE3lepMv8E7QOvEtUFHfGtb_BZ5QY
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=0utEq2dKlWx_HpeYgX79AVszNfbUHanewoKGc8Ap6bcDbEkPOl6iGlov9ZtZ64wxs1Ti82G1ODN0iqAoqGOwNnCf7ZnCqZ8G4vLcxe2834w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100",85. My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=w_buRcoyuh28vJV85gcNH5l6n9T1PRjdOtckIOoYRhRuPDKXG1bB-Wv_UNRMf3glcqHhQbkeU_UrbUcFrYE33BpeXB7gaW9dGAQSmRJ1r1k
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=I4yRxdUIr0fn3kARO8iVyrCSrd0tMHJapVCDj4fSk08S2iif5GgCVXUxY66_96Boku7cdYexWtaNoLBmPmseof5laPMqgaquWttWXTRmFhk
 
 #FRANCE.TV (43)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -252,11 +252,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="150" tvg-logo="https://i.imgur.com/M4mQ8iG.png",150. OUTRE-MER EN CONTINU [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/playout-outre-mer-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="151" tvg-logo="https://i.imgur.com/M4mQ8iG.png",151. MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/mayotte-1ere-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="152" tvg-logo="https://i.imgur.com/M4mQ8iG.png",152. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
+#EXTINF:-1 tvg-chno="151" tvg-logo="https://i.imgur.com/M4mQ8iG.png",151. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/nouvelle-caledonie-1ere-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="152" tvg-logo="https://i.imgur.com/M4mQ8iG.png",152. POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/polynesie-1ere-highest.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://i.imgur.com/tM9y14c.png",300. LE GRAND DIRECT [1080p-equidia.fr]
