@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://simulcast-frmedias-p.ftven.fr/ZXhwPTE3NzUyNjU1ODN+YWNsPSUyZip+aG1hYz03MTYzYzkzYzU2NDA1MTZjN2RkMDA0ZmNlYmExYmJlM2RmZjMxN2M5ZjM1MTNjMjMyMjBmZTU0Y2FhNDk0Yjhj/simulcast/France_24/hls_fr24/France_24-mp4a_96000_fra=20000.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="fr",NAME="Francais",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://simulcast-frmedias-p.ftven.fr/ZXhwPTE3NzUyNjU1ODN+YWNsPSUyZip+aG1hYz03MTYzYzkzYzU2NDA1MTZjN2RkMDA0ZmNlYmExYmJlM2RmZjMxN2M5ZjM1MTNjMjMyMjBmZTU0Y2FhNDk0Yjhj/simulcast/France_24/hls_fr24/France_24-dfxp_10000_fra_SUBT=30000.m3u8",GROUP-ID="text",LANGUAGE="fr",NAME="French",DEFAULT=YES,AUTOSELECT=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://simulcast-frmedias-p.ftven.fr/ZXhwPTE3NzUyNjU1ODN+YWNsPSUyZip+aG1hYz03MTYzYzkzYzU2NDA1MTZjN2RkMDA0ZmNlYmExYmJlM2RmZjMxN2M5ZjM1MTNjMjMyMjBmZTU0Y2FhNDk0Yjhj/simulcast/France_24/hls_fr24/France_24-dfxp_10000_qsm_CAPT=30001.m3u8",GROUP-ID="text",LANGUAGE="qsm",NAME="Reserved for local use",AUTOSELECT=YES,CHARACTERISTICS="public.accessibility.describes-music-and-sound"
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://simulcast-frmedias-p.ftven.fr/ZXhwPTE3NzUyNjkxODV+YWNsPSUyZip+aG1hYz1iNDljODUwMzkwYTI4MzhjOTA0ZTA1ZmI4MmU1OTM0MjA5YzAyZjRiYWEyZGI5NjVhZTNhNDkwNTE1MTJmZWRj/simulcast/France_24/hls_fr24/France_24-mp4a_96000_fra=20000.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="fr",NAME="Francais",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://simulcast-frmedias-p.ftven.fr/ZXhwPTE3NzUyNjkxODV+YWNsPSUyZip+aG1hYz1iNDljODUwMzkwYTI4MzhjOTA0ZTA1ZmI4MmU1OTM0MjA5YzAyZjRiYWEyZGI5NjVhZTNhNDkwNTE1MTJmZWRj/simulcast/France_24/hls_fr24/France_24-dfxp_10000_fra_SUBT=30000.m3u8",GROUP-ID="text",LANGUAGE="fr",NAME="French",DEFAULT=YES,AUTOSELECT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://simulcast-frmedias-p.ftven.fr/ZXhwPTE3NzUyNjkxODV+YWNsPSUyZip+aG1hYz1iNDljODUwMzkwYTI4MzhjOTA0ZTA1ZmI4MmU1OTM0MjA5YzAyZjRiYWEyZGI5NjVhZTNhNDkwNTE1MTJmZWRj/simulcast/France_24/hls_fr24/France_24-dfxp_10000_qsm_CAPT=30001.m3u8",GROUP-ID="text",LANGUAGE="qsm",NAME="Reserved for local use",AUTOSELECT=YES,CHARACTERISTICS="public.accessibility.describes-music-and-sound"
 #EXT-X-STREAM-INF:BANDWIDTH=5947580,AVERAGE-BANDWIDTH=5406892,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"
-https://simulcast-frmedias-p.ftven.fr/ZXhwPTE3NzUyNjU1ODN+YWNsPSUyZip+aG1hYz03MTYzYzkzYzU2NDA1MTZjN2RkMDA0ZmNlYmExYmJlM2RmZjMxN2M5ZjM1MTNjMjMyMjBmZTU0Y2FhNDk0Yjhj/simulcast/France_24/hls_fr24/France_24-avc1_4999936=10000.m3u8
+https://simulcast-frmedias-p.ftven.fr/ZXhwPTE3NzUyNjkxODV+YWNsPSUyZip+aG1hYz1iNDljODUwMzkwYTI4MzhjOTA0ZTA1ZmI4MmU1OTM0MjA5YzAyZjRiYWEyZGI5NjVhZTNhNDkwNTE1MTJmZWRj/simulcast/France_24/hls_fr24/France_24-avc1_4999936=10000.m3u8
 
-#Last refreshed on 03/04/2026 21:19:43 CEST.
+#Last refreshed on 03/04/2026 22:19:46 CEST.
