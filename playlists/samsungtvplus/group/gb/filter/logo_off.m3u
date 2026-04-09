@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 01/04/2026 06:25:53 CEST+0200
-#TOTAL: 221
+# Generated on: 09/04/2026 06:25:38 CEST+0200
+#TOTAL: 222
 
 #Crime (13)
 #EXTINF:-1 tvg-chno="851" tvg-id="GBBD3700001AB" tvg-country="GB" group-title="Crime",851. DATELINE 24/7
@@ -69,8 +69,6 @@ https://jmp2.uk/stvp-GBBA2200005ZA
 https://jmp2.uk/stvp-GB2700001R6
 #EXTINF:-1 tvg-chno="881" tvg-id="GB1400001E4" tvg-country="GB" group-title="Documentaries",881. CURIOSITY Now
 https://jmp2.uk/stvp-GB1400001E4
-#EXTINF:-1 tvg-chno="884" tvg-id="GB270001473" tvg-country="GB" group-title="Documentaries",884. PICK Monkey Rescue
-https://jmp2.uk/stvp-GB270001473
 #EXTINF:-1 tvg-chno="885" tvg-id="GBBD50000320" tvg-country="GB" group-title="Documentaries",885. Mystery TV
 https://jmp2.uk/stvp-GBBD50000320
 #EXTINF:-1 tvg-chno="887" tvg-id="GBBA33000362J" tvg-country="GB" group-title="Documentaries",887. Pluto TV Paranormal
@@ -103,6 +101,8 @@ https://jmp2.uk/stvp-GB4300003ZT
 https://jmp2.uk/stvp-GB4600004A9
 #EXTINF:-1 tvg-chno="2578" tvg-id="GB4600003RY" tvg-country="GB" group-title="Documentaries",2578. Chaos on Cam
 https://jmp2.uk/stvp-GB4600003RY
+#EXTINF:-1 tvg-chno="2635" tvg-id="GB1000002RV" tvg-country="GB" group-title="Documentaries",2635. 60 Days in Jail
+https://jmp2.uk/stvp-GB1000002RV
 
 #Entertainment (24)
 #EXTINF:-1 tvg-chno="891" tvg-id="GBBD3100003J5" tvg-country="GB" group-title="Entertainment",891. U&Laughs
@@ -296,7 +296,9 @@ https://jmp2.uk/stvp-GB300033HI
 #EXTINF:-1 tvg-chno="2272" tvg-id="GB17000088V" tvg-country="GB" group-title="Music",2272. NEW KPOP
 https://jmp2.uk/stvp-GB17000088V
 
-#Nature (12)
+#Nature (13)
+#EXTINF:-1 tvg-chno="884" tvg-id="GB270001473" tvg-country="GB" group-title="Nature",884. PICK Monkey Rescue
+https://jmp2.uk/stvp-GB270001473
 #EXTINF:-1 tvg-chno="975" tvg-id="GBBB5000002PL" tvg-country="GB" group-title="Nature",975. Wild Planet
 https://jmp2.uk/stvp-GBBB5000002PL
 #EXTINF:-1 tvg-chno="976" tvg-id="GBBC900015D3" tvg-country="GB" group-title="Nature",976. Adventure Earth
@@ -429,7 +431,7 @@ https://jmp2.uk/stvp-GB300036IM
 https://jmp2.uk/stvp-GB2000010ML
 #EXTINF:-1 tvg-chno="2080" tvg-id="GB330000144" tvg-country="GB" group-title="Sport",2080. RugbyPass TV
 https://jmp2.uk/stvp-GB330000144
-#EXTINF:-1 tvg-chno="2144" tvg-id="GB2200002CC" tvg-country="GB" group-title="Sport",2144. GFN Soccer TV
+#EXTINF:-1 tvg-chno="2144" tvg-id="GB2200002CC" tvg-country="GB" group-title="Sport",2144. GFN Football
 https://jmp2.uk/stvp-GB2200002CC
 #EXTINF:-1 tvg-chno="2322" tvg-id="GB3800009F0" tvg-country="GB" group-title="Sport",2322. FIFA+ Women
 https://jmp2.uk/stvp-GB3800009F0
@@ -451,8 +453,6 @@ https://jmp2.uk/stvp-GB900003KR
 https://jmp2.uk/stvp-GBAK3504525A
 #EXTINF:-1 tvg-chno="1028" tvg-id="GBBD1100013BJ" tvg-country="GB" group-title="TV Series",1028. Zee One
 https://jmp2.uk/stvp-GBBD1100013BJ
-#EXTINF:-1 tvg-chno="1029" tvg-id="GB3700007OZ" tvg-country="GB" group-title="TV Series",1029. &TV
-https://jmp2.uk/stvp-GB3700007OZ
 #EXTINF:-1 tvg-chno="1982" tvg-id="GB900005KI" tvg-country="GB" group-title="TV Series",1982. Demand Drama
 https://jmp2.uk/stvp-GB900005KI
 #EXTINF:-1 tvg-chno="2145" tvg-id="GB280000829" tvg-country="GB" group-title="TV Series",2145. Poldark
@@ -467,3 +467,5 @@ https://jmp2.uk/stvp-GB17000066A
 https://jmp2.uk/stvp-GBBD4100011RE
 #EXTINF:-1 tvg-chno="2487" tvg-id="GB4400001OO" tvg-country="GB" group-title="TV Series",2487. Series K: Heart
 https://jmp2.uk/stvp-GB4400001OO
+#EXTINF:-1 tvg-chno="2636" tvg-id="GB800002OP" tvg-country="GB" group-title="TV Series",2636. &TV
+https://jmp2.uk/stvp-GB800002OP
