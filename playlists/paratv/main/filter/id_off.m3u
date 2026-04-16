@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 16/04/2026 05:24:33 CEST+0200
-# Total Channels: 423
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (157), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 16/04/2026 06:26:35 CEST+0200
+# Total Channels: 422
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -118,12 +118,12 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-chno="78" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=vJ1bC7BKzJPoOV0JpmMRZCKszkmipZ4n5HFnItOV_VuzW57YZMVCe9JplzTAMrEcyLBdMv7nKQeJZxm_0QpiAO3t-Syyd4YXsMps78yqDv4
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=mRfoDQ5lfnWTaeuqjo_-ZyTOvcAKtffJKnWDvQHX64gIoV7mizhfh_vaPf34ETT0s0MqVzIH2cMQ9vOcmdyxWvInkJ5abD_1lLXjNwGLS-A
 #EXTINF:-1 tvg-chno="80" group-title="LEQUIPE.FR",80. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=Ag-QUF-KwPvaHSI-S2CFqbBAH8WbCh8fHGB84jQhE9WSs0c8hGOmwjaj47pRf5oCzj8qoUqDTkalB7EO06lY0xG_6y38aaKfO-m7NJxOqmI
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=IQpFdGRy890y5IbXJNlYZ4fn5vN-wOZO0ftrePpf9p8uYt9lv9suhuRYuGMXRapvwHCSnoeWybF9svWHNoOgAlRuUP35QrpYORbmwNisJhQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",85. My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=HzA-Qc3cOw5q0IwGUUhzjGKsp9tni7cor0czCWdjQfdFCdkHmRdpZMeGWatJuGOZgLIxguxDPzKeNa8_Xlj1EGi2vyXFDPJhnyGQRbYW6hw
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=aoHwpBOUBtxf7O2FVcARu3lkWqD_0bofWTBR0Q6Af5wRSUyaw4RkH3Niq8TdxkPmPic1CJsQ0v5WxQfNs2nXDKocK4Y_WGfsmc_sMmPuJ50
 
 #FRANCE.TV (42)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -392,7 +392,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://s1.dmcdn.net/u/1ERZ11f7ntdWn7Xle/60x60" tvg-country="FR" group-title="RADIO",602. Sud Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8
 
-#SAMSUNGTVPLUSFR (157)
+#SAMSUNGTVPLUSFR (156)
 #EXTINF:-1 tvg-chno="1000" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1000. BFM TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1 tvg-chno="1002" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1002. BFM 2 [1080p-samsungtvplus]
@@ -643,8 +643,6 @@ https://jmp2.uk/stvp-FR700002UP
 https://jmp2.uk/stvp-FR600001I2
 #EXTINF:-1 tvg-chno="1156" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR7000045E_20250408T021644SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1156. Yu-Gi-Oh! [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR7000045E
-#EXTINF:-1 tvg-chno="1157" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR500003PJ_20260414T003240SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1157. H2O & Friends [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FR500003PJ
 #EXTINF:-1 tvg-chno="1158" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR200016Y5_20250422T103213SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1158. L'Equipe [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 tvg-chno="1159" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100002RF_20251230T031034SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",1159. AFTER FOOT TV [1080p-samsungtvplus]
