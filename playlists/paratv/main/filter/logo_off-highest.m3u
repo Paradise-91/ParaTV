@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 17/04/2026 11:24:34 CEST+0200
-# Total Channels: 424
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (43), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 17/04/2026 12:24:34 CEST+0200
+# Total Channels: 423
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (42), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -118,16 +118,16 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (4)
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=xTR7VP0Evgg8Slk1k-s0p6epsa7_6KrkTbHyg0lEkW_fushzsjrXk6ValSdQ_gkO4l4lEkOGmnXbaqVBL-xf_Njvx5gP4IZBcEtoGRApRIU
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=-yE4HADJnRHaH5YRjII1ROngwvvgqG8mor81UyzuJv0N-ruX8TTkrklZ4gwC0p-1PzSq-iXK8CnGF6iHng9xxg1wgDyvLVWc-3NE_y7GgPM
 #EXTINF:-1 tvg-chno="79" tvg-id="k5TgcOKBUTM2KnqwBWC" group-title="LEQUIPE.FR",79. L'Équipe live 2
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=k96xqtfZiO_mdRAYADLf3Ioa0DGV4Vy9Oi__NS9t_BYmPBZfY9hn5urrHmSVPgL7Q2ezwXNuJmuupvvSeGh4mZxr6Lm90dZ4Gjuw663oCFE
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=mtZMMW-BoNFQTVNMCzUOWCKedISlfNjJOWi0op0JpmXR0-H__0vWvt2Q6SyfsEoXgCFa_7ldA9DPCz-bKVjmY6JI5d0QQZD0r2yoy8xwp2U
 #EXTINF:-1 tvg-chno="80" tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",80. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=LTlN1akEHcpbzO3NtBz7VX-Z90rTuYuibZ9yeG8m9sTMi7F7NXfHaD0huov4AzKvd72P0s_O1lj4JlR42W8dD--HR5s94qq1s7UbJ9LSNKg
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=iUfj8hwmsZy9gmk66nWXgB5avwXtR8NMcHiajmNtUg3GiGyKtEA2JOdv1ku9s589cq9_Q7gghbV60-goDcJ-YupTNdrrZUpSyVOrXx6O-IQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="85" epg-s="3629" tvg-country="FR" group-title="LEQUIPE.FR",85. My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=c9I3RgBR3Pm5FQh9mNb5oTOUVvFvHqVRFLIfkct8aZMS71ed3_Up2JClV5eMDufDWFVi5YfMuI-Zs9oFbYe7NzFkTWoWOXWe-6opsfiSMNc
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=60NYKbfx7JQpY3O6kTFV44II_SfgOvTW3Y8ax98ZzCsJOR69Rcs2eaZmw-6dijo6NAQ6pakSBA-g95rYUkv9tYV55-oA1ZqArh5Lw9Agf-k
 
-#FRANCE.TV (43)
+#FRANCE.TV (42)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="110" tvg-country="FR" group-title="FRANCE.TV",110. FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -254,9 +254,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="151" tvg-country="FR" group-title="FRANCE.TV",151. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/nouvelle-caledonie-1ere-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="152" tvg-country="FR" group-title="FRANCE.TV",152. RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/reunion-1ere-highest.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1 tvg-chno="300" tvg-country="FR" group-title="EQUIDIA",300. LE GRAND DIRECT [1080p-equidia.fr]
