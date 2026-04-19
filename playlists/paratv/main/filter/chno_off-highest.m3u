@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 19/04/2026 18:24:33 CEST+0200
-# Total Channels: 424
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (43), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 19/04/2026 19:24:35 CEST+0200
+# Total Channels: 423
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (42), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,16 +118,16 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (4)
 #EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Esj6Zcdu88xHVtkX7fQuyAv4IRWMK0ZL51zgRXfqxo37lKu0ThFQz84pYnfYYgxW6VQJpLI9U2QoAIr3BGroVHKTpGVwYriwjSQQSu6W2u4
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=wG19gHjqfZE-5n56FeuF2bCmVYwk_LYNbbRymot_HOtDEdCrQxXhVkULKeTSddv6VeG8dWpw7cqfQEDh3lQpQymZypgAZ80YA_H5tW7NDRE
 #EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=OGkJR9zDM2jxMKziUv0eUQHq6XbilT1KJGhogyKlwHVrhk5xPN-_sUrri2bks2ZkRGxzEJre1tIzBY_LpnEeSHeMay3apI4rtRQlOqOaUlo
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=QoKkbdEtKd8-dM3VA-XthMMObwYx5lM3I0GMya7HS6TGoXAqitbO_m9j8SAY_fkiULff4CS8e0uMZPKTvTdIAAtHROK-EmkAIF8tOpEgn8s
 #EXTINF:-1 tvg-id="k1kypsRZF9plQhqwBRS" group-title="LEQUIPE.FR",L'Équipe live 1
-https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=9mkepSWaZCIF1jAenQpx3HpWxtodYrjf6ijihgD0VU3ToFVQFORkwIwPy8GhLy1De7mgeyhdSDJgr34PBSM--mejoaoe8sBfLf7dykLmoeM
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=_WIrIuo4wNUaPU6Cz_9e1Bedk9gncLE8iRagzP6SJTQzuMADzGOhuR1Rz7uqGhukzz0RHleJkc8nHQPUN-kUOO7X0laXXDFjR_Aq0iMiIYs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 epg-s="3629" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" tvg-country="FR" group-title="LEQUIPE.FR",My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Mht-dM4vXAP-NnFkJ8-Td2ycod285alYa8pEb6MCiX6DBAU4ylhdxi0ddDZX34T0bG-4ZylOmSq1w-fdb82qAT5kxcnXijeabNKCW0z9wM8
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=CB20L3UhGMuz1g_wx81QAEMpd5NmRXtJHdEa2B4bW11ZOdp0F-XzA0Dg68HoSWS9n6tcYKVIMcGzIRmkPIrHuSw3hJyrhGej4MmqaLQjgM4
 
-#FRANCE.TV (43)
+#FRANCE.TV (42)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIDZWaa.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -251,9 +251,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4mQ8iG.png" tvg-country="FR" group-title="FRANCE.TV",OUTRE-MER EN CONTINU [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/playout-outre-mer-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4mQ8iG.png" tvg-country="FR" group-title="FRANCE.TV",MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/mayotte-1ere-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4mQ8iG.png" tvg-country="FR" group-title="FRANCE.TV",NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/nouvelle-caledonie-1ere-highest.m3u8
