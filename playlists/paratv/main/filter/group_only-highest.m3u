@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 23/04/2026 05:24:33 CEST+0200
-# Total Channels: 421
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (156), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 23/04/2026 06:28:36 CEST+0200
+# Total Channels: 422
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (157), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,12 +118,12 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=aOMcFEELcBgJ6V5xBXPOniX19zz119NsY5HCxrKhjlfGKmqHRBzukWJ-xgmc5NYYhsvypRHQAatR3JMsX7lfSh1rm5IaY5OOWK3xOOwRmtY
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=l4jOjy_RI5m6sA8zWkRZ3GBtNCcgyxNAlzfDtVMOHZhiQYt2vm2YZCE-9bGc0jpKKkF7KhUu4fE7RSv_okeCprU-85QmF4af3x9jlw3egHU
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=urjJltZkqaOsGDsMljv_iJahH_FkxTfZpbpa1pcI78RoIXhOh9GTVAxnilphXGJsIo2NJH4zXKkPCAkpFEcYCrM5tW2DkJGkyisDOhCiQeU
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=S1ap2XPkUGvlXyJ9z3p1gHGZsw4TELQEEMu8CGTxlzNrM-tNtxNnWRPSQcdPCNvaps9MIxvfsa9ylZ3TgOEfSazBhjD-k1j9TXJcQq9eqos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=aUO86T8t8Irut8ohwMvLT9idvgqL_gOaZUNSfjPzIi2kzUnTdS1LKKIzq2NM4AlQMG-pjX8OZBq_jGOHhD0-usPNQ3A2PCpk1daNa_AnLiA
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=YySweqjNPJ6z1oLlLIZ97XDItI8nlEPymxZPjE8U45ylgo2MKOnD-0f-eOAhaJ-zJ41a9bsOCki6iTgJ-V8ELgb8npSAl51F-k92O0J9xeU
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -389,7 +389,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 group-title="RADIO",Sud Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8
 
-#SAMSUNGTVPLUSFR (156)
+#SAMSUNGTVPLUSFR (157)
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",BFM TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",BFM 2 [1080p-samsungtvplus]
@@ -606,8 +606,6 @@ https://jmp2.uk/stvp-FRBD4100001DF
 https://jmp2.uk/stvp-FRBD3900005MB
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",MTV Catfish [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRAJ38000050Z
-#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Chefclub TV [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBB3900001PZ
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Ça Chauffe en Cuisine [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR34000032F
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Pluto TV Cuisine [1080p-samsungtvplus]
@@ -702,6 +700,10 @@ https://jmp2.uk/stvp-FR3100003KZ
 https://jmp2.uk/stvp-FR3100002MQ
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Skyrock [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR4000005KE
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",House of Creators [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR70000809
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Space Live [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR70000695
 
 #NETPLUS.TV (115)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
