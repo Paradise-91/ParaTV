@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 04/05/2026 05:24:32 CEST+0200
-# Total Channels: 422
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (157), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 04/05/2026 06:26:34 CEST+0200
+# Total Channels: 420
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (1), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (157), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -116,14 +116,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (3)
-#EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=2FXjouZx26W2ceAuoxaMlbGEmA5lp2mFz3MutZM4m1dKIM7wtSW-rr-ZW5YL4f8L8Mfy3YI03WmREHitfNWAq4UqUM3svQLMsI8kqcZEOY4
-#EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=EgdrfIrMBVvmJ-s-7L7uUxVGbAWfOnxmaUm_b91bCuj0Rx8M7i78XA2WcT2Mj35Ha_cmbyHKAOFuAMuzjjX0AqQnXvDrw-nFLSzcHBIVy58
+#LEQUIPE.FR (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=yi03JiS178ZSOLRtfPuLkJo4Y3ngIx73Uym2WICTKn32JFlNk98yUGY2OTz5Cbi39-sI77sVaxME750CEhSbAwkNqrNJhEKNmAt54dZwxuk
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=XjHeVl0r9zJuZgJWQut9nlkYdW9OqIbCx12T4X6GU6OWQKm1SNYQ9_xYY_e5NfF8DFTjiFU_H1BsCwWpgtKpSZn8LQVuhf5GgI8l38Ec2RM
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
