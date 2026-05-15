@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 15/05/2026 08:34:38 CEST+0200
-# Total Channels: 423
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (2), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 15/05/2026 09:34:42 CEST+0200
+# Total Channels: 424
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -116,11 +116,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/hDscsNi.png" tvg-country="FR" group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (2)
+#LEQUIPE.FR (3)
 #EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=8pX7zCZOH9SHpKphhpoy8lW-XbWqL40NxdAHWVpqziTXEvOJ0MoS67b_sih7XogPUOBaSB9xw0Ujim4uuJR-l-M7Ai2_iXcVZXv4fAAa6hU
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=cJKCzP6RWUgypbNyqZ2VVo_8jvpEylqwDKT4Taflb3tbuoqnsDoQXVWJOGaf1wcBk3qg7-QaOPkCsxAnWDIV0uEXd457cWSxFtzPs1ga300
 #EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=OWbVxgXOxazWOyyp2yLXvqEQJGgFzdiMrDWh5B5pu8XMqYbwJPs9sJ8rxXJIBnNhzDIXdzvAGPOUQ0BBOchMZWTf6DL5QA_nkUHxd4uyB6I
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=fbp3LlHswC9okAZaL-5JEoxnfTTKL-VvZBTZ7oqTlrfUaiQcvORHD9Jt6sjToC_oboT6JmlaPxvhFXSIJ_dMKHlu6ykR2NqztZRmvu5WnWw
+#EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",My new video title
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=h-Lg9EgTKPunoBHXwk-PjvSmof79i7V6gIY5iqIYMGxvNIw6pqWldsCCz4BqVj0ViVdDCwj6coeb3dDnCq6tC3gHtlm6nEhyUlxaqlcbbTg
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
