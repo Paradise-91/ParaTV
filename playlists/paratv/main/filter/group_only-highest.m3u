@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 18/05/2026 22:24:33 CEST+0200
-# Total Channels: 427
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (44), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 18/05/2026 23:24:33 CEST+0200
+# Total Channels: 424
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Nd14C2TwjQf7hp30U_nM0WBukMWBu_fFJvUhffgm6b6zk7ptawJkWZvLAU9J8C5NxF3VkCuGF0a6m8LYkZhzHLw46rBUU-d7WSUM0jGHGKk
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=bJXaXZTHVVesTSTGxrOABxFsdtqtONd63IeJLK5NL_m7ODVJlSdKpWNsmibFKg1jLnuOq1Gc850XuS6fEtlRlO8KBG3Hc-otLpXYKkfh_pE
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=C_pRv408m_X47uBx5ne81aJo3y8E9DAOOA9w9pIbviArJcZHD3cL_pNmcvheWsCv2y0o2CqfOhlEyblTI5M25qL3vBL5en4YRhAixqW8KfE
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=cA9dX-ZMak9l_Htj04x6Aa8-9dTHFkwDe_9rI89BzxNk_boGB15xKux7jQStIJTQh0yJ-enf8keQdEteB_Nnri20nlc1TQB8q2CqAg5OHmA
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Ke04ajUNnBnwwTRJQr9yiYm56CrZ1qRqizgT7klh95iTxxQFd6ivq_MsqUowRqq5JjSt5OPkjsozJL6oGPAcjHIEZbQiC11Aal8X1bewSnc
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=HvJh0xUBVIDeSKjJJzWGtywFiWH-sK7WETiEvVAauN2lLu8defSkV1_BkxIEUdlzBqJm7_-3Bgelwe9PcAyNh5K0u8RlKlLcyeYjFHJDJnY
 
-#FRANCE.TV (44)
+#FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -168,17 +168,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/m
 #EXTINF:-1 group-title="FRANCE.TV",TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/tv5-monde-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",COURT N°5 - QUALIFICATIONS JOUR 1 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n5-qualifications-jour-1-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : KAYLA DAY VS OCEANE DODIN [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/qualifications-1er-tour-kayla-day-vs-oceane-dodin-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/roland-garros-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",TV DU FESTIVAL [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/tv-du-festival-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 3 ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-alpes-highest.m3u8
