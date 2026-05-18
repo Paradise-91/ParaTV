@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 18/05/2026 20:24:47 CEST+0200
-# Total Channels: 438
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (55), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 18/05/2026 21:24:33 CEST+0200
+# Total Channels: 431
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (48), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=8t3kXvpN1IyFepu-9OMvD-2iG6TpGnzYDoAJ7QgOdCzM08k2SWPtReNk2Io029qK9aYRSJ2U_97bjJUyTcClaCBsV6eshwQ4igH8uIRnImY
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=EuAkWWpzde4HrOlBCAS3roOQD5UpJQ9Rq_KKLGv-kzhrkKDtoaeqIQaqpIMULvz_EJfXrN9Maw_Bh-KKDg4nrmiRfm9qZQqi8rGxaQzkS40
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=-IVGUmmSMBlFX5ibvTGcUbYAfkgMRE5Wl0mo3GPIyjifNWoQ7-aX6wKVWFgj_ODyD7-oNphMeeYNhFoVIOiCHpBvPU7izHZRw3eKnMzJB-o
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=_wcpcPF0M3EgJQXmdDVerBQKXTsaHyfvH_AOeVoLpzT_lrB8RMpL3_kKg0kdGK67IcL62UkSTcUiPmlrFoZDn0kFLHZ0Udsg_OSQFWZYq10
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=-erz_s-miO9QSTO0yXIfullmTfwZ8_B8JM6nyLRpN4ZreLuE6oWvCc1wCqoXF9kMmE7BCAlEgTdKTC_USlGstoSzOzkm1OdDDA5j-q_8G18
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Or60F-EWOlWBuJG8KGBsOtxB7UpkHaRxdDnpafjGKVL_2qr8uGV3UQBv1NmOLWCjRi1jlD7tNyUKkbAnHIvnklt-66klUa_fF2AUxPE0D-E
 
-#FRANCE.TV (55)
+#FRANCE.TV (48)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -168,9 +168,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mieux
 #EXTINF:-1 group-title="FRANCE.TV",TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv5-monde.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",COURT N°10 - QUALIFICATIONS JOUR 1 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n10-qualifications-jour-1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",COURT N°11 - QUALIFICATIONS JOUR 1 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n11-qualifications-jour-1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -180,26 +177,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court
 #EXTINF:-1 group-title="FRANCE.TV",COURT N°13 - QUALIFICATIONS JOUR 1 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n13-qualifications-jour-1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",COURT N°2 - QUALIFICATIONS JOUR 1 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n2-qualifications-jour-1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",COURT N°3 - QUALIFICATIONS JOUR 1 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n3-qualifications-jour-1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",COURT N°5 - QUALIFICATIONS JOUR 1 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n5-qualifications-jour-1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",COURT N°8 - QUALIFICATIONS JOUR 1 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n8-qualifications-jour-1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",COURT N°9 - QUALIFICATIONS JOUR 1 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n9-qualifications-jour-1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : CHARLES BROOM VS UGO BLANCHET [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/qualifications-1er-tour-charles-broom-vs-ugo-blanchet.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : JOAO LUCAS REIS DA SILVA VS CALVIN HEMERY [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/qualifications-1er-tour-joao-lucas-reis-da-silva-vs-calvin-hemery.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : KAYLA DAY VS OCEANE DODIN [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/qualifications-1er-tour-kayla-day-vs-oceane-dodin.m3u8
