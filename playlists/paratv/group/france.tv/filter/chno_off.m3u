@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 19/05/2026 13:24:35 CEST+0200
+# Generated on: 19/05/2026 16:24:56 CEST+0200
 
-#FRANCE.TV (57)
+#FRANCE.TV (56)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIDZWaa.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -81,14 +81,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",LES ENTRAÎNEMENTS SUR LE COURT PHILIPPE-CHATRIER [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/les-entraînements-sur-le-court-philippe-chatrier.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : GUIOMAR MARISTANY ZULETA DE REALES VS JULIE BELGRAVER [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/qualifications-1er-tour-guiomar-maristany-zuleta-de-reales-vs-julie-belgraver.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : LORENZO GIUSTINO VS KYRIAN JACQUET [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/qualifications-1er-tour-lorenzo-giustino-vs-kyrian-jacquet.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : JAIME FARIA VS GRIGOR DIMITROV [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/qualifications-1er-tour-jaime-faria-vs-grigor-dimitrov.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : SEAN CUENIN VS HUGO DELLIEN [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/qualifications-1er-tour-sean-cuenin-vs-hugo-dellien.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : PIERRE-HUGUES HERBERT VS KAICHI UCHIDA [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/qualifications-1er-tour-pierre-hugues-herbert-vs-kaichi-uchida.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpLgsLw.png" tvg-country="FR" group-title="FRANCE.TV",CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/roland-garros.m3u8
