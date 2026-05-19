@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 19/05/2026 20:24:34 CEST+0200
-# Total Channels: 439
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (56), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 19/05/2026 21:24:34 CEST+0200
+# Total Channels: 436
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (53), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=iQm5onXECBURGsHcr8pWALAvCObKEXnrBiHoIvkkltxVvNNS48zqDxtLlZdvpcjJowArQ1Nk15iudPULk8BhRfIY3A0RHfgDOs6S2e-RsQs
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=-VrGJPhllaCqLtG-BmT3f1VU_13xC89wHewRrNA9Xo7GhFo4eb82Unrv26zDITk-Q5dypD1XfYlIfRDxPV9Cv28vGuMBN67i4gzopTUKCU8
 #EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=N9AzS9sEFkQK_eDC4YLRKRJRX23TbJLislwzycpq4-t00UZpPJf4cjk5TGrawCFSwjX_agkGh8VhbiQKWIM6Qli7Yz9wIxgDa9uh-OBWuGs
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=np2mNW9FQFYjn0xsG1m8RRly1YvBpT-PxQCKDpnurWwpyd7D0bsyn1suaIWoPuF5R3xrnIX2NbZn46KAxd5RHMfvLRkSC1k39My49TkQ5NM
 #EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=BsDnxBjpKfJ-CjAbVI_j_5R4M0nzh_KGZOjnYbqdPG3Yrn59ifAmyTP4PRSwG4bKqD360_IGcJ7mi_OvLagpkHjFefvlrVN9m7o6P4qQ_z4
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=NJ2gaTyBn4Qo_xRw0bEhzS_prZXE9Vzgwpk9ntqiN5ACwVGaqU8xSn-XhVrDM2HQcOBe5m3FBLk4K6zz36HZsIb2xVC6T3R4yZ67abOPhKs
 
-#FRANCE.TV (56)
+#FRANCE.TV (53)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIDZWaa.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -186,26 +186,17 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°2 - QUALIFICATIONS JOUR 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n2-qualifications-jour-2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°3 - QUALIFICATIONS JOUR 2 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n3-qualifications-jour-2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°4 - QUALIFICATIONS JOUR 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n4-qualifications-jour-2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°5 - QUALIFICATIONS JOUR 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n5-qualifications-jour-2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°6 - QUALIFICATIONS JOUR 2 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n6-qualifications-jour-2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°8 - QUALIFICATIONS JOUR 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n8-qualifications-jour-2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°9 - QUALIFICATIONS JOUR 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n9-qualifications-jour-2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : HAROLD MAYOT VS TOMAS BARRIOS VERA [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/qualifications-1er-tour-harold-mayot-vs-tomas-barrios-vera.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",QUALIFICATIONS - 1ER TOUR : LUKA PAVLOVIC VS HARRY WENDELKEN [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/qualifications-1er-tour-luka-pavlovic-vs-harry-wendelken.m3u8
