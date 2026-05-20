@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 20/05/2026 18:25:00 CEST+0200
-# Total Channels: 440
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (57), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 20/05/2026 19:24:37 CEST+0200
+# Total Channels: 435
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (52), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=yWraL7eOrGzbE1p5JvzngR7kKBzKF83Hlu_IGm2IdE-nc7laNuQO5u-jFGcKvjCev-0dUEMr_MEXd4oEkSCA43w8S9WOavqkSX2YDJfbtGs
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=8O1vbpos0Kpinf2eH7rZzxwn3OHUD102m8yw7HiuBk6Fqof-pweBQ5ZIrVqndhSbEX5SGNLoUGesGhwGDOg9TJbcB1TEFaPyGweOx3Bf-rs
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=MAlxRc-4J1KiMmU9X5OpY87TtE7fIjkP44ZbT9jMnPlQIUjh6jXVXyEVS9HXx-iTObK3zjvijaUMj-xBeH9v4dsEtoTwCxkqRH32BMLn5jw
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=dicFze2rKs94yiLiooTaSPpr1yfltah_i6I02oSFkZ-nmuQ7pCZ-qPa9y9EP9Xji-NYwrYyiW1O8r1G5rWast7kiXnhLTx6T14RnROqWA3c
 #EXTINF:-1,My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=BH2sEmADhN26ve5_kN465KYcBACe04UhxhiDEQFQHJYyKAVxV1qCSwFP9cqhNI9vG0XhS21h78a1Q3H34c3WPKiHNxgukfOLPOTrbDu-_b4
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=EgkLIDVP2BldvQZqGi8Hqzr32XIQjgT02yv5QkxbSCrLfgK5pIFEBv8tNubRpP5gLnf48sYtE-wZ1V6gzRA2v4mOZjxVLWnMmXXVg0D0YJU
 
-#FRANCE.TV (57)
+#FRANCE.TV (52)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -168,8 +168,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/m
 #EXTINF:-1,TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/tv5-monde-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°10 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n10-qualifications-jour-3-highest.m3u8
+#EXTINF:-1,COURS N°14 - QUALIFICATIONS JOUR 3 [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/cours-n14-qualifications-jour-3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT N°11 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n11-qualifications-jour-3-highest.m3u8
@@ -177,23 +177,14 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/c
 #EXTINF:-1,COURT N°12 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n12-qualifications-jour-3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°2 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n2-qualifications-jour-3-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT N°3 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n3-qualifications-jour-3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT N°4 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n4-qualifications-jour-3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°5 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n5-qualifications-jour-3-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT N°6 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n6-qualifications-jour-3-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°7 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n7-qualifications-jour-3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT N°8 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n8-qualifications-jour-3-highest.m3u8
@@ -201,14 +192,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/c
 #EXTINF:-1,COURT N°9 - QUALIFICATIONS JOUR 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n9-qualifications-jour-3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,LES ENTRAÎNEMENTS SUR LE COURT PHILIPPE-CHATRIER [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/les-entraînements-sur-le-court-philippe-chatrier-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,QUALIFICATIONS - 2E TOUR : LUKA PAVLOVIC VS TOMAS BARRIOS VERA [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/qualifications-2e-tour-luka-pavlovic-vs-tomas-barrios-vera-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,QUALIFICATIONS - 2E TOUR : NERMAN FATIC VS KYRIAN JACQUET [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/qualifications-2e-tour-nerman-fatic-vs-kyrian-jacquet-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,QUALIFICATIONS - 2E TOUR : XINYU GAO VS HARMONY TAN [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/qualifications-2e-tour-xinyu-gao-vs-harmony-tan-highest.m3u8
