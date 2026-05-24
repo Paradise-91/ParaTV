@@ -1,11 +1,11 @@
 #EXTM3U
-# Generated on: 24/05/2026 17:24:34 CEST+0200
-# Total Channels: 434
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (51), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 24/05/2026 18:24:34 CEST+0200
+# Total Channels: 433
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (50), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ozy89FFtIkZL/res/9LZG1PNkHe1YHO-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pMEOwUeP7LLn/res/rLybDBtoC7rhA6x-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="France2.fr" epg-s="4" tvg-logo="https://i.imgur.com/EbEL7U8.png" tvg-country="FR" group-title="FRANCE",France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france2-highest.m3u8
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-id="Arte.fr" epg-s="111" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" tvg-country="FR" group-title="FRANCE",Arte [720p-arte.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/res/arte-highest.m3u8
 #EXTINF:-1 epg-s="111" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" tvg-country="FR" group-title="FRANCE",ARTE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ozy89FFtIkZL/res/61pPhmIytuVUu6Fp-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pMEOwUeP7LLn/res/Ha9QR7F1Dh9nkvv-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Arte.fr" epg-s="111" tvg-logo="https://i.imgur.com/GqWBPJY.png" tvg-country="FR" group-title="FRANCE",Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/arte-highest.m3u8
@@ -39,9 +39,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u
 #EXTINF:-1 tvg-id="PublicSenat2424.fr" epg-s="2013" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="FRANCE",Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" epg-s="195" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="FRANCE",TMC [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ozy89FFtIkZL/res/WJTIz4MbzEX3VIpo-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pMEOwUeP7LLn/res/ueyxAaqtfcz55EbP-highest.m3u8
 #EXTINF:-1 tvg-id="NT1.fr" epg-s="446" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="FRANCE",TFX [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ozy89FFtIkZL/res/pghMOsnfvVv8mo6-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pMEOwUeP7LLn/res/nSI7ATtAcfk2YceX-highest.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" epg-s="481" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="FRANCE",BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/
 #EXTINF:-1 tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" epg-s="112" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCI [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ozy89FFtIkZL/res/52TEa3BwyhdT50d-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pMEOwUeP7LLn/res/O5XIwGirob8BjJH-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="FranceInfo.fr" epg-s="2111" tvg-logo="https://i.imgur.com/hwaz7xG.png" tvg-country="FR" group-title="FRANCE",France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
@@ -61,11 +61,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/
 #EXTINF:-1 tvg-id="T18.fr" epg-s="4139" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" tvg-country="FR" group-title="FRANCE",T18 [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" epg-s="1404" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 Séries Films [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ozy89FFtIkZL/res/nr1YkgO8D6xF8XO-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pMEOwUeP7LLn/res/iFMdmAK4FLt8hcid-highest.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ozy89FFtIkZL/res/oICSW7CULyJyJDbl-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pMEOwUeP7LLn/res/6mhzrjXgmRc55x3B-highest.m3u8
 #EXTINF:-1 tvg-id="Numero23.fr" epg-s="1402" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC STORY [1080p-rmcbfmplay.com]
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" epg-s="1400" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Découverte [1080p-rmcbfmplay.com]
@@ -76,7 +76,7 @@ https://edge.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 #EXTINF:-1 tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-highest.m3u8
 #EXTINF:-1 tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE",LE FIGARO TV [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ozy89FFtIkZL/res/xIGJ4riaoZsSBm8-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pMEOwUeP7LLn/res/cHD0CE0XBzimMLU-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CanalPlus.fr" epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="FRANCE",CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/canalplusclair-hd-highest.m3u8
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=J1PqI9eplOSE1nNo_YO7fnandOxLXhE4fnekyv-H2qpeCKuzVVKC_DN1zcoDp9g0_ocbpGYGPb_FYgZNNg4S79t8rUTJaY6CxNtbtLr2Ajg
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=LojhbP084eNtmlyrCirY6Wpqca2aGUsLPaCU6zcI2csaJeVHbAlyyrfxCYMzVTXW-LJj2j_-3QLkTkH87whS836sHXQve0myDJCP3d2qJn0
 #EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=nvmB5Vzn3q8LxYRYyUtkHUOJ9-dUJgbPSJ6RquXMO49VKeec9jeLlThlyYV89484pHZNqDBQ4NTCqiSDc8Ep-BN-rEEgz2QNb0SCuh7PZvY
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=J0GzEDPZ6byUeRdTJAuuEp85GWffEp5fN_vLrXkjSAbU1-PDXpmf_oj2kCkspjvgynDWUcySiCVvYFK4u6IqHUKrViuO2V8lOuagFUT0sLI
 #EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=VUZwOJBFGv8C_Qa2iiqOqTWI-4s-h7ZLPZVNak77kbOa396LFdCWbtGKCd6OOPGPl7esuCaqpojNx2cxsJXwABvCxD8gbqDE-pDA8nln5G4
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=p5_aEKTnwK91-keJdhd0CixbB4lY5c1iHex6tkxKr82lvuzp9jNHoP4F9Xzt55uM-DyM1wNp004_xEoHbZTXZxfy4apbIOzxj-LVn_iZKvY
 
-#FRANCE.TV (51)
+#FRANCE.TV (50)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIDZWaa.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -168,11 +168,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b4ASOV2.png" tvg-country="FR" group-title="FRANCE.TV",TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/tv5-monde-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : BENJAMIN BONZI VS ALEXANDER ZVEREV [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-benjamin-bonzi-vs-alexander-zverev-highest.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : JOAO FONSECA VS LUKA PAVLOVIC [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-joao-fonseca-vs-luka-pavlovic-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : TITOUAN DROGUET VS JAKUB MENSIK [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-titouan-droguet-vs-jakub-mensik-highest.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : QUENTIN HALYS VS MATTIA BELLUCCI [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-quentin-halys-vs-mattia-bellucci-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°12 -  JOURNÉE 1 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n12-journée-1-highest.m3u8
@@ -185,9 +185,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°6 - JOURNÉE 1 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n6-journée-1-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°7 - JOURNÉE 1 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n7-journée-1-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°8 - JOURNÉE 1 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n8-journée-1-highest.m3u8
