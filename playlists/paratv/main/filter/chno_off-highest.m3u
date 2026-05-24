@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 24/05/2026 22:24:33 CEST+0200
-# Total Channels: 428
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (45), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 24/05/2026 23:24:33 CEST+0200
+# Total Channels: 426
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (43), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=9KxXFM_8kklQhXWZ74K8Sb5L_RLjxyQ4dYh1V7qRkYguWZk1Ls675nFZdFQFW8xUYCeWil5W2CCNuco0Fv1jL6G8nLcH83TAKTNzfNTc5rI
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Dzw0t4waY1kAtE4JZTaoXmUNmY1SVKDC1MrIl_xZYIWP8eoogpC0Oc_nMX9mXzLZNYhlzPi1fpmbmHQi3Jyku9zR4DRguYP0BYmd5yookGo
 #EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=GItm1AWPS6gGRjQRLLFdOsNHq63xgU_IBVBIjpzrMuEQOag4BadTmjbyLqDHmXj_u8439NBiNsX0jR7FyD3NzsWISqJCPWIvLHe0CCwE-5A
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=Vbp6sr8m2YNx-NAsTBhEOCW-cPCgUcTuqmMUiIDjg_t7UN4G-wCUjgOPzC41Adfko_gfZ7XKUPhlEnq-n4F9Ma1jtx5a3IL1Ey9r7sGJEN8
 #EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=eCxN9IMZZPwIWM2V4x3gv3SinyL_fwmExSSznUFfkGmgMkjjqSVD2LMKbAm6KCQESGBYStHMb5ebPqvqYYmLt9jI63WRu_nccCHIHjcjXt8
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=4-zLg0US4DiPS3hz0DyBr3bE1PInVOMb3smwsdkCzSYfxAEi_zldooUQkCKA0uBxwlq5D0yiTwdjLKr36poiwKWRUT2Y8DbYRitc2khTEls
 
-#FRANCE.TV (45)
+#FRANCE.TV (43)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIDZWaa.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -167,12 +167,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b4ASOV2.png" tvg-country="FR" group-title="FRANCE.TV",TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/tv5-monde-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : HUGO DELLIEN VS VALENTIN ROYER [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-hugo-dellien-vs-valentin-royer-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : KSENIA EFREMOVA VS SORANA CIRSTEA [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-ksenia-efremova-vs-sorana-cirstea-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : LORENZO SONEGO VS PIERRE-HUGUES HERBERT [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-lorenzo-sonego-vs-pierre-hugues-herbert-highest.m3u8
