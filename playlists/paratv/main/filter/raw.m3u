@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 26/05/2026 20:24:35 CEST+0200
-# Total Channels: 432
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (49), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 26/05/2026 21:24:34 CEST+0200
+# Total Channels: 427
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (44), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=TWNJMoEHgRbl8mrKiT6CQZn-Zklo4U-xRt-sy3eXk7m78OqVDsY5OatcOuh0I4OHcW0dFBxWPJzV8VLjDMBoqR8_41kM3W58EkiMAJl8kB0
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=deGzGZjDx1mnYKb3O2BwM1ek1kU_RaEJjHUwWa_Rj96Y4SPNz-wway8eFBeIMRNneiditnFIpkJ9qt4iLOPdCudjwWf2l8AYlBiDtjSj1gc
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=Bgxrl1bf6hjDyRMow-5YfHLOlc4dQW6mud7Wm5xJycNfAaHQ7AtbsooAhb-iYB8R6ZL6738QKEv2eLPXiukO08mtdPDBsV9KA8B47vNrmdw
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=FTcEgfITuSSQycEwm-P8usSyRGfz50QOlAe_p2qLkHoOHj6vqh25HVz9t5ZmlkXMHuOdGNdMoHTsYT7Zvp7rx9a0yMPVcM7dVF_gZflS7YA
 #EXTINF:-1,My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=thETsNEnQ4ifL5l7dRGdkNN2a5dG3QZIW3EnRZyPz6H3h38xMHEP1xoffsQAeQrOzoQrWEBaDWBZzOfisd5zNQvZbN1lcQw5ibd7OC28lts
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=TBFEmj9eP1USwsFENnN8k_G51dIvGTIyjeb402bH3IUziAMToZ4SvhTKK-Y0_u564n2oE6cSsmcDxpc-OZznmLnIKluRHuz7PbavjLP6LQU
 
-#FRANCE.TV (49)
+#FRANCE.TV (44)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -171,23 +171,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv5-m
 #EXTINF:-1,1ER TOUR : FELIX AUGER-ALIASSIME VS DANIEL ALTMAIER [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/1er-tour-felix-auger-aliassime-vs-daniel-altmaier.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°12 - JOURNÉE 3 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n12-journée-3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°13 - JOURNÉE 3 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n13-journée-3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°14 - JOURNÉE 3 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n14-journée-3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT N°6 - JOURNÉE 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n6-journée-3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°7 - JOURNÉE 3 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n7-journée-3.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°8 - JOURNÉE 3 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n8-journée-3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT SIMONNE-MATHIEU - JOURNÉE 3 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-simonne-mathieu-journée-3.m3u8
