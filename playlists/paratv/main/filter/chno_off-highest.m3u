@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 26/05/2026 18:24:52 CEST+0200
-# Total Channels: 439
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (55), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 26/05/2026 19:24:35 CEST+0200
+# Total Channels: 438
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (54), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,15 +118,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (4)
 #EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=pZb3LClZvRowQg4GT6wxrtrVrH_YR1y42oq-_cT-weVaSyGYw9oE7s-YQWp3Pd3wvYgXJTADxgGcXBXs4ttxVW5Gu9T5EmFFS-4mZoXFT7E
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=s-iebm8qwyn8ek5ZX1-9go4FW8wa8_btaWGjMG4VNiWOxFnlXfec7a6TNHAPKcM-GMWqeanDp5iMOZIMEUciBmtpCfBNhE60t3ljZygiFDs
 #EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=T41bKDXpHz-UKk5oT7xk6xj4xhevCJDHcmKaPGfDGoACnYRzKVMPAmn41vrdPB7IrpSHwoqGhhnV84MwzJ4YoukpzT6cgkalwxEKBg-t01Q
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=0oL4Nt3KVrflfEv51AnwWKPNOQGxsHZ3C148OffCuekzDBeXqO3VJd-1bjQzZ1Q_a37Y1tlDgyptWF_WKjkqy7o66rfKX8gB6C2Hf2hilDg
 #EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=yM_usudA1vQOx0cuZkZklHjL4oxGar2BBOyMpGcEOCuPhYcGnD6d3epO_qDQQiXqfwC1lxe4Irj6DGMmTMzbhxMh9IZPYyZG55ljmUXlP6E
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=PXXT9gUpZthSHvq6sEqZgrri5zPp8k0eAwql0ibnC52Yn2pABnHK5NT78f5Lml2qHr-UJnmgEY9m6Oc_UYI-bn_tAsepoGAW3B095t_vQBA
 #EXTINF:-1 tvg-id="k5TgcOKBUTM2KnqwBWC" group-title="LEQUIPE.FR",L'Équipe live 2
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=G7CjEn71p_moHKs1CNH2G0SNqtYrDsdJlSx2qRd_PC_UVcykL33BnVUgrHWs24Pm0LlFNxjnqgtz3FrFy8CmnFAdHs2caLrgZfB6lBkH21U
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=v55IAlDlDI4PjG2-lO3N2bpA-C2fpFC5vFiNE-v658xuC2rZXhYr74qCw-NRgQgbQi4caNWnMK3iVjwv6atWnHuuWMQpYvLE_xkhgAp7Cls
 
-#FRANCE.TV (55)
+#FRANCE.TV (54)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIDZWaa.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -176,11 +176,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : ANHELINA KALININA VS DIANE PARRY [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-anhelina-kalinina-vs-diane-parry-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : ANNA KALINSKAYA VS LOIS BOISSON [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-anna-kalinskaya-vs-lois-boisson-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : VIT KOPRIVA VS CORENTIN MOUTET [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-vit-kopriva-vs-corentin-moutet-highest.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",1ER TOUR : FELIX AUGER-ALIASSIME VS DANIEL ALTMAIER [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/1er-tour-felix-auger-aliassime-vs-daniel-altmaier-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°10 - JOURNÉE 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n10-journée-3-highest.m3u8
@@ -193,9 +190,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°13 - JOURNÉE 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n13-journée-3-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°4 - JOURNÉE 3 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n4-journée-3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°5 - JOURNÉE 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n5-journée-3-highest.m3u8
@@ -211,6 +205,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°9 - JOURNÉE 3 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n9-journée-3-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT SIMONNE-MATHIEU - JOURNÉE 3 [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-simonne-mathieu-journée-3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpLgsLw.png" tvg-country="FR" group-title="FRANCE.TV",CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/roland-garros-highest.m3u8
