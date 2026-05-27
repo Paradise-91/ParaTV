@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 27/05/2026 13:24:35 CEST+0200
+# Generated on: 27/05/2026 16:24:37 CEST+0200
 
-#FRANCE.TV (56)
+#FRANCE.TV (55)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -45,17 +45,14 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mieux
 #EXTINF:-1 group-title="FRANCE.TV",TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv5-monde.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",2E TOUR : ALEJANDRO DAVIDOVICH FOKINA VS THIAGO AGUSTIN TIRANTE [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/2e-tour-alejandro-davidovich-fokina-vs-thiago-agustin-tirante.m3u8
+#EXTINF:-1 group-title="FRANCE.TV",2E TOUR : MARTA KOSTYUK VS KATIE VOLYNETS [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/2e-tour-marta-kostyuk-vs-katie-volynets.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",2E TOUR : CAMILO UGO CARABELLI VS ANDREY RUBLEV [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/2e-tour-camilo-ugo-carabelli-vs-andrey-rublev.m3u8
+#EXTINF:-1 group-title="FRANCE.TV",2E TOUR : VALENTIN ROYER VS NOVAK DJOKOVIC [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/2e-tour-valentin-royer-vs-novak-djokovic.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",2E TOUR : KAREN KHACHANOV VS MARCO TRUNGELLITI [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/2e-tour-karen-khachanov-vs-marco-trungelliti.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",2E TOUR : SARA BEJLEK VS IGA SWIATEK [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/2e-tour-sara-bejlek-vs-iga-swiatek.m3u8
+#EXTINF:-1 group-title="FRANCE.TV",2E TOUR : YULIIA STARODUBTSEVA VS  ELENA RYBAKINA [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/2e-tour-yuliia-starodubtseva-vs-elena-rybakina.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",COURT N°10 - JOURNÉE 4 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n10-journée-4.m3u8
