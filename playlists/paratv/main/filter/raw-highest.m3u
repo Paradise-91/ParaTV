@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 27/05/2026 18:24:39 CEST+0200
-# Total Channels: 438
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (55), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 27/05/2026 19:24:37 CEST+0200
+# Total Channels: 436
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (53), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=BvZ3AJt7sSP_cKOBan2_jzpyXCaVm1VVFLyAgdYs-smXZoMsHqJOxcX1Agen2iSfqgLm24uhpoVKUGVjdXDJ2ve7CCQbE2sdL2MJUwENHZc
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Ntywc96F2eEjTTH-xjLZX5F_NnfJ43h5hzaXm7P0fS9rfev1PGwvNnRvzCNuer7gcWJ-Zt0R2ZTafaqieel6ENtGpu8ogalx_hppaN2_lec
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=rSKLGBUTwUURKQIA74k0sN0r1AZ9Mds6ERN3kKWe7XLvzRUzwM5bh1KCsx8JTyt91gCCNtxM-03dC2Tt2qc-7Fp6_bCznBb-RFfFiUtoZ4U
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=RYNwsiAH2UXrBYSMAA-ANCHsh6OV4wrTCEYXbhfAKEkxQET8sBBc7WfdgnC0AiHdEbNcMP7EApu5E8-zNO9O-XQpX5EMF4NNqUFMCOQgwRI
 #EXTINF:-1,My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=_Ol1JTeyi1M4bAK4U619WgSYbPET4IMwZPzc9l1maWG7xv2SGXgYIPbHdm0VGBNP8a00Yi8OHW8VNdArwfXMrrwUDVz3vn-fDYlYIcOblyA
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=zGHYTAQyZcyoij0sfb5dvzzaFC-dMBhjNFoaRMTUe-MuhhUQVEZQfLbqkIX2fuZKaj0L7hGgujbULz3avQVax8d_K9ySg0fqrRy1MeAi1b0
 
-#FRANCE.TV (55)
+#FRANCE.TV (53)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -180,9 +180,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/2
 #EXTINF:-1,2E TOUR : VALENTIN ROYER VS NOVAK DJOKOVIC [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/2e-tour-valentin-royer-vs-novak-djokovic-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°10 - JOURNÉE 4 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n10-journée-4-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT N°11 - JOURNÉE 4 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n11-journée-4-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -191,9 +188,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT N°13 - JOURNÉE 4 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n13-journée-4-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°3 - JOURNÉE 4 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n3-journée-4-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT N°5 - JOURNÉE 4 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n5-journée-4-highest.m3u8
