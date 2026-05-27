@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 27/05/2026 22:24:36 CEST+0200
-# Total Channels: 427
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (44), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 27/05/2026 23:24:33 CEST+0200
+# Total Channels: 424
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=NUGc1AMTrLifpvWe81IughStpKGsoijfv5bHLZBf0_3HES8Dkw7H3lA1sWiaQ4rmfR-jZ7oxTvwSb6nX-2I9QIYU0X1m1eZs6sYMXCPToIc
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=PhW55-5tGiPdKG2BWlrTZ3Xn7v8PgM-OV9FdQFiqe1zk9R9_sXVWmiSptelGHAKb9_ViqxlaUn3hmavvsTIlg0x8QMm_WIfot8rq4qON91I
 #EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=2ZTlYbQ071Xx43G29V3wY5u3-0yGDYX-L0pHmA62jOrPOhP8T3SmOeAlVzxENX9YaqGgYfHa3HO3374AGPgvPNq9r1eyqNUjSEbBMZnDjWU
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=_jP9evzs6EO6enK7fyzgkzmZrs40HmK3gqvGsr7ZeIo-mWkcV-pGC9WvuHjENCHv9rXkJYNUbrCOCfL4ij3PMRqIpV3PYNd5lXjLHy7eH1c
 #EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=GOSX95cDOJnsedGciryYgMYWkrAjlJg6zUT9LQuBuavO0Wtmy73Nm5xVHP2lTzIlXTUgopBRP4vRuyS5RYPg8n4-6ZUc-geH5PuJYfgemPo
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=f1I7CcRHcVwhR_K2h8ELkwy7rxQIUBHpW5VLonWxe6hgG1V_obppifx-0HMqEtlx4y4yQ5Zz_dmlzth7kgZMMu8-u-fzYpkrE1YQoW_Bjgc
 
-#FRANCE.TV (44)
+#FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIDZWaa.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -167,15 +167,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b4ASOV2.png" tvg-country="FR" group-title="FRANCE.TV",TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/tv5-monde-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",2E TOUR : CASPER RUUD VS HAMAD MEDJEDOVIC [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/2e-tour-casper-ruud-vs-hamad-medjedovic-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",2E TOUR : KAMILLA RAKHIMOVA VS KAROLINA MUCHOVA [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/2e-tour-kamilla-rakhimova-vs-karolina-muchova-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-country="FR" group-title="FRANCE.TV",COURT N°7 - JOURNÉE 4 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n7-journée-4-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpLgsLw.png" tvg-country="FR" group-title="FRANCE.TV",CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/roland-garros-highest.m3u8
