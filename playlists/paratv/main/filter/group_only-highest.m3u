@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 28/05/2026 18:24:34 CEST+0200
-# Total Channels: 439
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (55), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 28/05/2026 19:24:35 CEST+0200
+# Total Channels: 438
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (54), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,15 +118,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (4)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=pYBgbrU4lpvDu54f7nhUll-ucm-hkKw4CbXQ9ld7BThg7UZZ2qeDRLAeae3iRh_UDlqi-eDSLZRX_1dHdiOt2rDsVoLv59hNYx5R0SDCito
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=XVlKWW9pSa3phPJvbNtPl0yZBAnMktriOSgw41b22zhCxVzkz19MMeOVNSwFOeCdKUom4qDk2iQgOvCcZVCG-S1fGBFZSHKS4W_9y-BW3Us
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=QvrpkyOVkyLUm--kI8b_VXSycjW5_7A5GwbRRjIOId-M9gI3rILgIrKvFTHa9CXYV4smiuv8fQKuTjT_SsVSYi95YGOUKw7HN6oX3UHYHtY
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=IvjAAXVKhzFelYcyjP_hY0gf9x147Vke8qPQucLqCHTwTgYxKzc9719pgQJDAc9HWS4iIkFCPJ2i0uIJqTbowyfWwffHSffflwA3B1oWo0M
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Jj4gBXcl7rgiS7nKxU3CKkyuZxx_zezTj82xbnr1zHUEeJvNv7c_HuMjlEhFuIEeZn7MPKOZSxANcHVH33CXYktgNBRKEowIl5606QftBW4
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=FXv3v8d3jmA8jAuhxylmEjYPFrJEGKDri6IMQ8vzZQ6TJ_FCnqW_vsdZcpl0eMAy90s4uAP7V9GFXw5Xuoyyxhj79_4XnJpmOmmzQAo4EbM
 #EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live 2
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=BRPIZCAA4hxWNk8xA7_T21347HDgPbyXiIc7V1wSdDMd2IQ3rMjyZYdB0gyEK-ph9we0zhmMXNTieMfU6HyDewC2DXrSiRM9vKTGVmCgMfs
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=2S7DCubX58diMdZLiQGyxHVvVLTgYy0sTXOEZMjZrGCFRcORhHf0lpztwmOrIwYoXLZj5Vb0jdLZZuB-Z_-xUD1_mqqlu1Hf8DAFuRMoZLo
 
-#FRANCE.TV (55)
+#FRANCE.TV (54)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -176,6 +176,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/2
 #EXTINF:-1 group-title="FRANCE.TV",2E TOUR : COCO GAUFF VS MAYAR SHERIF [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/2e-tour-coco-gauff-vs-mayar-sherif-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="FRANCE.TV",2E TOUR : LUCA VAN ASSCHE VS BRANDON NAKASHIMA [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/2e-tour-luca-van-assche-vs-brandon-nakashima-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",COURT N°10 - JOURNÉE 5 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n10-journée-5-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -190,12 +193,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",COURT N°14 - JOURNÉE 5 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n14-journée-5-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",COURT N°2 - JOURNÉE 5 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n2-journée-5-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",COURT N°3 - JOURNÉE 5 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n3-journée-5-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",COURT N°5 - JOURNÉE 5 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n5-journée-5-highest.m3u8
