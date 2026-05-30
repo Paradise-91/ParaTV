@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 30/05/2026 20:24:32 CEST+0200
-# Total Channels: 430
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (47), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 30/05/2026 21:24:33 CEST+0200
+# Total Channels: 429
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (46), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=QavE79nPCz_ZwJlbMT0R--OKCr57NVP-yCTIzgX3uLWph2uj_TUD5tWoelM1O14VkoWTM5KeyrzRi0wJ-SRmKtDzq6oWmRuebtCABP40eDY
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=iQZVLH8Xj8N9Rzi327F1Ha-_IbpVJsUmvYWkS60s4hBU57-UcX2YLKvEdXT2Dby-cacnJG16S0PknrWn1VuYSqpcx25WMRXGx_FpcW2hMXU
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=8NCXs5sL6sOq5EIGg5L5tYPDoGl2qfsCjRgTLjkpTZ-wxxa2gKxUxLLbVzGhJGYlLQiBr87mnh3CdMWEPyqtTK2HkckAVUHUK9ooSECudIA
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=e6uZVrwOjZ0O05TmjggAHOJPS5k9rtIFKnxP4X7OVsSeSs38A-SsuYB7xsYJ58SbI_1g57EMiNLT7V_FOe9oFwoE-ayHw8TGEpc5lIZZLKs
 #EXTINF:-1,My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=utx7n_W0EE9HipaPpDt5S6SLZ_pB3AEM2cdm6uAbFxJh6xKmMfvdEcV_mB43GP75CVSHa8XemTt5ED0HbCAr0MjHrOpqrFtj3pSeEtdk88s
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=ah_fpic9YoItND3w2ANME4X9gmc6E9FDrnvRen3B6jOedNMEfFN6mcz6T5-vd2XMULUTL-a--0YKDJ-rMtT0KkF2hLKvx1tHRJrVKVE5rPU
 
-#FRANCE.TV (47)
+#FRANCE.TV (46)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -182,9 +182,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,COURT N°7 - JOURNÉE 7 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n7-journée-7-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1,COURT N°9 - JOURNÉE 7 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n9-journée-7-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1,CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/roland-garros-highest.m3u8
