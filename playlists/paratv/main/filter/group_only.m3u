@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 01/06/2026 13:24:35 CEST+0200
-# Total Channels: 438
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (56), LEQUIPE.FR (2), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 01/06/2026 14:24:36 CEST+0200
+# Total Channels: 439
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (56), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -116,11 +116,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (2)
+#LEQUIPE.FR (3)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=yyfjDZA1c5xQmSpQQaBGw7hj-I15UIlMlHS6A4SMgUGb5XWja3ZtjV9E4OJ1iwUna1Fhj0xxNUn0Mucs1HHoVtZpHti_4HWD1taexUYeSX4
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=4m1fIWwFm50vp57HW2nKh8Jw4MYZsEjKyvHnzZHDTH_jQaiuUqg9vuwrkPNSFBEp6HBJ-NGco71GTfQxtHK-J61naPzY63VYXbVI1nZmsLk
+#EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live 3
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=pr6yOGr3CU58B3zttcnE5nun3FUmDzMzIKh-CvXVw1C5BV0UipNOhe7unVUQ3-SauT4hhLD8PTTbSZhOoG0kaIfYrQiAtF_WFlK600pmhUQ
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=xES0NzXNE9ON08gkR4WMCJ-kNneQEXx4ojhSvjO3IpqVMwdAsDF8VfN7QnAxfD9-4ppJM7452S6jorhG7VVQPVNghAZGsXAyJash3kYJNxI
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=eg6FnnuiaGvv3rhAYfDWTiflXmF09657CsW0ztffX4GFerycAp6rX1ZaQT3B-UDu278M4AUX9mLtqOFnt4f4NdhcUxC9UjKnWwp9mLiXIhg
 
 #FRANCE.TV (56)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
