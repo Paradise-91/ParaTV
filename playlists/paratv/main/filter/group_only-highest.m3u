@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 01/06/2026 22:24:34 CEST+0200
-# Total Channels: 427
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (44), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 01/06/2026 23:24:34 CEST+0200
+# Total Channels: 425
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,13 +118,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=gr5wo75yo9J6zM4EVZBKKna4ArJoXZbn_T4qseoYLLqNjCkcU8evkMR9gKIE7sEevHcfvQ3bl0-FVz3JpLG0M-LJ4qOL8EHMQJ2ziup21_o
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=b4sf6JduQDmhOQEnBIB2T7DSd-3GCNNiGmHi8Kz8nmdqug8R2i_W-hI5HqYLyu9DrUPWMJZGhLNa0VWEcI5EoqybLsuPHUdLhSHzWToT_ms
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=C2cbG7oSDVyUJP9PnVm77C7KYBlS0DLu5oY3orMpcAGqGDhmjhH6xBsW4kofu-Uej6R-Iw7OpSaKg6lwmjUZEFMIE4trNLs2VwE3AkXpaQc
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=IrKeqiTWcaUqOqMYoSgW0gdQbuDDVEjY1BxCTB53_EB11hppUiYn79BWaSoEeV96-I7KJf7BdLsDnjLxKvu1MenghSaFdMsIbYcVvQRyFuk
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=tO2Rc721Lckvv6ae7oQUQMsyVsWaFSGYF-0a4BMNJhM0ktUHLT6tGjDGf_CSKy42tv_s-KeylkxERGLeXqeVHY3wTERMEiB4OJcBQVO2Eag
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=2Iox5WI5G15xsCrmxEQLPftQN1N1vLHiCpwBVN6WxiHYZo6er_e5Bm1Hg7sM87GmR7QFoSmTWp8kdEqk0WZXpiIwK6vkXRRbTcbgFspJmuw
 
-#FRANCE.TV (44)
+#FRANCE.TV (42)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -170,12 +170,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/t
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",1/8 DE FINALE : FRANCES TIAFOE VS MATTEO ARNALDI [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/18-de-finale-frances-tiafoe-vs-matteo-arnaldi-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",COURT N°14 - JOURNÉE 9 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n14-journée-9-highest.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",COURT N°7 - JOURNÉE 9 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/court-n7-journée-9-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/roland-garros-highest.m3u8
