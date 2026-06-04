@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 04/06/2026 05:24:32 CEST+0200
-# Total Channels: 424
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (159), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 04/06/2026 06:28:36 CEST+0200
+# Total Channels: 433
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (168), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,11 +118,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=lLdsYA_HJWEqE4M3vOh4ImNIZNPRp0kzFaDPoDIAS7q1bSdRGFrWh-L3-ESN-liXIUdXojng5Bm5x_S902BSpmq0I77pbuhiM6IkorhIStM
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=dlftZ_izHu0h8R0h7eBqIHYem4VNBrpDpk53o9gS3bDgLW_TsZYqeS94b3UN6C8qLqCqjMKKpeEmEW87xwX2ZTFpFikg-AcQzKZvQBK-Zjg
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=daZrTicwlHMVw65Aa4n38JCyi3tMXhJYlU6S_K_qnKePH024Er5LlhRnSNxw9k60E2fiAqhfJl3E09nhXmJbl0ij5nL-RdwzrgxuE5M4STs
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=laz-vJo1EPw24L27G3A-1ls40tl2FCVHWxdaKkR_6aBhhvHx_osoRPRIcr-5Bj_AHqsArTZ6H02TsfXLMjXIVwVQmTJkcMFr3iVKmcVVXsA
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=-gXdBLKzSjTJb3Uk3LHysUfmCDyPRzwRzohq0ab0Dm5tSRHLZ-c9ma7PFQiPky9ElxpDnkvzb2opa9V4ZUB1JjHFOBtsPVnqTk9SBz-n0iI
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=gbcXY8ElVvLupsKbzSpJfwL-eg8ISN0tk0RsdW4vFazeEZz8iK5cFrEw37_Eq8pCLPLH5UShgRD5elqsvrdL42iN2AZpAH1vgqcVSNP64hc
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -388,7 +388,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 group-title="RADIO",Sud Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8
 
-#SAMSUNGTVPLUSFR (159)
+#SAMSUNGTVPLUSFR (168)
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",BFM TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",BFM 2 [1080p-samsungtvplus]
@@ -413,7 +413,7 @@ https://jmp2.uk/stvp-FR1400001VU
 https://jmp2.uk/stvp-FRBD41000051L
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Top Films - Rakuten TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR2600007CB
-#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Family Club [1080p-samsungtvplus]
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Action Club [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD2300001UQ
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Box Office Thriller [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR3700001AG
@@ -481,7 +481,7 @@ https://jmp2.uk/stvp-FRBC900003KP
 https://jmp2.uk/stvp-FRBD1900006NA
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Ardivision [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD300000170
-#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Popcorn [1080p-samsungtvplus]
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",750g [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD4100002R7
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Juste Pour Rire [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBA3300035UK
@@ -519,8 +519,6 @@ https://jmp2.uk/stvp-FRBD39000064E
 https://jmp2.uk/stvp-FR1200001N2
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",L'effet papillon [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD11000038N
-#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Tahiti TV [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBB49000059E
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",BBC Earth [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR3200001NQ
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",NatureTime [1080p-samsungtvplus]
@@ -567,8 +565,6 @@ https://jmp2.uk/stvp-FR300003ZB
 https://jmp2.uk/stvp-FR2400001TP
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Drive TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD3600001BQ
-#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Motor Racing [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBD4100013LN
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",World Poker Tour [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD2900001M3
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Plus belle la vie [1080p-samsungtvplus]
@@ -707,6 +703,28 @@ https://jmp2.uk/stvp-FR70000695
 https://jmp2.uk/stvp-FR700007HY
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",H2O & Friends [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR1200003GR
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Grjngo - Films De Western [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR900003DP
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Docs & enquêtes by Society+ [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR15000010E
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Metallica Takeover [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR7000053L
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Cozy Vibes [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR19000010J
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Storm Vibes [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR1900002I8
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Rainy Day Vibes [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR1800007VM
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Spring Vibes [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR1800010TC
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Island Vibes [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR1800008DB
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Ocean Vibes [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR1800009U0
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",So Foot+ [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR12000040D
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Motor Racing [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR900002B4
 
 #NETPLUS.TV (115)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36

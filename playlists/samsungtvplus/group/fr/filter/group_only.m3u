@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 07/05/2026 06:26:02 CEST+0200
-#TOTAL: 159
+# Generated on: 04/06/2026 06:26:26 CEST+0200
+#TOTAL: 168
 
 #Actualités (13)
 #EXTINF:-1 group-title="Actualités",BFM TV
@@ -40,10 +40,10 @@ https://jmp2.uk/stvp-FRBD41000051L
 #EXTINF:-1 group-title="Anime",Yu-Gi-Oh!
 https://jmp2.uk/stvp-FR7000045E
 
-#Cinéma (27)
+#Cinéma (28)
 #EXTINF:-1 group-title="Cinéma",Top Films - Rakuten TV
 https://jmp2.uk/stvp-FR2600007CB
-#EXTINF:-1 group-title="Cinéma",Family Club
+#EXTINF:-1 group-title="Cinéma",Action Club
 https://jmp2.uk/stvp-FRBD2300001UQ
 #EXTINF:-1 group-title="Cinéma",Box Office Thriller
 https://jmp2.uk/stvp-FR3700001AG
@@ -95,6 +95,8 @@ https://jmp2.uk/stvp-FR4000002JN
 https://jmp2.uk/stvp-FR4100001D0
 #EXTINF:-1 group-title="Cinéma",Moviesphere
 https://jmp2.uk/stvp-FR42000023H
+#EXTINF:-1 group-title="Cinéma",Grjngo - Films De Western
+https://jmp2.uk/stvp-FR900003DP
 
 #Crime (9)
 #EXTINF:-1 group-title="Crime",Faites entrer l'accusé
@@ -116,7 +118,7 @@ https://jmp2.uk/stvp-FR600002ZR
 #EXTINF:-1 group-title="Crime",Alerte Cobra
 https://jmp2.uk/stvp-FR3600007GW
 
-#Divertissement (28)
+#Divertissement (27)
 #EXTINF:-1 group-title="Divertissement",RMC Wow
 https://jmp2.uk/stvp-FR300001M1
 #EXTINF:-1 group-title="Divertissement",RMC MYSTERE
@@ -137,8 +139,6 @@ https://jmp2.uk/stvp-FRBC900003KP
 https://jmp2.uk/stvp-FRBD1900006NA
 #EXTINF:-1 group-title="Divertissement",Ardivision
 https://jmp2.uk/stvp-FRBD300000170
-#EXTINF:-1 group-title="Divertissement",Popcorn
-https://jmp2.uk/stvp-FRBD4100002R7
 #EXTINF:-1 group-title="Divertissement",Juste Pour Rire
 https://jmp2.uk/stvp-FRBA3300035UK
 #EXTINF:-1 group-title="Divertissement",FailArmy
@@ -191,8 +191,6 @@ https://jmp2.uk/stvp-FR300004J5
 https://jmp2.uk/stvp-FR1200001N2
 #EXTINF:-1 group-title="Documentaires",L'effet papillon
 https://jmp2.uk/stvp-FRBD11000038N
-#EXTINF:-1 group-title="Documentaires",Tahiti TV
-https://jmp2.uk/stvp-FRBB49000059E
 #EXTINF:-1 group-title="Documentaires",BBC Earth
 https://jmp2.uk/stvp-FR3200001NQ
 #EXTINF:-1 group-title="Documentaires",NatureTime
@@ -209,6 +207,8 @@ https://jmp2.uk/stvp-FR400000413
 https://jmp2.uk/stvp-FR3900003Y7
 #EXTINF:-1 group-title="Documentaires",Au coeur du danger
 https://jmp2.uk/stvp-FR3900002FW
+#EXTINF:-1 group-title="Documentaires",Docs & enquêtes by Society+
+https://jmp2.uk/stvp-FR15000010E
 
 #Jeunesse (11)
 #EXTINF:-1 group-title="Jeunesse",Pocoyo
@@ -234,27 +234,41 @@ https://jmp2.uk/stvp-FR3400004L5
 #EXTINF:-1 group-title="Jeunesse",Masha et Michka
 https://jmp2.uk/stvp-FR38000024W
 
-#Musique (9)
-#EXTINF:-1 group-title="Musique",Vevo Pop
+#Musique et ambiance (16)
+#EXTINF:-1 group-title="Musique et ambiance",Vevo Pop
 https://jmp2.uk/stvp-FRBC2100001YY
-#EXTINF:-1 group-title="Musique",Vevo Hip-Hop & R&B
+#EXTINF:-1 group-title="Musique et ambiance",Vevo Hip-Hop & R&B
 https://jmp2.uk/stvp-FRBC2100002JA
-#EXTINF:-1 group-title="Musique",Vevo Rétro
+#EXTINF:-1 group-title="Musique et ambiance",Vevo Rétro
 https://jmp2.uk/stvp-FRBD1900013CB
-#EXTINF:-1 group-title="Musique",K-POP by CJ ENM
+#EXTINF:-1 group-title="Musique et ambiance",K-POP by CJ ENM
 https://jmp2.uk/stvp-FR3900001AC
-#EXTINF:-1 group-title="Musique",Cool Summer Channel
+#EXTINF:-1 group-title="Musique et ambiance",Cool Summer Channel
 https://jmp2.uk/stvp-FR2500001BS
-#EXTINF:-1 group-title="Musique",Émotion
+#EXTINF:-1 group-title="Musique et ambiance",Émotion
 https://jmp2.uk/stvp-FRBC900001LB
-#EXTINF:-1 group-title="Musique",NEW KPOP
+#EXTINF:-1 group-title="Musique et ambiance",NEW KPOP
 https://jmp2.uk/stvp-FR1700002OZ
-#EXTINF:-1 group-title="Musique",Show ! Variété
+#EXTINF:-1 group-title="Musique et ambiance",Show ! Variété
 https://jmp2.uk/stvp-FR3100003KZ
-#EXTINF:-1 group-title="Musique",Skyrock
+#EXTINF:-1 group-title="Musique et ambiance",Skyrock
 https://jmp2.uk/stvp-FR4000005KE
+#EXTINF:-1 group-title="Musique et ambiance",Metallica Takeover
+https://jmp2.uk/stvp-FR7000053L
+#EXTINF:-1 group-title="Musique et ambiance",Cozy Vibes
+https://jmp2.uk/stvp-FR19000010J
+#EXTINF:-1 group-title="Musique et ambiance",Storm Vibes
+https://jmp2.uk/stvp-FR1900002I8
+#EXTINF:-1 group-title="Musique et ambiance",Rainy Day Vibes
+https://jmp2.uk/stvp-FR1800007VM
+#EXTINF:-1 group-title="Musique et ambiance",Spring Vibes
+https://jmp2.uk/stvp-FR1800010TC
+#EXTINF:-1 group-title="Musique et ambiance",Island Vibes
+https://jmp2.uk/stvp-FR1800008DB
+#EXTINF:-1 group-title="Musique et ambiance",Ocean Vibes
+https://jmp2.uk/stvp-FR1800009U0
 
-#Sports (11)
+#Sports (12)
 #EXTINF:-1 group-title="Sports",FIFA+
 https://jmp2.uk/stvp-FRBA3300037Y7
 #EXTINF:-1 group-title="Sports",RMC MECANIC
@@ -263,8 +277,6 @@ https://jmp2.uk/stvp-FR300003ZB
 https://jmp2.uk/stvp-FR2400001TP
 #EXTINF:-1 group-title="Sports",Drive TV
 https://jmp2.uk/stvp-FRBD3600001BQ
-#EXTINF:-1 group-title="Sports",Motor Racing
-https://jmp2.uk/stvp-FRBD4100013LN
 #EXTINF:-1 group-title="Sports",World Poker Tour
 https://jmp2.uk/stvp-FRBD2900001M3
 #EXTINF:-1 group-title="Sports",Tennis Channel
@@ -277,6 +289,10 @@ https://jmp2.uk/stvp-FR1100002RF
 https://jmp2.uk/stvp-FR110000354
 #EXTINF:-1 group-title="Sports",INTER 24/7
 https://jmp2.uk/stvp-FR3100002MQ
+#EXTINF:-1 group-title="Sports",So Foot+
+https://jmp2.uk/stvp-FR12000040D
+#EXTINF:-1 group-title="Sports",Motor Racing
+https://jmp2.uk/stvp-FR900002B4
 
 #Séries TV (20)
 #EXTINF:-1 group-title="Séries TV",Mr Bean Animated
@@ -328,7 +344,9 @@ https://jmp2.uk/stvp-FRBD3900005MB
 #EXTINF:-1 group-title="Télé réalité",MTV Catfish
 https://jmp2.uk/stvp-FRAJ38000050Z
 
-#Voyages et Gastronomie (7)
+#Voyages et Gastronomie (8)
+#EXTINF:-1 group-title="Voyages et Gastronomie",750g
+https://jmp2.uk/stvp-FRBD4100002R7
 #EXTINF:-1 group-title="Voyages et Gastronomie",Ça Chauffe en Cuisine
 https://jmp2.uk/stvp-FR34000032F
 #EXTINF:-1 group-title="Voyages et Gastronomie",Pluto TV Cuisine
