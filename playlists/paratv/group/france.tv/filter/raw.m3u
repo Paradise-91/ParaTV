@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 06/06/2026 13:24:32 CEST+0200
+# Generated on: 06/06/2026 16:24:32 CEST+0200
 
-#FRANCE.TV (44)
+#FRANCE.TV (43)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -48,11 +48,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv5-m
 #EXTINF:-1,COURT N°14 - JOURNÉE 14 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n14-journée-14.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTINF:-1,COURT SIMONNE-MATHIEU - JOURNÉE 14 [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-simonne-mathieu-journée-14.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTINF:-1,FINALE - TENNIS-FAUTEUIL SIMPLE DAMES : DIEDE DE GROOT VS KSENIA CHASTEAU [SSAI][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/finale-tennis-fauteuil-simple-dames-diede-de-groot-vs-ksenia-chasteau.m3u8
+#EXTINF:-1,FINALE - DOUBLE GARÇONS : MACKENZIE / REISACH VS DOMENC / JADE [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/finale-double-garçons-mackenzie-reisach-vs-domenc-jade.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTINF:-1,CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/roland-garros.m3u8
