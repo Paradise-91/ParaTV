@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 04/06/2026 06:26:26 CEST+0200
-#TOTAL: 234
+# Generated on: 11/06/2026 06:26:07 CEST+0200
+#TOTAL: 235
 
 #Crime (13)
 #EXTINF:-1 tvg-chno="851" tvg-id="GBBD3700001AB" tvg-country="GB" group-title="Crime",851. DATELINE 24/7
@@ -104,7 +104,7 @@ https://jmp2.uk/stvp-GB4600003RY
 #EXTINF:-1 tvg-chno="2635" tvg-id="GB1000002RV" tvg-country="GB" group-title="Documentaries",2635. 60 Days in Jail
 https://jmp2.uk/stvp-GB1000002RV
 
-#Entertainment (23)
+#Entertainment (21)
 #EXTINF:-1 tvg-chno="891" tvg-id="GBBD3100003J5" tvg-country="GB" group-title="Entertainment",891. U&Laughs
 https://jmp2.uk/stvp-GBBD3100003J5
 #EXTINF:-1 tvg-chno="892" tvg-id="GB4000027F" tvg-country="GB" group-title="Entertainment",892. The Graham Norton Show
@@ -139,14 +139,10 @@ https://jmp2.uk/stvp-GBBB38000068U
 https://jmp2.uk/stvp-GB2700016H5
 #EXTINF:-1 tvg-chno="2039" tvg-id="GB500007VM" tvg-country="GB" group-title="Entertainment",2039. Family Feud
 https://jmp2.uk/stvp-GB500007VM
-#EXTINF:-1 tvg-chno="2114" tvg-id="GB2200001N2" tvg-country="GB" group-title="Entertainment",2114. Fireplace Vibes
-https://jmp2.uk/stvp-GB2200001N2
 #EXTINF:-1 tvg-chno="2268" tvg-id="GB3600003B3" tvg-country="GB" group-title="Entertainment",2268. Dhar Mann TV
 https://jmp2.uk/stvp-GB3600003B3
 #EXTINF:-1 tvg-chno="2371" tvg-id="GB4100001E2" tvg-country="GB" group-title="Entertainment",2371. Mark Rober TV
 https://jmp2.uk/stvp-GB4100001E2
-#EXTINF:-1 tvg-chno="2484" tvg-id="GB3800007C5" tvg-country="GB" group-title="Entertainment",2484. Space Live
-https://jmp2.uk/stvp-GB3800007C5
 #EXTINF:-1 tvg-chno="2562" tvg-id="GB5300001G9" tvg-country="GB" group-title="Entertainment",2562. Nolly Africa HD
 https://jmp2.uk/stvp-GB5300001G9
 #EXTINF:-1 tvg-chno="2692" tvg-id="GB1200008XG" tvg-country="GB" group-title="Entertainment",2692. H2O & Friends
@@ -264,7 +260,7 @@ https://jmp2.uk/stvp-GB1700007PK
 #EXTINF:-1 tvg-chno="2441" tvg-id="GB4100003VP" tvg-country="GB" group-title="Movies",2441. Thrillers - Rakuten TV
 https://jmp2.uk/stvp-GB4100003VP
 
-#Music & Ambient (21)
+#Music & Ambient (24)
 #EXTINF:-1 tvg-chno="961" tvg-id="GBBC19000017V" tvg-country="GB" group-title="Music & Ambient",961. Vevo Pop
 https://jmp2.uk/stvp-GBBC19000017V
 #EXTINF:-1 tvg-chno="962" tvg-id="GBBD1900009UD" tvg-country="GB" group-title="Music & Ambient",962. Vevo '70s & '80s
@@ -291,8 +287,12 @@ https://jmp2.uk/stvp-GBBD3000004VR
 https://jmp2.uk/stvp-GB300032DX
 #EXTINF:-1 tvg-chno="1928" tvg-id="GB300033HI" tvg-country="GB" group-title="Music & Ambient",1928. Now 90's & 00's
 https://jmp2.uk/stvp-GB300033HI
+#EXTINF:-1 tvg-chno="2114" tvg-id="GB2200001N2" tvg-country="GB" group-title="Music & Ambient",2114. Fireplace Vibes
+https://jmp2.uk/stvp-GB2200001N2
 #EXTINF:-1 tvg-chno="2272" tvg-id="GB17000088V" tvg-country="GB" group-title="Music & Ambient",2272. NEW KPOP
 https://jmp2.uk/stvp-GB17000088V
+#EXTINF:-1 tvg-chno="2484" tvg-id="GB3800007C5" tvg-country="GB" group-title="Music & Ambient",2484. Space Live
+https://jmp2.uk/stvp-GB3800007C5
 #EXTINF:-1 tvg-chno="2742" tvg-id="GB700007MV" tvg-country="GB" group-title="Music & Ambient",2742. Metallica Takeover
 https://jmp2.uk/stvp-GB700007MV
 #EXTINF:-1 tvg-chno="2743" tvg-id="GB1900004ZY" tvg-country="GB" group-title="Music & Ambient",2743. Cozy Vibes
@@ -307,6 +307,8 @@ https://jmp2.uk/stvp-GB1800013A2
 https://jmp2.uk/stvp-GB1800011SF
 #EXTINF:-1 tvg-chno="2748" tvg-id="GB180001295" tvg-country="GB" group-title="Music & Ambient",2748. Ocean Vibes
 https://jmp2.uk/stvp-GB180001295
+#EXTINF:-1 tvg-chno="2785" tvg-id="GB4400002TN" tvg-country="GB" group-title="Music & Ambient",2785. Metal.Rocks
+https://jmp2.uk/stvp-GB4400002TN
 
 #Nature (13)
 #EXTINF:-1 tvg-chno="884" tvg-id="GB270001473" tvg-country="GB" group-title="Nature",884. PICK Monkey Rescue

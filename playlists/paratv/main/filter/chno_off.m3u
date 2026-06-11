@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 11/06/2026 05:24:33 CEST+0200
-# Total Channels: 433
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (168), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 11/06/2026 06:26:34 CEST+0200
+# Total Channels: 434
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (33), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (3), RMC-BFM (24), SAMSUNGTVPLUSFR (169), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (33)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -118,11 +118,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=0TnDIlkI5YBBGdIUhgPkIria9o93BxdWpLwT-vjWrE8gxKaQjoA7TAeOcdKf--42A3CGupG2HJhcqDuYkb6RdWy47Jk3fqm9feRm1oYDX9w
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=5BJUHB2yrn0-ZTSSFvFsfqFCup6WJZvs7TeYLJHOYAkB2zQTUY5vLhCAtpHB19rqclbhS3NdbNjLr6ZltkKnW1DGw7s84_fC7eRFhrtbX_I
 #EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=gvZC_IYj-mMHqqsBmik1iUkmfjK6diSW6wqm4NGMJkBYy4eLG6yLVvZX-ZRAXpgRsOaobCktO0YqXNc3J049ZlKN7wVEvOtxl66eRopZB0A
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=NTpKKQLRhIhq7ohsMIRHUfrMYooagVk3rU2OkEzQZkCKcHKIOmwNZIHet33aTu9HVE_qK7gjVv8VGPDDmxX1QKEIpM-ZhstVs0vZpeJkwA0
 #EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=pnbOMOmDNHB58OTtC-rjVeXvt6Q6oZO-qyLj5ojLu3LYFTlJsyyld-FZ37MPmUzb1MO44IDn4MRu2xuCbVXOxOsGYmIslXz8oBybjVQ26Pk
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=fDgFmM_61GHElXfOkYu4zlNmnJQfFn5Z7LAn4StUN3WvupthuQti-ZaNMA14C1jQTASQzrB-70SXaqe8f3adgniKGxlICFOsclNyPKcvZxo
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -388,7 +388,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/1ERZ11f7ntdWn7Xle/60x60" tvg-country="FR" group-title="RADIO",Sud Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8
 
-#SAMSUNGTVPLUSFR (168)
+#SAMSUNGTVPLUSFR (169)
 #EXTINF:-1 tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",BFM TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1 tvg-id="FR1400003Y0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",BFM 2 [1080p-samsungtvplus]
@@ -725,6 +725,8 @@ https://jmp2.uk/stvp-FR1800009U0
 https://jmp2.uk/stvp-FR12000040D
 #EXTINF:-1 tvg-id="FR900002B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR900002B4_20260528T055414SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Motor Racing [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR900002B4
+#EXTINF:-1 tvg-id="FR44000015M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR44000015M_20260609T043411SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Metal.Rocks [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR44000015M
 
 #NETPLUS.TV (115)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
