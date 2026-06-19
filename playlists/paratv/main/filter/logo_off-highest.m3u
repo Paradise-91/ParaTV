@@ -1,9 +1,9 @@
 #EXTM3U
-# Generated on: 19/06/2026 02:24:32 CEST+0200
-# Total Channels: 436
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (34), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (169), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 19/06/2026 03:24:32 CEST+0200
+# Total Channels: 438
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (36), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (169), SWITZERLAND (5), TV5MONDE (2)
 
-#FRANCE (34)
+#FRANCE (36)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Qr79ilZtJ4Yr/res/pq5Q1UBZjjXLanR-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -24,6 +24,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france5-highest.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-id="France5.fr" epg-s="47" tvg-country="FR" group-title="FRANCE",50. France 5 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-5-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" epg-s="118" tvg-country="FR" group-title="FRANCE",6. M6 [1080p-m6.fr]
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/hls-short-hd.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" epg-s="111" tvg-country="FR" group-title="FRANCE",7. Arte [720p-arte.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/res/arte-highest.m3u8
 #EXTINF:-1 tvg-chno="46" epg-s="111" tvg-country="FR" group-title="FRANCE",46. ARTE [1080p-tf1.fr]
@@ -38,6 +41,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/l
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="PublicSenat2424.fr" epg-s="2013" tvg-country="FR" group-title="FRANCE",43. Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" epg-s="119" tvg-country="FR" group-title="FRANCE",9. W9 [1080p-m6.fr]
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-country="FR" group-title="FRANCE",10. TMC [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Qr79ilZtJ4Yr/res/5hP01O0NUhbMdJJP-highest.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-country="FR" group-title="FRANCE",11. TFX [720p-tf1.fr]
@@ -121,11 +127,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=bI0devkJVjebku73D2xSLBZ9A1CU4eCoQO9Nhd2KGhr_OyJij19BaJNOaSB6LWFRKlSsstvDGlw9hNuUJtbVsxnSU71YZVp1y3vbw3UGwGY
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=1t6JY41iQjem-utQBT26ZHfTkNelq-oOXxu23RHRzN9KmlRf1yhVvhcw2abB0z1E0AFY_Y2N0Haojmy-lNIRuXFwLhUQlTJ2FGDnyguUg8c
 #EXTINF:-1 tvg-chno="80" tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",80. My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Cp1nEvOLAySriAoFvXW35rBMgr03N4_P-Z_ToY75XYB6AMWCAwCrKvjOvcpjPh24xLGVCXPApjlH7kgxmbOLj0Pz2u0MlW6TchT9LlXoNp4
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=dfXaAux_O8Ev8Bc0pNxU05A0K_7Q2AkwHNx-IhTLHaiPkfXnDdeoV1q7THUqm22kRJLZXbdIO2-6z7yQSkw3ZHqQAE2BgdxO_v0dfwkOUhI
 #EXTINF:-1 tvg-chno="81" tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",81. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=uR3xAL7UgjsoYxZqVmtJj56n8M-nz0X1I3iZnV96lz-BCSaOWC_kT1if0u7-u5yT-uMFWOUD79W2d54dhW-GeTiPud-SyR_GX6EULJkbhu8
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=C_YG1MFdhimDnw1i4C8cSfRNMb3-iJca0qbZwfB7PP_W2O_n2lNU7Zpz7n3qGUGoDaQn2FXegpDdW7RxNDP3SQLrh3HG3dolRnOvkG-Ou7M
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
