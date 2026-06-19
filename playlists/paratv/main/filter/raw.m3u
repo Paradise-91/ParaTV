@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 19/06/2026 16:24:34 CEST+0200
-# Total Channels: 438
-# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (36), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (169), SWITZERLAND (5), TV5MONDE (2)
+# Generated on: 19/06/2026 17:24:35 CEST+0200
+# Total Channels: 439
+# Groups: BELGIQUE (3), CANALPLUS (8), EQUIDIA (28), FRANCE (36), FRANCE.TV (41), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (169), SWITZERLAND (5), TV5MONDE (2)
 
 #FRANCE (36)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -125,13 +125,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1,TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (3)
+#LEQUIPE.FR (4)
 #EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Ik5Lv0WTicUpC2XorqPzJTTUzR9wYActeIvC3MakLwElmiJ_KoM_VbRV6mCqe3sx3_K1aY7DNvq5wMymSjGhC_lcJy3MXkyUAnnGPayolhI
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=urSSHZJzwhaP74P6Wn5RtqgWpUu9Xal9RBlE259nK2EsaJP98FohZWK4T3_bX_2oK_v6j5r2iEQUSnxQHCMjsNtTu7Zg-Nb4nH_YaQexx9Y
+#EXTINF:-1,L'Équipe live  4
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd06p.m3u8?sec=sQPJpvbOZhDYthvDewhz3xLi2DfSFr80eib4nApD2z4EWvTE7mpoYA8WBljWdAGrWKeHpCgPeceHcqWdN9M22v5sukw6MUaLk_rzVZrbkAs
 #EXTINF:-1,My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=6bjF4nI2-qQ_fZdTgBlwYYUAN15nspf28DA3T25cgIRPe27LR0V2j1oTnu4T3KY1bmMD1UrRlpc04FEOTops8dwz6pcdO6tvlvZ5poc0xts
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=f0mtGnJqbCev_LvTbS2I14bY38s4FBmu0fyN7tdZyUY0DzMbPTWg6s_gxAeVKfapvRkzUerPdpVRuzpfZy2DFwAoPlWI45uRI0Y0gUUO3FU
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=iYF_YbKq5XEKquWu8I1VJ27rZGrCCEWHs1Waistv6YgDbVAxORxcPC7A-VPDXFrVVe57xMXapg2yqg2Qfj8Y-tNFmZGOCO3ZF5ivVwCjGWc
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=6Ah8KlveipowrWKbPUZcbusoDHM-nM2mftm2nCpG9IhOAug_mZieztcoFfLad6AoQioDk_YyN8W0QQ9R0tRVKSzuV-rDry8MKoElbNE8QdU
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
