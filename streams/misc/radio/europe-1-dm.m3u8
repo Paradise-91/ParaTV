@@ -1,17 +1,13 @@
 #EXTM3U
+#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(0Rb-wX_tQ6cjD6RA0tq-DaVHkPzhYB_1RFsRPzKlUe3QC12TJ0XvM_FACx598yeqILZEcMxlHZeoLNu6CAtDmXXYbciCe8h1ukRWQIhficHaKSG5waA8L_QYnhDMeJYc)/cloud/3/xqjkfz/d/live-380.m3u8#cell=lcf2-eu-north-1b
+#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Y_MBHdej3DeAJM6tFrXzX-f4Lw7dasMZDEXTKx7THHWPmXlYTWsbG9O8oQ9zH50Nfe4Fi7M-VWFvg6owaeIVDx-WpI-yQL-pPut2iCVNwivRqGfoz285Y0AX2EydeTMJ)/cloud/3/x91kj9u/d/live-380.m3u8
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(0Rb-wX_tQ6cjD6RA0tq-DaVHkPzhYB_1RFsRPzKlUe3QC12TJ0XvM_FACx598yeqILZEcMxlHZeoLNu6CAtDmXXYbciCe8h1ukRWQIhficHaKSG5waA8L_QYnhDMeJYc)/cloud/3/xqjkfz/d/live-240.m3u8#cell=lcf2-eu-north-1b
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Y_MBHdej3DeAJM6tFrXzX-f4Lw7dasMZDEXTKx7THHWPmXlYTWsbG9O8oQ9zH50Nfe4Fi7M-VWFvg6owaeIVDx-WpI-yQL-pPut2iCVNwivRqGfoz285Y0AX2EydeTMJ)/cloud/3/x91kj9u/d/live-240.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(5VS9DvJQNRa2SR2pXRwuwQSlG5tjXNu7RAv7g6IpE3E5prfA0kokV4iwhzRdqHIwPxjFoB67g3qgrwmEGjcotRw-vNl5SHJZ-tMOQp9QlQbvhudLlLJsyE9t_dvlf0Xi)/cloud/3/xqjkfz/d/live-480@60.m3u8#cell=lcf2-eu-north-1b
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(5VS9DvJQNRa2SR2pXRwuwQSlG5tjXNu7RAv7g6IpE3E5prfA0kokV4iwhzRdqHIwPxjFoB67g3qgrwmEGjcotRw-vNl5SHJZ-tMOQp9QlQbvhudLlLJsyE9t_dvlf0Xi)/cloud/3/xqjkfz/d/live-240.m3u8#cell=lcf2-eu-north-1b
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(SSzdzIt5wSLlQjmW9tDCctBNZLHpq2ghjWnoT8t7LQwhwrNLgAoYC6R936UJ0yL99HyTZy_xIHHQH4TbktZT26udhb0eNYS4jGjnKBGGMElSdOZX-vDznzZSE1fmxs_P)/cloud/3/x91kj9u/d/live-240.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(5VS9DvJQNRa2SR2pXRwuwQSlG5tjXNu7RAv7g6IpE3E5prfA0kokV4iwhzRdqHIwPxjFoB67g3qgrwmEGjcotRw-vNl5SHJZ-tMOQp9QlQbvhudLlLJsyE9t_dvlf0Xi)/cloud/3/xqjkfz/d/live-380.m3u8#cell=lcf2-eu-north-1b
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(SSzdzIt5wSLlQjmW9tDCctBNZLHpq2ghjWnoT8t7LQwhwrNLgAoYC6R936UJ0yL99HyTZy_xIHHQH4TbktZT26udhb0eNYS4jGjnKBGGMElSdOZX-vDznzZSE1fmxs_P)/cloud/3/x91kj9u/d/live-380.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=50.000000,BANDWIDTH=2691072,CODECS="avc1.640020,mp4a.40.2",NAME="720@60"
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(5VS9DvJQNRa2SR2pXRwuwQSlG5tjXNu7RAv7g6IpE3E5prfA0kokV4iwhzRdqHIwPxjFoB67g3qgrwmEGjcotRw-vNl5SHJZ-tMOQp9QlQbvhudLlLJsyE9t_dvlf0Xi)/cloud/3/xqjkfz/d/live-720@60.m3u8#cell=lcf2-eu-north-1b
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=50.000000,BANDWIDTH=7811072,CODECS="avc1.64002a,mp4a.40.2",NAME="1080@60"
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(5VS9DvJQNRa2SR2pXRwuwQSlG5tjXNu7RAv7g6IpE3E5prfA0kokV4iwhzRdqHIwPxjFoB67g3qgrwmEGjcotRw-vNl5SHJZ-tMOQp9QlQbvhudLlLJsyE9t_dvlf0Xi)/cloud/3/xqjkfz/d/live-1080@60.m3u8#cell=lcf2-eu-north-1b
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(0Rb-wX_tQ6cjD6RA0tq-DaVHkPzhYB_1RFsRPzKlUe3QC12TJ0XvM_FACx598yeqILZEcMxlHZeoLNu6CAtDmXXYbciCe8h1ukRWQIhficHaKSG5waA8L_QYnhDMeJYc)/cloud/3/xqjkfz/d/live-480@60.m3u8#cell=lcf2-eu-north-1b
 
-#Last refreshed on 20/06/2026 21:19:54 CEST.
+#Last refreshed on 21/06/2026 00:20:27 CEST.
