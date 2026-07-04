@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 04/07/2026 14:24:32 CEST+0200
-# Total Channels: 450
-# Groups: BELGIQUE (1), CANALPLUS (8), EQUIDIA (28), FRANCE (38), FRANCE.TV (41), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (169), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 04/07/2026 15:24:32 CEST+0200
+# Total Channels: 451
+# Groups: BELGIQUE (1), CANALPLUS (8), EQUIDIA (28), FRANCE (38), FRANCE.TV (41), LEQUIPE.FR (5), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (169), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (38)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -129,15 +129,17 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1,TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (4)
+#LEQUIPE.FR (5)
 #EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=HZJvVCAdjsXgcMLcJjHu4qtzLcHRtakzQwd-AzsMd3Hma-Suq1Ve44tBLD36p04MBJXHbeLfiYXrdK5rKYdHtMwBv1uIbF7YwCy3N4ZuPcA
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=48M1NRkyXc5Ubz2D0Y4oKRtO5pfRvqRaAe08KMfx64JV4MJWIMCiMhsASANg-waUpE8_C-wBzZ97hROKkBa7nt5GKM6b4QQ0sZHvIn9SR6U
 #EXTINF:-1,L'Équipe Live 6
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd0f7.m3u8?sec=MQDL6q9iPuy_Qme3DWyXdm9L47z2_Cs-aOOIeCLSrCXB5OCIujgjW5NXOK-ziEBpEynC51Ct2-EFD-yGtAOLvCdHvBSy8OzmyFgVQDqAXsI
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd0f7.m3u8?sec=pif0Z8CPaKt7xZ5AlU-5t7XtM_HPZqIRKynQMZwxn-0iqWnzAYfdTIW0VNIsXhYtnovFpumC74uqlZ6fOkkH7ykvyWKMrvzbd4MA4ygUjM0
 #EXTINF:-1,My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=kaBdfOhI94FXxrVQMeGuWGkEadqWiSQ5e8muil-01V9MhLuP_f_Z0HKZxMNAf5gJC-ttBv8iU0BO0CzLGml3nCoMV1YXbU7Ls8mGz8jq7oM
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=odJDBpo_qxBuRcfk6KKdFUfFL4eEOM5g_XuXBAE1_OKBa8ukYyQeU4JTOrob10VayUI6f_4BNaS-cLFUbyHJRNjQCiafPcgCYzaAEsTKKCQ
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=fr5pspWJrwhbhwMEtglBR_dv0SsVCMk5oYG2V7nFflEE--QY2rjVZXkXlj2_d-f7B777DnxT9dUen671Qly1cVqRCen82YsHq9cbrCNMYVM
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=hDUcQ_QxgaSwIu1Df_vQSTiP0lVTwRQkJGSwXSZ9uweatXA-fV-xyO3j52nWSu4Ybi9CYxhvGzkXCE8tyzkmy4oOTHiGbrZ5cQ7mE9g4ETI
+#EXTINF:-1,L'Équipe live 3
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=aWHH618uebgrfdD_9eq7X3mff6yK1BXxMLd7I4fMGKmBBCbm1lUmDUcmxFixRKxGndts_gSHxMa2UmnrbenL07F7ikpZdO7hyRIoUff716Q
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
