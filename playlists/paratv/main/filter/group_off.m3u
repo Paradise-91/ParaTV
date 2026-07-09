@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 09/07/2026 05:24:32 CEST+0200
-# Total Channels: 449
-# Groups: BELGIQUE (1), CANALPLUS (8), EQUIDIA (28), FRANCE (38), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (169), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 09/07/2026 06:26:35 CEST+0200
+# Total Channels: 451
+# Groups: BELGIQUE (1), CANALPLUS (8), EQUIDIA (28), FRANCE (38), FRANCE.TV (41), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (171), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (38)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p-tf1.fr]
@@ -131,11 +131,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=sVa5QlQ0XSfOj712p4Hzbv0Q9HPcuwttNLQfq5APxLGtLggXyQo8wELWOXxBuTf3eNUyt94G6nQ5D7Fpd3roj4xdZjxwFrEih9pbfEbcRqI
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=MmVosG_OPF0WGOvLRvCVyIzZSGYUBwKnQb6CyqSfasWOeNlmtdg48M0-38xhUw5LQOj3WJbrM9unJuxTGeELuSNgyuHq_1TwsNE3Wra13Zo
 #EXTINF:-1 tvg-chno="80" tvg-id="k5VKYQn5hAE4vfry927",80. My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Ztm4H2uX-nbcDDbzqHzYfFWNCy_AWKj9shJie6kMAOw7SRl_B64FjploOpmFuC6DPfIvly5hgLzj4aYiUYMlMPkVPgGpi_K8sR5TzqdqcSo
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=EkRiRMmJ3CSz_Z9FAGVyMAKcjrZ3LPw7SDXucUiFqcNxjBQm5CdvPC1xlPdZy5H3n3Rs6x2rahjs9azAJFXF8puw7ilLry43sCDSqmv78uc
 #EXTINF:-1 tvg-chno="81" tvg-id="k6c3A07yUljlAzwkvtL",81. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=nXSg9FXefVVKTakMy-5CrYh1C-JNh9_w5UXqrtYTxu7p0HbWfwIbgXJQXpEBp08HbCSdN9u90CNPe3CZ-vm5NAzpwO2cBhO8H82-BrLl2EI
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=ViTfYBZkqGnnganbElQ_Su2dFr53ErAyIWfjd3c0--mvFS8sVW843l6GNvORe17BQLCGFlro-OwEfUzjg27VrMB7GSB9V4iGPHkSOQ11Eso
 
 #FRANCE.TV (41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -425,7 +425,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://s2.dmcdn.net/u/2MYk91c8Xrr2i4C3y/60x60",603. Fun Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/fun-radio-dm.m3u8
 
-#SAMSUNGTVPLUSFR (169)
+#SAMSUNGTVPLUSFR (171)
 #EXTINF:-1 tvg-chno="1000" tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png",1000. BFM TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1 tvg-chno="1002" tvg-id="FR1400003Y0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png",1002. BFM 2 [1080p-samsungtvplus]
@@ -744,7 +744,7 @@ https://jmp2.uk/stvp-FR1200003GR
 https://jmp2.uk/stvp-FR900003DP
 #EXTINF:-1 tvg-chno="1195" tvg-id="FR15000010E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR15000010E_20260528T055328SQUARE.png",1195. Docs & enquêtes by Society+ [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR15000010E
-#EXTINF:-1 tvg-chno="1196" tvg-id="FR7000053L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR7000053L_20260707T052901SQUARE.png",1196. Metallica Takeover [1080p-samsungtvplus]
+#EXTINF:-1 tvg-chno="1196" tvg-id="FR7000053L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR7000053L_20260707T052901SQUARE.png",1196. Rolling Stones Takeover [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR7000053L
 #EXTINF:-1 tvg-chno="1197" tvg-id="FR19000010J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR19000010J_20260528T055318SQUARE.png",1197. Cozy Vibes [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR19000010J
@@ -764,6 +764,10 @@ https://jmp2.uk/stvp-FR12000040D
 https://jmp2.uk/stvp-FR900002B4
 #EXTINF:-1 tvg-chno="1205" tvg-id="FR44000015M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR44000015M_20260609T043411SQUARE.png",1205. Metal.Rocks [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR44000015M
+#EXTINF:-1 tvg-chno="1206" tvg-id="FR130000539" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR130000539_20260707T051643SQUARE.png",1206. Dragon TV [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR130000539
+#EXTINF:-1 tvg-chno="1207" tvg-id="FR1200002PC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200002PC_20260707T051726SQUARE.png",1207. Quantum Makers [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR1200002PC
 
 #NETPLUS.TV (115)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
