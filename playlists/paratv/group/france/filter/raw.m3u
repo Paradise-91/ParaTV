@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 10/07/2026 16:24:34 CEST+0200
+# Generated on: 10/07/2026 17:24:34 CEST+0200
 
-#FRANCE (37)
+#FRANCE (36)
 #EXTINF:-1,TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/blNRc0aJ2YSn/rTUY9GxWwbZ8lNPr.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -38,9 +38,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/blNRc0aJ2YSn/N
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1,Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1,W9 [1080p-m6.fr]
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
 #EXTINF:-1,TMC [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/blNRc0aJ2YSn/QMmB3ZKmCkiIpgJ5.m3u8
 #EXTINF:-1,TFX [720p-tf1.fr]

@@ -1,9 +1,9 @@
 #EXTM3U
-# Generated on: 10/07/2026 16:24:34 CEST+0200
-# Total Channels: 449
-# Groups: BELGIQUE (1), CANALPLUS (8), EQUIDIA (28), FRANCE (37), FRANCE.TV (40), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (171), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 10/07/2026 17:24:34 CEST+0200
+# Total Channels: 448
+# Groups: BELGIQUE (1), CANALPLUS (8), EQUIDIA (28), FRANCE (36), FRANCE.TV (40), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (171), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
-#FRANCE (37)
+#FRANCE (36)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/blNRc0aJ2YSn/rTUY9GxWwbZ8lNPr.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -40,9 +40,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/blNRc0aJ2YSn/N
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="PublicSenat2424.fr" epg-s="2013" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100",43. Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" epg-s="119" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100",9. W9 [1080p-m6.fr]
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100",10. TMC [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/blNRc0aJ2YSn/QMmB3ZKmCkiIpgJ5.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100",11. TFX [720p-tf1.fr]
@@ -128,11 +125,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=chSR_JlOfguGVPcC-vdXyRrCAn_W7z2-cD6SqUTdKAPay7aBVslUykJxLsGGMx7o19ygZFfSa9bStBlaXJ4nfqGuSUe8V_lZpDii0ro3Dl4
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=4cA2nqeXYJjy0w6X1sAm-MGRkmAbYVbh2XUVy0ZqZhGMUCsAr8tSK2K_hDaVKDhPK3UT6lAIk6WqXUEDuOFL3_Jb97BsEIQkQ4cIPXIE7jI
 #EXTINF:-1 tvg-chno="80" tvg-id="k5VKYQn5hAE4vfry927",80. My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=aeZkcIuwAgWv44sr0valAXeNG218GclNY5rQKakJ3tHHLZp9-sVFcewYvpAGs7iGZ_8l2XoVVqYTWcZ1wmTe6QclCWEWhxERS231Q2Z0uR0
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=YHcuzJX2SS8RoOeNgDVHE7MIovi75I2-ckzPMWo2zexJHCSqNstRNtIuzRr68voerYyeJS6ZjYs5Erty93TGWonulkA1sl65zsBEB9ZRpJk
 #EXTINF:-1 tvg-chno="81" tvg-id="k6c3A07yUljlAzwkvtL",81. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=r9Tc4JizGULi91bEh5J4JhiLcJqUpqjl5AvAoOXWk2XbVRGAl_o8FGEHUNeHcDE4VCz0qP73OVACNIiWQFS7mvlp6yshiiDAZxDIBO-258E
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=bdF1csn3fRZ-wVlTVO21S4Dr5KPuaWX-QaBZCUXrFBoAHXsSH30SlaesEj7PlGtWfVaVPWd_pb3kwtkYTSy4UlCdHJFQgIvxHsZaluPAN6k
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
