@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 12/07/2026 16:24:33 CEST+0200
-# Total Channels: 452
-# Groups: BELGIQUE (1), CANALPLUS (8), EQUIDIA (28), FRANCE (36), FRANCE.TV (40), LEQUIPE.FR (5), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (173), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 12/07/2026 17:24:32 CEST+0200
+# Total Channels: 453
+# Groups: BELGIQUE (1), CANALPLUS (8), EQUIDIA (28), FRANCE (36), FRANCE.TV (40), LEQUIPE.FR (6), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (173), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (36)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",1. TF1 [720p-tf1.fr]
@@ -123,17 +123,19 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/hDscsNi.png",71. TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (5)
+#LEQUIPE.FR (6)
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=6RMxw_HxkqSA45tSyRqk9UtgRIpISWQtKgL6d_u0R1RsmHFZDjwOw-sdUfSWclZW2BuDdRhRKpOpxPfL-rcicCRGJLGvfM6tRmqkCv-Ekz0
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=_mXDteGqGeozYDKbzqud-fATNS4R-sKaB15yS_SORynZJZ4PUfnKDuD41uMx90f95npO3XmhoUc7cAC1tnps5JeWgMXV_7DMWYswOXwnsIs
 #EXTINF:-1 tvg-chno="79" tvg-id="kXRfcKHV9HhcZuqwBYP",79. L'Équipe live 3
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=lVF2TAdnZ-e5D1pnt_gEjgBjWFvx-C6GNsfvVWEb57zRwolKOgy0TMj9loQLKypD9netJsGOBsj1rzPVgwoEqYPdP3LIgk_zq13EJR16W_k
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=fFz9ePU1xz7DGWAQl8RTdfeDWO8Ui2y8JmQQ6DYtqyo-iDiEbfg4B06otYqyAHYeNhsrY077bfFa9LYyhkG9XRFop87VmsKJW6KjNL8CHkc
 #EXTINF:-1 tvg-chno="80" tvg-id="k5VKYQn5hAE4vfry927",80. My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=TrW-Uf1s3kMGSLSnoUELLP-uUkwIs3t8xSR3ZeY6PSOxF-H2l6enUxsZcQ2F-9u2Zj9GXFgMv5fkGTR7AnHcbsszSxNGz3R47z0qo0eTma0
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=aRsupktMFGde2lKqMkcfLej40bHCuhIsvUukAbgEeAiBUjHC8UNLT9Vc4mmv4FkBYGuIcl69zRpIR2CQBcGYzZ9JkJ3hboK8MJcaPZ9a7YE
 #EXTINF:-1 tvg-chno="81" tvg-id="k6c3A07yUljlAzwkvtL",81. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=4i2_IHfJzBXuhjIAt5gcPwKVOg7Cwcarfuac6nnjrGASLYJsnqWdsIrVmBFriE4nNrs5QsQmyapTkhiY9r5Ehl9G8KC5DBaxr2be7eb4zs0
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=6-amw6E7zGF08dX5yW7t89mw9yzsEqS0Tvj4r-wg97aS5n09UNi5XAka51F-xZHH_23-b-wH0YcGm4g3KzO5SmK7bFejfNj3pcUIYrqeQAQ
 #EXTINF:-1 tvg-chno="82" tvg-id="k3HiS3JB0BsORKqwC49",82. L'Équipe live 5
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=GUQhtZou-N96OERW8my_Z5ntVsZgLLAngz74xx189ss8ZwG30NN9aJysHqhlPS2-52H8F28_Zu508-zkT1jab4AgGm2DolEdMmkfNWgSnHo
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=Nl5hGYkGWi70Ewxr8E-y4iAZPSTdUg0-_Bja3_VCAHd-3-ZwAqqYrGn7LZMeiNbCrUtvYNgA2ikWpnTSPHj3ZExdkTlVzuF_iMNWN53HzmA
+#EXTINF:-1 tvg-chno="83" tvg-id="k6oih7JyuEmhrnqwBZT",83. L'Équipe live  4
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd06p.m3u8?sec=-fZXsZ4lMpI3dbPWXDoI5ZbizltgOFmrafZtP_YMicaFuNVGnsGXc9bGizaAQyDhKykMfPjLRPzjnd5vUGSHlkFonnffAkIDcUltz-tBlac
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
