@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 21/07/2026 23:24:32 CEST+0200
+# Generated on: 22/07/2026 00:24:32 CEST+0200
 # Total Channels: 450
 # Groups: BELGIQUE (1), CANALPLUS (8), EQUIDIA (28), FRANCE (36), FRANCE.TV (40), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (173), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/XKmqUeu4D6uu/r
 #EXTINF:-1 group-title="FRANCE",LCP-AN [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1 group-title="FRANCE",Public Sénat [480p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 group-title="FRANCE",TMC [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/XKmqUeu4D6uu/res/5cRbeOdOruZx7uHk-highest.m3u8
 #EXTINF:-1 group-title="FRANCE",TFX [720p-tf1.fr]
@@ -125,11 +125,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=0y0ok-DzHgXjxIBqbuWoNvfdDQPGyN6O-1CwNtLd1HNuoFBxaAvfW-Pzo8cV6-E7PRCLCKtgjEuIClcnP_7naefc7wGE_h-AD6LBjHjp8QY
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=mNP_IpNyBboXwsBh7vo-lFvWytfHB96GUzVdr2z3zjfHeCbV35KHYmkHeq8u-TJtM5GN_E2qcMIpRPG9YPv7ZxeGQE065sakcGgKdk1gvdE
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=L8B0yiK9rW140TsYTWO12sOjhVjPNM_HTIw5z8QH2sIsoomJ7R4U7rnEOCJ0d6b2jazupqsyrV5C0U5FAY3WNG29SOn6_KaLo9yJsuW1Zok
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=UeMBRSCQCsjh4zr88Dt2pbjAPqKUkUc2P0AUL8tcGE93aRDW8dCeM3IOWGznZqHocj467xt9bObn6MZD6ESgLXAW9wE__NqciqbeNkeCeQY
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=ZEunrCE4pyVhfdABMc4JkxhEfZqLmjiIrUe3tDPt7nPaPQWSEzhQ3XZRcU3uxQk3pWRY5TlJUSz29oYQVt96DbyGrWWB57RlvwsD04IFqUU
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=Cew4xJAErz-6eO1nAKTF9DSOPtPKkZi8K-yMlkNF2JGTCJW9Id3x8g_RhRLxM70LdXztIEki-EXlkDgKrg5vImhIa9ARj4-9w8I40EFWTNc
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
