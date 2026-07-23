@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 16/07/2026 06:26:03 CEST+0200
-#TOTAL: 2415
+# Generated on: 23/07/2026 06:27:00 CEST+0200
+#TOTAL: 2417
 
 #Austria (152)
 #EXTINF:-1 tvg-chno="1" tvg-id="ATBD390000167" tvg-country="AT" group-title="Austria",[Anime] 1. Aniverse TV
@@ -169,6 +169,8 @@ https://jmp2.uk/stvp-ATAJ0500443A
 https://jmp2.uk/stvp-ATAK3504501A
 #EXTINF:-1 tvg-chno="67" tvg-id="ATAJ0500428A" tvg-country="AT" group-title="Austria",[Food & Travel] 67. Xplore
 https://jmp2.uk/stvp-ATAJ0500428A
+#EXTINF:-1 tvg-chno="2818" tvg-id="AT19000045A" tvg-country="AT" group-title="Austria",[Food & Travel] 2818. ZDF kocht!
+https://jmp2.uk/stvp-AT19000045A
 #EXTINF:-1 tvg-chno="69" tvg-id="ATBA3300007PT" tvg-country="AT" group-title="Austria",[Fußball] 69. FIFA+
 https://jmp2.uk/stvp-ATBA3300007PT
 #EXTINF:-1 tvg-chno="70" tvg-id="ATBD26000124P" tvg-country="AT" group-title="Austria",[Fußball] 70. Scooore
@@ -267,8 +269,6 @@ https://jmp2.uk/stvp-AT3400004QH
 https://jmp2.uk/stvp-AT2100004P1
 #EXTINF:-1 tvg-chno="2342" tvg-id="AT3700005NP" tvg-country="AT" group-title="Austria",[Serien] 2342. Saving Hope
 https://jmp2.uk/stvp-AT3700005NP
-#EXTINF:-1 tvg-chno="2411" tvg-id="AT3700006RS" tvg-country="AT" group-title="Austria",[Serien] 2411. The Good Wife
-https://jmp2.uk/stvp-AT3700006RS
 #EXTINF:-1 tvg-chno="2463" tvg-id="AT4400005XG" tvg-country="AT" group-title="Austria",[Serien] 2463. Vier Frauen & ein Todesfall
 https://jmp2.uk/stvp-AT4400005XG
 #EXTINF:-1 tvg-chno="2464" tvg-id="AT4400004GQ" tvg-country="AT" group-title="Austria",[Serien] 2464. Schlosshotel Orth
@@ -1051,6 +1051,8 @@ https://jmp2.uk/stvp-CHAJ0500443A
 https://jmp2.uk/stvp-CHAK3504501A
 #EXTINF:-1 tvg-chno="393" tvg-id="CHBC40000027S" tvg-country="CH" group-title="Switzerland",[Food & Travel] 393. Echappées belles & co [FR]
 https://jmp2.uk/stvp-CHBC40000027S
+#EXTINF:-1 tvg-chno="2819" tvg-id="CH1900002NZ" tvg-country="CH" group-title="Switzerland",[Food & Travel] 2819. ZDF kocht!
+https://jmp2.uk/stvp-CH1900002NZ
 #EXTINF:-1 tvg-chno="394" tvg-id="CHBA3300010UC" tvg-country="CH" group-title="Switzerland",[Fußball] 394. FIFA+
 https://jmp2.uk/stvp-CHBA3300010UC
 #EXTINF:-1 tvg-chno="395" tvg-id="CHBD2600014C0" tvg-country="CH" group-title="Switzerland",[Fußball] 395. Scooore
@@ -1153,8 +1155,6 @@ https://jmp2.uk/stvp-CH340000286
 https://jmp2.uk/stvp-CH2100003MU
 #EXTINF:-1 tvg-chno="2352" tvg-id="CH37000057T" tvg-country="CH" group-title="Switzerland",[Serien] 2352. Saving Hope
 https://jmp2.uk/stvp-CH37000057T
-#EXTINF:-1 tvg-chno="2414" tvg-id="CH3700006B9" tvg-country="CH" group-title="Switzerland",[Serien] 2414. The Good Wife
-https://jmp2.uk/stvp-CH3700006B9
 #EXTINF:-1 tvg-chno="2469" tvg-id="CH4400005U9" tvg-country="CH" group-title="Switzerland",[Serien] 2469. Vier Frauen & ein Todesfall
 https://jmp2.uk/stvp-CH4400005U9
 #EXTINF:-1 tvg-chno="2470" tvg-id="CH4400004DK" tvg-country="CH" group-title="Switzerland",[Serien] 2470. Schlosshotel Orth
@@ -1194,7 +1194,7 @@ https://jmp2.uk/stvp-CH4700001E1
 #EXTINF:-1 tvg-chno="2711" tvg-id="CH3200008EL" tvg-country="CH" group-title="Switzerland",[Sport] 2711. GRIP - Das Motormagazin
 https://jmp2.uk/stvp-CH3200008EL
 
-#Germany (192)
+#Germany (190)
 #EXTINF:-1 tvg-chno="441" tvg-id="DEBD390000181" tvg-country="DE" group-title="Germany",[Anime] 441. Aniverse TV
 https://jmp2.uk/stvp-DEBD390000181
 #EXTINF:-1 tvg-chno="442" tvg-id="DEBD11000019M" tvg-country="DE" group-title="Germany",[Anime] 442. Naruto
@@ -1425,10 +1425,10 @@ https://jmp2.uk/stvp-DEAJ700004BT
 https://jmp2.uk/stvp-DEAJ700002N8
 #EXTINF:-1 tvg-chno="1856" tvg-id="DE4800001Y8" tvg-country="DE" group-title="Germany",[Kids] 1856. Teletubbies
 https://jmp2.uk/stvp-DE4800001Y8
-#EXTINF:-1 tvg-chno="2513" tvg-id="DE3800002J1" tvg-country="DE" group-title="Germany",[Kids] 2513. Mascha und der Bär
-https://jmp2.uk/stvp-DE3800002J1
 #EXTINF:-1 tvg-chno="2514" tvg-id="DE4100002KC" tvg-country="DE" group-title="Germany",[Kids] 2514. Rabbids Invasion
 https://jmp2.uk/stvp-DE4100002KC
+#EXTINF:-1 tvg-chno="2820" tvg-id="DE2200010WT" tvg-country="DE" group-title="Germany",[Kids] 2820. Mascha und der Bär
+https://jmp2.uk/stvp-DE2200010WT
 #EXTINF:-1 tvg-chno="537" tvg-id="DEBC2100001ZJ" tvg-country="DE" group-title="Germany",[Musik & Ambient] 537. Vevo Pop
 https://jmp2.uk/stvp-DEBC2100001ZJ
 #EXTINF:-1 tvg-chno="538" tvg-id="DEBC21000022L" tvg-country="DE" group-title="Germany",[Musik & Ambient] 538. Vevo Schlager Pop
@@ -1529,14 +1529,10 @@ https://jmp2.uk/stvp-DE3400003PW
 https://jmp2.uk/stvp-DE21000031Z
 #EXTINF:-1 tvg-chno="2361" tvg-id="DE3700007RY" tvg-country="DE" group-title="Germany",[Serien] 2361. Saving Hope
 https://jmp2.uk/stvp-DE3700007RY
-#EXTINF:-1 tvg-chno="2416" tvg-id="DE3700008VR" tvg-country="DE" group-title="Germany",[Serien] 2416. The Good Wife
-https://jmp2.uk/stvp-DE3700008VR
 #EXTINF:-1 tvg-chno="2476" tvg-id="DE4400005PI" tvg-country="DE" group-title="Germany",[Serien] 2476. Vier Frauen & ein Todesfall
 https://jmp2.uk/stvp-DE4400005PI
 #EXTINF:-1 tvg-chno="2477" tvg-id="DE44000048T" tvg-country="DE" group-title="Germany",[Serien] 2477. Schlosshotel Orth
 https://jmp2.uk/stvp-DE44000048T
-#EXTINF:-1 tvg-chno="2573" tvg-id="DE3100005JK" tvg-country="DE" group-title="Germany",[Serien] 2573. Merhaba Amour
-https://jmp2.uk/stvp-DE3100005JK
 #EXTINF:-1 tvg-chno="2632" tvg-id="DE4400003R3" tvg-country="DE" group-title="Germany",[Serien] 2632. Don Matteo
 https://jmp2.uk/stvp-DE4400003R3
 #EXTINF:-1 tvg-chno="2633" tvg-id="DE4400002AE" tvg-country="DE" group-title="Germany",[Serien] 2633. Andromeda
@@ -1580,7 +1576,7 @@ https://jmp2.uk/stvp-DE32000079E
 #EXTINF:-1 tvg-chno="2722" tvg-id="DE32000121N" tvg-country="DE" group-title="Germany",[Sport] 2722. GRIP - Das Motormagazin
 https://jmp2.uk/stvp-DE32000121N
 
-#Spain (167)
+#Spain (169)
 #EXTINF:-1 tvg-chno="581" tvg-id="ES700004C8" tvg-country="ES" group-title="Spain",[Cine] 581. Runtime Familia
 https://jmp2.uk/stvp-ES700004C8
 #EXTINF:-1 tvg-chno="582" tvg-id="ESBC1700004PX" tvg-country="ES" group-title="Spain",[Cine] 582. Trailers
@@ -1655,6 +1651,8 @@ https://jmp2.uk/stvp-ESAJ4500023Y5
 https://jmp2.uk/stvp-ESAJ4500016BH
 #EXTINF:-1 tvg-chno="608" tvg-id="ESBC2700008SK" tvg-country="ES" group-title="Spain",[Comedia] 608. Just For Laughs
 https://jmp2.uk/stvp-ESBC2700008SK
+#EXTINF:-1 tvg-chno="2821" tvg-id="ES1600006S8" tvg-country="ES" group-title="Spain",[Comedia] 2821. LOL España
+https://jmp2.uk/stvp-ES1600006S8
 #EXTINF:-1 tvg-chno="609" tvg-id="ESBA3300029UG" tvg-country="ES" group-title="Spain",[Crimen] 609. El Comisario
 https://jmp2.uk/stvp-ESBA3300029UG
 #EXTINF:-1 tvg-chno="611" tvg-id="ES2600001MC" tvg-country="ES" group-title="Spain",[Crimen] 611. Forensic Files
@@ -1847,6 +1845,8 @@ https://jmp2.uk/stvp-ES17000065P
 https://jmp2.uk/stvp-ES4400005EJ
 #EXTINF:-1 tvg-chno="2519" tvg-id="ES4400001N3" tvg-country="ES" group-title="Spain",[Niños] 2519. Las 3 Mellizas
 https://jmp2.uk/stvp-ES4400001N3
+#EXTINF:-1 tvg-chno="2822" tvg-id="ES1600007AI" tvg-country="ES" group-title="Spain",[Niños] 2822. Teletubbies
+https://jmp2.uk/stvp-ES1600007AI
 #EXTINF:-1 tvg-chno="682" tvg-id="ESBD3400001AA" tvg-country="ES" group-title="Spain",[Noticias] 682. Negocios TV
 https://jmp2.uk/stvp-ESBD3400001AA
 #EXTINF:-1 tvg-chno="683" tvg-id="ESBC39000033J" tvg-country="ES" group-title="Spain",[Noticias] 683. El País
@@ -1916,7 +1916,7 @@ https://jmp2.uk/stvp-ES300033TI
 #EXTINF:-1 tvg-chno="1971" tvg-id="ES33000079W" tvg-country="ES" group-title="Spain",[Viajes y Cocina] 1971. RTVE Cocina
 https://jmp2.uk/stvp-ES33000079W
 
-#France (173)
+#France (171)
 #EXTINF:-1 tvg-chno="706" tvg-id="FRBD410000783" tvg-country="FR" group-title="France",[Actualités] 706. BFM TV
 https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1 tvg-chno="708" tvg-id="FR1400003Y0" tvg-country="FR" group-title="France",[Actualités] 708. BFM 2
@@ -2131,8 +2131,10 @@ https://jmp2.uk/stvp-FRAJ38000061J
 https://jmp2.uk/stvp-FR4800002NE
 #EXTINF:-1 tvg-chno="2421" tvg-id="FR3400004L5" tvg-country="FR" group-title="France",[Jeunesse] 2421. 100% Kidz
 https://jmp2.uk/stvp-FR3400004L5
-#EXTINF:-1 tvg-chno="2483" tvg-id="FR38000024W" tvg-country="FR" group-title="France",[Jeunesse] 2483. Masha et Michka
-https://jmp2.uk/stvp-FR38000024W
+#EXTINF:-1 tvg-chno="2823" tvg-id="FR1600002TT" tvg-country="FR" group-title="France",[Jeunesse] 2823. Les Télétubbies
+https://jmp2.uk/stvp-FR1600002TT
+#EXTINF:-1 tvg-chno="2824" tvg-id="FR2200004HP" tvg-country="FR" group-title="France",[Jeunesse] 2824. Masha et Michka
+https://jmp2.uk/stvp-FR2200004HP
 #EXTINF:-1 tvg-chno="803" tvg-id="FRBC2100001YY" tvg-country="FR" group-title="France",[Musique et ambiance] 803. Vevo Pop
 https://jmp2.uk/stvp-FRBC2100001YY
 #EXTINF:-1 tvg-chno="804" tvg-id="FRBC2100002JA" tvg-country="FR" group-title="France",[Musique et ambiance] 804. Vevo Hip-Hop & R&B
@@ -2233,14 +2235,8 @@ https://jmp2.uk/stvp-FRBD41000124S
 https://jmp2.uk/stvp-FR3100005MK
 #EXTINF:-1 tvg-chno="2439" tvg-id="FR4000001TX" tvg-country="FR" group-title="France",[Séries TV] 2439. Jodha Akbar
 https://jmp2.uk/stvp-FR4000001TX
-#EXTINF:-1 tvg-chno="2576" tvg-id="FR3800003N7" tvg-country="FR" group-title="France",[Séries TV] 2576. Merhaba Amour
-https://jmp2.uk/stvp-FR3800003N7
 #EXTINF:-1 tvg-chno="2691" tvg-id="FR1200003GR" tvg-country="FR" group-title="France",[Séries TV] 2691. H2O & Friends
 https://jmp2.uk/stvp-FR1200003GR
-#EXTINF:-1 tvg-chno="2816" tvg-id="FR3000125U" tvg-country="FR" group-title="France",[Séries TV] 2816. Sony One Séries Thriller
-https://jmp2.uk/stvp-FR3000125U
-#EXTINF:-1 tvg-chno="2817" tvg-id="FR3000082K" tvg-country="FR" group-title="France",[Séries TV] 2817. Sony One Séries Comédie
-https://jmp2.uk/stvp-FR3000082K
 #EXTINF:-1 tvg-chno="839" tvg-id="FRBD4100001DF" tvg-country="FR" group-title="France",[Télé réalité] 839. Les Anges
 https://jmp2.uk/stvp-FRBD4100001DF
 #EXTINF:-1 tvg-chno="841" tvg-id="FRBD3900005MB" tvg-country="FR" group-title="France",[Télé réalité] 841. Le Meilleur de la TV Réalité
@@ -2459,10 +2455,10 @@ https://jmp2.uk/stvp-GB170000351
 https://jmp2.uk/stvp-GB1700005U8
 #EXTINF:-1 tvg-chno="2270" tvg-id="GB2400008GK" tvg-country="GB" group-title="United Kingdom",[Kids] 2270. Dennis and Gnasher
 https://jmp2.uk/stvp-GB2400008GK
-#EXTINF:-1 tvg-chno="2485" tvg-id="GB38000026H" tvg-country="GB" group-title="United Kingdom",[Kids] 2485. Masha & the Bear
-https://jmp2.uk/stvp-GB38000026H
 #EXTINF:-1 tvg-chno="2486" tvg-id="GB4200002K6" tvg-country="GB" group-title="United Kingdom",[Kids] 2486. Pokémon
 https://jmp2.uk/stvp-GB4200002K6
+#EXTINF:-1 tvg-chno="2825" tvg-id="GB22000040Z" tvg-country="GB" group-title="United Kingdom",[Kids] 2825. Masha & the Bear
+https://jmp2.uk/stvp-GB22000040Z
 #EXTINF:-1 tvg-chno="939" tvg-id="GB2600017PX" tvg-country="GB" group-title="United Kingdom",[Movies] 939. Family - Rakuten TV
 https://jmp2.uk/stvp-GB2600017PX
 #EXTINF:-1 tvg-chno="940" tvg-id="GB2600020OP" tvg-country="GB" group-title="United Kingdom",[Movies] 940. Comedy Movies - Rakuten TV
@@ -2742,7 +2738,7 @@ https://jmp2.uk/stvp-GB51000044P
 #EXTINF:-1 tvg-chno="2750" tvg-id="GB5100003NZ" tvg-country="GB" group-title="United Kingdom",[TV Series] 2750. Nashville
 https://jmp2.uk/stvp-GB5100003NZ
 
-#India (193)
+#India (197)
 #EXTINF:-1 tvg-chno="1030" tvg-id="INBD13000053R" tvg-country="IN" group-title="India",[Devotional] 1030. Divya
 https://jmp2.uk/stvp-INBD13000053R
 #EXTINF:-1 tvg-chno="1031" tvg-id="IN1600002IQ" tvg-country="IN" group-title="India",[Devotional] 1031. Divya Bhajan
@@ -2919,6 +2915,8 @@ https://jmp2.uk/stvp-IN400054UF
 https://jmp2.uk/stvp-IN2100014K1
 #EXTINF:-1 tvg-chno="2804" tvg-id="IN3300006TC" tvg-country="IN" group-title="India",[Infotainment] 2804. WedoTV Big Stories
 https://jmp2.uk/stvp-IN3300006TC
+#EXTINF:-1 tvg-chno="2826" tvg-id="IN8000186A" tvg-country="IN" group-title="India",[Infotainment] 2826. DocuBay
+https://jmp2.uk/stvp-IN8000186A
 #EXTINF:-1 tvg-chno="1086" tvg-id="IN25000020M" tvg-country="IN" group-title="India",[Kids] 1086. The Jungle Book
 https://jmp2.uk/stvp-IN25000020M
 #EXTINF:-1 tvg-chno="1088" tvg-id="IN2500003JW" tvg-country="IN" group-title="India",[Kids] 1088. Powerkids Kartoon Channel
@@ -2935,6 +2933,8 @@ https://jmp2.uk/stvp-IN4600009F9
 https://jmp2.uk/stvp-IN4900012F9
 #EXTINF:-1 tvg-chno="2655" tvg-id="IN4000625P" tvg-country="IN" group-title="India",[Kids] 2655. Green Gold TV
 https://jmp2.uk/stvp-IN4000625P
+#EXTINF:-1 tvg-chno="2827" tvg-id="IN800021X7" tvg-country="IN" group-title="India",[Kids] 2827. Epic Kids
+https://jmp2.uk/stvp-IN800021X7
 #EXTINF:-1 tvg-chno="1096" tvg-id="IN300000210" tvg-country="IN" group-title="India",[Lifestyle] 1096. Travelxp HD
 https://jmp2.uk/stvp-IN300000210
 #EXTINF:-1 tvg-chno="1097" tvg-id="IN2600021ED" tvg-country="IN" group-title="India",[Lifestyle] 1097. India TV Yoga
@@ -3007,6 +3007,8 @@ https://jmp2.uk/stvp-IN400061DB
 https://jmp2.uk/stvp-IN460001727
 #EXTINF:-1 tvg-chno="2807" tvg-id="IN330000528" tvg-country="IN" group-title="India",[Movies] 2807. WedoTV Movies
 https://jmp2.uk/stvp-IN330000528
+#EXTINF:-1 tvg-chno="2828" tvg-id="IN800020ZZ" tvg-country="IN" group-title="India",[Movies] 2828. Epic Bhojpuri
+https://jmp2.uk/stvp-IN800020ZZ
 #EXTINF:-1 tvg-chno="1122" tvg-id="IN3800006RD" tvg-country="IN" group-title="India",[Music] 1122. K-POP by CJ ENM
 https://jmp2.uk/stvp-IN3800006RD
 #EXTINF:-1 tvg-chno="1126" tvg-id="IN38000050P" tvg-country="IN" group-title="India",[Music] 1126. 9XM
@@ -3049,6 +3051,8 @@ https://jmp2.uk/stvp-IN800007SR
 https://jmp2.uk/stvp-IN800004YV
 #EXTINF:-1 tvg-chno="2286" tvg-id="IN4900011OU" tvg-country="IN" group-title="India",[Music] 2286. @K-MUSIC
 https://jmp2.uk/stvp-IN4900011OU
+#EXTINF:-1 tvg-chno="2829" tvg-id="IN8000196E" tvg-country="IN" group-title="India",[Music] 2829. Epic Music
+https://jmp2.uk/stvp-IN8000196E
 #EXTINF:-1 tvg-chno="1139" tvg-id="INBD400001CP" tvg-country="IN" group-title="India",[Regional News] 1139. Zee 24 Taas
 https://jmp2.uk/stvp-INBD400001CP
 #EXTINF:-1 tvg-chno="1140" tvg-id="INBD2500017JZ" tvg-country="IN" group-title="India",[Regional News] 1140. News18 Punjab Haryana
@@ -3153,16 +3157,16 @@ https://jmp2.uk/stvp-ITBD51000010V
 https://jmp2.uk/stvp-IT34000016N
 #EXTINF:-1 tvg-chno="1187" tvg-id="IT3900001EN" tvg-country="IT" group-title="Italy",[Bambini] 1187. Sonic The Hedgehog
 https://jmp2.uk/stvp-IT3900001EN
-#EXTINF:-1 tvg-chno="1188" tvg-id="ITAJ3800010RX" tvg-country="IT" group-title="Italy",[Bambini] 1188. Super! Pop
+#EXTINF:-1 tvg-chno="1188" tvg-id="ITAJ3800010RX" tvg-country="IT" group-title="Italy",[Bambini] 1188. Pluto TV Teen Club
 https://jmp2.uk/stvp-ITAJ3800010RX
-#EXTINF:-1 tvg-chno="1189" tvg-id="ITAJ3800002PN" tvg-country="IT" group-title="Italy",[Bambini] 1189. Super! iCarly
+#EXTINF:-1 tvg-chno="1189" tvg-id="ITAJ3800002PN" tvg-country="IT" group-title="Italy",[Bambini] 1189. iCarly
 https://jmp2.uk/stvp-ITAJ3800002PN
-#EXTINF:-1 tvg-chno="1190" tvg-id="ITAJ380000343" tvg-country="IT" group-title="Italy",[Bambini] 1190. Super! Spongebob
+#EXTINF:-1 tvg-chno="1190" tvg-id="ITAJ380000343" tvg-country="IT" group-title="Italy",[Bambini] 1190. Spongebob
 https://jmp2.uk/stvp-ITAJ380000343
 #EXTINF:-1 tvg-chno="1877" tvg-id="IT480000143" tvg-country="IT" group-title="Italy",[Bambini] 1877. Teletubbies
 https://jmp2.uk/stvp-IT480000143
-#EXTINF:-1 tvg-chno="2488" tvg-id="IT3800010K1" tvg-country="IT" group-title="Italy",[Bambini] 2488. Masha e Orso
-https://jmp2.uk/stvp-IT3800010K1
+#EXTINF:-1 tvg-chno="2830" tvg-id="IT2200011IA" tvg-country="IT" group-title="Italy",[Bambini] 2830. Masha e Orso
+https://jmp2.uk/stvp-IT2200011IA
 #EXTINF:-1 tvg-chno="1192" tvg-id="ITBD1000002HF" tvg-country="IT" group-title="Italy",[Calcio] 1192. FIFA+
 https://jmp2.uk/stvp-ITBD1000002HF
 #EXTINF:-1 tvg-chno="1193" tvg-id="ITBC4700002CO" tvg-country="IT" group-title="Italy",[Calcio] 1193. Solocalcio
@@ -3223,7 +3227,7 @@ https://jmp2.uk/stvp-IT9000023T
 https://jmp2.uk/stvp-IT2100001EZ
 #EXTINF:-1 tvg-chno="1191" tvg-id="IT2600010E0" tvg-country="IT" group-title="Italy",[Film] 1191. Family - Rakuten TV
 https://jmp2.uk/stvp-IT2600010E0
-#EXTINF:-1 tvg-chno="1213" tvg-id="ITBD1100001B7" tvg-country="IT" group-title="Italy",[Film] 1213. Gli immortali – Van Damme vs Lundgren
+#EXTINF:-1 tvg-chno="1213" tvg-id="ITBD1100001B7" tvg-country="IT" group-title="Italy",[Film] 1213. Gli Immortali
 https://jmp2.uk/stvp-ITBD1100001B7
 #EXTINF:-1 tvg-chno="1219" tvg-id="IT2600002F6" tvg-country="IT" group-title="Italy",[Film] 1219. Film Top - Rakuten TV
 https://jmp2.uk/stvp-IT2600002F6
@@ -3323,6 +3327,8 @@ https://jmp2.uk/stvp-IT5100003XM
 https://jmp2.uk/stvp-IT900013AJ
 #EXTINF:-1 tvg-chno="2811" tvg-id="IT1200003NR" tvg-country="IT" group-title="Italy",[Intrattenimento] 2811. Quantum Makers
 https://jmp2.uk/stvp-IT1200003NR
+#EXTINF:-1 tvg-chno="2812" tvg-id="IT3000010NB" tvg-country="IT" group-title="Italy",[Intrattenimento] 2812. RTL 102.5
+https://jmp2.uk/stvp-IT3000010NB
 #EXTINF:-1 tvg-chno="1270" tvg-id="ITBC2100001G9" tvg-country="IT" group-title="Italy",[Musica e Ambient] 1270. Vevo Pop
 https://jmp2.uk/stvp-ITBC2100001G9
 #EXTINF:-1 tvg-chno="1271" tvg-id="ITBD1900010JL" tvg-country="IT" group-title="Italy",[Musica e Ambient] 1271. Vevo '70s & '80s
@@ -3369,8 +3375,6 @@ https://jmp2.uk/stvp-IT1800006P9
 https://jmp2.uk/stvp-IT18000076Y
 #EXTINF:-1 tvg-chno="2786" tvg-id="IT3300004VU" tvg-country="IT" group-title="Italy",[Musica e Ambient] 2786. Metal.Rocks
 https://jmp2.uk/stvp-IT3300004VU
-#EXTINF:-1 tvg-chno="2812" tvg-id="IT3000010NB" tvg-country="IT" group-title="Italy",[Musica e Ambient] 2812. RTL 102.5
-https://jmp2.uk/stvp-IT3000010NB
 #EXTINF:-1 tvg-chno="2813" tvg-id="IT30000132N" tvg-country="IT" group-title="Italy",[Musica e Ambient] 2813. RTL 102.5 Caliente
 https://jmp2.uk/stvp-IT30000132N
 #EXTINF:-1 tvg-chno="1287" tvg-id="ITBD1500002NL" tvg-country="IT" group-title="Italy",[News] 1287. La 7
@@ -3443,8 +3447,6 @@ https://jmp2.uk/stvp-ITBC3000007XK
 https://jmp2.uk/stvp-IT600001L6
 #EXTINF:-1 tvg-chno="1313" tvg-id="IT2400001AE" tvg-country="IT" group-title="Italy",[Sport] 1313. Top Gear
 https://jmp2.uk/stvp-IT2400001AE
-#EXTINF:-1 tvg-chno="1315" tvg-id="ITBD10000040W" tvg-country="IT" group-title="Italy",[Sport] 1315. The Boat Show
-https://jmp2.uk/stvp-ITBD10000040W
 #EXTINF:-1 tvg-chno="1316" tvg-id="ITBD29000015E" tvg-country="IT" group-title="Italy",[Sport] 1316. World Poker Tour
 https://jmp2.uk/stvp-ITBD29000015E
 #EXTINF:-1 tvg-chno="1317" tvg-id="ITBD300001GI" tvg-country="IT" group-title="Italy",[Sport] 1317. Move - Sportivi in Viaggio
@@ -3471,6 +3473,8 @@ https://jmp2.uk/stvp-IT800003V4
 https://jmp2.uk/stvp-IT16000070D
 #EXTINF:-1 tvg-chno="2796" tvg-id="IT4000089R" tvg-country="IT" group-title="Italy",[Sport] 2796. LBA Classics
 https://jmp2.uk/stvp-IT4000089R
+#EXTINF:-1 tvg-chno="2831" tvg-id="IT18000098G" tvg-country="IT" group-title="Italy",[Sport] 2831. The Boat Show
+https://jmp2.uk/stvp-IT18000098G
 
 #South Korea (176)
 #EXTINF:-1 tvg-chno="1321" tvg-id="KRBD1400001ED" tvg-country="KR" group-title="South Korea",[뉴스] 1321. 연합뉴스TV
