@@ -1,9 +1,6 @@
 #EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live.eu-north-1a.cf.dmcdn.net/sec2(vPvv1lU4-9Ju7g8SNHXBMhNO6DbViz-sh211Tdzi0y_x6pdKmdh3B9kLOYdYTFNINz2LYbnS17VUzCVxmo8o_Xp3LDoRaOEHbuHMncpPjJGHgt74cY6-siVRXOOYoafn)/dm/3/x3b68jn/d/live-380.m3u8?startdate=2026-07-07T08%3A07%3A42%2B0000#cell=lcf-eu-north-1a
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live.eu-north-1a.cf.dmcdn.net/sec2(vPvv1lU4-9Ju7g8SNHXBMhNO6DbViz-sh211Tdzi0y_x6pdKmdh3B9kLOYdYTFNINz2LYbnS17VUzCVxmo8o_Xp3LDoRaOEHbuHMncpPjJGHgt74cY6-siVRXOOYoafn)/dm/3/x3b68jn/d/live-240.m3u8?startdate=2026-07-07T08%3A07%3A42%2B0000#cell=lcf-eu-north-1a
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"
-https://live.eu-north-1a.cf.dmcdn.net/sec2(vPvv1lU4-9Ju7g8SNHXBMhNO6DbViz-sh211Tdzi0y_x6pdKmdh3B9kLOYdYTFNINz2LYbnS17VUzCVxmo8o_Xp3LDoRaOEHbuHMncpPjJGHgt74cY6-siVRXOOYoafn)/dm/3/x3b68jn/d/live-480@60.m3u8?startdate=2026-07-07T08%3A07%3A42%2B0000#cell=lcf-eu-north-1a
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR",CNEWS
+https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.ts
+#^BACKUP LINK^#
 
-#Last refreshed on 29/07/2026 15:19:15 CEST.
+#Last refreshed on 30/07/2026 03:19:14 CEST.
