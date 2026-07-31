@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 31/07/2026 08:24:32 CEST+0200
+# Generated on: 31/07/2026 09:24:33 CEST+0200
 # Total Channels: 448
 # Groups: BELGIQUE (1), CANALPLUS (8), EQUIDIA (28), FRANCE (36), FRANCE.TV (40), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (171), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
@@ -51,7 +51,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1,C NEWS [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
 #EXTINF:-1,LCI [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/NAh236H1LQoZ/res/5VsSb542o31Iz7jn-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/NAh236H1LQoZ/r
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1,CStar [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cstar-dm-highest.m3u8
 #EXTINF:-1,T18 [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1,NOVO19 [1080p-tf1.fr]
@@ -100,13 +100,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplus-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1,CStar [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cstar-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1,C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1,CNEWS [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1,CNEWS PRIME [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnewsprime-clair-hd-highest.m3u8
@@ -125,11 +125,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1,My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=erjmLqcRoMM90xLaEfAm1400Pg6ZVT5_ZCNBYvAdjNT4doew_PjszFaoJ_F86HJr3LP7ePi7i3HDFZxNg0fPHTF7wyLSPlSrfAOORR_aw1g
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=l4chdeDxwPQ5OKMhDIrP3XxQL2w-XsexFviBtReH36-4dhp4po1Bib1XIuCkYB2Iqai5TB7WqcoxYXQ4wdtefyrAB_dlcMOavrdePmjkwp0
 #EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=PY6X9J5cH66yqKMb9LEwTgQmum9-s-m8_E7NMacIrGXXuW-u5CDxKxkaqjeQNwpGFHqm4A4Ab5cXwrDHAJZwv2TCw6ftCanWqLrr_a5X9k4
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=elCPsKOmDW9c9ykxBM-zn9bu1tRnfbFQ3BCQWHxm0yRe4Ji2S2SwrpzL4n2yBpnDkmdVRBpT7qEEgFrQpiKdPQVKHnrroS6d-ohfiS9BeIc
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=MkBL6cynGM7Zh4d7p9dgWmTLk9MJ5xxfQO3suLfJ0cuTlG7xx_uLZrTfYYcFm6mI7njdgiDFKPIbjf2D6mkBHoqDqMNqNhnEqhqG71Ngbmg
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=aKnsWoE5tgrbTSpyzGV-zn2yMgpzxvjc2EWozk2xu9kIaDsUwO-TOD0VZ0WCTNLY7TFhQ8pfguxuPn4isEN5O0RwXGpAm57l2XT8_KVOcbg
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
