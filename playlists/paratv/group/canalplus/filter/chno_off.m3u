@@ -1,13 +1,10 @@
 #EXTM3U
-# Generated on: 02/08/2026 03:24:32 CEST+0200
+# Generated on: 04/08/2026 18:30:37 CEST+0200
 
-#CANALPLUS (8)
+#CANALPLUS (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CanalPlus.fr" epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="CANALPLUS",CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CanalPlus.fr" epg-s="34" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="CANALPLUS",CANAL+ EN CLAIR [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplus-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 epg-s="458" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" tvg-country="FR" group-title="CANALPLUS",CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
