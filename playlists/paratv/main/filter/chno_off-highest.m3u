@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 09/08/2026 05:24:33 CEST+0200
-# Total Channels: 445
-# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (34), FRANCE.TV (40), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (171), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 09/08/2026 06:28:34 CEST+0200
+# Total Channels: 446
+# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (34), FRANCE.TV (40), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (171), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (34)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -115,13 +115,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/hDscsNi.png" tvg-country="FR" group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (3)
+#LEQUIPE.FR (4)
 #EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=m5R-Z4-hG_8Rb69yz8e67lCUYlzBhPZZ_WhcLCsTbbm3WeJDQ4hDMf2TVxtIyFIdh9xWZGMO9gd4L0eK3r5lxJxugUOVKfcE5MFzLpu26wA
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=8kry5zKpxSSWM-6s_VBBiG3Edd0FoLQamMzcHG7R4lYpQazYK7vLfolOP-5_RgpzoY0cAHbjMafgTRBnQouIMYIFaI6dDX2NawjeXYwu_P0
 #EXTINF:-1 tvg-id="k1kypsRZF9plQhqwBRS" group-title="LEQUIPE.FR",L'Équipe live 1
-https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=Va8QrOtKl95WID39djYFZoC23AL8SUM0Sqm70Hh59jEIPvI8DVf7e1cc7i9PwrLj__Ru_CSG0iU2wtXgBSphuq7rjsEbLNzcCMupJp6qu24
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=xhXV6fs2S5C1SoeRhIp13dtPTUUGEudkNxr9orEsLmmIN7jJn6qwOoIIhJ43vw6sgwStzEuYruIPtFG5glTiUT73c9Gakl4Uve2S7CGx0x4
 #EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=99CRWSrV3rLlL4N7bDbv7uI8lsd5Qcr24OP9YpsRGGUmq0tT7lIQ3vz6izy1gkD131xJw2JPy4YD7yv885xV0QBb2w7tSJWNFbuFuYRFgKo
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=4K7sxx5jhO-MiK6Wz8dArjv3RIyMjejVJPtuXfp3lOXhRV-hH5AfNtrJJHGLuSlPAjHfliVqKeeph9PP5Ubw7ORsVK_YV227udadfDT-q2M
+#EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",la chaine L'Équipe en direct
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=1JrDcPIa4Zbigu_rmP_pxMfwDJFtgtfGdaAq4NP6wwgzELE29TaHNwIqXaz1GqEhPV96Xu4p88SFU4kUxoqYN8iIjVhKiwaABX6dRX0gSDw
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
