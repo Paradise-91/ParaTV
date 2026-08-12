@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 12/08/2026 14:24:32 CEST+0200
+# Generated on: 12/08/2026 15:24:33 CEST+0200
 # Total Channels: 447
 # Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (34), FRANCE.TV (40), LEQUIPE.FR (5), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (171), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" tvg-country="FR" group-title="FRANCE",17. CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cstar-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" tvg-country="FR" group-title="FRANCE",18. T18 [1080p-dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png" tvg-country="FR" group-title="FRANCE",19. NOVO19 [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Sh7WtZDdoYVG/res/sDEP1dGDofN1ZtK-highest.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="FRANCE",20. TF1 Séries Films [720p-tf1.fr]
@@ -117,15 +117,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (5)
 #EXTINF:-1 tvg-chno="78" group-title="LEQUIPE.FR",78. My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=OMOKr_9zTndW8JEeOhWw1euR9lSnGeOlolBArN71riLFP2n1Hdo82LGFcwvTK6Pn-dnF66Db2gYrTtTEBZoTHrmiDu5wHuf4Rw26K1EE7P4
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=C3nXVFB_GSxjXfn1sHh-WUTiFHx4Vjga4EDNMgHS8iHl9RK2_5O5OheTK3g6i-PssaG9DjHjUmWp-KuEvk1FZy6jvpJ28hLBcFPVyfDeSro
 #EXTINF:-1 tvg-chno="79" group-title="LEQUIPE.FR",79. L'Équipe live 1
-https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=DK8sceNBDGqWhLwDV7WaVMsOK6TH1FbIle1gg4eyIs4DUrSYZgSuUuzPpW90AhmAXTeFefh6fmR_OUmGHzXj_obtgR2q1D8stoQ7yCoFSYs
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=hRg_eKETf65qspEdH6zo51mNfBxqIwtU2uk1YsfZKm6j3tEh0wvQc4kiHGjaM35u_7USheK_r28-hVZnK6uOystGvPZK6RstUUZgnHpNucs
 #EXTINF:-1 tvg-chno="80" group-title="LEQUIPE.FR",80. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=SmVEpHoMu6OXA7p4WwYlNVoQTZuEsqY0D0ac9sNNmv8z91PJMqp5yN2c3X3rZzd0YVT7RVU63ZzlXfTGnPw4-Gl1aDDUYSgtArRSPt9bHGA
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=UUby8tfSRZsI7irjmAQ42Oa5WObiUukhoCLRKsEk1x_hSTVbEaiZbLldN1nTlMxgedhUmSfC1JIZQ4uuIsDGz8CNtwzC03j1-dRciy4SbaM
 #EXTINF:-1 tvg-chno="81" group-title="LEQUIPE.FR",81. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=2ZzSfRt_gwG3e0oQ8sxuNk95BIODhTfaVJLMeEHM_bXBUGEs5ILWZS4V0jnxLDdDbluXGV7Lbrmrk2nYyI4UroKAMF-zUdxPWudayu1RaNo
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=67ofUQBU5t8KW9TuxLA1uYM_95nHYDtMyOl7CjkcGGemxccNk_q9hFJqXh25ECt_3HL-4hWcqYGvM1Fb0-6yNdsxDjcuiZ2q8TmMqaOK1Es
 #EXTINF:-1 tvg-chno="82" group-title="LEQUIPE.FR",82. L'Équipe live 3
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=Bt07fiQZlBDuPhj7MxEZ92_Ikrcx3_iPzXgLTptE90jlWNqhJWXfpNKbnds01lcvE_-u1jGrYNHB_m_BoYsDEDScLmR9gm15GplPl69HMuI
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=46eOqSzQIl5poIMNnL0el-9ff3Sf7VlYhnUjM7Cr4jbohQ3_OT_fgsg6rK0SoVpjT_G-Uk9014HOur9wjHeAY4mH4lsSIJ2A9ampgxhufLc
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
