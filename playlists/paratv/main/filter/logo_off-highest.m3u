@@ -1,11 +1,11 @@
 #EXTM3U
-# Generated on: 16/08/2026 17:24:32 CEST+0200
-# Total Channels: 448
-# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (34), FRANCE.TV (40), LEQUIPE.FR (6), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (171), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 16/08/2026 18:24:33 CEST+0200
+# Total Channels: 447
+# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (34), FRANCE.TV (40), LEQUIPE.FR (5), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (171), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (34)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/KhBFkrFoIKbwdbit-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/tbYGAgq9GqRcJ1aU-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" epg-s="4" tvg-country="FR" group-title="FRANCE",2. France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france2-highest.m3u8
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" epg-s="111" tvg-country="FR" group-title="FRANCE",7. Arte [720p-arte.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/res/arte-highest.m3u8
 #EXTINF:-1 tvg-chno="46" epg-s="111" tvg-country="FR" group-title="FRANCE",46. ARTE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/M6vbV5nv7ZlupLV9-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/TLVog8tlN7EuoC1c-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="47" tvg-id="Arte.fr" epg-s="111" tvg-country="FR" group-title="FRANCE",47. Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/arte-highest.m3u8
@@ -35,13 +35,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/a
 #EXTINF:-1 tvg-chno="8" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-country="FR" group-title="FRANCE",8. LCP [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-id="LaChaineParlementaire.fr" tvg-country="FR" group-title="FRANCE",52. LCP - PUBLIC SÉNAT [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/mSsqUUeCIVd7zT09-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/KKRvJDpWU1syyxj7-highest.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="PublicSenat2424.fr" epg-s="2013" tvg-country="FR" group-title="FRANCE",43. Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-country="FR" group-title="FRANCE",10. TMC [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/441L53Dg1QdV4AmZ-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/2P4YCtTfAu6Wr6S-highest.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-country="FR" group-title="FRANCE",11. TFX [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/oapwosuYDA6EXb-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/QD7XHNgIJ9rKfbjk-highest.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="BFMTV.fr" epg-s="481" tvg-country="FR" group-title="FRANCE",13. BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/
 #EXTINF:-1 tvg-chno="45" tvg-id="CNews.fr" epg-s="226" tvg-country="FR" group-title="FRANCE",45. C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="LCI.fr" epg-s="112" tvg-country="FR" group-title="FRANCE",15. LCI [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/Wx0DFAwqoqegxn5C-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/NkRnpniY7zwWjq16-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="16" tvg-id="FranceInfo.fr" epg-s="2111" tvg-country="FR" group-title="FRANCE",16. France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
@@ -61,13 +61,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/
 #EXTINF:-1 tvg-chno="18" tvg-id="T18.fr" epg-s="4139" tvg-country="FR" group-title="FRANCE",18. T18 [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="NOVO19.fr" tvg-country="FR" group-title="FRANCE",19. NOVO19 [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/KRMuFAxfN1rbvVVG-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/7oeORV7ucEol87lQ-highest.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" epg-s="1404" tvg-country="FR" group-title="FRANCE",20. TF1 Séries Films [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/1UfbXevA1rQtizZl-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/kfb5g2v4jzfpKc-highest.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" epg-s="1401" tvg-country="FR" group-title="FRANCE",21. LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-id="LEquipe21.fr" epg-s="1401" tvg-country="FR" group-title="FRANCE",44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/FKXwTDRmqWDzJ6Zh-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/wtLsNv2BTQDDTRrx-highest.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" epg-s="1402" tvg-country="FR" group-title="FRANCE",23. RMC STORY [1080p-rmcbfmplay.com]
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" epg-s="1400" tvg-country="FR" group-title="FRANCE",24. RMC Découverte [1080p-rmcbfmplay.com]
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 tvg-chno="34" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-country="FR" group-title="FRANCE",34. LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-highest.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-country="FR" group-title="FRANCE",35. LE FIGARO TV [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/o7670fvA2yfdmGWm-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/MjtpXTWUOVBabVgv-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="40" tvg-id="CanalPlus.fr" epg-s="34" tvg-country="FR" group-title="FRANCE",40. CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/canalplusclair-hd-highest.m3u8
@@ -115,19 +115,17 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="TV5MondeInfo.fr" tvg-country="FR" group-title="TV5MONDE",71. TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (6)
+#LEQUIPE.FR (5)
 #EXTINF:-1 tvg-chno="78" tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",78. My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=iY9QEiV8dNRK_JkCap7yyL4q7UaC5wmYmKjLna2pkpdjVufQIxzQTCkZM-b9lXVvGRYX0bm_Gxbi1VxrdoyU-rPLnNwjjcoRB6E-tKni60A
-#EXTINF:-1 tvg-chno="79" tvg-id="k6P3xLH5tTtGSgqwC4P" group-title="LEQUIPE.FR",79. L'Équipe Live 6
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd0f7.m3u8?sec=GT1YbGr-wBXOygLqNBcFGiy2ynqLPV7NmkCdyRCtxwYuroNbs7daSpgGDksvooAUAHNcNLkPtGxrYLt5dUQVOzf-OP5wNs8SluEw7eS4xw0
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=uOy0ZQxZNRL0ggXRX7dQmnDDsEuFG7LBArvEvjUcVN_ugE_1QNK76_n4WTxqTou61a6siC5-Grbh2YqF2GMBVwm0nN-6MtOGEEYstSY9_5E
+#EXTINF:-1 tvg-chno="79" tvg-id="k5TgcOKBUTM2KnqwBWC" group-title="LEQUIPE.FR",79. L'Équipe live 2
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=OcNni_vA2oEIpYdyqnSiRsjclFtk4uRqSvFJtXvTOCAuWnErJcCLhBYAlI6qyNoXb1gPBV3CwwhewscjnWXy7hs9b8ZFmPeY7oZFtIImoPI
 #EXTINF:-1 tvg-chno="80" tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",80. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=N_cbau9svxD-hxzZtLYtA-Zq5Lgg_bq9d2hgsVWbvKSySvmsX0xpJgU-WY2g74qSipFvaYA-QbJa4BfvEZDZpX8HwTVxRVKQyJ_Iqr8m5p4
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=J1xUJlvAVao_QwDOH-LXcHfG_oWDyCFwobYk0ElczYRglWf9LLyzo7Dt3YgqQDvFsdJ3SLQ8sjEw-IXRvIlKQ7J3I34EFb_1sKElUWneJ-A
 #EXTINF:-1 tvg-chno="81" tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",81. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=2GAUhJIIcKftydxkq12fCJ2T7d-nrlOZsOVis7rhdJxZ0J6fbVUTzA7t4Ayijo2kXBd-qvLBDyvC2DYFHLZW05_v32WsGSyLjY3sQe8rKSg
-#EXTINF:-1 tvg-chno="82" tvg-id="k3HiS3JB0BsORKqwC49" group-title="LEQUIPE.FR",82. L'Équipe live 5
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=x2F-XtRkLLaHsG_AE6ELFHAjbhX4-HjtcwEe7JvmacTgJmdrsbVaqEdKLXh-HhetC94sFQpRbbPX6AwqYWkBACiLdmAzrPMYZKotG841nNI
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=aY_Qy0L17v2L4U4x2LvHN-wWvsyoUT6NtuydxcQal7xvcqcSubEmj9VnF6vZIGWwX-fQqrQh-lvSUBjfFuLBjpCucB6h2MXCxU34elss1Ms
 #EXTINF:-1 tvg-chno="83" tvg-id="kXRfcKHV9HhcZuqwBYP" group-title="LEQUIPE.FR",83. L'Équipe live 3
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=uTOwnv1o5OrTv5E32mv-Y9ntVCUFBuS6PudtSPnl-EulgRsnHCIQIfFLq_oUblLWM4fbMdEPqsWAoA1QwnQSPCd253Bcx1tld2nGYcogdyM
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=NOG2A7t3lwWWzLEqoxep0FBfBHgD8d6VXkVHP5MadLDz8-Yy9xgIyBTrhVpw_qnMISDXnC1FN7-TJNl5w18cknNCUhgAnEb_BbA0oTpgNAI
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -253,27 +251,27 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/p
 
 #TF1PLUS (11)
 #EXTINF:-1 tvg-chno="200" tvg-country="FR" group-title="TF1PLUS",200. TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/KhBFkrFoIKbwdbit-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/tbYGAgq9GqRcJ1aU-highest.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-country="FR" group-title="TF1PLUS",201. TMC
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/441L53Dg1QdV4AmZ-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/2P4YCtTfAu6Wr6S-highest.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-country="FR" group-title="TF1PLUS",202. TFX
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/oapwosuYDA6EXb-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/QD7XHNgIJ9rKfbjk-highest.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-country="FR" group-title="TF1PLUS",203. TF1 SÉRIES FILMS
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/1UfbXevA1rQtizZl-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/kfb5g2v4jzfpKc-highest.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-country="FR" group-title="TF1PLUS",204. LCI
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/Wx0DFAwqoqegxn5C-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/NkRnpniY7zwWjq16-highest.m3u8
 #EXTINF:-1 tvg-chno="205" tvg-country="FR" group-title="TF1PLUS",205. LA CHAÎNE L'EQUIPE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/FKXwTDRmqWDzJ6Zh-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/wtLsNv2BTQDDTRrx-highest.m3u8
 #EXTINF:-1 tvg-chno="206" tvg-country="FR" group-title="TF1PLUS",206. LE FIGARO TV
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/o7670fvA2yfdmGWm-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/MjtpXTWUOVBabVgv-highest.m3u8
 #EXTINF:-1 tvg-chno="207" tvg-country="FR" group-title="TF1PLUS",207. ARTE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/M6vbV5nv7ZlupLV9-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/TLVog8tlN7EuoC1c-highest.m3u8
 #EXTINF:-1 tvg-chno="208" tvg-country="FR" group-title="TF1PLUS",208. LCP - PUBLIC SÉNAT
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/mSsqUUeCIVd7zT09-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/KKRvJDpWU1syyxj7-highest.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-country="FR" group-title="TF1PLUS",209. NOVO19
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/KRMuFAxfN1rbvVVG-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/7oeORV7ucEol87lQ-highest.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-country="FR" group-title="TF1PLUS",210. RED BULL TV
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bkJ0cvlBa9Lw/res/4uTuwithfKrIAabE-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/F290BNQQgR/res/qucBOMROOgqCJf6K-highest.m3u8
 
 #EQUIDIA (28)
 #EXTINF:-1 tvg-chno="300" tvg-country="FR" group-title="EQUIDIA",300. LE GRAND DIRECT [1080p-equidia.fr]
