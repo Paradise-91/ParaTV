@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 20/08/2026 05:24:32 CEST+0200
-# Total Channels: 445
-# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (34), FRANCE.TV (40), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (171), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 20/08/2026 06:28:34 CEST+0200
+# Total Channels: 447
+# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (34), FRANCE.TV (40), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (4), RMC-BFM (24), SAMSUNGTVPLUSFR (173), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (34)
 #EXTINF:-1 tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -117,11 +117,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=4BfLPxOrVz69ENeECYjYVJfMjzlYNym7ViIE7yGLQJg3YYfs4bSL2bEdN10gJXi2pPAbKHh-hQq1zLJQXGsk6GIJDb1RclbAfx7FItSEhCQ
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=SXSaImqeLC1DpLXnQxUxBe9FgvSq_4JyR9zqfjdf2C0a2uDCACqD-M6TlXkolpHuXRkw2lax2jblrQox0E40EdkC3ATy88RPwc-xYFdKb-k
 #EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=9yPuclWsSWHsLrUB-8Dp6pD21Svpxs-UMC1WNPKIbxx2yiSxm6JI0wVWSp5QMNQr1MBsujQgd4QLlYZ8nWn-SXZMeNuG9E10p8keNh8_ENE
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=vjHYrxw-tfTSVdel6Yo_SONZmYr3BL1eWCqLLeQRKS_ssTru_zRALQq9nR8FtvcaZMBZEbI7SRakYyVn0XEW0t1ToXafDHWOm3gJeDAgSFs
 #EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=r9r7AKC8Bm5wqWwWw8n6JH4DsOzjvmzFNwAnM0X1Hq2S6FKgi_yVkkCQ5CmzvjGFALEiFTR39PWYplxp5OcJdNCaRCpgy6lpsnicMzggwjA
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=ogyseEtfFeL0UQI_rcb23wRUuIA58qV51HhkcatrLSHWVICFtdGMeX4w3Slr3ZJxhJaVba0xOyAIBC9TgTJKBYZ3MNL_GHjtGKcXFZi7TUg
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -408,7 +408,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/2MYk91c8Xrr2i4C3y/60x60" tvg-country="FR" group-title="RADIO",Fun Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/fun-radio-dm.m3u8
 
-#SAMSUNGTVPLUSFR (171)
+#SAMSUNGTVPLUSFR (173)
 #EXTINF:-1 tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",BFM TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1 tvg-id="FR1400003Y0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",BFM 2 [1080p-samsungtvplus]
@@ -751,6 +751,10 @@ https://jmp2.uk/stvp-FR1200002PC
 https://jmp2.uk/stvp-FR1600002TT
 #EXTINF:-1 tvg-id="FR2200004HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2200004HP_20260721T035836SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Masha et Michka [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR2200004HP
+#EXTINF:-1 tvg-id="FR2100003H7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2100003H7_20260818T050821SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Inazuma Eleven [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR2100003H7
+#EXTINF:-1 tvg-id="FR1700004PK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1700004PK_20260818T050835SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Red Bull TV [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR1700004PK
 
 #NETPLUS.TV (115)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
