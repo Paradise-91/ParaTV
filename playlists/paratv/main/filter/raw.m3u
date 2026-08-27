@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 27/08/2026 18:24:32 CEST+0200
-# Total Channels: 450
-# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (35), FRANCE.TV (40), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (173), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 27/08/2026 19:24:32 CEST+0200
+# Total Channels: 448
+# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (35), FRANCE.TV (40), LEQUIPE.FR (2), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (173), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (35)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -118,15 +118,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1,TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (4)
-#EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=cZv46Zfdq_Avcuo7deh8ZUFi9lx5dZ8I6omp_izw8P1FfF3D7j5pTfEEeXy_yt6hMteyPYJy0vhfA4BdXcEvpLGycbjOrd9XfLEPkXpIfTQ
+#LEQUIPE.FR (2)
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=EP5Cwvs7_uBlRs0LniuTov_3iR7d1l3kvlV9uYubuH9k2cqByvBFFYlrK01BIZaSawrY4_uYCVxTMZoCrds_n0I-9tNjppJaVkqdnqmxVqY
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=bev9QEeQmRcpR0gWrNXLRD_HIo947cKXywH-zW3PMuAnQ0J2euyYcJt1sAKECurUYEa85nxZbIiaDSiFlLZ4bCnWdIOw8-v0rRcvZWUhy3U
 #EXTINF:-1,My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=PNVTWVrRW0mAUft-5WC_MD0QhvUM-K9TCnyjRlvA8Xz7UKRkaWrVcYT6F9b48Kme5HDtOL2T9SalzXMKqrMAWCDu0D6KYx4mWppLJiKrM-A
-#EXTINF:-1,L'Équipe live  4
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd06p.m3u8?sec=kZtgaAjvrB_K38DdmtcsPWqCFfR9TqAWYNlGfRV1A0Z6f68sOObiatM-3D4_984kpKRFflSggwX2cTtnwx3-aPyrtmmfBPQS9-CJXOq86qE
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=X7-EbM11smK-aBqG_FsSVCDtGlCZGBH8Oga0Q_1Xr-JGFFIRQa4c9TWYA7yyV9RnaHLQeAHhK5YH1bd7EWgOoik4uFfRvejeljkfMv3OT1g
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
