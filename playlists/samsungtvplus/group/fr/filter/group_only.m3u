@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 20/08/2026 06:26:44 CEST+0200
-#TOTAL: 173
+# Generated on: 03/09/2026 06:26:56 CEST+0200
+#TOTAL: 175
 
 #Actualités (13)
 #EXTINF:-1 group-title="Actualités",BFM TV
@@ -42,7 +42,7 @@ https://jmp2.uk/stvp-FR7000045E
 #EXTINF:-1 group-title="Anime",Inazuma Eleven
 https://jmp2.uk/stvp-FR2100003H7
 
-#Cinéma (30)
+#Cinéma (31)
 #EXTINF:-1 group-title="Cinéma",Top Films - Rakuten TV
 https://jmp2.uk/stvp-FR2600007CB
 #EXTINF:-1 group-title="Cinéma",Action Club
@@ -103,6 +103,8 @@ https://jmp2.uk/stvp-FR42000023H
 https://jmp2.uk/stvp-FR900003DP
 #EXTINF:-1 group-title="Cinéma",Dragon TV
 https://jmp2.uk/stvp-FR130000539
+#EXTINF:-1 group-title="Cinéma",Monstres et Créatures TV
+https://jmp2.uk/stvp-FR1600003GH
 
 #Crime (9)
 #EXTINF:-1 group-title="Crime",Faites entrer l'accusé
@@ -124,7 +126,7 @@ https://jmp2.uk/stvp-FR600002ZR
 #EXTINF:-1 group-title="Crime",Alerte Cobra
 https://jmp2.uk/stvp-FR3600007GW
 
-#Divertissement (25)
+#Divertissement (23)
 #EXTINF:-1 group-title="Divertissement",RMC Wow
 https://jmp2.uk/stvp-FR300001M1
 #EXTINF:-1 group-title="Divertissement",RMC MYSTERE
@@ -147,10 +149,6 @@ https://jmp2.uk/stvp-FRBD1900006NA
 https://jmp2.uk/stvp-FRBD300000170
 #EXTINF:-1 group-title="Divertissement",Juste Pour Rire
 https://jmp2.uk/stvp-FRBA3300035UK
-#EXTINF:-1 group-title="Divertissement",FailArmy
-https://jmp2.uk/stvp-FRBA33000234L
-#EXTINF:-1 group-title="Divertissement",People Are Awesome
-https://jmp2.uk/stvp-FRBA10000029E
 #EXTINF:-1 group-title="Divertissement",Epicurieux avec Jamy
 https://jmp2.uk/stvp-FRBD5100003TP
 #EXTINF:-1 group-title="Divertissement",MTV Classics
@@ -176,7 +174,7 @@ https://jmp2.uk/stvp-FR70000809
 #EXTINF:-1 group-title="Divertissement",Quantum Makers
 https://jmp2.uk/stvp-FR1200002PC
 
-#Documentaires (16)
+#Documentaires (17)
 #EXTINF:-1 group-title="Documentaires",Destination Nature
 https://jmp2.uk/stvp-FRBC4000001IO
 #EXTINF:-1 group-title="Documentaires",J'irai dormir chez vous
@@ -207,10 +205,12 @@ https://jmp2.uk/stvp-FR400000413
 https://jmp2.uk/stvp-FR3900003Y7
 #EXTINF:-1 group-title="Documentaires",Au coeur du danger
 https://jmp2.uk/stvp-FR3900002FW
+#EXTINF:-1 group-title="Documentaires",Space Live
+https://jmp2.uk/stvp-FR70000695
 #EXTINF:-1 group-title="Documentaires",Docs & enquêtes by Society+
 https://jmp2.uk/stvp-FR15000010E
 
-#Jeunesse (12)
+#Jeunesse (13)
 #EXTINF:-1 group-title="Jeunesse",Pocoyo
 https://jmp2.uk/stvp-FR700001VJ
 #EXTINF:-1 group-title="Jeunesse",Les Lapins Crétins
@@ -235,8 +235,10 @@ https://jmp2.uk/stvp-FR3400004L5
 https://jmp2.uk/stvp-FR1600002TT
 #EXTINF:-1 group-title="Jeunesse",Masha et Michka
 https://jmp2.uk/stvp-FR2200004HP
+#EXTINF:-1 group-title="Jeunesse",Pingu
+https://jmp2.uk/stvp-FR2100002YW
 
-#Musique et ambiance (19)
+#Musique et ambiance (18)
 #EXTINF:-1 group-title="Musique et ambiance",Vevo Pop
 https://jmp2.uk/stvp-FRBC2100001YY
 #EXTINF:-1 group-title="Musique et ambiance",Vevo Hip-Hop & R&B
@@ -257,8 +259,6 @@ https://jmp2.uk/stvp-FR1700002OZ
 https://jmp2.uk/stvp-FR3100003KZ
 #EXTINF:-1 group-title="Musique et ambiance",Skyrock
 https://jmp2.uk/stvp-FR4000005KE
-#EXTINF:-1 group-title="Musique et ambiance",Space Live
-https://jmp2.uk/stvp-FR70000695
 #EXTINF:-1 group-title="Musique et ambiance",Rolling Stones Takeover
 https://jmp2.uk/stvp-FR7000053L
 #EXTINF:-1 group-title="Musique et ambiance",Cozy Vibes
@@ -276,7 +276,7 @@ https://jmp2.uk/stvp-FR1800009U0
 #EXTINF:-1 group-title="Musique et ambiance",Metal.Rocks
 https://jmp2.uk/stvp-FR44000015M
 
-#Sports (13)
+#Sports (15)
 #EXTINF:-1 group-title="Sports",FIFA+
 https://jmp2.uk/stvp-FRBA3300037Y7
 #EXTINF:-1 group-title="Sports",RMC MECANIC
@@ -303,6 +303,10 @@ https://jmp2.uk/stvp-FR12000040D
 https://jmp2.uk/stvp-FR900002B4
 #EXTINF:-1 group-title="Sports",Red Bull TV
 https://jmp2.uk/stvp-FR1700004PK
+#EXTINF:-1 group-title="Sports",Tennis+
+https://jmp2.uk/stvp-FR1300004LY
+#EXTINF:-1 group-title="Sports",Journal du Golf TV
+https://jmp2.uk/stvp-FR2000005YM
 
 #Séries TV (20)
 #EXTINF:-1 group-title="Séries TV",Mr Bean Animated

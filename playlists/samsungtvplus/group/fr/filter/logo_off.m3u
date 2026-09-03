@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 20/08/2026 06:26:44 CEST+0200
-#TOTAL: 173
+# Generated on: 03/09/2026 06:26:56 CEST+0200
+#TOTAL: 175
 
 #Actualités (13)
 #EXTINF:-1 tvg-chno="706" tvg-id="FRBD410000783" tvg-country="FR" group-title="Actualités",706. BFM TV
@@ -42,7 +42,7 @@ https://jmp2.uk/stvp-FR7000045E
 #EXTINF:-1 tvg-chno="2866" tvg-id="FR2100003H7" tvg-country="FR" group-title="Anime",2866. Inazuma Eleven
 https://jmp2.uk/stvp-FR2100003H7
 
-#Cinéma (30)
+#Cinéma (31)
 #EXTINF:-1 tvg-chno="720" tvg-id="FR2600007CB" tvg-country="FR" group-title="Cinéma",720. Top Films - Rakuten TV
 https://jmp2.uk/stvp-FR2600007CB
 #EXTINF:-1 tvg-chno="721" tvg-id="FRBD2300001UQ" tvg-country="FR" group-title="Cinéma",721. Action Club
@@ -103,6 +103,8 @@ https://jmp2.uk/stvp-FR42000023H
 https://jmp2.uk/stvp-FR900003DP
 #EXTINF:-1 tvg-chno="2801" tvg-id="FR130000539" tvg-country="FR" group-title="Cinéma",2801. Dragon TV
 https://jmp2.uk/stvp-FR130000539
+#EXTINF:-1 tvg-chno="2875" tvg-id="FR1600003GH" tvg-country="FR" group-title="Cinéma",2875. Monstres et Créatures TV
+https://jmp2.uk/stvp-FR1600003GH
 
 #Crime (9)
 #EXTINF:-1 tvg-chno="742" tvg-id="FR1400002XF" tvg-country="FR" group-title="Crime",742. Faites entrer l'accusé
@@ -124,7 +126,7 @@ https://jmp2.uk/stvp-FR600002ZR
 #EXTINF:-1 tvg-chno="2547" tvg-id="FR3600007GW" tvg-country="FR" group-title="Crime",2547. Alerte Cobra
 https://jmp2.uk/stvp-FR3600007GW
 
-#Divertissement (25)
+#Divertissement (23)
 #EXTINF:-1 tvg-chno="748" tvg-id="FR300001M1" tvg-country="FR" group-title="Divertissement",748. RMC Wow
 https://jmp2.uk/stvp-FR300001M1
 #EXTINF:-1 tvg-chno="749" tvg-id="FR300006GF" tvg-country="FR" group-title="Divertissement",749. RMC MYSTERE
@@ -147,10 +149,6 @@ https://jmp2.uk/stvp-FRBD1900006NA
 https://jmp2.uk/stvp-FRBD300000170
 #EXTINF:-1 tvg-chno="761" tvg-id="FRBA3300035UK" tvg-country="FR" group-title="Divertissement",761. Juste Pour Rire
 https://jmp2.uk/stvp-FRBA3300035UK
-#EXTINF:-1 tvg-chno="762" tvg-id="FRBA33000234L" tvg-country="FR" group-title="Divertissement",762. FailArmy
-https://jmp2.uk/stvp-FRBA33000234L
-#EXTINF:-1 tvg-chno="763" tvg-id="FRBA10000029E" tvg-country="FR" group-title="Divertissement",763. People Are Awesome
-https://jmp2.uk/stvp-FRBA10000029E
 #EXTINF:-1 tvg-chno="764" tvg-id="FRBD5100003TP" tvg-country="FR" group-title="Divertissement",764. Epicurieux avec Jamy
 https://jmp2.uk/stvp-FRBD5100003TP
 #EXTINF:-1 tvg-chno="765" tvg-id="FRAJ3800004CC" tvg-country="FR" group-title="Divertissement",765. MTV Classics
@@ -176,7 +174,7 @@ https://jmp2.uk/stvp-FR70000809
 #EXTINF:-1 tvg-chno="2802" tvg-id="FR1200002PC" tvg-country="FR" group-title="Divertissement",2802. Quantum Makers
 https://jmp2.uk/stvp-FR1200002PC
 
-#Documentaires (16)
+#Documentaires (17)
 #EXTINF:-1 tvg-chno="770" tvg-id="FRBC4000001IO" tvg-country="FR" group-title="Documentaires",770. Destination Nature
 https://jmp2.uk/stvp-FRBC4000001IO
 #EXTINF:-1 tvg-chno="773" tvg-id="FRBD4800001P4" tvg-country="FR" group-title="Documentaires",773. J'irai dormir chez vous
@@ -207,10 +205,12 @@ https://jmp2.uk/stvp-FR400000413
 https://jmp2.uk/stvp-FR3900003Y7
 #EXTINF:-1 tvg-chno="2575" tvg-id="FR3900002FW" tvg-country="FR" group-title="Documentaires",2575. Au coeur du danger
 https://jmp2.uk/stvp-FR3900002FW
+#EXTINF:-1 tvg-chno="2652" tvg-id="FR70000695" tvg-country="FR" group-title="Documentaires",2652. Space Live
+https://jmp2.uk/stvp-FR70000695
 #EXTINF:-1 tvg-chno="2732" tvg-id="FR15000010E" tvg-country="FR" group-title="Documentaires",2732. Docs & enquêtes by Society+
 https://jmp2.uk/stvp-FR15000010E
 
-#Jeunesse (12)
+#Jeunesse (13)
 #EXTINF:-1 tvg-chno="790" tvg-id="FR700001VJ" tvg-country="FR" group-title="Jeunesse",790. Pocoyo
 https://jmp2.uk/stvp-FR700001VJ
 #EXTINF:-1 tvg-chno="794" tvg-id="FRBD2300002CM" tvg-country="FR" group-title="Jeunesse",794. Les Lapins Crétins
@@ -235,8 +235,10 @@ https://jmp2.uk/stvp-FR3400004L5
 https://jmp2.uk/stvp-FR1600002TT
 #EXTINF:-1 tvg-chno="2824" tvg-id="FR2200004HP" tvg-country="FR" group-title="Jeunesse",2824. Masha et Michka
 https://jmp2.uk/stvp-FR2200004HP
+#EXTINF:-1 tvg-chno="2876" tvg-id="FR2100002YW" tvg-country="FR" group-title="Jeunesse",2876. Pingu
+https://jmp2.uk/stvp-FR2100002YW
 
-#Musique et ambiance (19)
+#Musique et ambiance (18)
 #EXTINF:-1 tvg-chno="803" tvg-id="FRBC2100001YY" tvg-country="FR" group-title="Musique et ambiance",803. Vevo Pop
 https://jmp2.uk/stvp-FRBC2100001YY
 #EXTINF:-1 tvg-chno="804" tvg-id="FRBC2100002JA" tvg-country="FR" group-title="Musique et ambiance",804. Vevo Hip-Hop & R&B
@@ -257,8 +259,6 @@ https://jmp2.uk/stvp-FR1700002OZ
 https://jmp2.uk/stvp-FR3100003KZ
 #EXTINF:-1 tvg-chno="2634" tvg-id="FR4000005KE" tvg-country="FR" group-title="Musique et ambiance",2634. Skyrock
 https://jmp2.uk/stvp-FR4000005KE
-#EXTINF:-1 tvg-chno="2652" tvg-id="FR70000695" tvg-country="FR" group-title="Musique et ambiance",2652. Space Live
-https://jmp2.uk/stvp-FR70000695
 #EXTINF:-1 tvg-chno="2733" tvg-id="FR7000053L" tvg-country="FR" group-title="Musique et ambiance",2733. Rolling Stones Takeover
 https://jmp2.uk/stvp-FR7000053L
 #EXTINF:-1 tvg-chno="2734" tvg-id="FR19000010J" tvg-country="FR" group-title="Musique et ambiance",2734. Cozy Vibes
@@ -276,7 +276,7 @@ https://jmp2.uk/stvp-FR1800009U0
 #EXTINF:-1 tvg-chno="2784" tvg-id="FR44000015M" tvg-country="FR" group-title="Musique et ambiance",2784. Metal.Rocks
 https://jmp2.uk/stvp-FR44000015M
 
-#Sports (13)
+#Sports (15)
 #EXTINF:-1 tvg-chno="814" tvg-id="FRBA3300037Y7" tvg-country="FR" group-title="Sports",814. FIFA+
 https://jmp2.uk/stvp-FRBA3300037Y7
 #EXTINF:-1 tvg-chno="815" tvg-id="FR300003ZB" tvg-country="FR" group-title="Sports",815. RMC MECANIC
@@ -303,6 +303,10 @@ https://jmp2.uk/stvp-FR12000040D
 https://jmp2.uk/stvp-FR900002B4
 #EXTINF:-1 tvg-chno="2867" tvg-id="FR1700004PK" tvg-country="FR" group-title="Sports",2867. Red Bull TV
 https://jmp2.uk/stvp-FR1700004PK
+#EXTINF:-1 tvg-chno="2877" tvg-id="FR1300004LY" tvg-country="FR" group-title="Sports",2877. Tennis+
+https://jmp2.uk/stvp-FR1300004LY
+#EXTINF:-1 tvg-chno="2878" tvg-id="FR2000005YM" tvg-country="FR" group-title="Sports",2878. Journal du Golf TV
+https://jmp2.uk/stvp-FR2000005YM
 
 #Séries TV (20)
 #EXTINF:-1 tvg-chno="795" tvg-id="FR90000160" tvg-country="FR" group-title="Séries TV",795. Mr Bean Animated
