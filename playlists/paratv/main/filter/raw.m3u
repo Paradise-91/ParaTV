@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 04/09/2026 13:24:32 CEST+0200
-# Total Channels: 452
-# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (40), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (175), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 04/09/2026 14:24:34 CEST+0200
+# Total Channels: 453
+# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (40), LEQUIPE.FR (4), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (175), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (36)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -121,13 +121,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1,TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (3)
+#LEQUIPE.FR (4)
 #EXTINF:-1,la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=cqaWwOwEeiTSHdT3gOcUTjVBS2vl6r5TwcKjVJoCMZOHchS8cr7cwA72BlgAuhBOJRcWXkoo_SpjjGgtnMcM5TCs_99kVZIlIqBheqm9Tgs
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=bDgZbH6_HSQDYvwYFhkKYQ1WNoqD6pei1OrEPjXvCgQP-gFEVcvVXrichLvjYRnVcLyXoZHLW4jdYGPZhYn1sgKqRE-t7Yq5BNSF-zmqZdo
 #EXTINF:-1,Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=jhz_e4xDjFxcTZKFgK4l1ZXNIHRWKS046yuJsUTxuGhV7Tueji1WT5yNXMQGgYli1w2lAnSAxVAx4dEnAwcLSAbWnh4fMIywZHMl_dPRxZ0
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=rcf4iOzo51Z8P6bbmnAbssZoIOkOXbBrLlU6fWM0xXwUOq9Gskm6LIwhCUb5fb26yVORI0PzGutygL6vjnXiuYpCFiOqCAHnxMBTOzJV8N0
 #EXTINF:-1,My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=RGyPWAXKFfXegHHtHNLEm1HsE5pT5AIXXkjKAVtJkFWcx3RSdcoJ575gsXW6pbNhCI5VgdARJAznwlaMNbBrcgo9RwHRcJFfPydDfolVXKk
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=nTOAiSwnWjZJOTrsBOeF8t_TlQqFqpT9VHk5Adb5nsedm9v8QEbbvr3SuY7-tHko44iYv3Le9vsV6yg_ktaUkds5PBsePzmUXELzadwqs1s
+#EXTINF:-1,L'Équipe live 5
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=0dnK_seBVfzLLJGCasiVZM-pYj7wch-7fOEMgkSTCoY8CN3lULlnL26jcUpNwliJmlMl1QdD3BZzz6957UIB7WoLTRk0_tAw2zpgZHl9SfM
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
