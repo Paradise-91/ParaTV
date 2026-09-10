@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 10/09/2026 04:24:33 CEST+0200
-# Total Channels: 451
-# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (40), LEQUIPE.FR (2), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (175), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 10/09/2026 05:24:33 CEST+0200
+# Total Channels: 452
+# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (40), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (175), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (36)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -121,11 +121,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (2)
+#LEQUIPE.FR (3)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=iOvDSSolqZDwMlT-aYBtut68iTwrHQs7SJCjq8nZTXp9jG0NQlZvoK5wfEjx53VN8YeurZJ7DQrNr19XGddzdQBRjRPkDwh49q2zyHC7Xhg
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=c4wnVi79ughpIhGeuht7i0ecBOrrH_EWvPxIjtPXNFeIQ3PqNKIVlDyO3AQIX6HcAD9ZiH6-8ePq2xW1AfFsYL35ra9i15ldYyg5q7R09VE
+#EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live 3
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=W5i4TBkKuQsKd2Q7BaS0NqQaCzjOgtN2LFgryMZWEKNIjoG-eHNCOspXZ0qoGA_hTO0v_QhhsyN-6Tp72yrkRtsz5YIPOvUjag47Irm4SZA
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=6t1zs0dmYU46bmo7SuaZivU8LAYbaNCk2BLAKXLBveGYYOm4JwSXus92jvW00IqHPHhjmM06v9fWW3d5tTIL_lv13XNEeeL2g5D9cfLfNr0
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=DAG9Xc8SupGb95hrEYnvEMhhmLp4hB8cefz8gZzOrr1XD5sPO7TdudzAwBjH3nWwVjc0Q210IWFMWzaeQZkqTPju5IMjYeCK6EbR4y83Mlc
 
 #FRANCE.TV (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
