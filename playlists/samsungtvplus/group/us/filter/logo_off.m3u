@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 13/09/2026 06:27:33 CEST+0200
-#TOTAL: 516
+# Generated on: 17/09/2026 06:26:15 CEST+0200
+#TOTAL: 517
 
 #Action & Drama (31)
 #EXTINF:-1 tvg-chno="1439" tvg-id="USBD300002TU" tvg-country="US" group-title="Action & Drama",1439. ION
@@ -9,7 +9,7 @@ https://jmp2.uk/stvp-USBD300002TU
 https://jmp2.uk/stvp-USBD300003LK
 #EXTINF:-1 tvg-chno="1441" tvg-id="USBC6000225M" tvg-country="US" group-title="Action & Drama",1441. ElectricNOW
 https://jmp2.uk/stvp-USBC6000225M
-#EXTINF:-1 tvg-chno="1442" tvg-id="US3700005GP" tvg-country="US" group-title="Action & Drama",1442. BBC Drama
+#EXTINF:-1 tvg-chno="1442" tvg-id="US3700005GP" tvg-country="US" group-title="Action & Drama",1442. BBC Drama Classics
 https://jmp2.uk/stvp-US3700005GP
 #EXTINF:-1 tvg-chno="1443" tvg-id="USBD300008G1" tvg-country="US" group-title="Action & Drama",1443. Bounce XL
 https://jmp2.uk/stvp-USBD300008G1
@@ -359,8 +359,6 @@ https://jmp2.uk/stvp-USBD50000048H
 https://jmp2.uk/stvp-USBD350002338
 #EXTINF:-1 tvg-chno="1578" tvg-id="USBD3500015R5" tvg-country="US" group-title="Kids",1578. Teletubbies
 https://jmp2.uk/stvp-USBD3500015R5
-#EXTINF:-1 tvg-chno="1579" tvg-id="US300001UO" tvg-country="US" group-title="Kids",1579. Barney and Friends
-https://jmp2.uk/stvp-US300001UO
 #EXTINF:-1 tvg-chno="1581" tvg-id="USBC4400012QS" tvg-country="US" group-title="Kids",1581. Strawberry Shortcake
 https://jmp2.uk/stvp-USBC4400012QS
 #EXTINF:-1 tvg-chno="1582" tvg-id="USBC44000072I" tvg-country="US" group-title="Kids",1582. HappyKids
@@ -413,6 +411,8 @@ https://jmp2.uk/stvp-US39000177S
 https://jmp2.uk/stvp-US1000015RF
 #EXTINF:-1 tvg-chno="2845" tvg-id="US2000024KD" tvg-country="US" group-title="Kids",2845. Johnny Test
 https://jmp2.uk/stvp-US2000024KD
+#EXTINF:-1 tvg-chno="2895" tvg-id="US1600011FY" tvg-country="US" group-title="Kids",2895. Barney and Friends
+https://jmp2.uk/stvp-US1600011FY
 
 #Latino (40)
 #EXTINF:-1 tvg-chno="1603" tvg-id="USBD7000017L" tvg-country="US" group-title="Latino",1603. AMC en Español
@@ -541,7 +541,7 @@ https://jmp2.uk/stvp-US700020AX
 https://jmp2.uk/stvp-US1300003SW
 #EXTINF:-1 tvg-chno="2300" tvg-id="US1900021H0" tvg-country="US" group-title="Lifestyle & Pop Culture",2300. The Ringer from Spotify
 https://jmp2.uk/stvp-US1900021H0
-#EXTINF:-1 tvg-chno="2334" tvg-id="US3900006GL" tvg-country="US" group-title="Lifestyle & Pop Culture",2334. Envoy FAST
+#EXTINF:-1 tvg-chno="2334" tvg-id="US3900006GL" tvg-country="US" group-title="Lifestyle & Pop Culture",2334. Dr. Phil Envoy
 https://jmp2.uk/stvp-US3900006GL
 #EXTINF:-1 tvg-chno="2393" tvg-id="US370001124" tvg-country="US" group-title="Lifestyle & Pop Culture",2393. Tony Robbins
 https://jmp2.uk/stvp-US370001124
@@ -762,7 +762,7 @@ https://jmp2.uk/stvp-US5000051IN
 #EXTINF:-1 tvg-chno="2643" tvg-id="US52000010Y" tvg-country="US" group-title="Nature, History & Science",2643. StarTalk
 https://jmp2.uk/stvp-US52000010Y
 
-#News & Opinion (24)
+#News & Opinion (25)
 #EXTINF:-1 tvg-chno="1718" tvg-id="USBA370000104" tvg-country="US" group-title="News & Opinion",1718. CBS News 24/7
 https://jmp2.uk/stvp-USBA370000104
 #EXTINF:-1 tvg-chno="1719" tvg-id="USBC39000171G" tvg-country="US" group-title="News & Opinion",1719. ABC News Live
@@ -811,6 +811,8 @@ https://jmp2.uk/stvp-USBC3200001S5
 https://jmp2.uk/stvp-US50000551O
 #EXTINF:-1 tvg-chno="2892" tvg-id="US2400013TO" tvg-country="US" group-title="News & Opinion",2892. Business Insider
 https://jmp2.uk/stvp-US2400013TO
+#EXTINF:-1 tvg-chno="2896" tvg-id="US1700030R0" tvg-country="US" group-title="News & Opinion",2896. The Daily Wire TV
+https://jmp2.uk/stvp-US1700030R0
 
 #Reality Competition (18)
 #EXTINF:-1 tvg-chno="1741" tvg-id="USBB52000246M" tvg-country="US" group-title="Reality Competition",1741. Deal Zone
