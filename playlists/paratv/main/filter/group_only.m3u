@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 27/09/2026 18:24:33 CEST+0200
+# Generated on: 27/09/2026 19:24:32 CEST+0200
 # Total Channels: 457
-# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (40), LEQUIPE.FR (9), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (174), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (39), LEQUIPE.FR (10), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (174), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (36)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -121,27 +121,29 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 group-title="TV5MONDE",TV5MONDE Info [1080p-tv5monde.com]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#LEQUIPE.FR (9)
+#LEQUIPE.FR (10)
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=zK7JZnBK_Xbb9H-mRFQaBC1J9eVBHPQWbs50FsUd-tO-ktS9BcGtGRpBRZppGLhb0yM-TJz3v-oX0prJ423HiaypVGD3JM60xc1YOB0vL3I
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=PZo_PbNahZMuhy1dBAKPAZ5FF3KbW22mwZcQPKPKjQ7fzsPkboa7q3w55eJMHq3Usu5axzH9pAx6Nz8UrYdAi24qHQV_1BglAl--vR5ybLE
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=-yh-XGP00ArXgmqe6m6pYhDWRylxWbIgetdgiHKK-AZyCp2-gXSW46HjMuGAmPKnn3K7f1gkQGvEJ-oXXQ6dXvjhR5ueJgmtsUtgfU9ZFeI
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=Cp42W7koRIAw7wogIpoFZgwvTRwQKLq66LSfGyWBfDc4c3_NwAi1h5lzswxdYwjPzvR_QvIsApgxXvOuwA-a6XKcWMcnQ-pFcXar0rPsTNo
 #EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live 1
-https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=Ud_HhIJvP3tkH1f_1xn6_zNW5or3CDD-9QyLAqEtRtOnffcKIkPXlZWgE2P-hIOY_vv7KsxQQJm-6JMQkJaEtAYltRJ9xFcSJbrlVEdjq0U
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=lHddUJ2lfsR7ULVihJJ4yEYx1T6PR6m_pH98TR6s1UV86LCI3OKpTl1D104IX144Gt7juue6ilwH24xDhyQR-SMP382rGZzgd0-hPaAy2WQ
 #EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live 2
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=xAGkRNo2_q2z09AjhEF22X3-VWmEl_P3VPDs0CqtPP-GJ9l_jCj7y_BbgM-JizIuxxCxsvu1UzrpAeEoT5_0EkKAgXiMHr83quo0gAHRY_w
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=ItGAzx2eLM0H2BmgBKkhFKNVpukiCRKQ6g9U6r4qLCA4jVHTBkYg7oh6P2Xn4nQZPea3Ogfi2ZPcpjhhseVWn9CjeAPKOgExli-1xPQK1k8
 #EXTINF:-1 group-title="LEQUIPE.FR",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=xy9eddyMSXf3eqxFf2WAAXseQFwvXmMg-wanKOjk2HINJ4jwEQe6NKN_rutTcAkQTQGdQp2jfmL1x_7uU0MMTKzgHAZwE0DSwiC5efz-mao
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=rQcbmT3-dmxwpqZygLyRPeDtVnFDLhEzHsb-JHP6L0z25_xY7DJm89msy-9qXCT8DF51UTO0WQCVtxWXYINAFSWk6H9L6x8r8g-xzBw4gjQ
 #EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live 3
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=qsDUHaukL7JocTeQMSMHUGK3zQUl8EXWKb-vz1EQYDAUVR8Fh_cd_HyV_zTlTZMSpgu0X8gC2caTDp0RNifUJABLIksfayyWwg1BFITWxK4
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=v7ax0uPnJDRMHraJoe7wUCvmi0v9fs0EJSEimr-LylOXiEIrTF_IOuRP59aXB6ylf5YDmD-jQnB6sJvT4vgKjX6tRJKsmzjtGNuJBXP_ScM
 #EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live  4
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd06p.m3u8?sec=wzckOfRYnvXkuHEfGPs6wG8jdaqqrySzYkNo2S5QdYYN3J-WwblZK0qtz-HGVv5lH1CHl1u2yMV8dvlUIjIrc9wBTl13Ew1Ya28ovnr-RIs
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd06p.m3u8?sec=qb0iuT1_eOduti5lQMSvC-RG-8xV3jBor0l2cdpAeqtgjWzw0Ydm2wMF0-oPdh6g7GT6MvDultPklgmWhJNU_2nigf94zF9Thojk9sqWgx4
 #EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe Live 6
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd0f7.m3u8?sec=H7pPNYM2W7sCsabGCyOPOsfde6jDJHEffrmOQDNKgWVhKRRSbHYiTbOgDnEy9iNJ-NOMfinWpnaqBOk8j6U6Bn-lf1RumUYbnrcPCIyPRPw
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd0f7.m3u8?sec=gZ9qIO0cLD5SHnqBtgn_SrXZgowduTlmhsVSk55Ir55ytFl18FVbhHx5Z5EPzgHPed1KLfpCKPO2WzQC15M0QH3rdo1IXwNYOQf_BqB8GLo
 #EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live 5
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=XgEuUBp8snbI_UPOHNeu13_yyj4Ve4BaZGkZez5HA6AAlUrsfbiI7IR0l3Lf6QPUs6Uzfd6SL2LGHLmto0E4rVG3qQkV_OavuEOMzVY8XLw
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=qBvQRf4C_fiTe668rca4Gdhh1R2gDSDk-GF9OVlE6JmuLdVit3LRw3Bfzw5zwVZr0JRCEVS5FUZISc8_mI6eio1-GreS6g15Qe6pruxbc40
+#EXTINF:-1 group-title="LEQUIPE.FR",L'Équipe live 7
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdj2v.m3u8?sec=7aXIy0ulYGciLulD7Frd0aV5S291y6b24HrDj1aO9aNOHNqf1hGGr8BdqAHtXPxZs73JdHM9wsCJ2Iu-pqi5qSuP4HdCK7y1uVpTBBURs3Q
 
-#FRANCE.TV (40)
+#FRANCE.TV (39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -184,9 +186,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mieux
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",TV5 MONDE [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv5-monde.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",FESTIVAL D'AMBRONAY 2026 [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-dambronay-2026.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 3 ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alpes.m3u8
