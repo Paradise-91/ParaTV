@@ -1,13 +1,13 @@
 #EXTM3U
-# Generated on: 29/09/2026 17:24:35 CEST+0200
+# Generated on: 29/09/2026 18:24:33 CEST+0200
 
 #LEQUIPE.FR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gkxa0ohAG8_/60x60" tvg-country="FR" group-title="LEQUIPE.FR",la chaine L'Équipe en direct [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=6QekU_KMRSHNRU3JpsRJ4RoJKgKCPOpEEccsBnDmq68-a8_scCmsYiWhNJlj8hTAywIAGqva1arvgIzsS2vIgLJgYmNeBCVlRZjYt14gYuQ
+#EXTINF:-1 tvg-id="k5s40USR9HxnG5aCf1y" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gkzfNXl9viB/60x60" tvg-country="FR" group-title="LEQUIPE.FR",la chaine L'Équipe en direct [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gkxa0ohAG8_/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Tennis Channel [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=giD6RCZ607M9Tcdp8nRIpwwsiURQCYBxhfIigGEgJxvhslMm4MKUrIQ2iha0eFFt6XBQ2Go0WQlP1Ag716XhGr4kJSrw3wXw_w82SguBIBc
+#EXTINF:-1 tvg-id="k6c3A07yUljlAzwkvtL" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gkzfNXl9viB/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Tennis Channel [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/tennis-channel-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gkxa0ohAG8_/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf [dailymotion.com]
+#EXTINF:-1 tvg-id="k5VKYQn5hAE4vfry927" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gkzfNXl9viB/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/journal-du-golf-dm.m3u8
