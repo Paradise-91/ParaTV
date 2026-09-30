@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 30/09/2026 22:24:34 CEST+0200
-# Total Channels: 453
-# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (174), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 01/10/2026 00:24:33 CEST+0200
+# Total Channels: 455
+# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (44), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (174), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (36)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-country="FR" group-title="FRANCE",1. TF1 [720p-tf1.fr]
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/a
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-id="LaChaineParlementaire.fr" tvg-country="FR" group-title="FRANCE",52. LCP - PUBLIC SÉNAT [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/L9YJH5Z2nEI/res/nYB9ReCYGwEDCl-highest.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="PublicSenat2424.fr" epg-s="2013" tvg-country="FR" group-title="FRANCE",43. Public Sénat [480p-dailymotion.com]
+#EXTINF:-1 tvg-chno="43" tvg-id="PublicSenat2424.fr" dm-id="xkxbzc" epg-s="2013" tvg-country="FR" group-title="FRANCE",43. Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-country="FR" group-title="FRANCE",10. TMC [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/L9YJH5Z2nEI/res/63kbPOLXCq7vPkig-highest.m3u8
@@ -51,7 +51,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="14" tvg-id="CNews.fr" epg-s="226" tvg-country="FR" group-title="FRANCE",14. C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="45" tvg-id="CNews.fr" epg-s="226" tvg-country="FR" group-title="FRANCE",45. C NEWS [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="45" tvg-id="CNews.fr" dm-id="x3b68jn" epg-s="226" tvg-country="FR" group-title="FRANCE",45. C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="LCI.fr" epg-s="112" tvg-country="FR" group-title="FRANCE",15. LCI [720p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/L9YJH5Z2nEI/res/TwPxHGUnZphyqMt1-highest.m3u8
@@ -59,9 +59,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/L9YJH5Z2nEI/re
 #EXTINF:-1 tvg-chno="16" tvg-id="FranceInfo.fr" epg-s="2111" tvg-country="FR" group-title="FRANCE",16. France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" epg-s="458" tvg-country="FR" group-title="FRANCE",17. CStar [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" dm-id="x5gv5v0" epg-s="458" tvg-country="FR" group-title="FRANCE",17. CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cstar-dm-highest.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="T18.fr" epg-s="4139" tvg-country="FR" group-title="FRANCE",18. T18 [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="18" tvg-id="T18.fr" dm-id="x9jhhyc" epg-s="4139" tvg-country="FR" group-title="FRANCE",18. T18 [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="NOVO19.fr" tvg-country="FR" group-title="FRANCE",19. NOVO19 [1080p-tf1.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/L9YJH5Z2nEI/res/ujH3TMxUyKbrngkX-highest.m3u8
@@ -79,7 +79,7 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="32" tvg-id="Canal32.fr" epg-s="534" tvg-country="FR" group-title="FRANCE",32. Canal 32 [1080p-canal32.fr]
 https://canal32-lineaire.b-cdn.net/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="33" tvg-id="SportEnFrance.fr" tvg-country="FR" group-title="FRANCE",33. Sport en France [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="33" tvg-id="SportEnFrance.fr" dm-id="x8sayn8" tvg-country="FR" group-title="FRANCE",33. Sport en France [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/res/sport-en-france-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-country="FR" group-title="FRANCE",34. LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-highest.m3u8
@@ -89,7 +89,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/L9YJH5Z2nEI/re
 #EXTINF:-1 tvg-chno="40" tvg-id="CanalPlus.fr" epg-s="34" tvg-country="FR" group-title="FRANCE",40. CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/canalplusclair-hd-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="53" tvg-country="FR" group-title="FRANCE",53. Europe 1 TV [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="53" dm-id="x9ukd6u" tvg-country="FR" group-title="FRANCE",53. Europe 1 TV [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/res/europe-1-tv-dm-highest.m3u8
 
 #CANALPLUS (7)
@@ -97,19 +97,19 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 tvg-chno="60" tvg-id="CanalPlus.fr" epg-s="34" tvg-country="FR" group-title="CANALPLUS",60. CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/canalplusclair-hd-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="62" epg-s="458" tvg-country="FR" group-title="CANALPLUS",62. CStar [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="62" dm-id="x5gv5v0" epg-s="458" tvg-country="FR" group-title="CANALPLUS",62. CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cstar-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="63" tvg-id="CNews.fr" epg-s="226" tvg-country="FR" group-title="CANALPLUS",63. C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="64" epg-s="226" tvg-country="FR" group-title="CANALPLUS",64. CNEWS [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="64" dm-id="x3b68jn" epg-s="226" tvg-country="FR" group-title="CANALPLUS",64. CNEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="65" epg-s="226" tvg-country="FR" group-title="CANALPLUS",65. CNEWS PRIME [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnewsprime-clair-hd-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="66" epg-s="226" tvg-country="FR" group-title="CANALPLUS",66. CNEWS PRIME [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="66" dm-id="x9u4hka" epg-s="226" tvg-country="FR" group-title="CANALPLUS",66. CNEWS PRIME [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-prime-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="67" tvg-country="FR" group-title="CANALPLUS",67. Europe 1 TV [1080p-canalplus.com]
@@ -123,16 +123,16 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y" tvg-country="FR" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct [dailymotion.com]
+#EXTINF:-1 tvg-chno="78" tvg-id="LEquipe21.fr" dm-id="k5s40USR9HxnG5aCf1y" tvg-country="FR" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="79" tvg-id="k6c3A07yUljlAzwkvtL" tvg-country="FR" group-title="LEQUIPE.FR",79. Tennis Channel [dailymotion.com]
+#EXTINF:-1 tvg-chno="79" dm-id="k6c3A07yUljlAzwkvtL" tvg-country="FR" group-title="LEQUIPE.FR",79. Tennis Channel [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/tennis-channel-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="80" tvg-id="k5VKYQn5hAE4vfry927" tvg-country="FR" group-title="LEQUIPE.FR",80. Journal du Golf [dailymotion.com]
+#EXTINF:-1 tvg-chno="80" dm-id="k5VKYQn5hAE4vfry927" tvg-country="FR" group-title="LEQUIPE.FR",80. Journal du Golf [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/journal-du-golf-dm-highest.m3u8
 
-#FRANCE.TV (42)
+#FRANCE.TV (44)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="110" tvg-country="FR" group-title="FRANCE.TV",110. FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -257,8 +257,14 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="150" tvg-country="FR" group-title="FRANCE.TV",150. OUTRE-MER EN CONTINU [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/playout-outre-mer-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="151" tvg-country="FR" group-title="FRANCE.TV",151. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
+#EXTINF:-1 tvg-chno="151" tvg-country="FR" group-title="FRANCE.TV",151. GUYANE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/guyane-1ere-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="152" tvg-country="FR" group-title="FRANCE.TV",152. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/nouvelle-caledonie-1ere-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="153" tvg-country="FR" group-title="FRANCE.TV",153. SAINT-PIERRE ET MIQUELON 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/saint-pierre-et-miquelon-1ere-highest.m3u8
 
 #TF1PLUS (11)
 #EXTINF:-1 tvg-chno="200" tvg-country="FR" group-title="TF1PLUS",200. TF1
@@ -411,19 +417,19 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 
 #RADIO (5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="600" tvg-country="FR" group-title="RADIO",600. Europe 1 RADIO [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="600" dm-id="xqjkfz" tvg-country="FR" group-title="RADIO",600. Europe 1 RADIO [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/res/europe-1-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="601" tvg-country="FR" group-title="RADIO",601. Europe 1 RADIO BACKUP [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="601" dm-id="x91kj9u" tvg-country="FR" group-title="RADIO",601. Europe 1 RADIO BACKUP [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/res/europe-1-backup-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="602" tvg-country="FR" group-title="RADIO",602. France Inter [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="602" dm-id="x17qw0a" tvg-country="FR" group-title="RADIO",602. France Inter [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/res/france-inter-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="603" tvg-country="FR" group-title="RADIO",603. Sud Radio [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="603" dm-id="x8jqxru" tvg-country="FR" group-title="RADIO",603. Sud Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/res/sud-radio-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="604" tvg-country="FR" group-title="RADIO",604. Fun Radio [1080p-dailymotion.com]
+#EXTINF:-1 tvg-chno="604" dm-id="xxtuy6" tvg-country="FR" group-title="RADIO",604. Fun Radio [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/res/fun-radio-dm-highest.m3u8
 
 #SAMSUNGTVPLUSFR (174)
