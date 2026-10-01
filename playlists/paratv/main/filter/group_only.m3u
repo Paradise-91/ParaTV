@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 01/10/2026 05:24:32 CEST+0200
+# Generated on: 01/10/2026 06:28:35 CEST+0200
 # Total Channels: 453
 # Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (174), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
@@ -527,8 +527,6 @@ https://jmp2.uk/stvp-FRBA3300035UK
 https://jmp2.uk/stvp-FRBD5100003TP
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",MTV Classics [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRAJ3800004CC
-#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Culture Pub [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBD110000181
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Bons Plans et Arnaques [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBC3900003ZH
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Destination Nature [1080p-samsungtvplus]
@@ -589,8 +587,6 @@ https://jmp2.uk/stvp-FRBD1900013CB
 https://jmp2.uk/stvp-FR3900001AC
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Cool Summer Channel [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR2500001BS
-#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Émotion [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBC900001LB
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",FIFA+ [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBA3300037Y7
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",RMC MECANIC [1080p-samsungtvplus]
@@ -775,6 +771,10 @@ https://jmp2.uk/stvp-FR2100002YW
 https://jmp2.uk/stvp-FR1300004LY
 #EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Journal du Golf TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR2000005YM
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",Adrenaline Spica Life [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR1400005J7
+#EXTINF:-1 group-title="SAMSUNGTVPLUSFR",C'est pas sorcier [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR2600010LM
 
 #NETPLUS.TV (115)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36

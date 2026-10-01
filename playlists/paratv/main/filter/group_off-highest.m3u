@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 01/10/2026 05:24:32 CEST+0200
+# Generated on: 01/10/2026 06:28:35 CEST+0200
 # Total Channels: 453
 # Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (5), RMC-BFM (24), SAMSUNGTVPLUSFR (174), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
@@ -123,13 +123,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="78" tvg-id="LEquipe21.fr" dm-id="k5s40USR9HxnG5aCf1y" tvg-logo="https://s2.dmcdn.net/u/5LK8J1glQ1KGAy7yt/60x60",78. la chaine L'Équipe en direct [dailymotion.com]
+#EXTINF:-1 tvg-chno="78" tvg-id="LEquipe21.fr" dm-id="k5s40USR9HxnG5aCf1y" tvg-logo="https://s1.dmcdn.net/u/5LK8J1glTCR0t-ZvI/60x60",78. la chaine L'Équipe en direct [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="79" dm-id="k6c3A07yUljlAzwkvtL" tvg-logo="https://s2.dmcdn.net/u/5LK8J1glQ1KGAy7yt/60x60",79. Tennis Channel [dailymotion.com]
+#EXTINF:-1 tvg-chno="79" dm-id="k6c3A07yUljlAzwkvtL" tvg-logo="https://s1.dmcdn.net/u/5LK8J1glTCR0t-ZvI/60x60",79. Tennis Channel [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/tennis-channel-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="80" dm-id="k5VKYQn5hAE4vfry927" tvg-logo="https://s1.dmcdn.net/u/5LK8J1glQ1KGAy7yt/60x60",80. Journal du Golf [dailymotion.com]
+#EXTINF:-1 tvg-chno="80" dm-id="k5VKYQn5hAE4vfry927" tvg-logo="https://s2.dmcdn.net/u/5LK8J1glTCR0t-ZvI/60x60",80. Journal du Golf [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/journal-du-golf-dm-highest.m3u8
 
 #FRANCE.TV (42)
@@ -527,8 +527,6 @@ https://jmp2.uk/stvp-FRBA3300035UK
 https://jmp2.uk/stvp-FRBD5100003TP
 #EXTINF:-1 tvg-chno="1059" tvg-id="FRAJ3800004CC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800004CC_20241015T042519SQUARE.png",1059. MTV Classics [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRAJ3800004CC
-#EXTINF:-1 tvg-chno="1060" tvg-id="FRBD110000181" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD110000181_20260929T041408SQUARE.png",1060. Culture Pub [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBD110000181
 #EXTINF:-1 tvg-chno="1063" tvg-id="FRBC3900003ZH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20260616T034218SQUARE.png",1063. Bons Plans et Arnaques [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBC3900003ZH
 #EXTINF:-1 tvg-chno="1064" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20260818T050804SQUARE.png",1064. Destination Nature [1080p-samsungtvplus]
@@ -589,8 +587,6 @@ https://jmp2.uk/stvp-FRBD1900013CB
 https://jmp2.uk/stvp-FR3900001AC
 #EXTINF:-1 tvg-chno="1101" tvg-id="FR2500001BS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2500001BS_20241015T040238SQUARE.png",1101. Cool Summer Channel [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR2500001BS
-#EXTINF:-1 tvg-chno="1103" tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20260929T041415SQUARE.png",1103. Émotion [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBC900001LB
 #EXTINF:-1 tvg-chno="1108" tvg-id="FRBA3300037Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300037Y7_20251028T011417SQUARE.png",1108. FIFA+ [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBA3300037Y7
 #EXTINF:-1 tvg-chno="1109" tvg-id="FR300003ZB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png",1109. RMC MECANIC [1080p-samsungtvplus]
@@ -775,6 +771,10 @@ https://jmp2.uk/stvp-FR2100002YW
 https://jmp2.uk/stvp-FR1300004LY
 #EXTINF:-1 tvg-chno="1217" tvg-id="FR2000005YM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2000005YM_20260901T054500SQUARE.png",1217. Journal du Golf TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR2000005YM
+#EXTINF:-1 tvg-chno="1218" tvg-id="FR1400005J7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400005J7_20260929T041423SQUARE.png",1218. Adrenaline Spica Life [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR1400005J7
+#EXTINF:-1 tvg-chno="1219" tvg-id="FR2600010LM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600010LM_20260929T041436SQUARE.png",1219. C'est pas sorcier [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR2600010LM
 
 #NETPLUS.TV (115)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
