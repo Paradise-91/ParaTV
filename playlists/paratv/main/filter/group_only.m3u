@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 02/10/2026 11:24:36 CEST+0200
-# Total Channels: 455
-# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (43), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (6), RMC-BFM (24), SAMSUNGTVPLUSFR (174), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 02/10/2026 12:24:35 CEST+0200
+# Total Channels: 454
+# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (6), RMC-BFM (24), SAMSUNGTVPLUSFR (174), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (36)
 #EXTINF:-1 group-title="FRANCE",TF1 [720p-tf1.fr]
@@ -124,15 +124,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #LEQUIPE.FR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",la chaine L'Équipe en direct [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=5ww09UztEK5j6ThbkU3iwyErhBs4XKHwCFMx0VPGLq1juNfjNAOO0D4sfU-_3053Tx5HT32isnvYUalkfE4LqyQ-a0sptgfEWKbHWAXX2T0
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",Tennis Channel [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=GrE4OZ8otHlI1YfHwVQzZJb_ZceRWQ4tIHVisCIjlsKMKiQaUS8bMpQaZ8_VyI01C_aTQo1rX-NF0aldYmWIIdf1z1_3sbPOPOn4Zzdnc0U
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/tennis-channel-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LEQUIPE.FR",Journal du Golf [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=wKmqlxj4D86-4sNZ1nCPaxpurtf2a6kIOWJno0FYQxpf2AtB_ICIVgacOpOIe-k7d7eOBsHrPOkpaDSGJbK1cMRHQ2hvy-9opcBQwW1swSc
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/journal-du-golf-dm.m3u8
 
-#FRANCE.TV (43)
+#FRANCE.TV (42)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
@@ -259,9 +259,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="FRANCE.TV",NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="FRANCE.TV",RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
 
 #TF1PLUS (11)
 #EXTINF:-1 group-title="TF1PLUS",TF1

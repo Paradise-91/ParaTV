@@ -1,13 +1,13 @@
 #EXTM3U
-# Generated on: 02/10/2026 11:24:36 CEST+0200
+# Generated on: 02/10/2026 12:24:36 CEST+0200
 
 #LEQUIPE.FR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="LEquipe21.fr" dm-id="k5s40USR9HxnG5aCf1y" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gllIp96ZaZJ/60x60" tvg-country="FR" group-title="LEQUIPE.FR",la chaine L'Équipe en direct [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=5ww09UztEK5j6ThbkU3iwyErhBs4XKHwCFMx0VPGLq1juNfjNAOO0D4sfU-_3053Tx5HT32isnvYUalkfE4LqyQ-a0sptgfEWKbHWAXX2T0
+#EXTINF:-1 tvg-id="LEquipe21.fr" dm-id="k5s40USR9HxnG5aCf1y" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gltZy4HVFfM/60x60" tvg-country="FR" group-title="LEQUIPE.FR",la chaine L'Équipe en direct [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 dm-id="k6c3A07yUljlAzwkvtL" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gllIp96ZaZJ/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Tennis Channel [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=GrE4OZ8otHlI1YfHwVQzZJb_ZceRWQ4tIHVisCIjlsKMKiQaUS8bMpQaZ8_VyI01C_aTQo1rX-NF0aldYmWIIdf1z1_3sbPOPOn4Zzdnc0U
+#EXTINF:-1 dm-id="k6c3A07yUljlAzwkvtL" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gltZy4HVFfM/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Tennis Channel [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/tennis-channel-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 dm-id="k5VKYQn5hAE4vfry927" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gllIp96ZaZJ/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=wKmqlxj4D86-4sNZ1nCPaxpurtf2a6kIOWJno0FYQxpf2AtB_ICIVgacOpOIe-k7d7eOBsHrPOkpaDSGJbK1cMRHQ2hvy-9opcBQwW1swSc
+#EXTINF:-1 dm-id="k5VKYQn5hAE4vfry927" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gltZy4HVFfM/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/journal-du-golf-dm.m3u8
