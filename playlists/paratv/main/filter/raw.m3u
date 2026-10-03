@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 03/10/2026 05:24:34 CEST+0200
+# Generated on: 03/10/2026 06:28:37 CEST+0200
 # Total Channels: 454
 # Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (6), RMC-BFM (24), SAMSUNGTVPLUSFR (174), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
@@ -124,10 +124,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #LEQUIPE.FR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,la chaine L'Équipe en direct [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=CFLKalDKxgl2zd9NuvX4RRl_Maw-3cvaFqQjkNZy_X8F823RxewpVCu6tWWmvVEVEE-DNqhuQON511CK00aE5A
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,Tennis Channel [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=0ijHqtln4tdqjd5pIPwaypxBrtKDrQHcwte_8IsNgxxPxi1E56CYq-pDQOnOdwFBsDVDJqkOF7UOZIYkVnPUcA
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/tennis-channel-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,Journal du Golf [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/journal-du-golf-dm.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Generated on: 03/10/2026 05:24:35 CEST+0200
+# Generated on: 03/10/2026 06:28:38 CEST+0200
 
 #LEQUIPE.FR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="78" tvg-id="LEquipe21.fr" dm-id="k5s40USR9HxnG5aCf1y" tvg-country="FR" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=CFLKalDKxgl2zd9NuvX4RRl_Maw-3cvaFqQjkNZy_X8F823RxewpVCu6tWWmvVEVEE-DNqhuQON511CK00aE5A
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="79" dm-id="k6c3A07yUljlAzwkvtL" tvg-country="FR" group-title="LEQUIPE.FR",79. Tennis Channel [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=0ijHqtln4tdqjd5pIPwaypxBrtKDrQHcwte_8IsNgxxPxi1E56CYq-pDQOnOdwFBsDVDJqkOF7UOZIYkVnPUcA
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/tennis-channel-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="80" dm-id="k5VKYQn5hAE4vfry927" tvg-country="FR" group-title="LEQUIPE.FR",80. Journal du Golf [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/journal-du-golf-dm-highest.m3u8
