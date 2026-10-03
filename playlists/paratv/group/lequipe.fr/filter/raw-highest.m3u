@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 03/10/2026 16:24:37 CEST+0200
+# Generated on: 03/10/2026 18:24:36 CEST+0200
 
-#LEQUIPE.FR (4)
+#LEQUIPE.FR (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,la chaine L'Équipe en direct [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
@@ -14,3 +14,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/leq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,L'Équipe live 3 [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/l-equipe-live-3-dm-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTINF:-1,L'Équipe live 1 [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/l-equipe-live-1-dm-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTINF:-1,L'Équipe live 2 [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/l-equipe-live-2-dm-highest.m3u8
