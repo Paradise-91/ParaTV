@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on: 01/10/2026 06:27:10 CEST+0200
-#TOTAL: 196
+# Generated on: 08/10/2026 06:26:25 CEST+0200
+#TOTAL: 197
 
 #Anime (5)
 #EXTINF:-1 tvg-chno="441" tvg-id="DEBD390000181" tvg-country="DE" group-title="Anime",441. Aniverse TV
@@ -98,7 +98,9 @@ https://jmp2.uk/stvp-DE1000003CQ
 #EXTINF:-1 tvg-chno="2713" tvg-id="DE1200008U3" tvg-country="DE" group-title="Dokus & Wissen",2713. ARD Plus Zoo
 https://jmp2.uk/stvp-DE1200008U3
 
-#Entertainment (24)
+#Entertainment (25)
+#EXTINF:-1 tvg-chno="468" tvg-id="DEBD3700001YD" tvg-country="DE" group-title="Entertainment",468. X-MAS Mix
+https://jmp2.uk/stvp-DEBD3700001YD
 #EXTINF:-1 tvg-chno="469" tvg-id="DEBD30000014M" tvg-country="DE" group-title="Entertainment",469. Bares für Rares
 https://jmp2.uk/stvp-DEBD30000014M
 #EXTINF:-1 tvg-chno="470" tvg-id="DEBC47000055Z" tvg-country="DE" group-title="Entertainment",470. Hell's Kitchen
@@ -195,7 +197,7 @@ https://jmp2.uk/stvp-DEAK3504517A
 https://jmp2.uk/stvp-DE2600007ET
 #EXTINF:-1 tvg-chno="513" tvg-id="DE2600005XA" tvg-country="DE" group-title="Filme",513. Actionfilme - Rakuten TV
 https://jmp2.uk/stvp-DE2600005XA
-#EXTINF:-1 tvg-chno="534" tvg-id="DE26000085Y" tvg-country="DE" group-title="Filme",534. Family - Rakuten TV
+#EXTINF:-1 tvg-chno="534" tvg-id="DE26000085Y" tvg-country="DE" group-title="Filme",534. 100% Weihnachten - Rakuten TV
 https://jmp2.uk/stvp-DE26000085Y
 #EXTINF:-1 tvg-chno="2055" tvg-id="DE16000042J" tvg-country="DE" group-title="Filme",2055. All Romance
 https://jmp2.uk/stvp-DE16000042J
@@ -210,21 +212,19 @@ https://jmp2.uk/stvp-DE33000025Y
 #EXTINF:-1 tvg-chno="2850" tvg-id="DE200042LW" tvg-country="DE" group-title="Filme",2850. Amasia
 https://jmp2.uk/stvp-DE200042LW
 
-#Food & Travel (7)
+#Food & Travel (6)
 #EXTINF:-1 tvg-chno="514" tvg-id="DE200003PX" tvg-country="DE" group-title="Food & Travel",514. The Jamie Oliver Channel
 https://jmp2.uk/stvp-DE200003PX
-#EXTINF:-1 tvg-chno="516" tvg-id="DE2900002Z8" tvg-country="DE" group-title="Food & Travel",516. BBC Food
-https://jmp2.uk/stvp-DE2900002Z8
 #EXTINF:-1 tvg-chno="517" tvg-id="DEAK0500439A" tvg-country="DE" group-title="Food & Travel",517. Just Cooking
 https://jmp2.uk/stvp-DEAK0500439A
 #EXTINF:-1 tvg-chno="518" tvg-id="DEBA3300001L9" tvg-country="DE" group-title="Food & Travel",518. Pluto TV Food
 https://jmp2.uk/stvp-DEBA3300001L9
-#EXTINF:-1 tvg-chno="519" tvg-id="DE2900001W0" tvg-country="DE" group-title="Food & Travel",519. BBC Travel
-https://jmp2.uk/stvp-DE2900001W0
 #EXTINF:-1 tvg-chno="520" tvg-id="DEAJ0500422A" tvg-country="DE" group-title="Food & Travel",520. Xplore
 https://jmp2.uk/stvp-DEAJ0500422A
 #EXTINF:-1 tvg-chno="2677" tvg-id="DE1200009JX" tvg-country="DE" group-title="Food & Travel",2677. ZDF kocht!
 https://jmp2.uk/stvp-DE1200009JX
+#EXTINF:-1 tvg-chno="2922" tvg-id="DE2800003GT" tvg-country="DE" group-title="Food & Travel",2922. Stadt Land Kunst
+https://jmp2.uk/stvp-DE2800003GT
 
 #Fußball (4)
 #EXTINF:-1 tvg-chno="522" tvg-id="DEBA3300019EB" tvg-country="DE" group-title="Fußball",522. FIFA+
@@ -236,7 +236,7 @@ https://jmp2.uk/stvp-DE1100003YR
 #EXTINF:-1 tvg-chno="2615" tvg-id="DE310000218" tvg-country="DE" group-title="Fußball",2615. INTER 24/7
 https://jmp2.uk/stvp-DE310000218
 
-#Kids (16)
+#Kids (17)
 #EXTINF:-1 tvg-chno="525" tvg-id="DEBD4700001UN" tvg-country="DE" group-title="Kids",525. LooLoo Kids
 https://jmp2.uk/stvp-DEBD4700001UN
 #EXTINF:-1 tvg-chno="526" tvg-id="DE2000004BG" tvg-country="DE" group-title="Kids",526. CAR CITY ADVENTURES
@@ -269,6 +269,8 @@ https://jmp2.uk/stvp-DE1400005LS
 https://jmp2.uk/stvp-DE2100004L7
 #EXTINF:-1 tvg-chno="2873" tvg-id="DE21000054I" tvg-country="DE" group-title="Kids",2873. Pingu
 https://jmp2.uk/stvp-DE21000054I
+#EXTINF:-1 tvg-chno="2923" tvg-id="DE1300002E8" tvg-country="DE" group-title="Kids",2923. Fix&Foxi und Freunde
+https://jmp2.uk/stvp-DE1300002E8
 
 #Musik & Ambient (23)
 #EXTINF:-1 tvg-chno="537" tvg-id="DEBC2100001ZJ" tvg-country="DE" group-title="Musik & Ambient",537. Vevo Pop
@@ -309,7 +311,7 @@ https://jmp2.uk/stvp-DE19000024P
 https://jmp2.uk/stvp-DE1900003LE
 #EXTINF:-1 tvg-chno="2718" tvg-id="DE1800009MU" tvg-country="DE" group-title="Musik & Ambient",2718. Rainy Day Vibes
 https://jmp2.uk/stvp-DE1800009MU
-#EXTINF:-1 tvg-chno="2719" tvg-id="DE1800012WI" tvg-country="DE" group-title="Musik & Ambient",2719. Spring Vibes
+#EXTINF:-1 tvg-chno="2719" tvg-id="DE1800012WI" tvg-country="DE" group-title="Musik & Ambient",2719. Fall Vibes
 https://jmp2.uk/stvp-DE1800012WI
 #EXTINF:-1 tvg-chno="2720" tvg-id="DE18000103J" tvg-country="DE" group-title="Musik & Ambient",2720. Island Vibes
 https://jmp2.uk/stvp-DE18000103J
