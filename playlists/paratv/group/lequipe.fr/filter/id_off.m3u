@@ -1,13 +1,16 @@
 #EXTM3U
-# Generated on: 09/10/2026 04:24:39 CEST+0200
+# Generated on: 09/10/2026 05:24:36 CEST+0200
 
-#LEQUIPE.FR (3)
+#LEQUIPE.FR (4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://s1.dmcdn.net/u/5LK8J1go4C1QAmXTy/60x60" tvg-country="FR" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct [dailymotion.com]
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://s2.dmcdn.net/u/5LK8J1go4C1QAmXTy/60x60" tvg-country="FR" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="79" tvg-logo="https://s1.dmcdn.net/u/5LK8J1go4C1QAmXTy/60x60" tvg-country="FR" group-title="LEQUIPE.FR",79. Tennis Channel [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/tennis-channel-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://s2.dmcdn.net/u/5LK8J1go4C1QAmXTy/60x60" tvg-country="FR" group-title="LEQUIPE.FR",80. Journal du Golf [dailymotion.com]
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://s1.dmcdn.net/u/5LK8J1go4C1QAmXTy/60x60" tvg-country="FR" group-title="LEQUIPE.FR",80. Journal du Golf [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/journal-du-golf-dm.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://s2.dmcdn.net/u/5LK8J1go4C1QAmXTy/60x60" tvg-country="FR" group-title="LEQUIPE.FR",81. L'Équipe live 5 [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-5-dm.m3u8
