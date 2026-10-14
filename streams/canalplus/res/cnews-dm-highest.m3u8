@@ -1,7 +1,10 @@
 #EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=50.000000,BANDWIDTH=7811072,CODECS="avc1.64002a,mp4a.40.2",NAME="1080@60"
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6uv9Nfa3OFxBhRkpoYN1LWnj-zVXjvWAfT0trQJ3Hzat28gWAGsCT5XiS5vL71rGXWomjmk7-EYZaGpPMbueqE4IhAr7wEp7ASMO-IrayocSlYQY8y_st1Uw1AgpYGf5)/dm/3/x3b68jn/d/live-1080@60.m3u8?startdate=2026-07-07T08%3A07%3A42%2B0000#cell=lcf-eu-north-1a
+#EXT-X-VERSION:7
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="und",DEFAULT=YES,CHANNELS="2",URI="https://live.eu-north-1a.cf.dmcdn.net/sec2(W4Sjv4ThPSIeym_MRnVMrFE_fL12WksgEHsuOWeHQdXHqGI8QWWNkedlaIu3kJN4GOR026SKdbBtWum-cbBfHS8VRI6K5Vl2Ytjdrc8mmP4SyFoZxWLrLDcfpP-q8p0XtFKjBytwz42bhJ-DIo7niCeVSWmgBp3QNzhVELNFBYKVBFccCW--q3C75bBGbDpu)/dm/4/x3b68jn/live-aac-64.m3u8#cell=lcf-eu-north-1a"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A2",NAME="und",DEFAULT=YES,CHANNELS="2",URI="https://live.eu-north-1a.cf.dmcdn.net/sec2(W4Sjv4ThPSIeym_MRnVMrFE_fL12WksgEHsuOWeHQdXHqGI8QWWNkedlaIu3kJN4GOR026SKdbBtWum-cbBfHS8VRI6K5Vl2Ytjdrc8mmP4SyFoZxWLrLDcfpP-q8p0XtFKjBytwz42bhJ-DIo7niCeVSWmgBp3QNzhVELNFBYKVBFccCW--q3C75bBGbDpu)/dm/4/x3b68jn/live-aac-128.m3u8#cell=lcf-eu-north-1a"
 #EXT-X-STREAM-INF:BANDWIDTH=7811072,RESOLUTION=1920x1080,CODECS="avc1.64002a,mp4a.40.2",NAME="1080@60",AUDIO="group_A2"
-https://live.eu-north-1b.cf.dmcdn.net/sec2(gAPRsOZMjveDc7BqZUE7D9zvVd4idIBrLKdoEbp-i6JHu6Oy5xRWh7x-UyFllU7-UNJpo0mDEqh7qXcvK5eXmkQRY6RKREMqeLfkdJMSAEY)/dm/4/x5idxxp/live-h264-1080@60.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(W4Sjv4ThPSIeym_MRnVMrFE_fL12WksgEHsuOWeHQdXHqGI8QWWNkedlaIu3kJN4GOR026SKdbBtWum-cbBfHS8VRI6K5Vl2Ytjdrc8mmP4SyFoZxWLrLDcfpP-q8p0XtFKjBytwz42bhJ-DIo7niCeVSWmgBp3QNzhVELNFBYKVBFccCW--q3C75bBGbDpu)/dm/4/x3b68jn/live-h264-1080@60.m3u8#cell=lcf-eu-north-1a
+#EXT-X-STREAM-INF:BANDWIDTH=7811072,RESOLUTION=1920x1080,CODECS="avc1.64002a,mp4a.40.2",NAME="1080@60",AUDIO="group_A2"
+https://live.eu-north-1b.cf.dmcdn.net/sec2(NfRtjAp4FQ1GyCpYz04xVQbuprKiY-GF4mXTPhXAwmx6GwC2zG7RHbJbOKYypIkB8q0P6FkNO9YYG580VKotje-PR_c-JsFGSIs_ud091PHSxc10Kpaa855ZwSN5f5k-htjBQ2r9i0CctWcI_RFEiJJivHQJqd_u-EdCZUnSvzTM8K303qRLfJ-mCLQHCVCZ)/dm/4/x5idxxp/live-h264-1080@60.m3u8
 
-#Last refreshed on 14/10/2026 21:26:14 CEST.
+#Last refreshed on 15/10/2026 00:19:15 CEST.
