@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 08/10/2026 06:26:25 CEST+0200
-#TOTAL: 174
+# Generated on: 15/10/2026 06:27:01 CEST+0200
+#TOTAL: 166
 
-#뉴스 (13)
+#뉴스 (10)
 #EXTINF:-1 group-title="뉴스",연합뉴스TV
 https://jmp2.uk/stvp-KRBD1400001ED
 #EXTINF:-1 group-title="뉴스",YTN
@@ -19,12 +19,6 @@ https://jmp2.uk/stvp-KRBB500044GP
 https://jmp2.uk/stvp-KRBD3100006X4
 #EXTINF:-1 group-title="뉴스",MBN 뉴스
 https://jmp2.uk/stvp-KRBC4000003J2
-#EXTINF:-1 group-title="뉴스",매일경제TV
-https://jmp2.uk/stvp-KR3500001UU
-#EXTINF:-1 group-title="뉴스",MTN 머니투데이방송
-https://jmp2.uk/stvp-KR3500002AE
-#EXTINF:-1 group-title="뉴스",한국경제TV
-https://jmp2.uk/stvp-KR3600003JU
 #EXTINF:-1 group-title="뉴스",KBS 뉴스24
 https://jmp2.uk/stvp-KR5100001TH
 #EXTINF:-1 group-title="뉴스",SBS No.1 뉴스라이브
@@ -114,7 +108,7 @@ https://jmp2.uk/stvp-KRAH1801500A
 #EXTINF:-1 group-title="쇼핑",현대홈쇼핑+Shop
 https://jmp2.uk/stvp-KRAH4602000A
 
-#스포츠 (11)
+#스포츠 (10)
 #EXTINF:-1 group-title="스포츠",OGN 스타리그
 https://jmp2.uk/stvp-KRBC3200005SH
 #EXTINF:-1 group-title="스포츠",World Billiards TV
@@ -135,10 +129,8 @@ https://jmp2.uk/stvp-KRBD5200002XY
 https://jmp2.uk/stvp-KR260000274
 #EXTINF:-1 group-title="스포츠",요가소년
 https://jmp2.uk/stvp-KR39000030H
-#EXTINF:-1 group-title="스포츠",K바둑
-https://jmp2.uk/stvp-KR36000056R
 
-#시사/교양 (11)
+#시사/교양 (10)
 #EXTINF:-1 group-title="시사/교양",SBS 궁금한 이야기 Y
 https://jmp2.uk/stvp-KRBB4200016TZ
 #EXTINF:-1 group-title="시사/교양",tvN 벌거벗은 세계사 요약.zip
@@ -159,14 +151,8 @@ https://jmp2.uk/stvp-KRBB420000769
 https://jmp2.uk/stvp-KRBC40000010R
 #EXTINF:-1 group-title="시사/교양",JTBC 차이나는 클라스
 https://jmp2.uk/stvp-KRBD4300003MW
-#EXTINF:-1 group-title="시사/교양",아리랑TV
-https://jmp2.uk/stvp-KR3600006FN
 
-#실시간 (4)
-#EXTINF:-1 group-title="실시간",JTBC2
-https://jmp2.uk/stvp-KR3600001J9
-#EXTINF:-1 group-title="실시간",JTBC4
-https://jmp2.uk/stvp-KR3600002ZY
+#실시간 (2)
 #EXTINF:-1 group-title="실시간",TV조선
 https://jmp2.uk/stvp-KR3700002JT
 #EXTINF:-1 group-title="실시간",Samsung Television Network
@@ -204,7 +190,7 @@ https://jmp2.uk/stvp-KRBC3200004D1
 #EXTINF:-1 group-title="영화",Genie 어워드 특집
 https://jmp2.uk/stvp-KR2000012AI
 
-#예능 (76)
+#예능 (75)
 #EXTINF:-1 group-title="예능",tvN 스트리트푸드파이터 1~2 이어보기
 https://jmp2.uk/stvp-KRBC3200029C4
 #EXTINF:-1 group-title="예능",tvN STORY 김창옥쇼 3-4 이어보기
@@ -333,8 +319,6 @@ https://jmp2.uk/stvp-KRBC8000128W
 https://jmp2.uk/stvp-KR140000508
 #EXTINF:-1 group-title="예능",비보티비
 https://jmp2.uk/stvp-KR1800002Q7
-#EXTINF:-1 group-title="예능",더라이프2
-https://jmp2.uk/stvp-KR36000040X
 #EXTINF:-1 group-title="예능",MBC HOT CLIP 예능
 https://jmp2.uk/stvp-KR4500002GS
 #EXTINF:-1 group-title="예능",SBS HOT CLIP 예능
