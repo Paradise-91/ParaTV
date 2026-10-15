@@ -1,5 +1,10 @@
 #EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(bamCLXIGHaUhMqAAvc81sBuHbrQLzJAC_aNyequGzwRN7CgihSgQehfwXvrx6nq6quEgSXlzLjuLDgC0u-4BQteilxUEnHFI9ZLy-Eq8M3rwYUGELT_hp-7HC8zsgxSW)/cloud/4/x2lefik/live-1080.m3u8#cell=lcf2-eu-north-1b
+#EXT-X-VERSION:7
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="und",DEFAULT=YES,CHANNELS="2",URI="https://live2.eu-north-1a.cf.dmcdn.net/sec2(oMeKvN6qShr9f68GnNqf40XrtcX4gsCmihfk9sX3WwIiNNp47RPLl9xB613emlWzWA9ybU_IrrtJCaYJHjNZi-XmRz7sMMNf0zO3vzKJan3KF846UvkEh0eI2YOabJx5OS6k5WsYpfKdxJXyZDwLa03IAhUlCzyCGFXLR-upd95_pijT4CRIODwilv-HLwfw)/cloud/4/x2lefik/live-aac-64.m3u8#cell=lcf2-eu-north-1a"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A2",NAME="und",DEFAULT=YES,CHANNELS="2",URI="https://live2.eu-north-1a.cf.dmcdn.net/sec2(oMeKvN6qShr9f68GnNqf40XrtcX4gsCmihfk9sX3WwIiNNp47RPLl9xB613emlWzWA9ybU_IrrtJCaYJHjNZi-XmRz7sMMNf0zO3vzKJan3KF846UvkEh0eI2YOabJx5OS6k5WsYpfKdxJXyZDwLa03IAhUlCzyCGFXLR-upd95_pijT4CRIODwilv-HLwfw)/cloud/4/x2lefik/live-aac-128.m3u8#cell=lcf2-eu-north-1a"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1-backup",NAME="und",DEFAULT=YES,CHANNELS="2",URI="https://live2.eu-north-1a.cf.dmcdn.net/sec2(Pgxcs9AIiW09znCRKrLUu_PpDr4ok48fgZNR-rZq9VhZ2imDWqfgoHZlEoR2yLYb2j9Ef5V3hI-EmnnVnWbtwh9IhEZUsnGkZNLmHsJCpwAKe7Sfns5mgZcEGpwexIH77tlmph5gbmVsP69FVsJXXRS5SZo_O4Z-sYlaTn6CnfFqtY1ON8nzOyuFPpcFL14F)/cloud/4/x6saxk1/live-aac-64.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A2-backup",NAME="und",DEFAULT=YES,CHANNELS="2",URI="https://live2.eu-north-1a.cf.dmcdn.net/sec2(Pgxcs9AIiW09znCRKrLUu_PpDr4ok48fgZNR-rZq9VhZ2imDWqfgoHZlEoR2yLYb2j9Ef5V3hI-EmnnVnWbtwh9IhEZUsnGkZNLmHsJCpwAKe7Sfns5mgZcEGpwexIH77tlmph5gbmVsP69FVsJXXRS5SZo_O4Z-sYlaTn6CnfFqtY1ON8nzOyuFPpcFL14F)/cloud/4/x6saxk1/live-aac-128.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=6275072,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",NAME="1080",AUDIO="group_A2"
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(oMeKvN6qShr9f68GnNqf40XrtcX4gsCmihfk9sX3WwIiNNp47RPLl9xB613emlWzWA9ybU_IrrtJCaYJHjNZi-XmRz7sMMNf0zO3vzKJan3KF846UvkEh0eI2YOabJx5OS6k5WsYpfKdxJXyZDwLa03IAhUlCzyCGFXLR-upd95_pijT4CRIODwilv-HLwfw)/cloud/4/x2lefik/live-h264-1080.m3u8#cell=lcf2-eu-north-1a
 
-#Last refreshed on 15/10/2026 06:19:14 CEST.
+#Last refreshed on 15/10/2026 12:19:25 CEST.
