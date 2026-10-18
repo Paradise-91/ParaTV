@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 18/10/2026 16:24:36 CEST+0200
-# Total Channels: 461
-# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (44), LEQUIPE.FR (7), NETPLUS.TV (115), RADIO (6), RMC-BFM (24), SAMSUNGTVPLUSFR (175), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
+# Generated on: 18/10/2026 17:24:37 CEST+0200
+# Total Channels: 462
+# Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (45), LEQUIPE.FR (7), NETPLUS.TV (115), RADIO (6), RMC-BFM (24), SAMSUNGTVPLUSFR (175), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
 #FRANCE (36)
 #EXTINF:-1,TF1 [720p-tf1.fr]
@@ -133,10 +133,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/leq
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/journal-du-golf-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,L'Équipe live 2 [dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/l-equipe-live-2-dm-highest.m3u8
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=cs45nXn9BLH62dO1kFOOs-xUuTt2udkh2KBaTQrO4n4e8ITWHHLBv1sUT6Sv44zVS5EiLiD2GqrMGUK-cLJrVcMDe_JAIf1QG4rWKNqtnD0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,L'Équipe live 1 [dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/l-equipe-live-1-dm-highest.m3u8
+https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=DFOqOQgJAsbQySIyO1V2VyyZ_YWSWAIBdT2uiW4OuJbl2ZV2I-w1QgXFvrJhjetzoVnU3T9HCG8d9Pnwqz_tQfKtppDk2KO2IgHT32C2dZE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,L'Équipe live 3 [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/l-equipe-live-3-dm-highest.m3u8
@@ -144,7 +144,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/leq
 #EXTINF:-1,L'Équipe live  4 [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/res/l-equipe-live-4-dm-highest.m3u8
 
-#FRANCE.TV (44)
+#FRANCE.TV (45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,FRANCE 2 [SSAI][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -271,6 +271,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/martinique-1ere-highest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTINF:-1,MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/mayotte-1ere-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1,NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/nouvelle-caledonie-1ere-highest.m3u8
