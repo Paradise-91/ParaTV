@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated on: 18/10/2026 17:24:38 CEST+0200
+# Generated on: 18/10/2026 18:24:36 CEST+0200
 
-#LEQUIPE.FR (7)
+#LEQUIPE.FR (5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="78" tvg-id="LEquipe21.fr" dm-id="k5s40USR9HxnG5aCf1y" tvg-country="FR" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
@@ -12,14 +12,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/leq
 #EXTINF:-1 tvg-chno="80" dm-id="k5VKYQn5hAE4vfry927" tvg-country="FR" group-title="LEQUIPE.FR",80. Journal du Golf [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/journal-du-golf-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="81" tvg-id="LEquipeLive2.fr" dm-id="k5TgcOKBUTM2KnqwBWC" tvg-country="FR" group-title="LEQUIPE.FR",81. L'Équipe live 2 [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=cs45nXn9BLH62dO1kFOOs-xUuTt2udkh2KBaTQrO4n4e8ITWHHLBv1sUT6Sv44zVS5EiLiD2GqrMGUK-cLJrVcMDe_JAIf1QG4rWKNqtnD0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="82" tvg-id="LEquipeLive1.fr" dm-id="k1kypsRZF9plQhqwBRS" tvg-country="FR" group-title="LEQUIPE.FR",82. L'Équipe live 1 [dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=DFOqOQgJAsbQySIyO1V2VyyZ_YWSWAIBdT2uiW4OuJbl2ZV2I-w1QgXFvrJhjetzoVnU3T9HCG8d9Pnwqz_tQfKtppDk2KO2IgHT32C2dZE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="83" tvg-id="LEquipeLive3.fr" dm-id="kXRfcKHV9HhcZuqwBYP" tvg-country="FR" group-title="LEQUIPE.FR",83. L'Équipe live 3 [dailymotion.com]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-3-dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-1-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="84" tvg-id="LEquipeLive4.fr" dm-id="k6oih7JyuEmhrnqwBZT" tvg-country="FR" group-title="LEQUIPE.FR",84. L'Équipe live  4 [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-4-dm.m3u8
