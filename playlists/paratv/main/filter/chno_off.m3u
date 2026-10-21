@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on: 21/10/2026 05:24:35 CEST+0200
+# Generated on: 21/10/2026 06:28:37 CEST+0200
 # Total Channels: 455
 # Groups: BELGIQUE (1), CANALPLUS (7), EQUIDIA (28), FRANCE (36), FRANCE.TV (42), LEQUIPE.FR (3), NETPLUS.TV (115), RADIO (6), RMC-BFM (24), SAMSUNGTVPLUSFR (175), SWITZERLAND (5), TF1PLUS (11), TV5MONDE (2)
 
@@ -123,13 +123,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #LEQUIPE.FR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="LEquipe21.fr" dm-id="k5s40USR9HxnG5aCf1y" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gs2svGlxQBu/60x60" tvg-country="FR" group-title="LEQUIPE.FR",la chaine L'Équipe en direct [dailymotion.com]
+#EXTINF:-1 tvg-id="LEquipe21.fr" dm-id="k5s40USR9HxnG5aCf1y" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gs34p9ZXad_/60x60" tvg-country="FR" group-title="LEQUIPE.FR",la chaine L'Équipe en direct [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 dm-id="k6c3A07yUljlAzwkvtL" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gs2svGlxQBu/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Tennis Channel [dailymotion.com]
+#EXTINF:-1 dm-id="k6c3A07yUljlAzwkvtL" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gs34p9ZXad_/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Tennis Channel [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/tennis-channel-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTINF:-1 dm-id="k5VKYQn5hAE4vfry927" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gs2svGlxQBu/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf [dailymotion.com]
+#EXTINF:-1 dm-id="k5VKYQn5hAE4vfry927" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gs34p9ZXad_/60x60" tvg-country="FR" group-title="LEQUIPE.FR",Journal du Golf [dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/journal-du-golf-dm.m3u8
 
 #FRANCE.TV (42)
@@ -480,7 +480,7 @@ https://jmp2.uk/stvp-FRBB50000016B
 https://jmp2.uk/stvp-FR26000068C
 #EXTINF:-1 tvg-id="FRBD19000095S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20260210T035936SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Ciné Western [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD19000095S
-#EXTINF:-1 tvg-id="FRBB4600002K5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20251111T011332SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Scream'IN [1080p-samsungtvplus]
+#EXTINF:-1 tvg-id="FRBB4600002K5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20261020T053602SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Scream'IN [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBB4600002K5
 #EXTINF:-1 tvg-id="FR3700003N4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Box Office Drama [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR3700003N4
@@ -548,7 +548,7 @@ https://jmp2.uk/stvp-FRBC90000220
 https://jmp2.uk/stvp-FRBD410000436
 #EXTINF:-1 tvg-id="FR300004J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",BFM Grands Reportages [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR300004J5
-#EXTINF:-1 tvg-id="FRBD39000064E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20251118T015629SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",100% Docs Crime [1080p-samsungtvplus]
+#EXTINF:-1 tvg-id="FRBD39000064E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20261020T053535SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",100% Docs Crime [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD39000064E
 #EXTINF:-1 tvg-id="FR1200001N2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20261006T034053SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Top Action [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR1200001N2
@@ -596,7 +596,7 @@ https://jmp2.uk/stvp-FRBA3300037Y7
 https://jmp2.uk/stvp-FR300003ZB
 #EXTINF:-1 tvg-id="FR2400001TP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2400001TP_20241015T042856SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Top Gear [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR2400001TP
-#EXTINF:-1 tvg-id="FRBD3600001BQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20261013T053847SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Drive TV [1080p-samsungtvplus]
+#EXTINF:-1 tvg-id="FRBD3600001BQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20261020T053548SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Drive TV [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD3600001BQ
 #EXTINF:-1 tvg-id="FRBD2900001M3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2900001M3_20241015T040416SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",World Poker Tour [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRBD2900001M3
@@ -750,7 +750,7 @@ https://jmp2.uk/stvp-FR1800008DB
 https://jmp2.uk/stvp-FR1800009U0
 #EXTINF:-1 tvg-id="FR12000040D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR12000040D_20261013T053916SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",So Foot+ [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR12000040D
-#EXTINF:-1 tvg-id="FR900002B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR900002B4_20261013T053902SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Motor Racing [1080p-samsungtvplus]
+#EXTINF:-1 tvg-id="FR900002B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR900002B4_20261020T053555SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Motor Racing [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR900002B4
 #EXTINF:-1 tvg-id="FR44000015M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR44000015M_20260609T043411SQUARE.png" tvg-country="FR" group-title="SAMSUNGTVPLUSFR",Metal.Rocks [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR44000015M
