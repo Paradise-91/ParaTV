@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 17/11/2026 18:20:21 CET+0100
-#TOTAL: 177
+# Generated on: 18/11/2026 06:20:18 CET+0100
+#TOTAL: 182
 
-#Cine (31)
+#Cine (35)
 #EXTINF:-1 tvg-chno="581" tvg-id="ES700004C8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20260127T040120SQUARE.png" tvg-country="ES" group-title="Cine",581. Runtime Familia
 https://jmp2.uk/stvp-ES700004C8
 #EXTINF:-1 tvg-chno="582" tvg-id="ESBC1700004PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" tvg-country="ES" group-title="Cine",582. Trailers
@@ -65,6 +65,14 @@ https://jmp2.uk/stvp-ES4100002WB
 https://jmp2.uk/stvp-ES4200001MR
 #EXTINF:-1 tvg-chno="2558" tvg-id="ES500008IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260901T054052SQUARE.png" tvg-country="ES" group-title="Cine",2558. FreeTV Clásico
 https://jmp2.uk/stvp-ES500008IU
+#EXTINF:-1 tvg-chno="2970" tvg-id="ES1300005HE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300005HE_20261117T041725SQUARE.png" tvg-country="ES" group-title="Cine",2970. Alma
+https://jmp2.uk/stvp-ES1300005HE
+#EXTINF:-1 tvg-chno="2971" tvg-id="ES13000040O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES13000040O_20261117T041732SQUARE.png" tvg-country="ES" group-title="Cine",2971. Books
+https://jmp2.uk/stvp-ES13000040O
+#EXTINF:-1 tvg-chno="2972" tvg-id="ES1300006Z3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300006Z3_20261117T041740SQUARE.png" tvg-country="ES" group-title="Cine",2972. Epic
+https://jmp2.uk/stvp-ES1300006Z3
+#EXTINF:-1 tvg-chno="2973" tvg-id="ES1300002TA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300002TA_20261117T041718SQUARE.png" tvg-country="ES" group-title="Cine",2973. Acción+
+https://jmp2.uk/stvp-ES1300002TA
 
 #Comedia (7)
 #EXTINF:-1 tvg-chno="603" tvg-id="ESAJ3800005C5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" tvg-country="ES" group-title="Comedia",603. Comedia Made in Spain
@@ -222,7 +230,7 @@ https://jmp2.uk/stvp-ES2100003VE
 #EXTINF:-1 tvg-chno="2907" tvg-id="ES18000040D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES18000040D_20260929T040939SQUARE.png" tvg-country="ES" group-title="Entretenimiento",2907. BBC Lifestyle
 https://jmp2.uk/stvp-ES18000040D
 
-#Música & ambiente (21)
+#Música & ambiente (22)
 #EXTINF:-1 tvg-chno="650" tvg-id="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20260707T051048SQUARE.png" tvg-country="ES" group-title="Música & ambiente",650. Vevo Latino
 https://jmp2.uk/stvp-ESBC2100002LV
 #EXTINF:-1 tvg-chno="651" tvg-id="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png" tvg-country="ES" group-title="Música & ambiente",651. Vevo Retro
@@ -265,6 +273,8 @@ https://jmp2.uk/stvp-ES1800007GH
 https://jmp2.uk/stvp-ES1800008X7
 #EXTINF:-1 tvg-chno="2783" tvg-id="ES4400004OX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400004OX_20260609T043006SQUARE.png" tvg-country="ES" group-title="Música & ambiente",2783. Metal.Rocks
 https://jmp2.uk/stvp-ES4400004OX
+#EXTINF:-1 tvg-chno="2974" tvg-id="ES3600002W5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600002W5_20261117T041748SQUARE.png" tvg-country="ES" group-title="Música & ambiente",2974. Vevo Navidad
+https://jmp2.uk/stvp-ES3600002W5
 
 #Niños (18)
 #EXTINF:-1 tvg-chno="663" tvg-id="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png" tvg-country="ES" group-title="Niños",663. Pitufo TV
