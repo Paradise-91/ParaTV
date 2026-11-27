@@ -4,7 +4,7 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A2",NAME="und",DEFAULT=YES,CHANNELS="2",URI="https://live2.eu-north-1a.cf.dmcdn.net/sec2(fgd9F0uJUUkiL0MdjKI_2VjR2i4zEfI--Lozk-gIIg4TVsg6ny6eAc6XaB7Xd0HLhSNZ10DLepr-ssUSpILIuOD-jjBA1GS96z_3486glcv0PJswuQUMiDvpWSq5tL-2qdUx0bF5ZdXx1huvrjzQ_ufzRGnEdboKM_bh0GogxmvoymPuRTEjUBpJ7yZvpWfB)/cloud/3/xqjkfz/d/live-aac-128.m3u8#cell=lcf2-eu-north-1a"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1-backup",NAME="und",DEFAULT=YES,CHANNELS="2",URI="https://live2.eu-north-1b.cf.dmcdn.net/sec2(jy9-0HB-wLdRjynt-HueAS96ch2Z0pjckaWONe50jz5h2Vl1yRClcb5mTjMwA7-DYVNK8M_y4D0oZj_XyEy-omfrZMCn8GowCOyUMzJ45umiP8aFOWC-Ef1pz4rzUmbF6AkyLmBMpZfjbl28WH-HvsdnmY0UO2oOfLhxcGZ2dCg5kRGHz-CXIf5LD5GJ9wE8)/cloud/3/x91kj9u/d/live-aac-64.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A2-backup",NAME="und",DEFAULT=YES,CHANNELS="2",URI="https://live2.eu-north-1b.cf.dmcdn.net/sec2(jy9-0HB-wLdRjynt-HueAS96ch2Z0pjckaWONe50jz5h2Vl1yRClcb5mTjMwA7-DYVNK8M_y4D0oZj_XyEy-omfrZMCn8GowCOyUMzJ45umiP8aFOWC-Ef1pz4rzUmbF6AkyLmBMpZfjbl28WH-HvsdnmY0UO2oOfLhxcGZ2dCg5kRGHz-CXIf5LD5GJ9wE8)/cloud/3/x91kj9u/d/live-aac-128.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=7811072,RESOLUTION=1920x1080,CODECS="avc1.64002a,mp4a.40.2",NAME="1080@60",AUDIO="group_A2"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(fgd9F0uJUUkiL0MdjKI_2VjR2i4zEfI--Lozk-gIIg4TVsg6ny6eAc6XaB7Xd0HLhSNZ10DLepr-ssUSpILIuOD-jjBA1GS96z_3486glcv0PJswuQUMiDvpWSq5tL-2qdUx0bF5ZdXx1huvrjzQ_ufzRGnEdboKM_bh0GogxmvoymPuRTEjUBpJ7yZvpWfB)/cloud/3/xqjkfz/d/live-h264-1080@60.m3u8#cell=lcf2-eu-north-1a
+#EXT-X-STREAM-INF:BANDWIDTH=1667072,RESOLUTION=848x477,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60",AUDIO="group_A2"
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(fgd9F0uJUUkiL0MdjKI_2VjR2i4zEfI--Lozk-gIIg4TVsg6ny6eAc6XaB7Xd0HLhSNZ10DLepr-ssUSpILIuOD-jjBA1GS96z_3486glcv0PJswuQUMiDvpWSq5tL-2qdUx0bF5ZdXx1huvrjzQ_ufzRGnEdboKM_bh0GogxmvoymPuRTEjUBpJ7yZvpWfB)/cloud/3/xqjkfz/d/live-h264-480@60.m3u8#cell=lcf2-eu-north-1a
 
-#Last refreshed on 27/11/2026 21:21:23 CET.
+#Last refreshed on 28/11/2026 00:22:44 CET.
